@@ -1,7 +1,7 @@
 {
   "key": "science",
   "label": "Science",
-  "generated_at": "2026-06-23T16:29:17Z",
+  "generated_at": "2026-06-23T17:12:34Z",
   "articles": [
     {
       "id": "c1e8fca4fe6ff5f3f70044fd313ac5ff328f4222fca5f72f181bb21878ba844f",
@@ -68,6 +68,50 @@
       "summary": "<p>Scientific Reports, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-57902-7\">doi:10.1038/s41598-026-57902-7</a></p>Fractional caputo modeling of delayed disease dynamics: sensitivity analysis and control strategies incorporating environmental influences",
       "category": "science",
       "image": null
+    },
+    {
+      "id": "44fe30c330f000177ffd5d2a253530babdc7b5d8459feb8c22e4f73d5d92f5d1",
+      "title": "A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion",
+      "url": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion",
+      "source": "Space.com",
+      "source_id": "space_com",
+      "published_at": "2026-06-23T17:00:00Z",
+      "summary": "The \"Blaze Star\" T. Coronae Borealis could brighten dramatically this week to shine with the brilliance of the North Star Polaris. Here's where to look.",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/yTagv3APhFBG5xHJbaq97K-1280-80.jpg"
+    },
+    {
+      "id": "eda679c462c7588d2e785778cbe5af683ad058962acc9610186c815676322bfe",
+      "title": "China's space plane appears to have released a mystery object in orbit",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
+      "source": "Space.com",
+      "source_id": "space_com",
+      "published_at": "2026-06-23T16:52:28Z",
+      "summary": "China's Shenlong space plane appears to have released a mystery object while in orbit, according to a private space surveillance firm.",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/QUg55LuvZjoEbWWeoedWJU-1280-80.jpg"
+    },
+    {
+      "id": "8a00961422fe3da67d832d0e514ee35a39a874307ef7d023c4f4baec4ee2560c",
+      "title": "SpaceX's secretive plans to deliver cargo to Earth from space",
+      "url": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+      "source": "New Scientist - Space",
+      "source_id": "new_scientist_space",
+      "published_at": "2026-06-23T16:37:25Z",
+      "summary": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose",
+      "category": "science",
+      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg"
+    },
+    {
+      "id": "9943488ec0d74fd5df6087411965e67a3449c76da054fef8c9560343a9f9172c",
+      "title": "What telescope could cause our astrophotography expert to break their hard-and-fast rule about not traveling with a telescope? This one! Now even cheaper in this Prime Day telescope deal",
+      "url": "https://www.space.com/stargazing/skywatching-kit/this-telescope-caused-our-astrophotography-expert-to-break-their-hard-and-fast-rule-about-not-traveling-with-a-telescope",
+      "source": "Space.com",
+      "source_id": "space_com",
+      "published_at": "2026-06-23T16:30:00Z",
+      "summary": "Ready to turn your skywatching upside-down? Then snap up this ZWO Seestar S30 Pro, which offers views so stunning it made our expert bin their no telescope rule.",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/58ehGwRTjD84ERcjbuL8XC-1280-80.jpg"
     },
     {
       "id": "7f6f58b0dde9e4b39bd1d5163a5c3fcf30f9924042993077d6fd585f24f838e9",
@@ -616,50 +660,6 @@
       "source_id": "arxiv_cs_lg",
       "published_at": "2026-06-22T17:28:45Z",
       "summary": "Matrix-aware optimizers such as Muon and Muown have recently shown strong empirical performance for pre-training Transformers. In particular, Muown separates each weight matrix into row magnitudes and an un-normalized direction variable, updating the former with Adam and the latter with Muon. We show that the directional update of Muown is equivalent to a Riemannian step on the normalized directions, while the magnitude of the un-normalized parameterization only modulates the angular step size. This explains the step-size stability of Muown and suggests making the angular step size explicit. The resulting method, AngularMuown, optimizes directly over the normalized directions and uses a schedulable angular multiplier decoupled from the radial magnitude update. AngularMuown improves over Muown and, at the time of writing, a preliminary version is leading the per-optimizer category of the modded nanoGPT speedrunning competition. Further experiments on Qwen2-0.5B, and 1.1B parameter mixture-of-experts models confirm the algorithm scales beyond small models. An implementation of the algorithm is available at https://github.com/fhueb/angular-muown",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "6db38351aff9901871c8d3edd7a26b6057d72ddd57f53465b570977a0b77b011",
-      "title": "AI Exposure Scores: what they measure, what they miss, and what comes next",
-      "url": "https://arxiv.org/abs/2606.23633v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:23:33Z",
-      "summary": "A set of exposure scores calculated in 2023 has become a central empirical input to the future of work debate. Produced by Eloundou et al. (2023) and referred to here as the GPTs are GPTs scores, they define exposure as the share of occupational tasks a large language model can assist with. This work is a genuine methodological contribution, but as the scores travel from the time and place they were produced, the limitations the authors named do not always travel with them. Two gaps have widened as a result. The first is structural, between what static exposure scores measure and what policy questions actually require. Taking the diffusion of these scores as a case study, we show how their temporal, geographic, and ontological limitations compound in policy-facing analyses, and we survey five families of research responding to these limits: dynamic and benchmark-based measures, ensemble methods, task-framework extensions, worker-centered metrics, and adoption and usage data. The second gap is the one we argue needs more attention: the coordination between researchers and policymakers. The policy-relevant work which ask who is harmed, who benefits, how, and when, continues to reference the static GPTs are GPTs scores without engagement with the methodological updates that would let these questions be answered more reliably. We then ask what additional steps towards navigating uncertainty remain: ex-post frameworks and the deliberate, political work of reimagining what futures are worthy of building towards are. Closing the research-policy gap is a shared task: policymakers must widen their evidence base, engage workers as epistemic partners, and shift from prediction to preparedness; researchers must build data infrastructure, adopt participatory methods, and write with policymakers in mind. Better measurement matters, but it will not close the second gap alone.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "e8ae0307ecd50ea7caa21be808b5b0ac173f4916f5ffac4153d36f9340a6b59c",
-      "title": "AI-driven Optimisation of Quality of Recovery (QoR) in Remote Patient Monitoring",
-      "url": "https://arxiv.org/abs/2606.23631v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:23:06Z",
-      "summary": "Remote patient monitoring depends on patient-reported data to capture the subjective dimension of recovery that devices cannot measure. The Quality of Recovery (QoR-15) survey is the gold-standard instrument for this purpose. It was designed and validated for occasional in-hospital assessment, yet remote monitoring now administers it to patients daily. In our own post-surgical deployment, only 55% of patients submitted the survey more than 14 days of 30 monitoring days. We developed QoR-compact, a five-item daily input for the RPM prediction pathway. Setting a deployment-driven target of one-third of the daily items, we exhaustively evaluated all 3,003 five-question subsets of the QoR-15 and tested whether the best of them matches the full instrument in predicting near-term postoperative recovery severity. QoR-compact achieves a mean AUC-ROC of 0.968 (95% CI 0.915-0.988), statistically comparable to the 0.964 baseline obtained with one-third of the items. Patient-level backtesting indicates that it tracks readmission events as faithfully as the full form. Its five items span the physical and psychological axes of recovery: Q3 (feeling rested), Q9 (feeling comfortable and in control), Q10 (general well-being), Q12 (severe pain), and Q14 (feeling worried or anxious). The QoR-15 remains the gold-standard measure of recovery; QoR-compact complements it as a shorter daily input designed for prediction. This parity provides the basis for a prospective study of whether a lighter daily input is, in turn, completed more consistently. External validation on larger cohorts is required before clinical use.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "0db7266a7cb08ab8d9bb2bf96cad9c77b9652f2c39cbffb682279c88b283c536",
-      "title": "Diffusion Models Adapt to Low-Dimensional Structure Under Flexible Coefficient Choices",
-      "url": "https://arxiv.org/abs/2606.23627v1",
-      "source": "arXiv API - Machine Learning",
-      "source_id": "arxiv_cs_lg",
-      "published_at": "2026-06-22T17:20:56Z",
-      "summary": "Diffusion models are known to exploit unknown low-dimensional structure to accelerate sampling. However, existing convergence theory under low-dimensional data structure has largely focused on update rules with narrowly prescribed coefficient choices. This raises a fundamental question: is adaptation to low-dimensional structure sensitive to the precise choice of update coefficients? In this paper, we show that such adaptation is a robust property of diffusion models. For a broad class of update coefficients, we prove that $\\widetilde{O}(k/\\varepsilon)$ iterations suffice to generate an $\\varepsilon$-accurate sample in total variation (TV) distance, independently of the ambient dimension. Our framework substantially broadens the class of diffusion samplers known to enjoy low dimensional adaptation and applies to several commonly used methods in practice. These results provide a theoretical justification for the empirical effectiveness of diffusion samplers across different coefficient choices when applied to structured, high-dimensional data.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "a18c90424ff36d79212071ff624116ae7b5feef3a0d952fee1f9952a9b7271db",
-      "title": "DiT-Reward: Generative Representations for Text-to-Image Reward Modeling",
-      "url": "https://arxiv.org/abs/2606.23626v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:19:58Z",
-      "summary": "Can representations learned for image generation also support the evaluation of generated images? We study text-to-image reward prediction as a downstream task of generative representation learning. To this end, we introduce DiT-Reward, which converts a pretrained text-to-image Diffusion Transformer into a reward model by processing near-clean image latents and aggregating text-conditioned image representations across transformer layers. Under the same training data mixture as HPSv3, DiT-Reward outperforms HPSv3 on all four evaluated preference benchmarks, reaching 85.6% on HPDv2 and 77.6% on HPDv3. When the generative backbone is frozen, a lightweight learned head can still extract meaningful preference predictions from its representations. Probing across depth further reveals that downstream reward performance is strongest in the middle-to-late layers and benefits from combining representations across different stages. We also observe consistent positive scaling with generative backbone capacity. Finally, when used to optimize Stable Diffusion 3.5 Large with Flow-GRPO, DiT-Reward outperforms HPSv3 along the matched training trajectory, with particularly clear gains in realism. Direct latent scoring also achieves a 1.65x inference speedup over HPSv3 with comparable peak memory. These results show that pretrained generative DiTs provide transferable representations for reward modeling and policy optimization.",
       "category": "science",
       "image": null
     }

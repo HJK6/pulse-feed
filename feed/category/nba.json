@@ -1,7 +1,7 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-06-23T16:29:17Z",
+  "generated_at": "2026-06-23T17:12:34Z",
   "articles": [
     {
       "id": "a0feb235d1fbac0c069adae755c583b595ff2ef6c4e78dcb4dcae2f1da4eca6f",
@@ -66,17 +66,6 @@
       "source_id": "espn_nba",
       "published_at": "2026-06-23T16:57:35Z",
       "summary": "The Timberwolves are sending Julius Randle and the No. 28 pick in the NBA draft to the Nets as part of a three-team trade that also will see Nic Claxton go to the Bulls and Minnesota get the No. 33 pick from Brooklyn, sources told ESPN's Shams Charania.",
-      "category": "nba",
-      "image": null
-    },
-    {
-      "id": "0c6cde5e8f492ed659b71b3b68eef5ff207f078eff0f0a8d1ba8ad70564c5a8a",
-      "title": "Sources: U-M's May finalizing deal to coach Mavs",
-      "url": "https://www.espn.com/nba/story/_/id/49143856/sources-michigan-dusty-finalizing-deal-coach-mavericks",
-      "source": "ESPN - NBA",
-      "source_id": "espn_nba",
-      "published_at": "2026-06-23T16:57:35Z",
-      "summary": "Michigan coach Dusty May is finalizing a deal to take the Dallas Mavericks' head coaching job, sources told ESPN, an axis-shifting move that significantly alters the college and NBA landscapes.",
       "category": "nba",
       "image": null
     },
@@ -187,6 +176,17 @@
       "source_id": "espn_nba",
       "published_at": "2026-06-22T19:58:15Z",
       "summary": "The last time the Knicks won a title, hip-hop was born. Fifty-three years later, New York's rappers took a victory lap.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "0c6cde5e8f492ed659b71b3b68eef5ff207f078eff0f0a8d1ba8ad70564c5a8a",
+      "title": "Sources: U-M's May finalizing deal to coach Mavs",
+      "url": "https://www.espn.com/nba/story/_/id/49143856/sources-michigan-dusty-finalizing-deal-coach-mavericks",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-22T14:19:00Z",
+      "summary": "Michigan coach Dusty May is finalizing a deal to take the Dallas Mavericks' head coaching job, sources told ESPN, an axis-shifting move that significantly alters the college and NBA landscapes.",
       "category": "nba",
       "image": null
     }

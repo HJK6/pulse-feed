@@ -1,7 +1,7 @@
 {
   "key": "economy",
   "label": "Economy",
-  "generated_at": "2026-06-23T16:29:17Z",
+  "generated_at": "2026-06-23T17:12:34Z",
   "articles": [
     {
       "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
@@ -24,6 +24,28 @@
       "summary": null,
       "category": "economy",
       "image": null
+    },
+    {
+      "id": "634812fdbbeb8434f714bf50fe31eea78027a23d7f0f5330a6602403d6a14d8d",
+      "title": "BIT: Unsustainable Distribution And Inflation Make This Fund Unattractive",
+      "url": "https://seekingalpha.com/article/4917034-bit-unsustainable-distribution-and-inflation-make-fund-unattractive?source=feed_all_articles",
+      "source": "Seeking Alpha - Latest Articles",
+      "source_id": "seekingalpha_all",
+      "published_at": "2026-06-23T16:45:47Z",
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "a45be73c469fff5d6f1f416546225b61c90bb2283721d08bab3da69e4e312d5b",
+      "title": "Treasuries Gain Before Auctions as Traders Trim Rate Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/treasuries-gain-before-auctions-as-traders-trim-rate-hike-bets",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-23T16:26:23Z",
+      "summary": "Treasuries rose as a selloff in US stocks and further declines in oil prices curbed wagers on Federal Reserve interest-rate increases over the coming year.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu6u8Q0SJkIE/v3/1200x-1.png"
     },
     {
       "id": "62e974e3a95c64fbf1f04f6c306c17edfa4b5cf06a11138b72a9f2bd5eeff69a",
@@ -638,28 +660,6 @@
       "source_id": "federalreserve_speeches",
       "published_at": "2026-05-28T00:00:00Z",
       "summary": "Speech At the 2026 Bank of Japan-Institute for Monetary and Economic Studies Conference, Tokyo, Japan",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "c4c7c31b19e727d44dcd454e0b1ce6f632bba09b69cc21fcd0025e22d355a901",
-      "title": "Kevin Warsh\u2019s troublesome inflation in-tray",
-      "url": "https://www.economist.com/finance-and-economics/2026/05/27/kevin-warshs-troublesome-inflation-in-tray",
-      "source": "The Economist - Finance and Economics",
-      "source_id": "economist_finance_economics",
-      "published_at": "2026-05-27T20:26:28Z",
-      "summary": "The new Fed chair will struggle to appease his colleagues, the market and Donald Trump\u00a0all at once",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "e55b495ef94e339d5897d22b0e31abbe38f9aa1e2907c714c69c5fc71b810e19",
-      "title": "Cook, The Opportunities and Risks AI Presents for the Economy and Financial System",
-      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
-      "source": "Federal Reserve - Speeches",
-      "source_id": "federalreserve_speeches",
-      "published_at": "2026-05-27T19:55:00Z",
-      "summary": "Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California",
       "category": "economy",
       "image": null
     }

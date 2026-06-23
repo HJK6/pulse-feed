@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-23T16:29:17Z",
+  "generated_at": "2026-06-23T17:12:34Z",
   "edition": "2026-06-23",
   "top_stories": [
-    {
-      "id": "44efbe225e6f06d853358214492f73442e8b93dd61c6f4dc2c78dd5e6d69722a",
-      "title": "Steam Machine launches today",
-      "url": "https://store.steampowered.com/news/group/45479024/view/685257114654870245",
-      "source": "Hacker News - Top Stories",
-      "source_id": "hackernews_topstories",
-      "published_at": "2026-06-22T17:09:51Z",
-      "summary": "<a href=\"https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine\" rel=\"nofollow\">https:&#x2F;&#x2F;store.steampowered.com&#x2F;sale&#x2F;steammachine</a><p><a href=\"https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucleus-steam-machine-ltt-companion-article\" rel=\"nofollow\">https:&#x2F;&#x2F;www.lttlabs.com&#x2F;articles&#x2F;2026&#x2F;06&#x2F;22&#x2F;the-newell-nucle...</a><p><a href=\"https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE\" rel=\"nofollow\">https:&#x2F;&#x2F;www.youtube.com&#x2F;watch?v=66QzlDewigE</a>",
-      "category": "technology",
-      "image": null
-    },
     {
       "id": "8165457aec64a92ba65c8df627e8f66a9bc571dfb82f88ca4b9ae40b58371aa9",
       "title": "Will It Mythos?",
@@ -22,6 +11,28 @@
       "published_at": "2026-06-23T04:15:04Z",
       "summary": "<p>Article URL: <a href=\"https://swelljoe.com/post/will-it-mythos/\">https://swelljoe.com/post/will-it-mythos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640196\">https://news.ycombinator.com/item?id=48640196</a></p>\n<p>Points: 150</p>\n<p># Comments: 90</p>",
       "category": "technology",
+      "image": null
+    },
+    {
+      "id": "64c138d50a73dc52fad9ef65d76faadc07d92cf0ff837688f6174cd1346b04c2",
+      "title": "Big Tech leads sell-off in global stocks",
+      "url": "https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4",
+      "source": "Financial Times - Technology",
+      "source_id": "ft_technology",
+      "published_at": "2026-06-23T07:21:57Z",
+      "summary": "Declines on Wall Street reverberate across global markets as SpaceX rally reverses",
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "035a34f2d1f51a81b1222e13e55f34402fb3ff3916a63e41807f4c3f8ed47c77",
+      "title": "SpaceX sheds $400bn in market value as debut rally hits reverse",
+      "url": "https://www.ft.com/content/c11d08ed-6668-4678-b829-1d50acbd12d4",
+      "source": "Financial Times - Technology",
+      "source_id": "ft_technology",
+      "published_at": "2026-06-23T01:35:26Z",
+      "summary": "Shares in Elon Musk\u2019s AI and rockets group tumble more than 16% following fresh rise in US bond yields",
+      "category": "ai",
       "image": null
     },
     {
@@ -36,24 +47,13 @@
       "image": null
     },
     {
-      "id": "f7d92884af0871966a29bbf0bcab2bd8ced65db347cc06da2dbec3cb98e0f856",
-      "title": "AI Built a Nuke and Still Lost",
-      "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+      "id": "a6a4d0b9b1c8c70f21470529594b36d21a5fa10a5a3daa10f848f8ecac1ccc3e",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "url": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
       "source": "Hacker News - Top Stories",
       "source_id": "hackernews_topstories",
-      "published_at": "2026-06-23T08:16:45Z",
-      "summary": "<p>Article URL: <a href=\"https://www.lwilko.com/blog/i-gave-an-ai-a-civilization\">https://www.lwilko.com/blog/i-gave-an-ai-a-civilization</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48641927\">https://news.ycombinator.com/item?id=48641927</a></p>\n<p>Points: 18</p>\n<p># Comments: 9</p>",
-      "category": "ai",
-      "image": null
-    },
-    {
-      "id": "384ba4ae80d6cf18e996e55b09ebe8cd169074b15c43e36a15ac977bd956717f",
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "source": "Hacker News - Top Stories",
-      "source_id": "hackernews_topstories",
-      "published_at": "2026-06-23T06:05:37Z",
-      "summary": "<p>Article URL: <a href=\"https://kreya.app/blog/new-http-query-method-explained/\">https://kreya.app/blog/new-http-query-method-explained/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640974\">https://news.ycombinator.com/item?id=48640974</a></p>\n<p>Points: 73</p>\n<p># Comments: 32</p>",
+      "published_at": "2026-06-22T19:16:52Z",
+      "summary": "Critics saw the move as an underhanded way to steer them toward more costly chips.",
       "category": "ai",
       "image": null
     },
@@ -69,17 +69,6 @@
       "image": null
     },
     {
-      "id": "981ed1f9cd28c359f533b14e5c75f0305746be6505ba60f0d4cb2153e3800cb6",
-      "title": "EU Member States (and Google) suddenly want to keep cookie banners",
-      "url": "https://noyb.eu/en/eu-member-states-and-google-suddenly-want-keep-cookie-banners",
-      "source": "Hacker News - Top Stories",
-      "source_id": "hackernews_topstories",
-      "published_at": "2026-06-23T06:47:29Z",
-      "summary": null,
-      "category": "technology",
-      "image": null
-    },
-    {
       "id": "a31556344b3673358803f67a13ac45974893c2920e4bd02ea0ea66b5019b1317",
       "title": "Crypto in 2026: Oh, This Is the Bad Place",
       "url": "https://www.stephendiehl.com/posts/bad_place_2026/",
@@ -88,6 +77,17 @@
       "published_at": "2026-06-23T10:04:04Z",
       "summary": "<p>Article URL: <a href=\"https://www.stephendiehl.com/posts/bad_place_2026/\">https://www.stephendiehl.com/posts/bad_place_2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642699\">https://news.ycombinator.com/item?id=48642699</a></p>\n<p>Points: 290</p>\n<p># Comments: 330</p>",
       "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "46230ca8052790f28e0fb70df75d0d33d617bd0054cbd77acf1b2a50fb72014f",
+      "title": "The Traditional Vi",
+      "url": "https://ex-vi.sourceforge.net/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T09:00:48Z",
+      "summary": "<p>Article URL: <a href=\"https://ex-vi.sourceforge.net/\">https://ex-vi.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642232\">https://news.ycombinator.com/item?id=48642232</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "category": "technology",
       "image": null
     },
     {
@@ -100,17 +100,6 @@
       "summary": "Neural CAs model self-organizing pattern formation on grids. Now the grid is gone. Each cell is an agentic particle that can move freely in space and change its state.<p>While each particle follows a simple shared rule, many together can grow complex morphologies or form intricate patterns. The resulting particle system as a whole can regenerate from damage and exhibits surprising emergent behavior.<p>Try cutting the lizard and watch it heal itself!",
       "category": "crypto",
       "image": null
-    },
-    {
-      "id": "9965fd2fe18297c18513fad53ca8cfb213e1dcbb731d171df9c6b146fa61143b",
-      "title": "Can Quad break China\u2019s mineral monopoly amid US-India rift?",
-      "url": "https://www.scmp.com/news/us/article/3357977/can-quad-break-chinas-mineral-monopoly-amid-us-india-rift?utm_source=rss_feed",
-      "source": "South China Morning Post \u2014 China",
-      "source_id": "scmp_china",
-      "published_at": "2026-06-22T21:35:49Z",
-      "summary": "The US strike on an oil tanker in the Gulf of Oman earlier this month did more than kill three Indian sailors and severely undercut US-India relations. It has also cast further doubt on the unity of the Quad, an informal bloc made up of the United States, Japan, Australia and India, and the group\u2019s ambitious agenda aimed at loosening China\u2019s dominant grip on critical minerals.\nDespite the persistent US-India fissures that could slow down the Quad\u2019s momentum, however, a counter-unifying force may...",
-      "category": "world_affairs",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/aeedefae-78ca-4cda-9b12-0f2c6adf28e5_9e2c6de7.jpg?itok=sB0-z0eh&v=1782164145"
     },
     {
       "id": "4e90ced6cdba41522fb42722f50de5fe1f38715cddf245711fed70f1e5cf47cc",
@@ -135,17 +124,6 @@
       "image": "https://c.ndtvimg.com/2026-06/g4llnjvg_ketan-agarwal-siya-agarwal-_625x300_23_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
     },
     {
-      "id": "08d9ea4b9d4b80a1906c1138db261afb149e3a5fbfba9dcce85ccadd8992019a",
-      "title": "China\u2019s new \u2018super fuel\u2019 could help Long March rockets increase payload by 10%",
-      "url": "https://www.scmp.com/news/china/science/article/3358046/chinas-new-super-fuel-could-help-long-march-rockets-increase-payload-10?utm_source=rss_feed",
-      "source": "South China Morning Post \u2014 China",
-      "source_id": "scmp_china",
-      "published_at": "2026-06-23T11:00:06Z",
-      "summary": "A Chinese Long March-12 rocket launched last week used a new super fuel that boosted the rocket\u2019s payload capacity by 10 per cent, according to its developer.\nAs China expands its role in space with a series of ambitious lunar missions and puts growing numbers of commercial satellites in orbit, demand for larger payloads is increasing.\nInstead of designing bigger, more expensive airframes, The Beijing Aerospace Test Technology Research Institute, a subsidiary of the China Aerospace Science and...",
-      "category": "world_affairs",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/c8150b88-e267-49cb-83fe-660da400fbac_0550f3e5.jpg?itok=vVn4i_3R&v=1782200657"
-    },
-    {
       "id": "e6de148e9d99c3e663078ff4339b5a14b261f38a10635774e7537e30b20dc329",
       "title": "When falling housing prices are good news \u2014 and when they're not",
       "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
@@ -155,6 +133,39 @@
       "summary": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
       "category": "real_estate",
       "image": null
+    },
+    {
+      "id": "9965fd2fe18297c18513fad53ca8cfb213e1dcbb731d171df9c6b146fa61143b",
+      "title": "Can Quad break China\u2019s mineral monopoly amid US-India rift?",
+      "url": "https://www.scmp.com/news/us/article/3357977/can-quad-break-chinas-mineral-monopoly-amid-us-india-rift?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 China",
+      "source_id": "scmp_china",
+      "published_at": "2026-06-22T21:35:49Z",
+      "summary": "The US strike on an oil tanker in the Gulf of Oman earlier this month did more than kill three Indian sailors and severely undercut US-India relations. It has also cast further doubt on the unity of the Quad, an informal bloc made up of the United States, Japan, Australia and India, and the group\u2019s ambitious agenda aimed at loosening China\u2019s dominant grip on critical minerals.\nDespite the persistent US-India fissures that could slow down the Quad\u2019s momentum, however, a counter-unifying force may...",
+      "category": "world_affairs",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/aeedefae-78ca-4cda-9b12-0f2c6adf28e5_9e2c6de7.jpg?itok=sB0-z0eh&v=1782164145"
+    },
+    {
+      "id": "ecdc0bb3c9658df4e69b81ceffa6c2f1efa22fdc38dd5d47f95067a3fa4cd184",
+      "title": "N.Y. House primaries test Mamdani's influence, and more races to watch today",
+      "url": "https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/",
+      "source": "CBS News \u2014 US",
+      "source_id": "cbs_us",
+      "published_at": "2026-06-23T13:19:00Z",
+      "summary": "Voters are going to the polls Tuesday for contests in New York, South Carolina, Maryland and Utah.",
+      "category": "us_news",
+      "image": null
+    },
+    {
+      "id": "08d9ea4b9d4b80a1906c1138db261afb149e3a5fbfba9dcce85ccadd8992019a",
+      "title": "China\u2019s new \u2018super fuel\u2019 could help Long March rockets increase payload by 10%",
+      "url": "https://www.scmp.com/news/china/science/article/3358046/chinas-new-super-fuel-could-help-long-march-rockets-increase-payload-10?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 China",
+      "source_id": "scmp_china",
+      "published_at": "2026-06-23T11:00:06Z",
+      "summary": "A Chinese Long March-12 rocket launched last week used a new super fuel that boosted the rocket\u2019s payload capacity by 10 per cent, according to its developer.\nAs China expands its role in space with a series of ambitious lunar missions and puts growing numbers of commercial satellites in orbit, demand for larger payloads is increasing.\nInstead of designing bigger, more expensive airframes, The Beijing Aerospace Test Technology Research Institute, a subsidiary of the China Aerospace Science and...",
+      "category": "world_affairs",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/c8150b88-e267-49cb-83fe-660da400fbac_0550f3e5.jpg?itok=vVn4i_3R&v=1782200657"
     },
     {
       "id": "35f988735b4e6802f8eaa1745ebca21fb90787e5e72c52d0da840acee5796f0b",
@@ -179,26 +190,15 @@
       "image": null
     },
     {
-      "id": "db798a063f1c36ffc8ea220dd3f3c81c6210f596629488f60e25e3ea037762f7",
-      "title": "Pinterest CEO Bill Ready wants advertisers to see the platform as a search engine for shopping",
-      "url": "https://www.businessinsider.com/pinterest-ceo-bill-ready-cannes-lions-ai-shopping-search-genz-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T15:48:21Z",
-      "summary": "Pinterest CEO Bill Ready spilled at Cannes Lions on how AI is fueling his shopping and advertising efforts.",
+      "id": "fbf1dfbcc1ffa3d24e2a48703f8d74a293c67dc7f044c55fc9c36554b9a95eba",
+      "title": "Israel Weighs US IPO for Multi-Billion-Dollar Defense Companies",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/israel-weighs-us-ipo-for-multi-billion-dollar-defense-companies",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-23T15:15:45Z",
+      "summary": "Israel is considering listing state-owned defense giants Israel Aerospace Industries Ltd. and Rafael Advanced Defense Systems Ltd. in the US to potentially avoid stricter disclosure obligations in the local market.",
       "category": "stocks",
-      "image": "https://i.insider.com/6a3a9612b9227396386dd0ef?format=jpeg"
-    },
-    {
-      "id": "addb26b13a3e16a193265bc3752e6e670ae0ffb35ea2a142c17d90d8090dae6d",
-      "title": "We're adding to our position in an industrial giant with a major catalyst nearing",
-      "url": "https://www.cnbc.com/2026/06/23/were-adding-to-our-position-in-an-industrial-giant-with-a-major-catalyst-nearing-.html",
-      "source": "Finnhub - Market News",
-      "source_id": "finnhub_market_news",
-      "published_at": "2026-06-23T15:29:10Z",
-      "summary": "We want to own more of the stock ahead of its long-awaited breakup.",
-      "category": "stocks",
-      "image": "https://image.cnbcfm.com/api/v1/image/108226885-1763397102961-gettyimages-2246608610-US_STOCKS.jpeg?v=1774492750&w=1920&h=1080"
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic6fUlebreUU/v1/1200x-1.jpg"
     },
     {
       "id": "cd2f4920806e99ff3618cec56e69a164ec26548fa94983cb2a7fba7924dbd0b8",
@@ -212,13 +212,13 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9aYbuZer5hk/v1/1200x-1.jpg"
     },
     {
-      "id": "ecdc0bb3c9658df4e69b81ceffa6c2f1efa22fdc38dd5d47f95067a3fa4cd184",
-      "title": "N.Y. House primaries test Mamdani's influence, and more races to watch today",
-      "url": "https://www.cbsnews.com/news/new-york-house-primaries-mamdani-south-carolina-runoff-maryland-utah/",
+      "id": "e5ee9df526c1fa3d6ec122548343cd0d364ad59f2a65a4b7be9df0e69a2932fd",
+      "title": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
+      "url": "https://www.cbsnews.com/news/reflecting-pool-paint-peeling-trump-proof-vandalism-court/",
       "source": "CBS News \u2014 US",
       "source_id": "cbs_us",
-      "published_at": "2026-06-23T13:19:00Z",
-      "summary": "Voters are going to the polls Tuesday for contests in New York, South Carolina, Maryland and Utah.",
+      "published_at": "2026-06-23T12:43:00Z",
+      "summary": "President Trump has insisted that vandals, rather than questionable craftsmanship, are responsible for the enduring problems following the Reflecting Pool's $14.7 million sealant job.",
       "category": "us_news",
       "image": null
     }
@@ -230,35 +230,35 @@
       "count": 60,
       "top": [
         {
-          "id": "f163bf0046db0623084a63e52642988b0679c979ce3705d1fa757f7efdccdcf8",
-          "title": "Show HN: I gave Claude Code the keys to the Visual Studio debugger",
-          "url": "https://github.com/firish/claude_code_vs",
+          "id": "ac9003f4c45146dd98739e8f0a53f50344edc636e21a86a9132012fac00d7ab1",
+          "title": "Talking Heads from the Year 2053 \u2013 Episode One",
+          "url": "https://www.youtube.com/watch?v=aicfLYrRuUw",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T16:14:12Z",
-          "summary": "I use Visual Studio daily, and Claude Code only ships native integration for VS Code (annoying). So, I built the Visual Studio half myself. It&#x27;s an unofficial extension that speaks Claude Code&#x27;s undocumented IDE protocol.<p>It started simple. Review Claude&#x27;s edits in the real VS diff and accept or reject there, with no duplicate y&#x2F;n prompt in the terminal, plus sharing the C# and C++ compiler errors with it directly.<p>The infra I built for the extension allowed me to add the interesting part, the VS debugger. When you&#x27;re paused at a breakpoint, Claude can read the call stack and locals, and with a toggle it can drive the debugger itself: set breakpoints, step, start and stop a session, and find a bug by running the code instead of reading it.<p>There&#x27;s a short walkthrough in the README where it catches a bug that never shows up in the output, by watching a counter fail to reset as it steps through a loop.<p>Would really appreciate if you take the time to check it out. Thanks!",
+          "published_at": "2026-06-23T17:05:57Z",
+          "summary": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=aicfLYrRuUw\">https://www.youtube.com/watch?v=aicfLYrRuUw</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647996\">https://news.ycombinator.com/item?id=48647996</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
           "category": "ai",
           "image": null
         },
         {
-          "id": "cebcb98420a0c67b341a21a5b80871b829a562ce7f3c143a87de57f994223a45",
-          "title": "LastPass confirms data breach in Klue supply chain attack",
-          "url": "https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/",
+          "id": "fc76d4bb409dc06e9fc24d17f1ace77fa3f6e5a3892ea190d55149c6afbe0d88",
+          "title": "Show HN: OpenUser: Self-hosted user-persona tester for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=48647957",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T16:14:06Z",
-          "summary": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/\">https://www.bleepingcomputer.com/news/security/lastpass-confirms-data-breach-in-klue-supply-chain-attack/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647272\">https://news.ycombinator.com/item?id=48647272</a></p>\n<p>Points: 2</p>\n<p># Comments: 2</p>",
+          "published_at": "2026-06-23T17:03:16Z",
+          "summary": "Recent hype about loop engineering made me realize that im missing one thing, and that is an agent that should be doing my job at the end of my loop: real user test<p>i developing a huge b2b ecommerce project codebase.  and for every new feature or fixes my job is always to test it on the browser. yuck.<p>so i have made some research and there is TestSprite, but its not what i really want, i cant even self host it.<p>so i built OpenUser. now i just engineer the loop with simple prompt: complete {feature} and use &#x2F;openuser to test it.<p>it store user persona, struggle, checkpoints, console logs, network logs. the agent has access to all and just fix everything.<p>this is the real replacement of me at the end of the loop.<p>everything runs locally, with any coding agents and model.<p>try it:\nhttps:&#x2F;&#x2F;github.com&#x2F;manalkaff&#x2F;openuser\nnpx openuser-cli",
           "category": "ai",
           "image": null
         },
         {
-          "id": "9f331b048a2b954aac6e51f2faf3dab681c07e7a7415057439dc1ac92b9f17cd",
-          "title": "Show HN: CWS'94 standard Core War simulator in 105 lines of Ruby",
-          "url": "https://corewar.co.uk/rubymars.htm",
+          "id": "781e4591e553b7a8accea0920229957bd4ed77405e6bb9a7a60c9c8879dcdebe",
+          "title": "The Exploit Doesn't Exist. You Can Still Prove It Works Against You",
+          "url": "https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T16:10:35Z",
-          "summary": "Here&#x27;s a tiny CWS&#x27;94 standard compliant Redcode simulator I wrote in Ruby. Validated against pMARS using the top-50 programs from Koenigstuhl.",
+          "published_at": "2026-06-23T17:01:45Z",
+          "summary": "<p>Article URL: <a href=\"https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/\">https://www.bleepingcomputer.com/news/security/the-exploit-doesnt-exist-you-can-still-prove-it-works-against-you/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647922\">https://news.ycombinator.com/item?id=48647922</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
           "category": "ai",
           "image": null
         }
@@ -270,37 +270,37 @@
       "count": 60,
       "top": [
         {
-          "id": "7f6f58b0dde9e4b39bd1d5163a5c3fcf30f9924042993077d6fd585f24f838e9",
-          "title": "Something in space may be changing alien signals before they can reach Earth. Scientists have a solution.",
-          "url": "https://www.livescience.com/space/extraterrestrial-life/something-in-space-may-be-changing-alien-signals-before-they-can-reach-earth-scientists-have-a-solution",
-          "source": "Live Science",
-          "source_id": "live_science",
-          "published_at": "2026-06-23T16:00:11Z",
-          "summary": "New research suggests that alien radio signals may be transformed by plasma from their home stars \u2014 and scientists on Earth could be overlooking prime evidence of alien intelligence.",
-          "category": "space",
-          "image": "https://cdn.mos.cms.futurecdn.net/UBJMWMdJeUbSSEoBHTQyKG-1280-80.jpg"
-        },
-        {
-          "id": "e97ae940c8c916d097e8b84b87d3be8039bc2bf06821b9dcf16ba05ba6facef3",
-          "title": "NASA wants to dump the ISS in the sea. Experts say the plan 'raises serious concerns for ocean health'",
-          "url": "https://www.space.com/space-exploration/international-space-station/nasa-wants-to-dump-the-iss-in-the-sea-experts-say-the-plan-raises-serious-concerns-for-ocean-health",
+          "id": "eda679c462c7588d2e785778cbe5af683ad058962acc9610186c815676322bfe",
+          "title": "China's space plane appears to have released a mystery object in orbit",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
           "source": "Space.com",
           "source_id": "space_com",
-          "published_at": "2026-06-23T16:00:00Z",
-          "summary": "NASA's plan to deorbit the International Space Station in coming years has stirred up a wave of reaction by a leading ocean conservation organization.",
+          "published_at": "2026-06-23T16:52:28Z",
+          "summary": "China's Shenlong space plane appears to have released a mystery object while in orbit, according to a private space surveillance firm.",
           "category": "space",
-          "image": "https://cdn.mos.cms.futurecdn.net/4ugoTjVhaT7FQiDgHFriYd-1280-80.jpg"
+          "image": "https://cdn.mos.cms.futurecdn.net/QUg55LuvZjoEbWWeoedWJU-1280-80.jpg"
         },
         {
-          "id": "70248328b8a2711115396504eb949ecad64b0cd890a8d2452b1b29b8e678d898",
-          "title": "'Rick and Morty' cast talk vocal health, hot viscous liquids, and their favorite season 9 moments (interview)",
-          "url": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-cast-talk-vocal-health-hot-viscous-liquids-and-their-favorite-season-9-moments-interview",
+          "id": "8a00961422fe3da67d832d0e514ee35a39a874307ef7d023c4f4baec4ee2560c",
+          "title": "SpaceX's secretive plans to deliver cargo to Earth from space",
+          "url": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
+          "source": "New Scientist - Space",
+          "source_id": "new_scientist_space",
+          "published_at": "2026-06-23T16:37:25Z",
+          "summary": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose",
+          "category": "space",
+          "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg"
+        },
+        {
+          "id": "9943488ec0d74fd5df6087411965e67a3449c76da054fef8c9560343a9f9172c",
+          "title": "What telescope could cause our astrophotography expert to break their hard-and-fast rule about not traveling with a telescope? This one! Now even cheaper in this Prime Day telescope deal",
+          "url": "https://www.space.com/stargazing/skywatching-kit/this-telescope-caused-our-astrophotography-expert-to-break-their-hard-and-fast-rule-about-not-traveling-with-a-telescope",
           "source": "Space.com",
           "source_id": "space_com",
-          "published_at": "2026-06-23T15:00:00Z",
-          "summary": "'With all the wacky hijinks that take place, we\u2019re in for a really amazing season and some real good science fiction.'",
+          "published_at": "2026-06-23T16:30:00Z",
+          "summary": "Ready to turn your skywatching upside-down? Then snap up this ZWO Seestar S30 Pro, which offers views so stunning it made our expert bin their no telescope rule.",
           "category": "space",
-          "image": "https://cdn.mos.cms.futurecdn.net/ZZivzwr3Bo34aCHmurBZwJ-1280-80.jpg"
+          "image": "https://cdn.mos.cms.futurecdn.net/58ehGwRTjD84ERcjbuL8XC-1280-80.jpg"
         }
       ]
     },
@@ -321,26 +321,26 @@
           "image": null
         },
         {
-          "id": "c945f3b43ad85c32df34b84fb36a8f9bd04801b93461c4f4e10dd23309162834",
-          "title": "\"Black box\" found near crash site of Ethiopian Airlines flight",
-          "url": "https://en.wikinews.org/wiki/\"Black_box\"_found_near_crash_site_of_Ethiopian_Airlines_flight",
-          "source": "Wikinews - Published Articles",
-          "source_id": "wikinews_published",
+          "id": "a393c4af16d1a1d03bb974d7d49e452516025a07ba19a68501b03516acaa3a7e",
+          "title": "Chinese fentanyl network suspected of crypto fraud via Japan base",
+          "url": "https://asia.nikkei.com/economy/trade-war/fentanyl-s-hidden-routes/chinese-fentanyl-network-suspected-of-crypto-fraud-via-japan-base",
+          "source": "Nikkei Asia \u2014 Top",
+          "source_id": "nikkei_asia",
           "published_at": null,
           "summary": null,
           "category": "crypto",
           "image": null
         },
         {
-          "id": "2df850366df69d4593f97a843b883702d4e8d96e9f70520488f66a9753b3bac4",
-          "title": "News24 | Trump allies defend Iran deal to assure Israel of \u2018unbreakable bond\u2019",
-          "url": "https://www.news24.com/world/trump-allies-defend-iran-deal-to-assure-israel-of-unbreakable-bond-20260623-0481",
-          "source": "News24 \u2014 Top Stories (South Africa)",
-          "source_id": "news24_topstories",
-          "published_at": null,
-          "summary": "American allies of US President Donald Trump this week defended him to an Israeli public anxious about a US interim deal with Iran and White House criticism that together appeared to signal fissures in Israel\u2019s decades-old alliance with Washington.",
+          "id": "4811571e52c5074f3ab9bb189bc05a50381fa6044c576ec341b4f84a7aebb7b0",
+          "title": "Irdai floats proposal to tap insurer premiums for policyholder fund",
+          "url": "https://www.livemint.com/news/india/irdai-proposal-insurer-premiums-policyholder-fund-education-and-protection-fund-11782226537279.html",
+          "source": "LiveMint \u2014 News",
+          "source_id": "livemint_news",
+          "published_at": "2026-06-23T17:01:09Z",
+          "summary": "The insurance regulator is consulting stakeholders on whether insurers should contribute a share of premiums to the  \u20b9800-crore Policyholders' Education and Protection Fund.&amp;nbsp;",
           "category": "crypto",
-          "image": null
+          "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/insurance_1735199210588_1782233812525_248d9fe6-5629-49db-b411-6fcde4d8c766.png"
         }
       ]
     },
@@ -350,37 +350,37 @@
       "count": 60,
       "top": [
         {
-          "id": "52181424449971e7a557cf8cda287e9f008301510e0eac0570764eb0c39d3f94",
-          "title": "Rent The Runway: Severe Subscriber Compression On Thin Cash Balances (Downgrade)",
-          "url": "https://seekingalpha.com/article/4917016-rent-the-runway-severe-subscriber-compression-on-thin-cash-balances-downgrade?source=feed_all_articles",
-          "source": "Seeking Alpha - Latest Articles",
-          "source_id": "seekingalpha_all",
-          "published_at": "2026-06-23T16:12:36Z",
-          "summary": null,
+          "id": "57130e815c1d98dd34d7708ae134ad1da9a7e637cd5b31cc54ef4d2cfbb73ad9",
+          "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
+          "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+          "source": "VentureBeat",
+          "source_id": "venturebeat",
+          "published_at": "2026-06-23T17:00:00Z",
+          "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> on Tuesday launched <a href=\"http://anthropic.com/news/introducing-claude-tag\"><u>Claude Tag</u></a>, a new product that embeds its most advanced AI model directly inside Slack as a persistent, shared teammate that anyone on a team can delegate work to by simply typing @Claude.</p><p>The product, available today in beta for<a href=\"https://support.claude.com/en/articles/9797531-what-is-the-enterprise-plan\"> Claude Enterprise</a> and <a href=\"https://support.claude.com/en/articles/9266767-what-is-the-team-plan\">Team</a> customers, replaces Anthropic&#x27;s existing Claude in Slack app and represents the company&#x27;s most aggressive move yet to colonize the enterprise collaboration layer \u2014 the place where decisions get made, work gets assigned, and institutional knowledge accumulates in real time.</p><p>For enterprise technology leaders who have spent the past two years evaluating where AI fits into their operational stack, <a href=\"anthropic.com/news/introducing-claude-tag\">Claude Tag</a> reframes the question entirely. This is not a chatbot, a coding assistant, or a search tool bolted onto a messaging platform. It is an AI agent designed to function as a standing member of a team \u2014 one that builds memory, takes initiative, works asynchronously, and interacts with every person in a channel rather than serving a single user. The implications for enterprise workflow, governance, and vendor strategy are significant.</p><p>Anthropic says 65% of its own product team&#x27;s code is now created by its internal version of Claude Tag, and the company runs internal support and data insight channels through the same system. The claim is striking: Anthropic is asserting that the majority of its own product engineering output already flows through the tool it just put in customers&#x27; hands.</p><div></div><h2><b>How Claude Tag works inside enterprise Slack channels</b></h2><p>At its core, <a href=\"anthropic.com/news/introducing-claude-tag\">Claude Tag</a> works like this: an administrator pairs it with a Slack workspace, grants it access to specific tools and data sources, sets spending limits, and defines which channels it can operate in. From that point on, any team member in those channels can tag @Claude with a request \u2014 write a pull request, pull sales numbers, run a data analysis \u2014 and Claude will break the task into stages, execute them using the tools it has access to, and respond in a Slack thread with the result. The product runs on <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a>, the model Anthropic released less than a month ago.</p><p>Four capabilities differentiate <a href=\"https://www.anthropic.com/news/introducing-claude-tag\">Claude Tag </a>from its predecessors and from competing integrations. First, it is multiplayer. Within a given Slack channel, there is one Claude that interacts with everyone, not a separate instance per user. Anyone can see what it is working on, and anyone can pick up the conversation where the last person left off. This is a direct contrast to most existing AI integrations in Slack, which tend to operate as single-player tools.</p><p>Second, it learns over time. As Claude follows along with its channel, it accumulates context about the work happening there. Users do not need to re-explain projects from scratch. If granted permission, Claude can also pull context from other Slack channels and data sources, though Anthropic says it will not report from private channels. Third, it takes initiative. With ambient behavior enabled, Claude will proactively surface relevant information from across the channels it monitors and the tools it is connected to, and will follow up on threads or tasks that have gone quiet without resolution. This is a notable expansion of agency: Claude is not just responding to requests but monitoring the information environment and deciding what its human teammates need to know. Fourth, it works asynchronously, pursuing projects autonomously over hours or days. Anthropic says its own teams &quot;now spend much more of our time delegating tasks to many Claudes in parallel.&quot;</p><h2><b>Enterprise security controls and administrative governance get a central role</b></h2><p><a href=\"https://www.anthropic.com/\">Anthropic</a> has designed the system with enterprise-grade isolation at its center. System administrators define separate Claude identities for different uses, scoped to specific channels with specific tools and data access. Everything, including Claude&#x27;s accumulated memories, stays within those boundaries. A Claude configured for sales work will not share memories or data access with one configured for engineering.</p><p>Administrators can set token-spend limits at both the organizational and channel level, and can review a complete log of every action Claude has taken and which user requested each task. For organizations managing compliance, audit, or regulatory requirements, this logging and scoping architecture is table stakes \u2014 and its absence has been a dealbreaker for many enterprises evaluating AI collaboration tools over the past year.</p><p>Migration from the existing <a href=\"https://slack.com/marketplace/A08SF47R6P4-claude\">Claude in Slack app</a> requires an administrator opt-in within 30 days, and Anthropic says it is issuing introductory launch credits to eligible Enterprise and Team organizations. The four-step setup process \u2014 pair with Slack, connect tools, set spend limits, test in a private channel \u2014 is designed to reduce friction for IT teams already managing sprawling SaaS portfolios.</p><h2><b>The Slack battleground is now the most contested real estate in enterprise AI</b></h2><p><a href=\"anthropic.com/news/introducing-claude-tag\">Claude Tag</a> arrives in the middle of what has become the most fiercely contested territory in enterprise AI: the Slack channel. Slack itself has been aggressively positioning the platform as an &quot;agentic operating system,&quot; and the major AI players have responded by racing to plant their flags.</p><p>Salesforce, which <a href=\"https://slack.com/blog/news/salesforce-completes-acquisition-of-slack\">acquired Slack for $27.7 billion in 2021</a>, announced more than <a href=\"https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the\">30 new capabilities for Slackbot</a> in March \u2014 the most sweeping overhaul of the platform since the acquisition \u2014 transforming it from a simple conversational assistant into a full-spectrum enterprise agent. OpenAI introduced &quot;<a href=\"https://openai.com/index/introducing-workspace-agents-in-chatgpt/\">Workspace Agents</a>&quot; in April, allowing enterprise subscribers to design agents that take on work tasks across third-party apps including Slack, Google Drive, Microsoft apps, Salesforce, and Notion. Perplexity launched its enterprise &quot;Computer&quot; agent with direct Slack integration, letting employees query @computer directly inside Slack channels. Cognition&#x27;s Devin, the autonomous AI software engineer, has been built around Slack as a primary interface since its early days. Even Microsoft has brought GitHub Copilot into Teams.</p><p>The logic driving this convergence is straightforward: the average enterprise juggles over 1,000 applications, and employees waste countless hours on context switching, draining productivity by up to 40%. Whichever AI system becomes the default presence in the communication layer where work is coordinated gains an enormous distribution advantage \u2014 and, critically, an enormous data advantage. The AI that lives in the channel where work happens absorbs the institutional context that makes it increasingly difficult to replace.</p><h2><b>Anthropic built Claude Tag on a foundation two years in the making</b></h2><p>To understand Claude Tag&#x27;s strategic significance, it helps to trace the product arc that led to it. Anthropic first integrated Claude with Slack in October 2025, offering two-way connectivity: users could invoke Claude from within Slack or connect Slack as a data source for Claude&#x27;s chatbot. As TechCrunch reported at the time, the initial integration was focused on individual productivity \u2014 direct messages, AI assistant panels, and thread participation. In January 2026, Anthropic expanded Claude&#x27;s Slack presence when it launched interactive Claude apps, which TechCrunch&#x27;s Russell Brandom reported included workplace tools like Slack, Canva, Figma, Box, and Clay.</p><p>In parallel, Anthropic was building out its enterprise infrastructure stack. As TechCrunch reported in August 2025, the company bundled Claude Code into enterprise plans, a move its product lead Scott White called &quot;the most requested feature from our business team and enterprise customers.&quot; In April 2026, Anthropic launched Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted AI agents at scale, with early adopters including Notion, Rakuten, Asana, and Sentry. As The New Claw Times reported, the move positioned Anthropic &quot;as a direct competitor to AWS Bedrock Agents and Google Vertex Agent Builder.&quot;</p><p>Then came Claude Opus 4.8 in late May, which Anthropic described as &quot;a more effective collaborator&quot; with &quot;sharper judgement, more honesty about its progress, and the ability to work independently for longer than its predecessors.&quot; As 9to5Mac reported, benchmark improvements included a jump in agentic coding scores from 64.3% to 69.2% and a knowledge work score increase from 1753 to 1890. Claude Tag is the synthesis of all of these threads \u2014 combining the Slack channel presence, the enterprise security architecture, the Managed Agents infrastructure, and the Opus 4.8 model&#x27;s improved agentic capabilities into a single product that Anthropic frames as &quot;the beginning of an evolution of Claude Code.&quot;</p><h2><b>Anthropic&#x27;s explosive growth explains why it is betting big on the collaboration layer</b></h2><p>The financial stakes behind this launch are enormous. Anthropic raised $65 billion in Series H funding in late May at a $965 billion post-money valuation, and its run-rate revenue crossed $47 billion earlier this month. Claude Code&#x27;s run-rate revenue alone has grown to over $2.5 billion, more than doubling since the beginning of 2026, and enterprise use has grown to represent over half of all Claude Code revenue.</p><p>Those numbers explain why Anthropic is investing so heavily in channel-level presence. Every enterprise customer who grants Claude persistent access to a Slack channel \u2014 with connected tools, accumulated context, and ambient monitoring enabled \u2014 represents a dramatically deeper integration than a chatbot conversation or an API call. The usage patterns become stickier, the token consumption grows, and the switching costs rise. Deloitte&#x27;s deployment of Claude across more than 470,000 employees in 150 countries \u2014 reportedly its largest-ever enterprise AI deployment \u2014 illustrates the scale at which these dynamics play out.</p><p>The broader market trajectory reinforces the bet. Fortune Business Insights projects the global agentic AI market will grow from $9.14 billion in 2026 to $139 billion by 2034, and Gartner forecasts that 40% of enterprise applications will feature task-specific AI agents by 2026, up from less than 5% in 2025. Anthropic is not alone in seeing this future, but with Claude Tag it is making one of the most direct plays yet to own the enterprise agent layer.</p><h2><b>The risks enterprise buyers need to weigh before granting Claude a permanent seat at the table</b></h2><p>Claude Tag raises several questions that enterprise buyers will need to evaluate carefully. The first is vendor dependency. As The New Stack noted when analyzing Claude Managed Agents earlier this year, once an organization&#x27;s agents, operational configurations, and monitoring run on Anthropic&#x27;s managed infrastructure, switching costs increase significantly. Claude Tag deepens this dynamic: a Claude that has accumulated months of channel context and institutional memory becomes very difficult to replace. Enterprise procurement teams accustomed to negotiating multi-cloud flexibility will need to think hard about what it means to give a single vendor&#x27;s AI persistent access to the communication layer where institutional knowledge lives.</p><p>The second is governance around ambient monitoring. The proactive behavior mode \u2014 in which Claude monitors channels and surfaces information it decides is relevant \u2014 represents a meaningful expansion of what enterprise AI systems do. Organizations will need to develop clear frameworks for an AI agent that is not just responding to requests but actively surveilling information flows and making editorial judgments about what humans need to know. For regulated industries, this raises questions that existing AI governance policies may not yet address.</p><p>The third is pricing. Anthropic has not published detailed pricing for Claude Tag beyond noting that it runs on token-based spending with administrative controls. For an agent that monitors channels continuously, builds memory, and works asynchronously over hours or days, the token consumption profile could look very different from traditional AI usage. And the fourth is reliability: Anthropic has been candid in recent months about infrastructure strain caused by surging demand, and for a product positioned as an always-on team member, downtime carries a different kind of cost than it does for a tool invoked on demand.</p><h2><b>What Claude Tag signals about the future of enterprise work</b></h2><p>Anthropic says its goal is to expand Claude Tag beyond Slack &quot;so that teams can tag @Claude in the many other places they work.&quot; The company is clearly eyeing the full collaboration surface \u2014 Microsoft Teams, email, project management tools, and beyond. If Claude Tag succeeds, it will validate a model of enterprise AI that looks less like a tool and more like a new category of worker: one that never sleeps, never forgets what was discussed in the channel last Tuesday, and never needs to be onboarded twice.</p><p>But the deeper significance of this launch may be what it reveals about the competitive dynamics reshaping enterprise software. For decades, the most valuable real estate in business technology was the system of record \u2014 the database, the CRM, the ERP. The current AI arms race suggests that the next era of enterprise value will be captured not by the system that stores the data, but by the agent that sits in the room where the work happens and understands what to do with it. Anthropic just gave that agent a name, a permanent seat in the channel, and permission to speak up when it thinks it has something to say. The question for every enterprise technology leader is no longer whether that agent will arrive. It is whether they are ready to manage it when it does.</p>",
+          "category": "real_estate",
+          "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6CFsd7sGf60QrI8jTqYfuy/788282d94743cf3a42c6c4bb28553ad6/Nuneybits_Vector_art_of_entirely_burnt_orange_chat_panel_mergin_c649b311-f246-4715-9849-8358622f4bee.webp?w=300&q=30"
+        },
+        {
+          "id": "cde14d52e5a29e281e4ad5d7e9d01f9ca698fd53f8f6d13bd2dcfb48cd22a7a6",
+          "title": "Show HN: Made in Everywhere \u2013 a live map of companies and products",
+          "url": "https://www.madeineverywhere.co/",
+          "source": "Hacker News - New Stories",
+          "source_id": "hackernews_newstories",
+          "published_at": "2026-06-23T16:52:59Z",
+          "summary": "I built Made in...Everywhere, a map where founders can pin their companies and show where they&#x27;re &quot;being made&quot;.<p>The idea is simple:\nAdd your company\nAdd your location\nSee other products near you\nExplore companies around the world<p>Current stats:\n- 360+ companies\n- Founders from dozens of countries\n- Completely free to join<p>ps.: I&#x27;m fixing some products, as this data comes from another product I launched last year (FA) and some products might be off.<p>I&#x27;d love feedback on what would make you come back regularly?",
           "category": "real_estate",
           "image": null
         },
         {
-          "id": "1f33caffe90a76e8722888f0411e632b8884adc3d769b162fc23f044e813e6f1",
-          "title": "Etan Patz case: 1979 disappearance of NYC boy continues to haunt investigators",
-          "url": "https://www.cbsnews.com/news/etan-patz-1979-disappearance-of-nyc-boy-continues-to-haunt-investigators/",
-          "source": "CBS News \u2014 Latest",
-          "source_id": "cbs_main",
-          "published_at": "2026-06-23T16:12:00Z",
-          "summary": "\"48 Hours\" goes inside the painstaking investigation through the eyes of those who have spent more than three decades trying to find the 6-year-old boy and to bring closure to his heartbroken parents",
+          "id": "3ec465947b2b3587aef45f19e1d579ee524bc1cefda25bfb6c0373089ef30885",
+          "title": "Trump Call for Crop Sales to Iran Adds Cautious Hope for Farmers",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/trump-call-for-crop-sales-to-iran-adds-cautious-hope-for-farmers",
+          "source": "Bloomberg \u2014 Markets",
+          "source_id": "bloomberg_markets",
+          "published_at": "2026-06-23T16:41:12Z",
+          "summary": "President Donald Trump on Tuesday reiterated that funds from any unfrozen Iranian assets would be used in part for grain shipments, potentially providing a fresh market for American farmers.",
           "category": "real_estate",
-          "image": null
-        },
-        {
-          "id": "97c60fee9e1887d99a4a1935a26a7e2cad9f9048b0c964043e62a6cd16ca04f3",
-          "title": "I tried 26 of Cold Stone Creamery's Signature Creations and ranked them from worst to best",
-          "url": "https://www.businessinsider.com/cold-stone-creamery-ice-cream-flavors-ranked-worst-to-best",
-          "source": "Business Insider - All",
-          "source_id": "businessinsider_all",
-          "published_at": "2026-06-23T16:11:16Z",
-          "summary": "I tasted and ranked the Signature Creations ice cream flavors at my local Cold Stone Creamery. Some were too sweet, but others were delicious.",
-          "category": "real_estate",
-          "image": "https://i.insider.com/6a3aac95c6798eef65c3c9ce?format=jpeg"
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOhbqVmKCWJA/v3/1200x-1.png"
         }
       ]
     },
@@ -470,6 +470,17 @@
       "count": 60,
       "top": [
         {
+          "id": "7a0989c00cf7815ddb95c3122fd5967953802e2aa8fec1c7bf86bfb8022c2d18",
+          "title": "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival",
+          "url": "https://asia.nikkei.com/business/materials/nippon-steel-shares-slump-as-debt-outweighs-fruits-of-u.s.-steel-revival",
+          "source": "Nikkei Asia \u2014 Top",
+          "source_id": "nikkei_asia",
+          "published_at": null,
+          "summary": null,
+          "category": "stocks",
+          "image": null
+        },
+        {
           "id": "82f2f376bdcbe43ee0fca5d0e7fabf8aac7612e34c0ec5ac6cb74cd8f1fdc6d9",
           "title": "China crackdown rattles Hong Kong wealth hub status",
           "url": "https://asia.nikkei.com/business/markets/trading-asia/china-crackdown-rattles-hong-kong-wealth-hub-status",
@@ -484,17 +495,6 @@
           "id": "968c3908aef4cf35cf77730b016ab93e1855572a3b9229ca11e6421ad54ce5c5",
           "title": "SpaceX's debut fires first salvo in new era of mega-IPOs",
           "url": "https://asia.nikkei.com/spotlight/datawatch/spacex-s-debut-fires-first-salvo-in-new-era-of-mega-ipos",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
-          "summary": null,
-          "category": "stocks",
-          "image": null
-        },
-        {
-          "id": "7a0989c00cf7815ddb95c3122fd5967953802e2aa8fec1c7bf86bfb8022c2d18",
-          "title": "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival",
-          "url": "https://asia.nikkei.com/business/materials/nippon-steel-shares-slump-as-debt-outweighs-fruits-of-u.s.-steel-revival",
           "source": "Nikkei Asia \u2014 Top",
           "source_id": "nikkei_asia",
           "published_at": null,
@@ -532,15 +532,15 @@
           "image": null
         },
         {
-          "id": "62e974e3a95c64fbf1f04f6c306c17edfa4b5cf06a11138b72a9f2bd5eeff69a",
-          "title": "Banxico expected to hold rates at 6.50% amid inflation concerns - Reuters",
-          "url": "https://www.investing.com/news/world-news/banxico-expected-to-hold-rates-at-650-amid-inflation-concerns--reuters-93CH-4756092",
-          "source": "Investing.com - News",
-          "source_id": "investing_news",
-          "published_at": "2026-06-23T16:03:04Z",
+          "id": "634812fdbbeb8434f714bf50fe31eea78027a23d7f0f5330a6602403d6a14d8d",
+          "title": "BIT: Unsustainable Distribution And Inflation Make This Fund Unattractive",
+          "url": "https://seekingalpha.com/article/4917034-bit-unsustainable-distribution-and-inflation-make-fund-unattractive?source=feed_all_articles",
+          "source": "Seeking Alpha - Latest Articles",
+          "source_id": "seekingalpha_all",
+          "published_at": "2026-06-23T16:45:47Z",
           "summary": null,
           "category": "economy",
-          "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+          "image": null
         }
       ]
     },
@@ -550,35 +550,35 @@
       "count": 60,
       "top": [
         {
-          "id": "c80bbada878a02c87e5c9572877618bd76d8ea9b35e7ddc7820f417c6967c0b4",
-          "title": "Pakistan PM says there should not be double standards over Iran having ballistic missiles",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having",
+          "id": "31ca8421ed0a4660582e9ac186186d60880f964a332dd5e420dc6f0f07f4d88e",
+          "title": "Sharif warns of \u2018spoilers\u2019 attempting to sabotage US-Iran deal",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
           "source": "Middle East Eye \u2014 All",
           "source_id": "middleeasteye_all",
-          "published_at": "2026-06-23T16:12:59Z",
-          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having\" rel=\"bookmark\">\n<span class=\"field field-title\">Pakistan PM says there should not be double standards over Iran having ballistic missiles</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Pakistan\u2019s Prime Minister Shehbaz Sharif said on Tuesday that there should be no double standards where some countries are permitted to have ballistic missiles while Iran is not.</p>\n\n<p>Sharif told reporters that there was no mention of ballistic missiles in the memorandum of understanding agreed between the US and Iran because it was \u201cnever on the table\u201d.</p>\n\n<p>He added that Pakistan would like to continue its role in mediating negotiations until a lasting peace is achieved.</p>\n\n<p><em>Reporting by Reuters</em></p>\n\n  <figure class=\"media-block\">\n  <div class=\"group-inner\">\n    <div alt=\"Iran's President Masoud Pezeshkian (L) shaking hands with Pakistan's Prime Minister Shehbaz Sharif during his ceremonial reception at the Prime Minister House in Islamabad Pakistan's Prime Minister Office / AFP\" class=\"embedded-entity\">  <img alt=\"Iran's President Masoud Pezeshkian (L) shaking hands with Pakistan's Prime Minister Shehbaz Sharif during his ceremonial reception at the Prime Minister House in Islamabad Pakistan's Prime Minister Office / AFP\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/000_B8248NQ.jpg\" width=\"1920\" />\n\n</div>\n\n    <figcaption>Iran's President Masoud Pezeshkian (L) shaking hands with Pakistan's Prime Minister Shehbaz Sharif in Islamabad on 23 June 2026 (Pakistan's Prime Minister Office/AFP)</figcaption>\n  </div>\n</figure>\n\n\n<p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n</div>\n      \n  </div>\n\n</article>",
+          "published_at": "2026-06-23T16:55:36Z",
+          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal\" rel=\"bookmark\">\n<span class=\"field field-title\">Sharif warns of \u2018spoilers\u2019 attempting to sabotage US-Iran deal</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Pakistani Prime Minister Shehbaz Sharif warned that some actors are trying to derail the process towards achieving a ceasefire deal between the US and Iran.</p>\n\n<p>\u201cThere are spoilers all over the world who want to scuttle this peace deal,\u201d Sharif said, without mentioning any specific countries or parties involved.</p>\n\n<p>\u201cThey don\u2019t want the Iranian nation, a great nation, to come out of the ashes of war and touch the zenith of glory,\u201d he added.</p>\n</div>\n      \n  </div>\n\n</article>",
           "category": "world_affairs",
           "image": null
         },
         {
-          "id": "d79b5962b057b28363e33a5f438e4fc37840aa0359fdb8836ecb2c1d36f220ea",
-          "title": "Iran casts doubt on nuclear inspections Vance said would happen",
-          "url": "https://www.washingtonpost.com/world/2026/06/23/iran-says-no-nuclear-inspections-countering-vance-statement/",
-          "source": "The Washington Post \u2014 World",
-          "source_id": "wapo_world",
-          "published_at": "2026-06-23T16:01:35Z",
-          "summary": "Iran\u2019s Foreign Ministry said there was no plan for the IAEA to inspect its damaged nuclear facilities, a day after Vice President JD Vance said conversations with inspectors could happen imminently.",
+          "id": "a0f2080c0eff186acb0ebb513e62d176128091f5decbd8c60262f452fcbec93b",
+          "title": "Iran will never negotiate defensive ability, president says",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-never-negotiate-defensive-ability-president-says",
+          "source": "Middle East Eye \u2014 All",
+          "source_id": "middleeasteye_all",
+          "published_at": "2026-06-23T16:53:39Z",
+          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-never-negotiate-defensive-ability-president-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Iran will never negotiate defensive ability, president says </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Iranian President Masoud Pezeshkian said that Iran will never negotiate their defensive ability with any country.</p>\n\n<p>Iran\u2019s missiles were not in the Memorandum of Understanding signed with the US and \u201cwill never be\u201d, Pezeshkian told reporters in a press conference in Islamabad after meeting with Pakistan\u2019s prime minister on Tuesday.</p>\n\n<p>He added that he believes regional peace and stability will only be achieved through honest discussions and intraregional cooperation.</p>\n</div>\n      \n  </div>\n\n</article>",
           "category": "world_affairs",
           "image": null
         },
         {
-          "id": "bd4514e95d2705b0f2b0b8e84b0ead3ac7e65a01c224166773daf3a572d069dc",
-          "title": "Trump to meet arms company CEOs on Wednesday, Reuters reports",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-meet-arms-company-ceos-wednesday-reuters-reports",
+          "id": "5ab3623690cbe1ab919471043ebba7defbaa44f6d23260e32682ad0226d6bdb9",
+          "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
           "source": "Middle East Eye \u2014 All",
           "source_id": "middleeasteye_all",
-          "published_at": "2026-06-23T15:58:51Z",
-          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-meet-arms-company-ceos-wednesday-reuters-reports\" rel=\"bookmark\">\n<span class=\"field field-title\">Trump to meet arms company CEOs on Wednesday, Reuters reports</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">US President Donald Trump is set to host executives from weapons manufacturers for a meeting in the Oval office on Wednesday, Reuters has reported, citing a source familiar with the plan.</p>\n\n<p>This comes as delicate negotiations are taking place to work towards a ceasefire with Iran, and between Israel and Lebanon.</p>\n</div>\n      \n  </div>\n\n</article>",
+          "published_at": "2026-06-23T16:42:18Z",
+          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon\" rel=\"bookmark\">\n<span class=\"field field-title\">Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">US Secretary of State Marco Rubio said on Tuesday that Iran would not be allowed to charge a toll on ships passing through the Strait of Hormuz as part of any final agreement with the US.</p>\n\n<p>\u201cIt\u2019s an international waterway. No country is allowed to charge toll or fees on an international waterway. That\u2019s existing international law,\u201d Rubio told reporters as he landed in Abu Dhabi on the first leg of his tour of the Gulf nations.</p>\n\n<p>He also said that negotiating and maintaining a ceasefire between Israel and Lebanon will be kept separate from any deal with Iran, adding that the US will \u201cnegotiate and deal directly with the Lebanese government\u201d.</p>\n</div>\n      \n  </div>\n\n</article>",
           "category": "world_affairs",
           "image": null
         }
@@ -587,8 +587,19 @@
     {
       "key": "us_news",
       "label": "US News",
-      "count": 47,
+      "count": 49,
       "top": [
+        {
+          "id": "88e46b3e8cc3bcdb65e0eff3fe5a05a5db5d144d39b17b51f176e112f5eaf3a2",
+          "title": "8 convicted of terrorism charges in Texas immigration center shooting sentenced to decades in prison",
+          "url": "https://abcnews.com/US/wireStory/8-convicted-terrorism-charges-texas-immigration-center-shooting-134137038",
+          "source": "ABC News \u2014 US Headlines",
+          "source_id": "abc_us",
+          "published_at": "2026-06-23T16:38:54Z",
+          "summary": "A demonstrator who shot and wounded a police officer during a protest outside a Texas immigration center July 4 has been sentenced to 100 years in federal prison",
+          "category": "us_news",
+          "image": "https://s.abcnews.com/images/US/wirestory_1eb7a8ac32dbb637e027709ae010f374_4x3_384.jpg"
+        },
         {
           "id": "2f960ae15676f1ea92ed477ccda2038513cfad38eb9a1245f385ea76d5f08f77",
           "title": "A shooter kills 2 at a Northern California library and an 18-year-old suspect is arrested",
@@ -610,17 +621,6 @@
           "summary": "Voters are going to the polls Tuesday for contests in New York, South Carolina, Maryland and Utah.",
           "category": "us_news",
           "image": null
-        },
-        {
-          "id": "25b20b7344c77dab2b3d8444ee20deafbbb0543f0c775e1baea6f37877b0dc0c",
-          "title": "Surfside condo started failing 3 weeks before total collapse, federal report says",
-          "url": "https://www.cbsnews.com/video/surfside-condo-started-failing-3-weeks-before-total-collapse-federal-report-says/",
-          "source": "CBS News \u2014 US",
-          "source_id": "cbs_us",
-          "published_at": "2026-06-23T13:18:55Z",
-          "summary": "A new federal report shows the likely cause of the 2021 Surfside condo collapse in Florida that killed 98 people. According to the report, the structure failures began three weeks before the building fell when two connections between garage columns and the pool deck gave way.",
-          "category": "us_news",
-          "image": null
         }
       ]
     },
@@ -630,35 +630,35 @@
       "count": 60,
       "top": [
         {
-          "id": "eed26a56155613674c0b9265bc73c8067d1fd84c7da6c6a52780c6373f0bcb8a",
-          "title": "Judge: DOJ Used Grand Jury to \"Harass\" Trump's Political Opponents",
-          "url": "https://webcitydeux.blogspot.com/2026/06/federal-judge-rules-trump-doj-subpoenas.html",
+          "id": "01a24bc7f3924ed180d997d1c8d626138d2ab55ce72770b63724c6d80b05026e",
+          "title": "What, then, are we paying for?",
+          "url": "https://quinnkeast.com/writing/software-is-problem-ownership",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T16:22:31Z",
-          "summary": "<p>Article URL: <a href=\"https://webcitydeux.blogspot.com/2026/06/federal-judge-rules-trump-doj-subpoenas.html\">https://webcitydeux.blogspot.com/2026/06/federal-judge-rules-trump-doj-subpoenas.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647372\">https://news.ycombinator.com/item?id=48647372</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published_at": "2026-06-23T17:07:12Z",
+          "summary": null,
           "category": "technology",
           "image": null
         },
         {
-          "id": "f92a2cba247dbe2c55b884058e1795c1e03c614336044ceb707d83c8225ab1e3",
-          "title": "Pact: Anonymous Credentials for the Web",
-          "url": "https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/",
+          "id": "3260148f55a4bed4c4bc04efe0275a16b16db0f912daae426ebcd8916711c571",
+          "title": "Building apps using TanStack Start",
+          "url": "https://lovable.dev/blog/building-apps-using-tanstack-start",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T16:21:49Z",
-          "summary": "<p>Article URL: <a href=\"https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/\">https://hacks.mozilla.org/2026/06/pact-anonymous-credentials-for-the-web/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647360\">https://news.ycombinator.com/item?id=48647360</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published_at": "2026-06-23T17:06:58Z",
+          "summary": null,
           "category": "technology",
           "image": null
         },
         {
-          "id": "f1d9003e3aaf5102699bd359349aa91fb1232473436fd8b7021004fbb0047edb",
-          "title": "Is Prime Day a scam? We tracked the most popular products that are actually good deals",
-          "url": "https://www.zdnet.com/article/is-amazon-prime-day-2026-a-scam-we-tracked-the-most-popular-products-that-are-actually-good-deals/",
-          "source": "ZDNet \u2014 News",
-          "source_id": "zdnet_main",
-          "published_at": "2026-06-23T16:20:40Z",
-          "summary": "We compared the price histories of the products that ZDNET experts recommend to help you find the best deals while shopping during Amazon Prime Day.",
+          "id": "d32e39af3388b3fed7d9e013d212e77d35681d2cf5bf3752793a48b98d66cd40",
+          "title": "Collection of easy-to-understand science, technology, and how-it-works articles",
+          "url": "https://www.explainthatstuff.com/",
+          "source": "Hacker News - New Stories",
+          "source_id": "hackernews_newstories",
+          "published_at": "2026-06-23T17:06:44Z",
+          "summary": null,
           "category": "technology",
           "image": null
         }
