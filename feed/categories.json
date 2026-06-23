@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "key": "ai",
+      "label": "AI",
+      "description": "Artificial intelligence, machine learning, and model labs.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:14:12Z"
+    },
+    {
+      "key": "space",
+      "label": "Space",
+      "description": "Spaceflight, astronomy, satellites, and orbital debris.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:00:11Z"
+    },
+    {
+      "key": "crypto",
+      "label": "Crypto",
+      "description": "Digital assets, blockchains, markets, and regulation.",
+      "count": 60,
+      "updated_at": "2026-08-06T00:00:00Z"
+    },
+    {
+      "key": "real_estate",
+      "label": "Real Estate",
+      "description": "Housing, mortgages, rent, REITs, and property markets.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:12:36Z"
+    },
+    {
+      "key": "nba",
+      "label": "NBA",
+      "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
+      "count": 17,
+      "updated_at": "2026-06-23T17:10:01Z"
+    },
+    {
+      "key": "climate",
+      "label": "Climate",
+      "description": "Climate change, emissions, energy transition, and extreme weather.",
+      "count": 29,
+      "updated_at": "2026-06-23T00:00:00Z"
+    },
+    {
+      "key": "stocks",
+      "label": "Stocks",
+      "description": "Equities, indexes, IPOs, earnings, and market moves.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:21:04Z"
+    },
+    {
+      "key": "economy",
+      "label": "Economy",
+      "description": "Macroeconomics, rates, jobs, inflation, and policy.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:18:55Z"
+    },
+    {
+      "key": "world_affairs",
+      "label": "World Affairs",
+      "description": "Geopolitics, diplomacy, conflict, and sanctions.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:12:59Z"
+    },
+    {
+      "key": "us_news",
+      "label": "US News",
+      "description": "United States national and regional news.",
+      "count": 47,
+      "updated_at": "2026-06-23T13:38:11Z"
+    },
+    {
+      "key": "technology",
+      "label": "Technology",
+      "description": "Broad technology industry news.",
+      "count": 60,
+      "updated_at": "2026-06-23T16:22:31Z"
+    },
+    {
+      "key": "science",
+      "label": "Science",
+      "description": "Science research, discoveries, and institutions.",
+      "count": 60,
+      "updated_at": "2026-08-06T00:00:00Z"
+    }
+  ]
+}
