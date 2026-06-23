@@ -1,8 +1,52 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-06-23T17:12:34Z",
+  "generated_at": "2026-06-23T20:14:02Z",
   "articles": [
+    {
+      "id": "23f7acddc51515fcca3fc5eb355ebd9348a737dc6313cf8d59f8927e0d2f4e08",
+      "title": "Army sergeant gets life sentence for shootings that wounded 5 at Georgia base",
+      "url": "https://abcnews.com/US/wireStory/army-sergeant-gets-life-sentence-shootings-wounded-5-134145136",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T19:20:00Z",
+      "summary": "An Army sergeant has been sentenced to life in prison for shootings that wounded five people at a Georgia base last summer",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_5b0bb3f77f5b38651d078c37e7ed368e_4x3_384.jpg"
+    },
+    {
+      "id": "cd8d6f433c2d683b459c635eabadc9a0ac0e18f84530dfbfcb511fe866a1412e",
+      "title": "Alleged antifa members in Texas are sentenced for ICE protest",
+      "url": "https://www.washingtonpost.com/nation/2026/06/23/alleged-antifa-members-texas-get-maximum-sentences-ice-protest/",
+      "source": "The Washington Post \u2014 National",
+      "source_id": "wapo_national",
+      "published_at": "2026-06-23T19:16:59Z",
+      "summary": "Eight people got prison terms ranging from 30 to 100 years for their roles in a protest that turned violent outside an immigration detention center last summer.",
+      "category": "us_news",
+      "image": null
+    },
+    {
+      "id": "c68b4835141381dcbb11357f35a44a11d9168e24e13c834c2d893d139d9dea8a",
+      "title": "UN adopts resolution to ensure perpetrators of crimes against peacekeepers face justice",
+      "url": "https://abcnews.com/US/wireStory/adopts-resolution-ensure-perpetrators-crimes-peacekeepers-face-justice-134141447",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T18:08:43Z",
+      "summary": "The U.N. Security Council has unanimously adopted a resolution authorizing new steps to ensure that perpetrators of crimes against peacekeepers face justice",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_bc3389d6ed14b1980ba8d4318048aa21_4x3_384.jpg"
+    },
+    {
+      "id": "817477f93020a6f2a48d1eb5ff63f0ee9e0c8f7c9568de809cb8f7eae909e13e",
+      "title": "Trump says 6 people have been arrested for damaging the Reflecting Pool",
+      "url": "https://abcnews.com/US/wireStory/trump-6-people-arrested-damaging-reflecting-pool-134139085",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T17:18:18Z",
+      "summary": "President Donald Trump says six people have been arrested for damaging the Lincoln Memorial Reflecting Pool, which Trump recently ordered to be painted what he calls &ldquo;American Flag Blue.&rdquo;",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_d2ebb174e98913435d2108d60fb8de44_4x3_384.jpg"
+    },
     {
       "id": "88e46b3e8cc3bcdb65e0eff3fe5a05a5db5d144d39b17b51f176e112f5eaf3a2",
       "title": "8 convicted of terrorism charges in Texas immigration center shooting sentenced to decades in prison",

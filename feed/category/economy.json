@@ -1,7 +1,7 @@
 {
   "key": "economy",
   "label": "Economy",
-  "generated_at": "2026-06-23T17:12:34Z",
+  "generated_at": "2026-06-23T20:14:02Z",
   "articles": [
     {
       "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
@@ -26,11 +26,121 @@
       "image": null
     },
     {
+      "id": "7dc2043b0878050d0b72a31fbcc684324f109421846b09c42496906be6221740",
+      "title": "Crypto isn't the problem with the US economy, says senator",
+      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "source_id": "cointelegraph",
+      "published_at": "2026-06-23T19:49:59Z",
+      "summary": "Louisiana Senator John Kennedy largely dismissed what he called the \u201cpromotion\u201d of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+      "category": "economy",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg"
+    },
+    {
+      "id": "412b28cc79361d641e753ea165970a7f8bc0b26934d12967dcf02190e2af360b",
+      "title": "3 US Financial Stocks With Rate Sensitivity And Fair Value Gaps",
+      "url": "https://simplywall.st/stocks/us/banks/nyse-fitb.pra/fifth-third-bancorp/news/3-us-financial-stocks-with-rate-sensitivity-and-fair-value-g",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:35:57Z",
+      "summary": "With the Federal Reserve maintaining a hawkish stance on interest rates, this article examines three U.S. financial stocks with rate sensitivity and potential fair value gaps: Fifth Third Bancorp, Pinnacle Financial Partners, and Citigroup. It evaluates how each company is positioned to either benefit or face challenges from a higher-for-longer rate environment, considering factors like P/E ratios, dividend yields, earnings growth, and recent operational changes. The analysis highlights both the opportunities and risks associated with these banks given their specific market positions and financial metrics.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "54ad4f176b6aea131cb11db55a0178b35a69c131fcf9ca760cde559cfc826a66",
+      "title": "Analog Devices Inc Stock (ADI) Moved Down by 9.23% on Jun 23: Drivers Behind the Movement",
+      "url": "https://www.tradingkey.com/news/market-movers/261985688-market-movers-adi-20260623",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:15:00Z",
+      "summary": "Analog Devices Inc. (ADI) stock fell by 9.23% on June 23, 2026, due to a broad sell-off in the global semiconductor sector, triggered by SK Hynix's decision to slow high-bandwidth memory expansion and exacerbated by a hawkish Federal Reserve stance on interest rates. Institutional profit-taking after a recent rally, insider stock sales, and cyclical headwinds in the automotive segment also contributed to the decline. Key factors included concerns over AI capital expenditure, higher cost of capital affecting valuations, and specific vulnerabilities in ADI's automotive division.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "e61c8d93ce5c5cda9ffbd0457d3bd30af9fd2ce441f5aab1c162726dca685da6",
+      "title": "Argentine Economy Grew More Than Expected in First Quarter",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/argentine-economy-grew-more-than-expected-in-first-quarter",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-23T19:11:14Z",
+      "summary": "Economic growth in Argentina proved resilient in the first quarter, surpassing expectations even as unemployment rose and wages trailed inflation.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipdAU8blR8uE/v1/1200x-1.jpg"
+    },
+    {
+      "id": "381e4025a6e7bca456cf06e372b4cfd6f202230fcc9e3bde911dc70c7f25c3b0",
+      "title": "Why Uber\u2019s Business Model Gives it an Edge Against Robotaxis in the Ride-Hailing Race | Newswise",
+      "url": "https://www.newswise.com/articles/why-uber-s-business-model-gives-it-an-edge-against-robotaxis-in-the-ride-hailing-race2",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:05:00Z",
+      "summary": "New research from the University of Maryland's Robert H. Smith School of Business suggests that Uber's platform-based business model offers significant strategic and profit advantages over vertically integrated robotaxi services like Waymo. The study indicates that unless robotaxis achieve substantial cost savings, the platform model is more resilient, agile, and has better revenue potential, even leading to increased congestion and longer wait times for customers when robotaxis enter the market at low prices. This research challenges the conventional view that AI-driven technologies will easily replace human-based platforms and applies to other sharing economy businesses.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "bf2ad21683b574ac2310eaf1f98bfe2c1260c299db5add07a7d72ffd969f5066",
+      "title": "Amazon Prime Day shoppers plan to hold out for steep discounts",
+      "url": "https://www.spokesman.com/stories/2026/jun/23/amazon-prime-day-shoppers-plan-to-hold-out-for-ste/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T18:47:04Z",
+      "summary": "Shoppers are planning to hold out for significant discounts during Amazon Prime Day, with many tracking prices and expecting at least 30% off due to high gas prices and inflation. The event is still popular, with almost 90% of subscribers planning to shop, but consumers are relying on price comparisons and AI tools to ensure they get genuine deals. US consumers are projected to spend $26.3 billion online during the four-day sale, a 9% increase from last year.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "f41c1a8b2e7837fabdab222ab05a1b535bd7d8f9f4022c21ddd26ba678834024",
+      "title": "See the list of California's 200-plus billionaires who could be hit by the proposed wealth tax if it passes",
+      "url": "https://www.businessinsider.com/california-billionaires-list-wealth-tax-2026-1",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-23T18:34:33Z",
+      "summary": "California has over 200 billionaires that could be hit by a proposed wealth tax. Several have moved assets out of the state.",
+      "category": "economy",
+      "image": "https://i.insider.com/6a345286c7a58f814f0d4498?format=jpeg"
+    },
+    {
+      "id": "5a74c792e3340ad955ea693cd365d4d3ed062cd7865e860722bd7948381eb10d",
+      "title": "Uber investor's suit alleges rider safety took a back seat to the gig-work model",
+      "url": "https://www.businessinsider.com/uber-lawsuit-targets-ceo-board-over-driver-assault-claims-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-23T18:07:26Z",
+      "summary": "Uber faces a lawsuit alleging CEO Dara Khosrowshahi and the board mishandled sexual assault claims.",
+      "category": "economy",
+      "image": "https://i.insider.com/6a3a9f1140d09c7636327c62?format=jpeg"
+    },
+    {
+      "id": "0fd97ebc6790dd075cf1972cb24c331d37c07f00471b4673cd91c840558a95b8",
+      "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/dollar-jumps-to-highest-since-november-on-fed-rate-hike-bets",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-23T17:20:12Z",
+      "summary": "The dollar touched the highest level since November on Tuesday as traders cement views on the Federal Reserve hiking interest rates this year.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idV8JxT8FWZI/v2/1200x-1.png"
+    },
+    {
       "id": "634812fdbbeb8434f714bf50fe31eea78027a23d7f0f5330a6602403d6a14d8d",
       "title": "BIT: Unsustainable Distribution And Inflation Make This Fund Unattractive",
       "url": "https://seekingalpha.com/article/4917034-bit-unsustainable-distribution-and-inflation-make-fund-unattractive?source=feed_all_articles",
       "source": "Seeking Alpha - Latest Articles",
       "source_id": "seekingalpha_all",
+      "published_at": "2026-06-23T16:45:47Z",
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "45ce36979ac0f5f82d9574f445c186e5f73c088fa309d1dce187f088c4e14cc7",
+      "title": "BIT: Unsustainable Distribution And Inflation Make This Fund Unattractive",
+      "url": "https://seekingalpha.com/article/4917034-bit-unsustainable-distribution-and-inflation-make-fund-unattractive?source=feed_tag_etf_portfolio_strategy",
+      "source": "Seeking Alpha - ETFs",
+      "source_id": "seekingalpha_etfs",
       "published_at": "2026-06-23T16:45:47Z",
       "summary": null,
       "category": "economy",
@@ -411,6 +521,17 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHWdSKg_jdxc/v0/1200x-1.jpg"
     },
     {
+      "id": "f5933490f9f0ed48c476e5b88fc3b23f17b7c2c8d46ab59394167919ddb376db",
+      "title": "Sony Returns to US Bond Market After Nearly Three Decades",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-22/sony-plans-its-first-dollar-bond-sale-in-nearly-three-decades",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-22T20:10:03Z",
+      "summary": "Sony Group Corp. was still marketing the original PlayStation when it last tapped the US investment-grade bond market. Almost three decades later, it\u2019s made a comeback.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC04yg5Jd0P8/v1/1200x-1.jpg"
+    },
+    {
       "id": "80ad0556be1886fe237ee19a0885b046482a14e621e38e7889f5839c9db62f4c",
       "title": "Russia\u2019s war economy has problems\u2014but is not about to crash",
       "url": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
@@ -539,127 +660,6 @@
       "source_id": "federalreserve_press_all",
       "published_at": "2026-06-17T18:00:00Z",
       "summary": "Federal Reserve issues FOMC statement",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "6a35ed96da249fba1c6b7d3949911145cc323c07a6736ed526d4cce48fba1d22",
-      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-17T18:00:00Z",
-      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "4597b294bca692063edb69e026264071b2ccd73e2b2fe1474866610b0978181d",
-      "title": "New Era At The Federal Reserve",
-      "url": "https://seekingalpha.com/article/4915697-new-era-federal-reserve?source=feed_tag_forex",
-      "source": "Seeking Alpha - Forex",
-      "source_id": "seekingalpha_forex",
-      "published_at": "2026-06-17T15:15:00Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "109312a70f289d558f29684036a7940fc21bb6d646c2258dff9a847bbacdb415",
-      "title": "Federal Reserve holds interest rates steady and hints at rate hike later this year",
-      "url": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
-      "source": "NPR \u2014 Business",
-      "source_id": "npr_business",
-      "published_at": "2026-06-17T09:00:00Z",
-      "summary": "The Federal Reserve left its benchmark interest rates unchanged Wednesday, and signaled its next move could be a rate increase. It's the first rate decision under the new Fed chairman, Kevin Warsh.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "42d094a493afd1e9962c46f4f477f21c62994a439e5e05130c0b4aa0ff9f899b",
-      "title": "Swiss to vote on whether to cap population at 10 million",
-      "url": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-bus-2091-xml-mrss",
-      "source": "Deutsche Welle (English) \u2014 Business",
-      "source_id": "dw_en_business",
-      "published_at": "2026-06-13T05:35:00Z",
-      "summary": "On June 14, Swiss voters will be able to decide on a far-right initiative to curb future immigration. What will it mean for the economy \u2014 and the country's European neighbors \u2014 if they approve the proposal?",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "bab70b4b1299f2aed017870a84ac715d3c4d6baf7d3cefe993eb07958dbce047",
-      "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-11T15:00:00Z",
-      "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "0b839a8ed13ce0ade01f7d2b0d13ea5ca3f7156fc852d1995a46c784f4d99a90",
-      "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-09T20:00:00Z",
-      "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "7337d567d38ee2c6bce96a208dac87b90d7c7e324bc1f909eb3dc9a7505617ae",
-      "title": "China is innovative. Its economy is a mess. Which matters more?",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/08/china-is-innovative-its-economy-is-a-mess-which-matters-more",
-      "source": "The Economist - Finance and Economics",
-      "source_id": "economist_finance_economics",
-      "published_at": "2026-06-08T19:17:35Z",
-      "summary": "A question that will define the 21st century",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "77be205f67eaa6d4423e1c44d3d7d1da32f69a0c75fc067bf30efac17e3c59d9",
-      "title": "New Fed May Sap Market's Reaction Function To U.S. Jobs Report",
-      "url": "https://seekingalpha.com/article/4912339-new-fed-may-sap-markets-reaction-function-to-us-jobs-report?source=feed_tag_forex",
-      "source": "Seeking Alpha - Forex",
-      "source_id": "seekingalpha_forex",
-      "published_at": "2026-06-05T11:20:00Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "ad459f5a653940ef6b54cd359225e1da92f1cfd0e7f6def858344fa0e487439b",
-      "title": "How China keeps North Korea's economy alive",
-      "url": "https://www.dw.com/en/how-china-keeps-north-korea-s-economy-alive/a-77295494?maca=en-rss-en-bus-2091-xml-mrss",
-      "source": "Deutsche Welle (English) \u2014 Business",
-      "source_id": "dw_en_business",
-      "published_at": "2026-06-01T08:38:00Z",
-      "summary": "Xi Jinping is visiting North Korea for the first time since 2019. Pyongyang relies on China for 95% of its legitimate trade; hacking, arms deals and remittances also help it stay afloat.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "24101da6945978a98c872b279e984f36cc2586a4a5bf8c5f95f3a7bbf1c32f8a",
-      "title": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-05-28T15:00:00Z",
-      "summary": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "c05ebe2c691235a5affb61e17c1d58cec0e6cbb15bd2432119a61fc741e07cef",
-      "title": "Jefferson, Global Economic Developments and the U.S. Economy",
-      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm",
-      "source": "Federal Reserve - Speeches",
-      "source_id": "federalreserve_speeches",
-      "published_at": "2026-05-28T00:00:00Z",
-      "summary": "Speech At the 2026 Bank of Japan-Institute for Monetary and Economic Studies Conference, Tokyo, Japan",
       "category": "economy",
       "image": null
     }

@@ -1,7 +1,7 @@
 {
   "key": "crypto",
   "label": "Crypto",
-  "generated_at": "2026-06-23T17:12:34Z",
+  "generated_at": "2026-06-23T20:14:02Z",
   "articles": [
     {
       "id": "c1e8fca4fe6ff5f3f70044fd313ac5ff328f4222fca5f72f181bb21878ba844f",
@@ -15,6 +15,303 @@
       "image": null
     },
     {
+      "id": "c945f3b43ad85c32df34b84fb36a8f9bd04801b93461c4f4e10dd23309162834",
+      "title": "\"Black box\" found near crash site of Ethiopian Airlines flight",
+      "url": "https://en.wikinews.org/wiki/\"Black_box\"_found_near_crash_site_of_Ethiopian_Airlines_flight",
+      "source": "Wikinews - Published Articles",
+      "source_id": "wikinews_published",
+      "published_at": null,
+      "summary": null,
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "2df850366df69d4593f97a843b883702d4e8d96e9f70520488f66a9753b3bac4",
+      "title": "News24 | Trump allies defend Iran deal to assure Israel of \u2018unbreakable bond\u2019",
+      "url": "https://www.news24.com/world/trump-allies-defend-iran-deal-to-assure-israel-of-unbreakable-bond-20260623-0481",
+      "source": "News24 \u2014 Top Stories (South Africa)",
+      "source_id": "news24_topstories",
+      "published_at": null,
+      "summary": "American allies of US President Donald Trump this week defended him to an Israeli public anxious about a US interim deal with Iran and White House criticism that together appeared to signal fissures in Israel\u2019s decades-old alliance with Washington.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "8a249a66378615973dd6bd9796f01011b5d4836de18f6c6e179c50eb543aa9ab",
+      "title": "Cracks in the crypto world? This top data center provider is spending $500 million to turn former cryptomining sites into AI cloud facilities",
+      "url": "https://www.techradar.com/pro/cracks-in-the-crypto-world-this-top-data-center-provider-is-spending-usd500-million-to-turn-former-cryptomining-sites-into-ai-cloud-facilities",
+      "source": "TechRadar \u2014 All",
+      "source_id": "techradar",
+      "published_at": "2026-06-23T20:05:00Z",
+      "summary": "AiOnX pays $500 million for major stake in Genesis Digital Assets, a US-based Bitcoin miner, plans to convert sites into AI cloud centers serving hyperscalers.",
+      "category": "crypto",
+      "image": "https://cdn.mos.cms.futurecdn.net/Y5BaBkp9uJ2RQnJbCbDEsA-1280-80.jpg"
+    },
+    {
+      "id": "ea6f9760a4087f571096f0ffd3d55dd8113ec6dd8e70cd968d3ebd58e432d0e0",
+      "title": "Show HN: Pool \u2013 A lightweight financial account with members and rules",
+      "url": "https://poolmoney.com/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T20:00:44Z",
+      "summary": "Hey all, we\u2019ve been working on a new consumer financial account called Pool. It\u2019s designed to be ephemeral and used for a specific purpose.<p>Checking accounts have turned into a junk drawer: money flies in and out and we hope for the best. That works well enough, but at some point there&#x27;s money that needs to be shared or tracked for an ongoing, dedicated purpose. Shared use cases (think house funds, nanny cards, classrooms, side projects, Discord servers, and more) are especially painful. Checking accounts, spreadsheets, P2P apps, and tracking apps fall short. We wanted something more like a silverware drawer. Purpose-built compartments that everyone understands.<p>We wanted an account that would hold money, support multiple members with assigned roles, and offer spending rules, permissions, and cards. Customize your Pool as you like and use it for a day or a decade. It\u2019s meant to complement, not replace, your primary account. This didn\u2019t really exist, so we built it.<p>With the ongoing \u201cagent making payments\u201d conversation, a safe space that is customizable and not necessarily \u201cyour permanent checking account\u201d feels especially needed right now. Would love to know your thoughts! We are 18+ and US Only for now.<p>Thanks.<p>PS - I started Braid and shut it down in 2023, and this community was especially supportive during that time. I really appreciated it.<p>*Pool is a financial technology company, not a bank. All banking services provided by First Internet Bank, Member FDIC. The Pool Visa\u00ae Debit Card is issued by First Internet Bank, pursuant to a license from Visa U.S.A. Inc.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "7dc2043b0878050d0b72a31fbcc684324f109421846b09c42496906be6221740",
+      "title": "Crypto isn't the problem with the US economy, says senator",
+      "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "source_id": "cointelegraph",
+      "published_at": "2026-06-23T19:49:59Z",
+      "summary": "Louisiana Senator John Kennedy largely dismissed what he called the \u201cpromotion\u201d of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+      "category": "crypto",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg"
+    },
+    {
+      "id": "26ccd4f26cdb6b979f5e754d21364a4e344aae9dc0b2297a13465dfd1880f494",
+      "title": "Bloomberg Crypto 6/23/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/bloomberg-crypto-6-23-2026-video",
+      "source": "Bloomberg \u2014 Technology",
+      "source_id": "bloomberg_tech",
+      "published_at": "2026-06-23T19:34:12Z",
+      "summary": "\"Bloomberg Crypto\" covers the people, transactions, and technology shaping the world of decentralized finance. Today's guests: Strive CEO Matt Cole, Dragonfly COO Lindsay Lin, Vanderbilt Law School Professor & Associate Dean Yesha Yadav, and RWA Marketplace TX Co-Founder Ashely Ebersole. (Source: Bloomberg)",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iKCPYnXTCzq4/v3/1200x-1.jpg"
+    },
+    {
+      "id": "08ad152db3c0bd6818d45a2b1ae9c9f6102b2dafe25cac0b9dc9c3cc803033e8",
+      "title": "Is AI 'one big bubble?' Behind the tech selloff",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867633/ai-selloff-tech-stocks-bubble-nasdaq",
+      "source": "NPR \u2014 News",
+      "source_id": "npr_news",
+      "published_at": "2026-06-23T19:31:54Z",
+      "summary": "Investors are selling off AI-related stocks as doubts are starting to surface over whether the massive spending on AI is worth the investment or whether \"it's one big bubble.\"",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "ef352c381373bc1f6fc9fca173f69a807a3db70128c7dc1019e85c00b01a901c",
+      "title": "Macrofinancial Implications of Foreign Crypto Assets for Developing Economies [pdf]",
+      "url": "https://www.imf.org/-/media/files/publications/ftn063/2023/english/ftnea2023012.pdf",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T19:25:56Z",
+      "summary": null,
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "d06566d3eae229bc3ab8c78582a1091c89059652fc8f30fc037b33af36a83382",
+      "title": "Strive Is Buying Bitcoin Hand-Over-Fist, CEO Says",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/strive-is-buying-bitcoin-hand-over-fist-ceo-says-video",
+      "source": "Bloomberg \u2014 Technology",
+      "source_id": "bloomberg_tech",
+      "published_at": "2026-06-23T19:24:09Z",
+      "summary": "Strive Inc. Chief Executive Officer Matt Cole says this is a great time to buy Bitcoin as the price keeps falling. He says their Bitcoin holdings are up to 20,000 from 5,000 last fall. He speaks on \"Bloomberg Crypto.\" (Source: Bloomberg)",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iTyCjH4bsIN4/v3/1200x-1.jpg"
+    },
+    {
+      "id": "1fca1e8aa643daceb94870da141430e5550ebab0034bdeca4448082a9d3e2892",
+      "title": "Macklem Says Bank Capital Rule Change Alone Won\u2019t Spark Lending",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/macklem-says-bank-capital-rule-change-alone-won-t-spark-lending",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-23T19:14:00Z",
+      "summary": "Looser bank capital rules alone won\u2019t boost economic activity, according to Bank of Canada Governor Tiff Macklem, echoing analysts who questioned whether a recent regulatory change would immediately spur more lending without borrowers at the door.",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iMqP9LZKLOx4/v1/1200x-1.jpg"
+    },
+    {
+      "id": "1b8bfc380d2fc5edac99f912111180ddd3f4817fedf3ab858727f8d4815c8bc1",
+      "title": "Multi-year Bitcoin holder selling falls to 19-month low as halving model flags new market bottom date",
+      "url": "https://cointelegraph.com/markets/og-bitcoin-selling-hits-19-month-low-as-halving-model-flags-new-bottom-date-analyst?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "source_id": "cointelegraph",
+      "published_at": "2026-06-23T19:09:26Z",
+      "summary": "OG Bitcoin holders' spending dropped to a 19-month low, as market cycle indicators point to September as a potential market bottom.",
+      "category": "crypto",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-206755-bitcoin-dip-making-perfect-bottom-says-analyst-will-btc-rally-to-148k.jpg"
+    },
+    {
+      "id": "098592f546ed51c5aa58d14a6dd0e1728974a0adcac358874125c5d5c839d81e",
+      "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
+      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+      "source": "VentureBeat",
+      "source_id": "venturebeat",
+      "published_at": "2026-06-23T18:53:03Z",
+      "summary": "<p>While many enterprises have already begun integrating AI-generated images, visuals, graphics and videos into their production workflows \u2014 there is also a<a href=\"https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012\"> growing pool of data</a> and subjective commentary indicating AI imagery ultimately looks non-distinct, monotonous, and too unoriginal to ensure a brand and its assets stand out from the pack. That it&#x27;s &quot;AI slop,&quot; in other words. </p><p>AI creative tools startup Krea is hoping to change that trend by<a href=\"https://x.com/krea_ai/status/2069435590995812396\"> opening up the weights</a> to its new frontier AI image model Krea 2 as two versions, &quot;<a href=\"https://huggingface.co/krea/Krea-2-Raw\">Krea 2 Raw</a>&quot; and &quot;<a href=\"https://huggingface.co/krea/Krea-2-Turbo\">Krea 2 Turbo</a>,&quot; under a <a href=\"https://huggingface.co/krea/Krea-2-Raw/blob/main/LICENSE.pdf\">custom license </a>that requires firms with more than 50 seats to pay for Enterprise usage, and mandates all users of any size to implement technical safeguards to <!-- -->prevent the generation of illegal materials, non-consensual intimate imagery (NCII), child sexual abuse material (CSAM), or defamatory assets.</p><p>Both models are available for public download on <a href=\"https://huggingface.co/krea\">Hugging Face</a>. The company says the models provide more visual variety than typical AI generators, while maintaining high prompt accuracy, fidelity, and quality. Importantly, they also offer enterprises and users the ability to customize the generative outputs much more than typical proprietary or even other open source models. </p><p>And, for those seeking to generate imagery at high-throughput, <a href=\"https://www.krea.ai/blog/krea-2-turbo\">Krea 2 Turbo&#x27;s generation speed is only 2 seconds</a>, making it among the fastest now available across open and proprietary AI image generation models.</p><h2><b>AI Image Generator API Speed &amp; Licensing Benchmarks (Mid-2026)</b></h2><table><tbody><tr><td><p><b>Model / Generator</b></p></td><td><p><b>Developer / Platform</b></p></td><td><p><b>Avg. Generation Time</b></p></td><td><p><b>Licensing &amp; Commercial Use</b></p></td><td><p><b>Key Characteristics</b></p></td></tr><tr><td><p>FLUX.1 [schnell] (fast)</p></td><td><p>Prodia</p></td><td><p>0.5 seconds</p></td><td><p>Open Weights (Apache 2.0).</p><p> Fully permissive for free commercial use.</p></td><td><p>Highly optimized endpoint utilizing step distillation to deliver sub-second generation times, representing the absolute floor for current API latency.</p></td></tr><tr><td><p>Z-Image Turbo</p></td><td><p>Replicate / fal.ai</p></td><td><p>1.8 seconds</p></td><td><p>Proprietary.</p><p> Commercial rights require active API usage contracts.</p></td><td><p>Designed for instantaneous inference bursts. Both Replicate and fal.ai achieve identical 1.8-second median times on this model.</p></td></tr><tr><td><p><b>Krea 2 Turbo</b></p></td><td><p><b>Krea</b></p></td><td><p><b>2.0 seconds</b></p></td><td><p><b>Open Weights / Proprietary Hybrid.</b></p><p><b> Available via platform trial or API.</b></p></td><td><p><b>Maintains the base model&#x27;s compatibility with style references and LoRAs while utilizing Trajectory Distribution Matching (TDM) to accelerate the creative ideation loop.</b></p></td></tr><tr><td><p>Midjourney v8.1 (Turbo Mode)</p></td><td><p>Midjourney</p></td><td><p>3 \u2013 6 seconds </p></td><td><p>Proprietary. Commercial use requires an active Standard, Pro, or Mega tier subscription. </p></td><td><p>Delivers generation speeds &quot;three times faster than v8&quot; while maintaining the model&#x27;s signature &quot;painterly realism with sophisticated lighting,&quot; though it requires a &quot;higher credit cost&quot;. </p></td></tr><tr><td><p>FLUX.2 [klein] 4B</p></td><td><p>Black Forest Labs</p></td><td><p>3.9 seconds</p></td><td><p>Open Weights.</p><p> Permissive commercial use.</p></td><td><p>The lightweight 4-billion parameter variant of the FLUX.2 architecture, balancing prompt adherence with high-speed generation.</p></td></tr><tr><td><p>FLUX.2 [klein] 9B</p></td><td><p>Black Forest Labs</p></td><td><p>4.6 seconds</p></td><td><p>Open Weights.</p><p> Permissive commercial use.</p></td><td><p>The medium-weight 9-billion parameter open model. It scales up compositional intelligence while keeping generation firmly under the 5-second barrier.</p></td></tr><tr><td><p>MAI Image 2 Efficient</p></td><td><p>Microsoft</p></td><td><p>4 \u2013 7 seconds </p></td><td><p>Proprietary. Commercial use requires consumption-based API billing via Azure AI Foundry. </p></td><td><p>A throughput-optimized variant explicitly designed to &quot;out-pace Google\u2019s Imagen Flash&quot;. It makes a slight trade-off in detail for &quot;substantially lower latency&quot; that suits &quot;automated pipelines&quot; perfectly. </p></td></tr><tr><td><p>Midjourney v8.1 (Fast Mode)</p></td><td><p>Midjourney</p></td><td><p>5 \u2013 9 seconds </p></td><td><p>Proprietary. Commercial use requires an active Standard, Pro, or Mega tier subscription. </p></td><td><p>The standard operational mode for v8.1. Average wait times &quot;consistently lands below 10 seconds for most prompts&quot; while offering &quot;excellent handling of complex multi-element scenes&quot;. </p></td></tr><tr><td><p>FLUX.2 [dev]</p></td><td><p>fal.ai / DeepInfra</p></td><td><p>6.1 \u2013 6.4 seconds</p></td><td><p>Open Weights (Non-Commercial).</p><p> Strictly for research and non-commercial development.</p></td><td><p>The developer-focused research model. API endpoint optimizations cause slight variance, with fal.ai operating at 6.1 seconds and DeepInfra at 6.4 seconds.</p></td></tr><tr><td><p>Midjourney v8.1 (Relax Mode)</p></td><td><p>Midjourney</p></td><td><p>8 \u2013 14 seconds </p></td><td><p>Proprietary. Commercial use requires an active Standard, Pro, or Mega tier subscription. </p></td><td><p>Processes standard 1024x1024 resolution images without consuming fast GPU hours. The model retains &quot;strong compositional instincts&quot; and &quot;consistent color grading and mood&quot;. </p></td></tr><tr><td><p>FLUX.2 [pro]</p></td><td><p>Black Forest Labs</p></td><td><p>11.1 seconds</p></td><td><p>Proprietary.</p><p> Commercial rights require paid API consumption.</p></td><td><p>The closed, professional-grade tier. It drops extreme step-distillation to prioritize high-fidelity commercial rendering and strict spatial alignments.</p></td></tr><tr><td><p>Seedream 4.0</p></td><td><p>BytePlus</p></td><td><p>11.6 seconds</p></td><td><p>Proprietary.</p><p> Commercial use via BytePlus enterprise contracts.</p></td><td><p>The base commercial generation model for the Seedream architecture, focused on reliable, standard-resolution outputs.</p></td></tr><tr><td><p>MAI Image 2 Standard</p></td><td><p>Microsoft</p></td><td><p>12 \u2013 20 seconds </p></td><td><p>Proprietary. Commercial use requires consumption-based API billing via Azure AI Foundry. </p></td><td><p>Operates as a &quot;full-quality output optimized for photorealism&quot;. It acts as a literal renderer, delivering &quot;high-fidelity skin tones and material textures&quot; and &quot;strong literal prompt adherence&quot;. </p></td></tr><tr><td><p>Nano Banana Pro (Gemini 3 Pro Image)</p></td><td><p>Google DeepMind</p></td><td><p>17.7 seconds</p></td><td><p>Proprietary.</p><p> Commercial rights granted via Gemini API terms.</p></td><td><p>Prioritizes exact semantic accuracy and prompt adherence through an extended reasoning phase, trading raw speed for complex contextual execution.</p></td></tr><tr><td><p>Seedream 4.5</p></td><td><p>BytePlus</p></td><td><p>18.2 seconds</p></td><td><p>Proprietary.</p><p> Commercial use via BytePlus enterprise contracts.</p></td><td><p>The upgraded high-fidelity variant, requiring an additional 6.6 seconds of compute time over the 4.0 version to refine complex textures and text rendering.</p></td></tr><tr><td><p>Krea 2 Large</p></td><td><p>Krea</p></td><td><p>23.7 seconds</p></td><td><p>Proprietary / Open Weights.</p><p> Commercial rights depend on deployment.</p></td><td><p>The un-distilled foundation model. It ignores the speed-focused Trajectory Distribution Matching of the Turbo variant to maximize aesthetic polish and structural stability.</p></td></tr><tr><td><p>FLUX.2 [max]</p></td><td><p>Black Forest Labs</p></td><td><p>25.6 seconds</p></td><td><p>Proprietary.</p><p> Closed enterprise API.</p></td><td><p>The heaviest parameter model in the FLUX lineup. It operates exclusively as a deep reasoning renderer for complex commercial assets.</p></td></tr><tr><td><p>GPT-Image-2</p></td><td><p>OpenAI</p></td><td><p>200.8 seconds</p></td><td><p>Proprietary.</p><p> Full commercial usage under standard OpenAI terms.</p></td><td><p>A massive outlier in the latency landscape. It dedicates over three minutes to complex, multi-step semantic reasoning, likely utilizing an expansive chain-of-thought process prior to finalizing pixel outputs.</p></td></tr></tbody></table><p><i>Sources: </i><a href=\"https://artificialanalysis.ai/image/models\"><i>Artificial Analysis</i></a><i>, </i><a href=\"https://www.krea.ai/blog/krea-2-turbo\"><i>Krea</i></a><i>, </i><a href=\"https://www.mindstudio.ai/blog/midjourney-v8-1-vs-microsoft-mai-image-2\"><i>MindStudio.AI</i></a><i></i></p><h2><b>Architectural bifurcation and the 12B parameter Transformer</b></h2><p>At the <a href=\"https://www.krea.ai/blog/krea-2-technical-report\">technical core</a> of the release sits an architectural framework built entirely from scratch: a Diffusion Transformer scaled to 12 billion parameters. </p><p>Rather than deploying a single, heavily fine-tuned model for all downstream tasks, Krea open-sources two highly differentiated checkpoints captured at distinct milestones of the model&#x27;s training lifecycle.</p><p>Departing from multi-stream configurations for structural clarity, the core engine standardizes on a single-stream transformer block architecture wherein attention and MLP layers are shared natively between text and image tokens. </p><p>To maximize computational efficiency, Krea incorporates a SwiGLU MLP layer operating at a 4x expansion factor alongside Grouped-Query Attention (GQA) combined with gated sigmoid attention layers to stabilize training dynamics. </p><p>Timestep conditioning is heavily optimized; the network replaces traditional per-block MLP modules with a lightweight, per-block tunable bias term, successfully cutting total block modulation parameters by 20% to 30% and reallocating that parameter budget directly into core layers. </p><p>Positional encoding is managed via a 3D Axial Rotary Position Embedding (RoPE) scheme mapping across individual frame, height, and width coordinate</p><p><b>Krea 2 Raw </b>represents an undistilled base release checkpoint taken directly from the mid-training stage of the larger Krea 2 Medium development cycle. </p><p>Because it lacks post-training alignment, reinforcement learning from human feedback (RLHF), or final aesthetic distillation, Krea 2 Raw functions as a blank canvas. </p><p>It retains a vast, uncurated latent space that makes it poorly suited for immediate out-of-the-box prompting, but highly optimized for structural training. </p><p>Operating this model via the Hugging Face `diffusers` library requires a heavy compute footprint, executing via `Krea2Pipeline` in `torch.bfloat16` precision across 52 inference steps with a guidance scale of 3.5.</p><p>To accelerate early-stage architectural convergence during the first epoch of this 256px baseline training phase, Krea applied internal Representation Alignment (iREPA) techniques before decoupling them to let the underlying model develop independent structural representations.</p><p>The second checkpoint, <b>Krea 2 Turbo,</b> represents the opposite end of the optimization spectrum. </p><p>It is a distilled, post-trained variant derived from Krea 2 Medium. Through knowledge distillation, the network&#x27;s complex multi-step generation sequence is compressed into an incredibly lean operational profile. </p><p>Krea 2 Turbo slashes the required generation cycle down to just 8 inference steps with a guidance scale of 0.0, enabling it to render native 2k resolution imagery on standard consumer-grade hardware in <b>approximately 2 seconds.</b></p><p>The underlying latent representations for both models are optimized through the integration of the Qwen Image VAE and the FLUX 2 VAE to guarantee rapid convergence while maintaining high reconstruction fidelity.</p><h2><b>Data and training</b></h2><p>The underlying dataset strategy for the Krea 2 family relies on a hybrid blend of publicly harvested data, third-party licensed image repositories, and highly curated synthetic datasets built via proprietary generation methods. </p><p>Prior to final training, Krea processed these collections through rigorous algorithmic filters designed to strip out duplicative frames, low-resolution media, and explicit or harmful material, ensuring high fidelity and strong prompt compliance across both models.</p><p>Krea enforces a <i>zero-synthetic data policy</i> within its primary pretraining mix. </p><p>To prevent the upper-bound quality limitations and output biases induced by AI-generated data, the engineering team deployed custom in-house filtering classifiers built on top of DINOv3 and SigLIP-2 architectures to completely purge synthetic images at scale. </p><p>Furthermore, rather than using traditional model-based aesthetic filters that inadvertently strip away artistic intents like motion blur, Krea preserves wide stylistic boundaries. </p><p>The team trained a Sparse Autoencoder (SAE) on SigLIP-2 embeddings to isolate and filter out genuine visual artifacts using an unsupervised tagging framework. </p><h2><b>Krea 2 Raw vs. Krea 2 Turbo: Distinctions and use cases</b></h2><p>The release establishes a highly deliberate operational paradigm for professional studios and independent creators: &quot;train on Raw, generate with Turbo.&quot; This workflow leverages the unique architectural properties of both open-weight files to optimize both training accuracy and rendering speed.</p><p>In creative production pipelines, engineers can use Krea 2 Raw to train custom Low-Rank Adaptations (LoRAs) or domain-specific fine-tunes. </p><p>Because the Raw checkpoint contains no baked-in stylistic opinions or aggressive post-training constraints, it absorbs unique aesthetic directions\u2014such as architectural drafting styles, specific brand assets, or complex lighting designs\u2014with high fidelity and zero stylistic interference. </p><p>Once the training phase is complete, creators can port those exact LoRAs directly over to Krea 2 Turbo.</p><p>This methodology is reflected in Krea&#x27;s own development ecosystem, which hosts an in-house collection of custom LoRAs trained entirely on the Raw foundation model but optimized for execution within Turbo workflows. </p><p>On the user-facing application layer, Krea integrates this dual-engine setup with a powerful style transfer system. Rather than relying on erratic text descriptions to achieve an artistic look, users can feed multiple style reference images directly into the system. </p><p>Krea 2 maps these references across its latent space, allowing creators to isolate individual aesthetic components, combine distinct moodboards, adjust style strength via generative sliders, and fine-tune batch variation levels to maintain visual cohesion across large-scale design iterations.</p><p>To address the gap between raw textual training captions and brief user inputs, Krea paired this suite with an advanced LLM Prompt Expander. Refined via Generalized Deep Q-Network Preference Optimization (GDPO) and trained on synthetic thinking traces to preserve intent reconstruction, the expander applies a photographic-medium bias to photorealistic requests and integrates an active DINOv3 embedding diversity score across rollout groups to prevent automated prompting routines from collapsing into a singular house style.</p><p>While Krea 2 Medium and Krea 2 Large remain the company&#x27;s flagship models for high-fidelity composition and absolute stylistic adherence, Turbo fills the critical role of rapid visual ideation. </p><p>It serves as an interactive scratchpad for early concept creation, quick prompt experimentation, and iterative art direction where near-instantaneous feedback loops are required to maintain creative momentum.</p><h2><b>The custom license and its particulars</b></h2><p>The open-weight assets deploy under the <a href=\"https://huggingface.co/krea/Krea-2-Raw/blob/main/LICENSE.pdf\">Krea 2 Community License Agreemen</a>t operating alongside an official Acceptable Use Policy. </p><p>At a macro level, this legal framework mirrors recent industry trends toward commercial-use permissions that target small businesses while restricting large enterprise exploitation. </p><p>The license explicitly permits individuals, independent creators, and <i>small</i> commercial companies to build applications, monetize generated imagery, and integrate the open weights directly into commercial software products without royalty obligations. </p><p>Furthermore, Krea states that it &quot;does not claim copyright or other intellectual property rights over content generated by users of this model,&quot; leaving output ownership entirely in the hands of the operator.</p><p>For organizations scaling beyond this baseline, the ecosystem shifts into a paid, custom-tier structure. </p><p>While Krea&#x27;s official documentation lacks a rigid revenue threshold defining a &quot;large enterprise,&quot; the company structurally demarcates the boundary based on organizational footprint: standard commercial usage caps at a &quot;Business&quot; tier accommodating up to 50 seats. </p><p>Therefore, any entity requiring more than 50 seats, Single Sign-On (SSO) integrations, guaranteed Service Level Agreements (SLAs), or custom Data Processing Agreements (DPAs) qualifies as an Enterprise. </p><p>These larger entities fall outside the free Community License scope and must pay for a custom commercial license\u2014operating under &quot;Custom Terms of Service&quot;\u2014negotiated directly with Krea&#x27;s sales team. </p><p>Additionally, developer access to Krea&#x27;s official API remains entirely decoupled from the open-weights release; API usage operates as a distinct, paid service billed dynamically on a per-generation basis (measured in microdollars) and requires a prepaid USD balance independent of standard monthly compute subscriptions.</p><p>However, a close examination reveals a significant structural shift regarding legal and behavioral compliance for all self-hosted deployments. </p><p>Unlike traditional open-source permissions like the MIT or Apache 2.0 licenses\u2014which grant unconditional usage rights and completely waive liability\u2014the Krea 2 Community License implements strict downstream behavioral guardrails.</p><p>Because Krea relinquishes centralized control over the downstream deployment of its open weights, the contract legally binds deployers to enforce content moderation protocols at the infrastructure layer. </p><p>Under the terms of the agreement, any developer or platform hosting Krea 2 models must implement active input/output classifiers or equivalent content filtering mechanisms to actively prevent the generation of illegal materials, non-consensual intimate imagery (NCII), child sexual abuse material (CSAM), or defamatory assets. </p><p>Developers who fail to deploy these defensive safety layers stand in immediate breach of contract, giving Krea the explicit right to update model weights or revoke access to the model family entirely.</p><h2><b>Background on Krea</b></h2><p>Founded in 2022 by audiovisual systems engineering dropouts V\u00edctor Perez and Diego Rodriguez Prado, San Francisco-based Krea initially captured market traction as a highly fluid user interface layer built to orchestrate disparate, third-party AI generative engines. </p><p>The startup&#x27;s rapid scaling via product-led adoption culminated in an aggregate<a href=\"https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/\"> $83 million </a>in disclosed venture capital funding from major VCs including Andreessen Horowitz and Bain Capital Ventures, as well as early-stage institutional backers including Pebblebed, Abstract Ventures, and Gradient Ventures.</p><p>The company&#x27;s user base surpassed <a href=\"https://www.krea.ai/\">30 million individuals across 191 countries as of June 2026</a>, according to its website. </p><p>The open-weights launch of the Krea 2 model family represents the culmination of Krea\u2019s deliberate evolution from a multi-model SaaS aggregator into a self-sustaining media research lab. </p><p>Early in its lifecycle, Krea focused on building workflow tools, editing systems, and a node-based automation pipeline that allowed digital artists to unify models from competitors like Runway, Midjourney, and Adobe under a single subscription. </p><p>However, to insulate itself against upstream platform dependencies and supplier margin pressures, the company aggressively shifted toward developing proprietary architectures. This transition began taking public shape in July 2025 with the open-weights release of the custom-curated FLUX.1 Krea checkpoint, followed in October 2025 by Krea Realtime 14B\u2014an autoregressive video model distilled from Wan 2.1 capable of rendering 11 frames per second on localized enterprise hardware.</p><p>This underlying technical maturation parallels Krea&#x27;s accelerating push into high-end enterprise workflows. Large-scale creative production operations have shifted toward treating Krea as core creative infrastructure; for example, the digital creative services platform </p><p><a href=\"https://www.youtube.com/watch?v=OLNbn4L2fUM\">Superside reported migrating workflows</a> from fragmented open-source setups to route roughly 80 percent of its total AI generative production through Krea. </p><p>Furthermore, Krea established a strategic co-development partnership with Copenhagen-headquartered architecture firm <a href=\"https://henninglarsen.com/news/we-re-partnering-with-krea\">Henning Larsen</a> to build highly restricted, domain-specific design tools tuned to meet the compliance frameworks mandated by the EU AI Act. </p><p>By releasing Krea 2 Raw and Turbo as open weights, Krea is continuing its expansion from an AI tools provider to being a model provider in its own right.</p><h2><b>An alternative to typical rigid AI imagery APIs?</b></h2><p>Creators are focusing heavily on the structural freedom offered by the unaligned Raw checkpoint, viewing it as an important alternative to the locked-down APIs provided by closed-source models.</p><p>Through the<a href=\"https://x.com/krea_ai/status/2069435590995812396\"> official announcement on X,</a> Krea emphasized the foundational shift this launch represents for open AI workflows.</p><p>Developers note that by treating AI as an &quot;actual creative medium&quot; that feels &quot;raw, flexible, unopinionated, and unconstrained,&quot; Krea is intentionally providing an infrastructure that creators can &quot;break if [they] want to,&quot; moving far away from the rigid safety guardrails that frequently limit the visual range of competing enterprise tools.</p><p>As independent model builders begin compiling the Hugging Face repositories, the practical value of the release will be determined by how effectively the open-source community can scale customized LoRAs using Krea 2 Raw.</p><p>By providing clear commercial terms and lowering hardware entry barriers via Turbo&#x27;s 8-step inference pipeline, Krea has introduced a highly competitive alternative to the open-weights market, challenging dominant models by prioritizing artistic control over centralized corporate alignment.</p>",
+      "category": "crypto",
+      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=300&q=30"
+    },
+    {
+      "id": "be72ddc7efed31a59b4f8bb7636297133d0e2790dfd8e5b3de6f7f98a0f5a9ce",
+      "title": "'A very different Afghanistan: Violence now linked to socioeconomic pressures'",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260623-a-very-different-afghanistan-violence-now-linked-to-socioeconomic-pressures",
+      "source": "France 24 (English) \u2014 Top Stories",
+      "source_id": "france24_en",
+      "published_at": "2026-06-23T18:47:08Z",
+      "summary": "Fran\u00e7ois Picard is pleased to welcome Silvia Boccardi, freelance journalist based in Rome. Nearly five years after the Taliban's return to power, Afghanistan occupies an uneasy position in international politics. As European governments increasingly seek practical engagement with the authorities in Kabul, questions persist over whether diplomatic contact can alleviate humanitarian suffering without conferring legitimacy upon a regime whose restrictions on women and civil liberties remain widely condemned.",
+      "category": "crypto",
+      "image": "https://s.france24.com/media/display/a8e307b0-6f31-11f1-8d5e-005056bfb2b6/w:1024/p:16x9/EN-20260623-181643-182732-CS.jpg"
+    },
+    {
+      "id": "52d464686002d0616be22230ab1545e7fa032427581c5b3ed7a2ffecb68c3047",
+      "title": "'A very different Afghanistan: Violence now linked to socioeconomic pressures'",
+      "url": "https://www.france24.com/en/a-very-different-afghanistan-violence-now-linked-to-socioeconomic-pressures",
+      "source": "France 24 (English) \u2014 Europe",
+      "source_id": "france24_en_europe",
+      "published_at": "2026-06-23T18:43:50Z",
+      "summary": "Fran\u00e7ois Picard is pleased to welcome Silvia Boccardi, freelance journalist based in Rome. Nearly five years after the Taliban's return to power, Afghanistan occupies an uneasy position in international politics. As European governments increasingly seek practical engagement with the authorities in Kabul, questions persist over whether diplomatic contact can alleviate humanitarian suffering without conferring legitimacy upon a regime whose restrictions on women and civil liberties remain widely condemned.",
+      "category": "crypto",
+      "image": "https://s.france24.com/media/display/a8e307b0-6f31-11f1-8d5e-005056bfb2b6/w:1024/p:16x9/EN-20260623-181643-182732-CS.jpg"
+    },
+    {
+      "id": "714d9e60f98ec7755225afa02f7575de21516885d32fefb1e60c2ca3c38c1ec2",
+      "title": "Ether-Linked Nonprofit Cuts Budget 40% In \u2018Challenging Era\u2019",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/ether-linked-nonprofit-cuts-budget-40-during-challenging-era",
+      "source": "Bloomberg - Crypto",
+      "source_id": "bloomberg_crypto",
+      "published_at": "2026-06-23T18:42:08Z",
+      "summary": "Vitalik Buterin, the programmer who helped create underlying technology for Ether, the world\u2019s No. 2 cryptocurrency, said the nonprofit behind it is being forced to make some difficult decisions.",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqeD3m9kLhdQ/v1/1200x-1.jpg"
+    },
+    {
+      "id": "978ed3173bf5c5dbfb834ace199945f4ec67aed689da66ca781668ffad65f141",
+      "title": "Show HN: Appstr for Indies managing lots of apps",
+      "url": "https://www.appstr.ai/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T18:33:24Z",
+      "summary": "I have 11 apps in the Apple App store and 3 in Google Play store. Every time I submit a new app, I have to provide a privacy policy, a support URL, and some sort of product description page. Even more challenging, I had to keep track or customer reviews and submitted feedback because in the very early days of app launches, those first few reviews are the most critical and carry the most weight.<p>So I built Appstr just as mini platform to quickly auto-generate multiple privacy policies (based on the app-specific data collection), host feedback forms to capture user suggestions and support issues, and a monitor to keep tabs on the reviews as they come in. It also sends me daily and weekly summary updates across all of my apps and also automatically groups the feedback and complaints so that I can prioritize the fixes and new features.<p>I have made Appstr available to everyone because this seems like a pretty common problem that many app developers should be facing. While this could be done by stringing a lot of other solutions together (like Zendesk) the cost adds up really fast and blows past most Indie developer budgets.<p>Since early reviews matter, I&#x27;m turning to HN for brutally honest feedback.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "4ce6f6b1868ebec6606b3a679de0af4b849842db0ef6d743929e40a0bdf67db1",
+      "title": "Kroger Health, Hy-Vee and Ahold Delhaize USA to Convene Industry Leaders",
+      "url": "https://perishablenews.com/retailfoodservice/kroger-health-hy-vee-and-ahold-delhaize-usa-to-convene-industry-leaders/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T18:27:16Z",
+      "summary": "Kroger Health, Hy-Vee, and Ahold Delhaize USA are collaborating to advance the \"Nourishing Change\" movement, focusing on improving health outcomes through collective efforts. They will co-host the 2027 Nourishing Change Conference in Washington D.C., bringing together leaders from various sectors to address chronic diseases and promote healthier lifestyles. This initiative builds on the success of the 2026 conference and aims to leverage partnerships to create lasting change in health and wellness.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "f7ce3ee9f67b4715d9f1db739eecc67ff23bf415f5a37320b0393b47d6409073",
+      "title": "Georgia\u2019s QR codes for counting votes will remain for midterms after lawmakers vote to delay a fix",
+      "url": "https://abcnews.com/Technology/wireStory/georgias-qr-codes-counting-votes-remain-midterms-after-134142609",
+      "source": "ABC News \u2014 Technology",
+      "source_id": "abc_tech",
+      "published_at": "2026-06-23T18:24:06Z",
+      "summary": "Georgia will stick with an embattled vote-counting method that relies on QR codes for this year&rsquo;s midterm elections after state lawmakers passed legislation that put off making changes until 2028",
+      "category": "crypto",
+      "image": "https://s.abcnews.com/images/US/wirestory_89cc5261e6fc2e406e92a1ef029a600d_4x3_384.jpg"
+    },
+    {
+      "id": "e52d9d9944e856165e607767d45c69c32d6390e3202f34be681ee350fbb5b2a4",
+      "title": "Aldi's 'blind box' giveaway for free groceries sold out in minutes",
+      "url": "https://www.businessinsider.com/aldi-grocery-store-free-food-blind-box-how-to-get-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-23T18:24:02Z",
+      "summary": "Aldi's free \"Blind Boxes\" with mystery grocery themes quickly sold out on their first day available.",
+      "category": "crypto",
+      "image": "https://i.insider.com/6a398d95b9227396386dc917?format=jpeg"
+    },
+    {
+      "id": "ded72157ceafdbde463279f6ea0979e4f6a0646f2c853e5c569c8b7f874fd3c6",
+      "title": "Lethe \u2013 Brain-Centric AI Assistant",
+      "url": "https://lethe.gg/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T18:16:37Z",
+      "summary": null,
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "bfb1f9109510fc16ca0eac70666e79da20dfce56387f28a598cd78d56c406189",
+      "title": "Fuel Ready, But Not Pumps: The E100 Challenge",
+      "url": "https://www.ndtv.com/india-news/fuel-ready-but-not-pumps-the-e100-challenge-11678076#publisher=newsstand",
+      "source": "NDTV \u2014 Top Stories",
+      "source_id": "ndtv_top",
+      "published_at": "2026-06-23T18:12:06Z",
+      "summary": "Unlike E20, E100 is not a blend. It is fuel made entirely from ethanol.",
+      "category": "crypto",
+      "image": "https://c.ndtvimg.com/2026-06/21gkildc_fuel_625x300_23_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "id": "c8309cc00ebd6b066d9c36461175393c5ea3375c01cfa72f59a336c255b639fe",
+      "title": "Trump Administration, Qatar Say EU Methane Rules Threaten Energy Security",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/trump-administration-qatar-say-europe-s-methane-rules-threaten-energy-security",
+      "source": "Bloomberg \u2014 Politics",
+      "source_id": "bloomberg_politics",
+      "published_at": "2026-06-23T18:06:53Z",
+      "summary": "The US, Qatar and other natural gas exporters are urging the European Union to ease some of its pending methane emissions rules, warning that the regulations could threaten the bloc\u2019s energy security.",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ichs_X3FfouY/v1/1200x-1.jpg"
+    },
+    {
+      "id": "3f5c1143b66ffaf960d69a58c7a273c86c5c2c47984b1aa7d5d82cac3777d1d9",
+      "title": "Show HN: Apple Watch 10.6.2 Kernel R+W with Process Dumping",
+      "url": "https://github.com/datalocaltmp/peepo",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T18:03:20Z",
+      "summary": "Little project I put together for doing reverse engineering on WatchOS 10.6.2 by porting over the Darksword exploit.<p>Janky, panics, vibe&#x27;d, but provides something that hasn&#x27;t been available since WatchOS 4 w&#x2F; JelBrekTime.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "8c2006fc0f176a00560818416571c92393caf239565a35ccaf4f63c7ac0a6fa9",
+      "title": "How top CMOs are making risk central to their marketing playbooks",
+      "url": "https://www.businessinsider.com/top-cmos-gap-duolingo-american-express-rewriting-marketing-playbook-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-23T17:59:00Z",
+      "summary": "Top marketers argue that embracing authenticity, moving fast, and creative risks are the only ways to survive in a fragmented digital world.",
+      "category": "crypto",
+      "image": "https://i.insider.com/6a3ac5f73302572bb8513842?format=jpeg"
+    },
+    {
+      "id": "88a3458a75a78ffa399927e417e9544eeb3c1bc3ee28c22b8a3ae2207c9f7e36",
+      "title": "VidCon 2026: 15 Years Later, the Creator Economy Shows No Signs of Slowing",
+      "url": "https://www.cnet.com/tech/services-and-software/vidcon-2026-anaheim-creators-fans-cnet-group/",
+      "source": "CNET \u2014 News",
+      "source_id": "cnet_news",
+      "published_at": "2026-06-23T17:40:41Z",
+      "summary": "At this week's VidCon, which starts Thursday, creators and their fans will come together to celebrate and grow the art form.",
+      "category": "crypto",
+      "image": "https://www.cnet.com/a/img/resize/52bb7326be375090007e93743cd31632835bd406/hub/2026/06/23/1421d062-c840-4b1a-b32d-35a511fb84cd/image-6.png?auto=webp&fit=crop&height=614&width=1092"
+    },
+    {
+      "id": "88376b90e31a7fb314864d35a7a5990ce88ea0e859f2d406c9af208a4b198cce",
+      "title": "SoftBank CEO questions Elon Musk's vision of AI data centers in space: 'What's the point?'",
+      "url": "https://www.businessinsider.com/softbank-ceo-masayoshi-son-elon-musk-ai-space-data-centers-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-23T17:36:56Z",
+      "summary": "Top SoftBank boss Masayoshi Son challenged the economic case for putting AI data centers in space, an idea championed by Elon Musk.",
+      "category": "crypto",
+      "image": "https://i.insider.com/6a3ab948c6798eef65c3ca7c?format=jpeg"
+    },
+    {
+      "id": "71ee6a536392f43db4b0d5ec5f29873d1d132c84d7d21f11dcb97e8d943d709f",
+      "title": "Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+      "source": "Middle East Eye \u2014 All",
+      "source_id": "middleeasteye_all",
+      "published_at": "2026-06-23T17:04:57Z",
+      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Israel's ambassador to the US, Yechiel Leiter, described the fifth round of US-mediated ceasefire negotiations with Lebanon as a \u201ctrain wreck\u201d in a statement on Tuesday.</p>\n\n<p>\u201cI fear that the concept of \u2018deconfliction\u2019 is misplaced. The only issue is Hezbollah. Hezbollah must be defeated and removed from the equation,\u201d Leiter stated, adding that, instead, the Lebanese armed group \u201cfeels stronger and bolder\u201d.</p>\n\n<p>The ambassador also questioned whether unfrozen funds made available to Iran could be used to support Hezbollah.</p>\n\n<p>This comes after Hezbollah chief Naim Qassem on Tuesday called for a full, scheduled withdrawal of Israeli troops from Lebanon to allow for the Lebanese army to secure the area in the south of the country.</p>\n\n  <figure class=\"media-block\">\n  <div class=\"group-inner\">\n    <div alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" class=\"embedded-entity\">  <img alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/000_B4XF4DP.jpg\" width=\"1920\" />\n\n</div>\n\n    <figcaption>Israel's ambassador to the US, Yechiel Leiter, speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington DC, on 3 June 2026 (Oliver Contreras/AFP)</figcaption>\n  </div>\n</figure>\n\n\n<p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n\n<p><span><img alt=\"alt\" height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n</div>\n      \n  </div>\n\n</article>",
+      "category": "crypto",
+      "image": null
+    },
+    {
       "id": "a393c4af16d1a1d03bb974d7d49e452516025a07ba19a68501b03516acaa3a7e",
       "title": "Chinese fentanyl network suspected of crypto fraud via Japan base",
       "url": "https://asia.nikkei.com/economy/trade-war/fentanyl-s-hidden-routes/chinese-fentanyl-network-suspected-of-crypto-fraud-via-japan-base",
@@ -24,6 +321,17 @@
       "summary": null,
       "category": "crypto",
       "image": null
+    },
+    {
+      "id": "b0ef6ef1a7b57b71b08878ed62223c830d9623eb50daf51d224ca81781b26e9a",
+      "title": "My wife didn't want to travel where I did, so I went on a trip without her. It worked out surprisingly well for both of us.",
+      "url": "https://www.businessinsider.com/traveling-without-wife-solo-trip-planning-good-relationship-cleveland-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-23T17:02:01Z",
+      "summary": "My wife didn't want to go to Cleveland, so I went on a solo trip without her. Traveling without my spouse had cons, but it was better than expected.",
+      "category": "crypto",
+      "image": "https://i.insider.com/6a32d2374074dae0e2044d0d?format=jpeg"
     },
     {
       "id": "4811571e52c5074f3ab9bb189bc05a50381fa6044c576ec341b4f84a7aebb7b0",
@@ -59,6 +367,17 @@
       "image": "https://s3-images.ctmedia.io/media/article-covers/hi-cotton-farm-cftc-rule.png"
     },
     {
+      "id": "c3d60c2f030dcb6b2c00f2ba184fea065abd72a4738ce412183fe7750c5d4a88",
+      "title": "Rashi Peripherals acquires 67% stake in VDA Infosolutions for  \u20b9368.5 crore",
+      "url": "https://www.livemint.com/companies/rashi-peripherals-acquires-67-stake-in-vda-infosolutions-for-368-5-crore-11782223240128.html",
+      "source": "LiveMint \u2014 Companies",
+      "source_id": "livemint_companies",
+      "published_at": "2026-06-23T16:32:07Z",
+      "summary": "While Rashi Peripherals is set to acquire a 67% stake initially, the balance 33% will be acquired over three years through a pre-defined mechanism.",
+      "category": "crypto",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/MICROSOFT-ENERGY-DATACENTRES-24_1771768924906_1771768970016_1782231869556_63cc6dc7-86b1-4801-9769-bbf952d7a7d5.JPG"
+    },
+    {
       "id": "60bb382553e5f9024420a220a27565312017a60e3089c63b99474a9e9a5fa416",
       "title": "Pemex and Petrobras to Team Up on Oil and Refining Projects",
       "url": "https://www.bloomberg.com/news/articles/2026-06-23/pemex-and-petrobras-to-team-up-on-oil-and-refining-projects",
@@ -70,17 +389,6 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iW7.9w_CMlsU/v1/1200x-1.jpg"
     },
     {
-      "id": "c945f3b43ad85c32df34b84fb36a8f9bd04801b93461c4f4e10dd23309162834",
-      "title": "\"Black box\" found near crash site of Ethiopian Airlines flight",
-      "url": "https://en.wikinews.org/wiki/\"Black_box\"_found_near_crash_site_of_Ethiopian_Airlines_flight",
-      "source": "Wikinews - Published Articles",
-      "source_id": "wikinews_published",
-      "published_at": null,
-      "summary": null,
-      "category": "crypto",
-      "image": null
-    },
-    {
       "id": "e7ea2a2917c104c817efe59116b6dfe18dbd50d26d5356b773329458a1ee8609",
       "title": "CBOE weighs converting BTC, ETH continuous futures into perpetual futures: Report",
       "url": "https://cointelegraph.com/news/cboe-bitcoin-ether-perpetual-futures-cftc-kalshi?utm_source=rss&utm_medium=rss&utm_campaign=rss",
@@ -90,17 +398,6 @@
       "summary": "As US regulatory changes accelerate the adoption of crypto perpetual futures and rivals Coinbase and Kalshi expand their offerings, Cboe mulls a product overhaul.",
       "category": "crypto",
       "image": "https://s3-images.ctmedia.io/media/article-covers/hi-what-is-insider-trading-cboe.jpg"
-    },
-    {
-      "id": "2df850366df69d4593f97a843b883702d4e8d96e9f70520488f66a9753b3bac4",
-      "title": "News24 | Trump allies defend Iran deal to assure Israel of \u2018unbreakable bond\u2019",
-      "url": "https://www.news24.com/world/trump-allies-defend-iran-deal-to-assure-israel-of-unbreakable-bond-20260623-0481",
-      "source": "News24 \u2014 Top Stories (South Africa)",
-      "source_id": "news24_topstories",
-      "published_at": null,
-      "summary": "American allies of US President Donald Trump this week defended him to an Israeli public anxious about a US interim deal with Iran and White House criticism that together appeared to signal fissures in Israel\u2019s decades-old alliance with Washington.",
-      "category": "crypto",
-      "image": null
     },
     {
       "id": "4061439bbea61ddd689bfe7f13ed7e83b033e6d2821b0ba54d2ca7bbd15ccb54",
@@ -246,6 +543,17 @@
       "image": null
     },
     {
+      "id": "029c985497477b9b1e189b43b3b37b15e6dcd1cff4508df364a6f8199257d4ae",
+      "title": "Liquor, Poison, Infinite Patience: How Chhattisgarh Man Killed 8 Villagers",
+      "url": "https://www.ndtv.com/india-news/ram-sahay-jaiswal-chhattisgarh-kharve-liquor-poison-infinite-patience-how-chhattisgarh-man-killed-8-villagers-11677313#publisher=newsstand",
+      "source": "NDTV \u2014 Top Stories",
+      "source_id": "ndtv_top",
+      "published_at": "2026-06-23T15:21:32Z",
+      "summary": "For months, the deaths appeared scattered and unexplained.",
+      "category": "crypto",
+      "image": "https://c.ndtvimg.com/2026-06/cup53dh4_chhattisgarh-poison-killer-_625x300_23_June_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
       "id": "735b5e53406daf12bdf19c86d83c29db8215ee2ed52be9ea08791d0466897fea",
       "title": "Ethereum Foundation Cuts 20% of Workforce in 'Leaner' Reorganization",
       "url": "https://decrypt.co/371864/ethereum-foundation-cuts-20-of-workforce-in-leaner-reorganization",
@@ -354,314 +662,6 @@
       "summary": "Opening on Saturday 4 July, this gallery brings together paintings, sculptures and portraits from the ch\u00e2teau\u2019s collections to spotlight the political, diplomatic and military figures of independence.",
       "category": "crypto",
       "image": null
-    },
-    {
-      "id": "0c62e97dae3dcdecf7703f2bcd83bd8e612851ddb64e65863ba946ac44b2baea",
-      "title": "Vintage photos of Beirut when it was known as the 'Paris of the Middle East'",
-      "url": "https://www.businessinsider.com/vintage-photos-beirut-1950s-to-1970s-paris-middle-east",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T14:56:51Z",
-      "summary": "Beirut, Lebanon's capital, was vibrant from the 1950s to the' 70s before a civil war ended what has been dubbed its \"Golden Age.\"",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a39b27d36d7e6f260b78383?format=jpeg"
-    },
-    {
-      "id": "bbcbc5bde543c02720167668f2b649abaa69a62936e118fdc26e470eba515cb4",
-      "title": "'Somebody knows something': Savannah fights back tears after note claimed Nancy Guthrie was dead",
-      "url": "https://www.livemint.com/news/us-news/savannah-fights-back-tears-after-note-claimed-nancy-guthrie-was-dead-somebody-knows-something-11782225097090.html",
-      "source": "LiveMint \u2014 News",
-      "source_id": "livemint_news",
-      "published_at": "2026-06-23T14:51:54Z",
-      "summary": "Savannah Guthrie became emotional on live television after NBC News reported new details in the investigation into the abduction of her mother, Nancy Guthrie. Fighting back tears, the journalist urged anyone with information to come forward, saying her family remains in \u2018agony\u2019.",
-      "category": "crypto",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/savannah_1782225903314_1782225914184_9672f5b7-2762-4971-993f-3e87ba1b9d1f.png"
-    },
-    {
-      "id": "9c51de6b03a27bef4878d860d8b58c1a5cea3971809b9c3eb653a80940923a46",
-      "title": "Polymarket Trading Bot \u2013 Late-Entry Probability Capture on BTC 5/15-Min Markets",
-      "url": "https://github.com/casatrick/polymarket-trading-bot",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T14:41:55Z",
-      "summary": null,
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "ba341aa03bea6ae8efc48eb65aa1d5bfae38fdff962cb8d8999377cd1685d489",
-      "title": "Bitcoin slump worsens amid SpaceX rout: Can BTC price hold $60K any longer?",
-      "url": "https://cointelegraph.com/markets/bitcoin-slump-worsens-amid-spacex-rout-can-btc-price-hold-60k-any-longer?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "source_id": "cointelegraph",
-      "published_at": "2026-06-23T14:38:32Z",
-      "summary": "SpaceX\u2019s $600 billion wipeout rattles tech markets, putting Bitcoin\u2019s $60,000 support at risk as traders brace for a deeper BTC selloff.",
-      "category": "crypto",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-elon-musks-net-worth-breakdown-tesla-spacex-and-cryptocurrency-holdings-explained.jpg"
-    },
-    {
-      "id": "0b2849464a54a60449f18840e98834fe4f4be43687bfc1ef03620e83c6084941",
-      "title": "Show HN: AI Agents the Unix Way \u2013 built with bash, curl, and jq",
-      "url": "https://github.com/cloudkj/llayer",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T14:38:29Z",
-      "summary": "While working on an educational exercise tinkering with local models and trying my hand at setting up agents, I went down a rabbit hole: to see how far I could build a custom agent loop using exclusively command-line building blocks and stripping out dependencies wherever possible.<p>It turns out you can get pretty far with pipes, text streams, append only logs, and standard command-line components - concepts pretty well aligned with classic Unix philosophy. The agent is a wrapper composed of a handful of smaller programs, which should allow for flexibly injecting various tool to inspect, filter, redirect, and audit different stages of the agent loop.<p>This project as it stands is a proof-of-concept, but packs enough punch with tool calling support - which in theory should make it indefinitely extensible. With that said, it does appear that the sophistication of tool calling is largely limited by the underlying model, and so far I\u2019ve only experimented with lightweight local models (e.g. llama3.2:1b) that have modest success for tools.<p>Nevertheless, I wanted to share this here and am curious to see if others find it interesting enough to build upon or extend!",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "599c187b3dbf4a4d2d538fc41ff521c74085499be94fbe9d578c39ad1877df9e",
-      "title": "My friends and I take a 14-hour Amtrak trip together every year. It's the cheapest way to spend time together.",
-      "url": "https://www.businessinsider.com/take-yearly-girls-trip-long-amtrak-train-worth-it-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T14:38:01Z",
-      "summary": "Each year, my friends and I travel from Utah to Colorado on an Amtrak train. The long ride is cheap and the perfect place for us to catch up.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a2c40256588b2a09a7c75fd?format=jpeg"
-    },
-    {
-      "id": "a8a47c2e18148fcb624eb0bd13cf2286b7542cbaba9255d1fb5c67f614dc06d1",
-      "title": "Apollo Faces Rising Redemption Pressure",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/apollo-faces-rising-redemption-pressure-video",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T14:36:47Z",
-      "summary": "Apollo is again capping withdrawals from its flagship private credit fund after investors requested redemptions far above the 5% limit. Bloomberg's Silas Brown joins Bloomberg Open Interest to explain why the biggest private credit firms may be the most exposed to retail investor outflows and why the next quarter could reveal whether this is a temporary reaction or a broader industry risk. (Source: Bloomberg)",
-      "category": "crypto",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isMeKegs_wy4/v3/1200x-1.jpg"
-    },
-    {
-      "id": "d4b41a73d76685c03ec64f1c4a2bee15f37bf4be4e1dd212a6c65466476b24e7",
-      "title": "I built billion-dollar companies by giving my employees agency. I use the same approach with my 5 kids.",
-      "url": "https://www.businessinsider.com/mark-pincus-parenting-differently-five-kids-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T14:28:01Z",
-      "summary": "Zynga founder Mark Pincus says giving children agency, responsibility, and room for eccentricity matters more than achievement.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a340881f4bed3c6152cb838?format=jpeg"
-    },
-    {
-      "id": "729a42e2ceb0532a708555b6fd3c4614332245088e5f358ee5f66126ccf3200c",
-      "title": "Pregnant and imprisoned: Palestinian women face harsh conditions in Israeli jails",
-      "url": "https://www.middleeasteye.net/news/pregnant-and-imprisoned-palestinian-women-face-harsh-conditions-israeli-jails",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T14:16:38Z",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/pregnant-and-imprisoned-palestinian-women-face-harsh-conditions-israeli-jails\" rel=\"bookmark\">\n<span class=\"field field-title\">Pregnant and imprisoned: Palestinian women face harsh conditions in Israeli jails</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/fayha-shalash\" lang=\"lang\" title=\"View user profile.\">Fayha Shalash</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-06-23T13:12:47+01:00\" title=\"23 June 2026 13:12 BST\">Tue, 06/23/2026 - 13:12</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">Families of three expectant mothers held by Israel say overcrowding, poor food and limited medical care are putting women and their unborn babies at risk</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"Palestinian women walk past Israeli troops in Tulkarem in the occupied West Bank on 11 September 2025 (Jaafar Ashtiyeh/AFP)\" height=\"1125\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_747Y2TJ%20%281%29.jpg.jpg?itok=iHhWKGRI\" width=\"2000\" />\n\n  \n\n</div>\n                  <div class=\"field field-field-cutline\">Palestinian women walk past Israeli troops in Tulkarem in the occupied West Bank on 11 September 2025 (Jaafar Ashtiyeh/AFP)</div>\n                  <div class=\"field field-field-wide-photo-video\">Off</div>\n                  <div class=\"field field-body clearfix\"><p><a href=\"https://www.middleeasteye.net/countries/israel\">Israeli</a> forces stormed Musab Zaloum\u2019s home in the <a href=\"https://www.middleeasteye.net/topics/occupation\">occupied</a> West Bank on the night of 30 April as he slept alongside his wife and their two young children.</p>\n\n<p>Separated from his family by soldiers during the raid, he had no idea what was unfolding inside the house.</p>\n\n<p>Only after he was handcuffed, led outside and placed in a military vehicle did a soldier tell him why they had come: his wife, 28-year-old Manar Karaja, who was pregnant with their third child, was being arrested.</p>\n\n<p>\u201cOur children, Ayman, five, and Layla, four, were asleep and didn't wake up to the soldiers' voices. But after they took me to the military vehicle, they told me I could go home and that Manar would remain under arrest,\u201d Zaloum told Middle East Eye.</p>\n\n<p>The <a href=\"https://www.middleeasteye.net/countries/palestine\">Palestinian </a>father rushed back to the family home, still handcuffed, and found his children crying uncontrollably.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>They immediately asked where their mother was.</p>\n\n<p>\u201cWhen they saw me handcuffed, I told them thieves had broken into the house, and we had to fight them off,\u201d he recalled. \u201cI told them their mum would be back in the morning to calm them down a little.</p>\n\n<p>\u201cBut she didn't come back, and I had to tell them the Israeli army had arrested her.\u201d</p>\n\n<p>Since then, Zaloum has struggled to care for the children alone and fill the void left by their mother's absence. But his greatest concern remains the well-being of his wife and their unborn child.</p>\n\n<blockquote>\n<p>'Pregnant prisoners have been subjected to harsh interrogations and detention conditions '</p>\n\n<p><em>-&nbsp;Palestinian Prisoners' Club</em></p>\n</blockquote>\n\n<p>On Monday, the Palestinian Prisoners' Club warned that three pregnant Palestinian women held by Israel were living in what it described as harsh and degrading conditions inside Damon Prison: Amina al-Taweel, Dana Joudeh and Manar Karaja.</p>\n\n<p>The women are among 93 Palestinian female prisoners currently held in Israeli prisons. Since October 2023, neither their families nor delegates from the International Committee of the Red Cross have been permitted to visit them.</p>\n\n<p>The Prisoners' Club said conditions for female prisoners had deteriorated sharply in recent months, accusing the Israeli Prison Service (IPS) of imposing increasingly punitive measures.</p>\n\n<p>\u201cSome pregnant prisoners have been subjected to harsh interrogations and detention conditions in cells that lack even the most basic sanitary standards,\u201d the group said in a statement.</p>\n\n<p>\u201cThis has exacerbated their physical and psychological suffering, leading to weight loss, emaciation and extreme exhaustion.\u201d</p>\n\n<p>The organisation added that Palestinian women prisoners, including those who are pregnant, have also been subjected to strip searches.</p>\n\n<h3>\u2018Terrible conditions\u2019&nbsp;</h3>\n\n<p>Just one day before her arrest, Karaja learned she was two months pregnant.&nbsp;</p>\n\n<div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/opinion/we-failed-prisoners-palestinian-women-suffer-israeli-jails\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/israel-checkpoint-ramallah-february-2026-jaafar-ashtiyeh-afp.jpg.webp?itok=c32RklJl\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">'All changed with the genocide': Palestinian women and girls face brutal abuse in Israeli jails</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/we-failed-prisoners-palestinian-women-suffer-israeli-jails\">Read More \u00bb</a>\n</div>\n\n<p>She and Zaloum were overjoyed and had begun choosing names for their unborn child, briefly immersed in happiness before her detention.</p>\n\n<p>Now Zaloum spends most of his time worrying about the lack of adequate nutrition and medical care for his wife in prison, describing the conditions as \u201cdeplorable\u201d.&nbsp;</p>\n\n<p>\u201cWe are, of course, forbidden from visiting her, but volunteer lawyers visit her every few weeks and reassure us about her health,\u201d he said.&nbsp;</p>\n\n<p>\u201cThe prison conditions are terrible, and the food is insufficient even for an ordinary prisoner, let alone a pregnant woman who needs a specific dietary plan.\u201d&nbsp;</p>\n\n<p>In messages relayed through her lawyers, Karaja told her family she has been sleeping on the floor since her arrest due to overcrowding in Damon Prison, and suffers from persistent pain throughout her body.</p>\n\n<p>Israel says Karaja is being held on suspicion of incitement based on social media posts, a vague charge frequently used against Palestinian women prisoners. She remains in detention pending trial.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<h3>Lack of healthcare</h3>\n\n<p>Dana Joudah, 35, from Nablus, was arrested on 18 April and is now five months pregnant. According to her family, she is in poor health.</p>\n\n<p>Her mother said Joudah had undergone gastric bypass surgery just months before her arrest and had only recently discovered she was pregnant. Before she had time to celebrate the news, soldiers raided her home and detained her.&nbsp;</p>\n\n<div class=\"mee-readmore mee-readmore-article-opinion mee-readmore-type-text align-right\">\n    <div class=\"mee-readmore-description\">Israel is waging a reproductive genocide against Palestinian mothers in Gaza</div>\n  <div class=\"mee-readmore-author\">Amira Nimerawi</div>  <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/opinion/israel-waging-reproductive-genocide-against-palestinian-mothers-gaza\">Read More \u00bb</a>\n</div>\n\n<p>At the start of her detention, Dana was transferred to the notorious Hasharon detention centre, where female prisoners are reportedly subjected to humiliating strip searches and denied basic necessities, including mattresses and adequate food.&nbsp;</p>\n\n<p>During her detention, Joudah suffered fainting spells and dehydration, yet prison authorities failed to provide appropriate medical care despite her pregnancy and recent surgery, according to the family.&nbsp;</p>\n\n<p>\u201cShe told her lawyer that the women sleep on the floor in overcrowded, cold cells,\u201d her mother told MEE.&nbsp;</p>\n\n<p>\u201cSome pregnant prisoners try to support others by sharing portions of bread and food, despite the already meagre rations and poor-quality meals.\u201d</p>\n\n<p>Joudah\u2019s family say they live in constant fear for her health and that of her unborn child, as requests for medical examinations keep getting ignored.</p>\n\n<h3>\u2018Collective punishment\u2019</h3>\n\n<p>In Qalqilya, Ali Shawahneh lives in the same state of worry and concern for his wife, Amina al-Taweel.</p>\n\n<p>The 37-year-old mother of four was arrested on 18 March on charges of incitement and remains in detention. She is now four months pregnant.&nbsp;</p>\n\n<p>Shawahneh said her arrest came as a shock, particularly as he is the one who has repeatedly been detained, spending a total of 19 years in Israeli prisons.</p>\n\n<p>Now caring for their four children alone, Shawahneh says he is struggling to meet their emotional needs as they desperately miss their mother.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>\u201cOn the day of her arrest, I told the officer, \u2018Take me instead of her,\u2019\u201d he recalled. \u201cHe replied, \u2018This time, you\u2019re not the one we\u2019re after - it\u2019s your wife.\u2019 They handcuffed her and took her away while I stood there in shock, and the children cried.\u201d&nbsp;</p>\n\n<blockquote>\n<p>'Prisoners face collective punishment, abuse, torture, starvation, isolation, and denial of family visits'</p>\n\n<p><em>-&nbsp;Helmi al-Araj,&nbsp;Palestinian human rights defender</em></p>\n</blockquote>\n\n<p>Al-Taweel remains in detention awaiting trial. Shawahneh hopes she will be released, even under restrictive conditions such as house arrest, so that she can return to her family.</p>\n\n<p>\"Amina usually suffers in the early stages of pregnancy and needs intensive care, which is obviously unavailable in prison,\u201d he said.&nbsp;</p>\n\n<p>\u201cDuring my last detention, I lost more than 60 kilograms because of the poor quality and scarcity of food. How is a pregnant woman supposed to endure that?\u201d</p>\n\n<p>Helmi al-Araj, director of Hurryyat - Centre for Defence of Liberties and Civil Rights, said Israel was crossing \u201call red lines\u201d in its treatment of female prisoners by neglecting their health, subjecting them to frequent raids, and violating their privacy.</p>\n\n<p>\u201cPrisoners face collective punishment, abuse, torture, starvation, isolation, and denial of family visits,\u201d he told MEE.</p>\n\n<p>\u201cAll of this negatively impacts the psychological state of female prisoners who are mothers and pregnant women. This Israeli policy existed even before 7 October, but it has become a deeply entrenched policy based on grave violations of the rights of prisoners.\u201d</p>\n\n<p>According to the Palestinian Commission of Detainees and Ex-Detainees Affairs, more than 9,300 Palestinians are currently held in Israeli prisons, including 93 women and more than 350 children.</p>\n\n<p>The commission says more than 765 women and girls have been arrested since the start of the genocide in Gaza.</p>\n\n<p>Nearly half of all prisoners are held without charge or trial under detention orders that can be renewed indefinitely.</p>\n</div>\n                  <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/occupation\" hreflang=\"en\">Occupation</a></div>\n            <div class=\"field field-field-coauthor-location\">\n              <div> </div>\n              <div> </div>\n              <div> </div>\n              <div> </div>\n          </div>\n              <div class=\"field field-field-article-location\">Ramallah, occupied Palestine</div>\n                  <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div>\n        <div class=\"field field-field-post-date-override\">\n    <div>Post Date Override</div>\n              <div>0</div>\n          </div>\n  <div class=\"field field-field-update-date-override\">\n    <div>Update Date</div>\n              <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time>\n</div>\n          </div>\n  <div class=\"field field-field-update-date-check\">\n    <div>Update Date Override</div>\n              <div>0</div>\n          </div>\n\n  </div>\n  \n</article>",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "488da6b78ccf224376f1ff1cd76e0c8d1821103e758562fb10a0a6c5e2be5ac7",
-      "title": "21,000 Oracle jobs vanish amid Big Red's big bets on AI",
-      "url": "https://www.theregister.com/databases/2026/06/23/21000-oracle-jobs-vanish-amid-big-reds-big-bets-on-ai/5260086",
-      "source": "The Register \u2014 Headlines",
-      "source_id": "the_register",
-      "published_at": "2026-06-23T14:12:15Z",
-      "summary": "Annual report reveals workforce fell from 162,000 to 141,000 in a year as company pours billions into datacenter expansion",
-      "category": "crypto",
-      "image": "https://image.theregister.com/?imageId=5225140&width=800"
-    },
-    {
-      "id": "8039959daf7a57bda224081209317f4e157b94eeb561f87b449ec1df36557639",
-      "title": "UK failed to stop el-Fasher massacre because it feared the UAE, MPs told",
-      "url": "https://www.middleeasteye.net/news/uk-failed-act-el-fasher-genocide-because-uae-mps-told",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T14:11:25Z",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/uk-failed-act-el-fasher-genocide-because-uae-mps-told\" rel=\"bookmark\">\n<span class=\"field field-title\">UK failed to stop el-Fasher massacre because it feared the UAE, MPs told</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/daniel-hilton\" lang=\"lang\" title=\"View user profile.\">Daniel Hilton</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-06-23T14:44:27+01:00\" title=\"23 June 2026 14:44 BST\">Tue, 06/23/2026 - 14:44</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">Relations with Abu Dhabi prioritised as UAE-backed RSF massacred civilians, Nathaniel Raymond tells parliamentary committee</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"675\" type=\"image/webp\" width=\"1200\" />\n                  <img alt=\"alt\" height=\"675\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/Lammy%20UAE.jpg.jpg?itok=GMvSRA0R\" width=\"1200\" />\n\n  \n\n</div>\n                  <div class=\"field field-field-cutline\">Then-UK foreign minister David Lammy meets with UAE deputy prime minister Abdullah bin Zayed Al Nahyan in September 2024 (X)</div>\n                  <div class=\"field field-field-wide-photo-video\">Off</div>\n                  <div class=\"field field-body clearfix\"><p>The <a href=\"https://www.middleeasteye.net/countries/uk\">UK</a> was uniquely placed to avoid a massacre in <a href=\"https://www.middleeasteye.net/countries/sudan\">Sudan</a>\u2019s el-Fasher but failed to act due to \u201cpolitical capture\u201d by the <a href=\"https://www.middleeasteye.net/countries/uae\">United Arab Emirates</a> and a desire to maintain good relations with Abu Dhabi, a British parliamentary committee has been told.</p>\n\n<p>Human rights investigator Nathaniel Raymond appeared before parliament's International Development Committee on Tuesday to testify about Britain\u2019s response to the situation in the North Darfur state capital, where an estimated 60,000 people were slaughtered by UAE-backed paramilitaries in October 2025.</p>\n\n<p>He told MPs in a written submission that the UK, which as penholder for the Sudan issue at the United Nations was responsible for driving international response to the crisis, was the \u201cbest hope\u201d for stopping \u201cwhat we believed would become one of the single largest mass casualty events of the 21st Century\u201d.</p>\n\n<p>Instead, Raymond said, repeated warnings and recommendations delivered across two dozen private briefings were ignored, questioned or dismissed.</p>\n\n<p>Raymond told MPs he believed the UK\u2019s Foreign, Commonwealth and Development Office (FCDO) prioritised the British government\u2019s \u201ceconomic, security, and diplomatic relationships with the UAE above preventing the intentional starvation, forced displacement, and the genocidal slaughter of tens of thousands of civilians living in el-Fasher and its surrounding communities\u201d.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>Fears for el-Fasher grew in the summer of 2023, after the paramilitary <a href=\"https://www.middleeasteye.net/news/sudan-rsf-who-paramilitary-force\">Rapid Support Forces</a> (RSF) had killed more than&nbsp;<a href=\"https://www.middleeasteye.net/news/sudan-geneina-city-rotting-corpses\">ten thousand Masalit Sudanese in el-Geneina</a>, another city in Darfur.&nbsp;</p>\n\n<p>That massacre has been described as a genocide by the US government and several human rights groups. Raymond said it quickly became clear that el-Fasher and the camps that housed Sudanese displaced in the genocide waged 20 years previously were the next target.</p>\n\n<p>As founding director of the Humanitarian Research Lab (HRL) at the Yale School of Public Health, Raymond was first asked to brief the FCDO in July 2023, where he urged for a UN peacekeeping intervention.</p>\n\n<h3>UAE pressure on UK</h3>\n\n<p>By April 2024, the HRL had established that the siege of el-Fasher - an area held by the Sudanese army with the population comparable to three-quarters of the Gaza Strip - had begun.</p>\n\n<p>The monitoring group decided engaging with the British government was its best chance of avoiding a catastrophe.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>Raymond met FCDO officials in London on 15 and 16 of May 2024, around the time that the UK was drafting UN Security Council Resolution 2736, which called for an unconditional ceasefire.</p>\n\n<blockquote>\n<p>'They told me that the UK was facing significant private pressure behind the scenes from the UAE'</p>\n\n<p>- <em>Nathaniel Raymond, war crimes investigator</em></p>\n</blockquote>\n\n<p>During the meeting with officials focused on Sudan, organised by the atrocity prevention team, Raymond presented evidence gathered through an analysis of public phone records that appeared to show people <a href=\"https://www.middleeasteye.net/news/exclusive-ethiopian-army-base-covertly-supporting-sudans-rsf\">moving between RSF-held areas of Sudan, the UAE, Somalia\u2019s Bosaso and Addis Ababa</a>.&nbsp;</p>\n\n<p>Ethiopia and a military base in <a href=\"https://www.middleeasteye.net/news/inside-uae-secret-operation-somalia-sudan-bosaso\">Bosaso</a> have since emerged as key routes that the UAE has supplied the RSF with weapons, equipment and mercenaries, as <a href=\"https://www.middleeasteye.net/news/exclusive-ethiopian-army-base-covertly-supporting-sudans-rsf\">previously reported </a>by MEE.</p>\n\n<p>The movements, Raymond said, could be linked to Abdel-Rahim Dagalo, the brother and second-in-command of RSF leader Mohammed Hamdan Dagalo, better known as Hemedti.&nbsp;</p>\n\n<p>According to Raymond, the British officials asked him to publicly release the phone data analysis linking UAE-based facilities to the RSF.</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/exclusive-ethiopian-army-base-covertly-supporting-sudans-rsf\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Asosa%20MAIN.jpg.webp?itok=9QnDBaY3\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">Exclusive: The Ethiopian army base covertly supporting Sudan\u2019s RSF</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/exclusive-ethiopian-army-base-covertly-supporting-sudans-rsf\">Read More \u00bb</a>\n</div>\n\n<p>\u201cThey told me that the UK was facing significant private pressure behind the scenes from the UAE limiting its ability to affect the situation,\u201d he told MPs.</p>\n\n<p>\u201cIn other words, HMG [His Majesty\u2019s Government] was asking a private research lab in an American university\u2019s epidemiology department, not GCHQ or the SIS [Secret Intelligence Service], to provide support for efforts to confront the UAE for its covert support to the RSF.\u201d</p>\n\n<p>This, Raymond suggested on Tuesday, showed the \"fundamental political capture\" of the UK government by the UAE.</p>\n\n<p>Publicly releasing the analysis would have exposed the tracking system and allowed the RSF and UAE to close its security loophole, so Raymond said he declined as it was needed to predict further attacks.</p>\n\n<p>Eventually, the tracking mechanism was exposed when Human Rights Watch reported on the training of Colombian mercenaries in the UAE for the RSF\u2019s use in Sudan.</p>\n\n<h3>UAE orders attack on el-Fasher</h3>\n\n<p>The next day, Raymond recalled, he and representatives of NGOs met officials from the UK\u2019s Sudan and atrocity prevention teams.</p>\n\n<p>He said officials told the humanitarians that they could only warn that el-Fasher was on the brink of collapse once, or risk being accused of \u201ccrying wolf\u201d.</p>\n\n<p>The officials also made clear, he said, that backing Resolution 2736 was the most the UK could commit to and that it would not include consequences for foreign backers of warring parties like the UAE.</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/sudans-rsf-waged-starvation-campaign-siege-el-fasher\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/Figure%205--RSF%20Attribution.PNG.webp?itok=ETnJ3ZSe\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">Sudan's RSF waged starvation campaign in siege of el-Fasher</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/sudans-rsf-waged-starvation-campaign-siege-el-fasher\">Read More \u00bb</a>\n</div>\n\n<p>Resolution 2736 was adopted on 13 June 2024, and el-Fasher witnessed a brief period of respite when RSF attacks paused.&nbsp;</p>\n\n<p>\u201cAround that time, HRL was told by a source with direct knowledge of RSF\u2019s internal operations that Abu Dhabi had directed Hemedti to pause the attack on el-Fasher so that the UAE could assess whether there would be any serious political consequences from the resolution\u2019s passage,\u201d Raymond said, referring to Mohamed Hamdan Dagalo, the RSF leader commonly called Hemedti.</p>\n\n<p>HRL passed that information on to the FCDO, he said, urging consequences for the UAE if the resolution is violated.</p>\n\n<p>\u201cFCDO made it clear that there should be no expectation of specific unilateral or multilateral consequences for violations of UNSCR 2736,\u201d Raymond told MPs. \u201cOnce Abu Dhabi assessed there would be no consequences, the attack resumed.\u201d</p>\n\n<p>Later that month, Raymond was told by a UN member state that the UAE had blocked him from speaking about bombing damage in the United Nations chamber.</p>\n\n<h3>David Lammy's staff seek help&nbsp;</h3>\n\n<p>Raymond described to MPs how he received a call from then foreign secretary David Lammy\u2019s staff in January 2025.&nbsp;</p>\n\n<p>Lammy and his aides were in N\u2019Djamena, Chad, after visiting refugee camps filled with Sudanese who had fled the el-Geneina genocide, and asked if Raymond could provide them with the phone number of the African Affairs Desk at the White House National Security Council.</p>\n\n<blockquote>\n<p>'FCDO said nothing about the sacking of Zamzam, despite the foreign secretary hosting a multinational donor conference on Sudan'</p>\n\n<p>- <em>Nathaniel Raymond</em></p>\n</blockquote>\n\n<p>Raymond says he took the opportunity to explain the dire situation in Zamzam, a camp outside el-Fasher housing hundreds of thousands of people of ethnicities targeted by the RSF\u2019s precursor in the 2003-2005 Darfur genocide.</p>\n\n<p>\u201cI warned that Zamzam IDP Camp, just south of el-Fasher, with an estimated population of more than 500,000 people currently in famine conditions, was being bombarded by advanced weapons systems from the UAE,\u201d Raymond told the committee.&nbsp;</p>\n\n<p>\u201cI made it clear that this bombardment should be seen as a preface to RSF attacking the IDP camp.\u201d In April 2025, as Lammy hosted a Sudan donor conference in London, the RSF seized Zamzam.</p>\n\n<p>\u201cHumanitarian and healthcare workers were forced to beg for their lives and were executed on camera; women and girls were taken as sexual slaves and tortured, and large portions of Zamzam IDP camp was systematically burned,\u201d Raymond recalled.</p>\n\n<p>\u201cFCDO said nothing about the sacking of Zamzam, despite the foreign secretary hosting a multinational donor conference on Sudan at the very moment this atrocity was occurring. HRL is not aware of any UK statements being released.\u201d</p>\n\n<h3>Genocide in el-Fasher</h3>\n\n<p>By September 2025, HRL analysis of satellite imagery <a href=\"https://www.middleeasteye.net/news/sudans-rsf-builds-network-earth-walls-around-el-fasher\">reported by MEE</a> showed the RSF had built 31km of earth berms around el-Fasher, creating what Raymond has described as a \u201ckill box\u201d.</p>\n\n<p>Raymond says an FCDO official described to him that month their despair about the lack of any possible action by Prime Minister Keir Starmer\u2019s government with the city on the verge of falling to the RSF.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>A month later, the Rapid Support Forces stormed el-Fasher. Videos, photographs and satellite imagery have shown <a href=\"https://www.middleeasteye.net/news/rsf-fighters-film-themselves-massacring-sudanese-fleeing-el-fasher\">widespread massacres</a> committed by the RSF in el-Fasher against civilians.</p>\n\n<p>Survivors <a href=\"https://www.middleeasteye.net/news/rape-ransom-and-execution-road-out-sudans-el-fasher\">have described to MEE </a>witnessing summary executions, rape and various other kinds of abuse.</p>\n\n<p>Hours before the fall of el-Fasher, ceasefire talks in Washington collapsed as the <a href=\"https://www.middleeasteye.net/news/sudans-rsf-storms-el-fasher-after-uae-shuts-down-talks-city\">UAE refused to address</a> the crippling 18-month siege on the city.</p>\n\n<p>HRL analysis suggests at least 60,000 people were killed by the RSF in that attack and its aftermath.&nbsp;</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/rape-ransom-and-execution-road-out-sudans-el-fasher\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/El%20Fasher%20road%20AFP.jpg.webp?itok=wCbbDsmU\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">Rape, ransom and execution: The road out of Sudan's el-Fasher</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/rape-ransom-and-execution-road-out-sudans-el-fasher\">Read More \u00bb</a>\n</div>\n\n<p>According to Raymond, an FCDO Atrocity Prevention official reached out to him on an encrypted chat and questioned whether the number of civilians killed was too high, continuing the conversation in a phone call.</p>\n\n<p>\u201cIn that conversation, I came to believe that this estimate of at least 60,000 people killed by the RSF was a political problem for the FCDO,\u201d Raymond told MPs.</p>\n\n<p>\u201cThis FCDO official then asked if HRL could brief FCDO on the estimated number of people killed, and asked HRL to include UN officials. FCDO never scheduled that briefing and it did not occur.\u201d</p>\n\n<p>Raymond believes that the \u201cgenocidal\u201d massacre in el-Fasher was \u201carguably the most accurately predicted mass atrocity in human history\u201d.</p>\n\n<p>\u201cThe timeliness, granularity, accuracy, and actionability of the intelligence HRL and others provided FCDO personnel in real time was more than sufficient to support the development of robust policy options that could have prevented the El Fasher massacre,\u201d he said.</p>\n\n<p>\u201cFor example, direct sanctions against UAE officials, at minimum, could have been used to interdict the clandestine UAE pipeline of advanced weaponry flowing to the RSF.\u201d</p>\n\n<p>He warned on Tuesday that the same mistakes were being repeated with el-Obeid in southern Sudan's Kordofan currently under siege and attack.</p>\n\n<p>Raymond also said the \"greatest accountability\" for the UAE's complicity in atrocities in Sudan would be a public boycott, with people \"stopping shopping at Duty Free\" in Dubai and Abu Dhabi.</p>\n\n<p>\"If people in Manchester were burning Emirates jerseys we would be having a very different conversation,\" he said, in reference to football team Manchester City being owned by Abu Dhabi.</p>\n</div>\n                  <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/sudan-war\" hreflang=\"en\">Sudan war</a></div>\n            <div class=\"field field-field-coauthor-location\">\n              <div> </div>\n              <div> </div>\n              <div> </div>\n              <div> </div>\n          </div>\n              <div class=\"field field-field-article-location\"> </div>\n                  <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div>\n        <div class=\"field field-field-post-date-override\">\n    <div>Post Date Override</div>\n              <div>0</div>\n          </div>\n  <div class=\"field field-field-update-date-override\">\n    <div>Update Date</div>\n              <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time>\n</div>\n          </div>\n  <div class=\"field field-field-update-date-check\">\n    <div>Update Date Override</div>\n              <div>0</div>\n          </div>\n\n  </div>\n  \n</article>",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "761b5a181320c5cc2707e5c324e2f3edc6ab41effdf1a8a0be2ddb2f87d917cb",
-      "title": "From research to reality: fighting industrialized financial crime",
-      "url": "https://www.techradar.com/pro/from-research-to-reality-fighting-industrialized-financial-crime",
-      "source": "TechRadar \u2014 All",
-      "source_id": "techradar",
-      "published_at": "2026-06-23T14:10:16Z",
-      "summary": "Innovation that exists only on paper has limited impact. Innovation that survives deployment, that continues to perform as conditions change, is what ultimately defines effectiveness.",
-      "category": "crypto",
-      "image": "https://cdn.mos.cms.futurecdn.net/NMBmyzfLwQFn8e8FR4ZhqL-1280-80.jpg"
-    },
-    {
-      "id": "9c11bf41b992912afbc35aea21c4b306ee5326d12c1feff0740d7c08af7dc254",
-      "title": "A late tech billionaire's Versailles-inspired California mansion just took a $20 million price cut to $87.5 million. See inside.",
-      "url": "https://www.businessinsider.com/billionaire-sand-castle-house-la-jolla-san-diego-county-record-2024-10",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T14:04:02Z",
-      "summary": "The late Darwin Deason's luxurious estate took a price cut to $87.5 million. It's still San Diego County's most expensive listing.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a3415e9f4bed3c6152cb980?format=jpeg"
-    },
-    {
-      "id": "e4bbbd794dc89974be600e0fb583b7547b523e0ac0f894f588bb704cd521d30f",
-      "title": "AirPods Can Measure Your Heart Rate, but Are They Accurate?",
-      "url": "https://www.cnet.com/tech/mobile/airpods-vs-apple-watch-heart-rate-accuracy/",
-      "source": "CNET \u2014 News",
-      "source_id": "cnet_news",
-      "published_at": "2026-06-23T14:02:49Z",
-      "summary": "I tested them against the Apple Watch and the Polar chest strap to find out whether you can trust them for your workouts.",
-      "category": "crypto",
-      "image": "https://www.cnet.com/a/img/resize/b801be905f30842b8c88fc6e90641d003fabf7db/hub/2025/11/21/f2443dfc-48f4-4584-995a-28bbccc68bea/airpods-pro-3-vs-airpods-4-3.jpg?auto=webp&fit=crop&height=614&width=1092"
-    },
-    {
-      "id": "162ae8108bef2735901356f657afb2dc3a0d88b4f237c2733dcd6213a675bd18",
-      "title": "After 5 years in France, I can confidently say tourists should skip the French Riviera and visit this hidden gem instead",
-      "url": "https://www.businessinsider.com/favorite-part-of-france-to-visit-in-summer-ardeche-nature-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T14:02:01Z",
-      "summary": "I've lived in France for five years. The French Riviera is beautiful, but my favorite summer spot is Ard\u00e8che, which has beautiful nature and wine.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a318e22564c774507cd30bc?format=jpeg"
-    },
-    {
-      "id": "c838e29dbd8cca9afd74c777d1d15326eda105377e611af5d999d1d9913b5065",
-      "title": "ETHB: Staking Is A Plus, But Conditions Remain Restrictive",
-      "url": "https://seekingalpha.com/article/4916957-ethb-staking-is-a-plus-but-conditions-remain-restrictive?source=feed_tag_etf_portfolio_strategy",
-      "source": "Seeking Alpha - ETFs",
-      "source_id": "seekingalpha_etfs",
-      "published_at": "2026-06-23T13:59:24Z",
-      "summary": null,
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "db151016c7588f3e083bb7bff5b3ab9216fd34f374b5ca9fc3eaa73cd544ac27",
-      "title": "Ethiopia's ruling party secures 90% of votes in national election",
-      "url": "https://www.france24.com/en/ethiopia-s-ruling-party-secures-90-of-votes-in-national-election",
-      "source": "France 24 (English) \u2014 Top Stories",
-      "source_id": "france24_en",
-      "published_at": "2026-06-23T13:54:19Z",
-      "summary": "Ethiopian Prime Minister Abiy Ahmed's Prosperity Party won a landslide victory in legislative polls, giving it almost 90 percent of the seats. Abiy has led Ethiopia since 2018, and is increasingly criticised for growing authoritarianism. Northern Tigray, still recovering from a devastating 2020-22 conflict that claimed 600,000 lives, did not vote. Growing tensions between local and federal authorities have raised fears of a renewed conflict.",
-      "category": "crypto",
-      "image": "https://s.france24.com/media/display/a0cd103e-5dc5-11f1-b625-005056bf30b7/w:1024/p:16x9/2026-05-29T103530Z-1440662453-RC2XILAMLFP9-RTRMADP-3-ETHIOPIA-ELECTION.jpg"
-    },
-    {
-      "id": "d0876664dfe3179ab8956cef84f21a44216556d41dde035840672238a3607851",
-      "title": "A pitmaster shares the 3 things you should always order at a barbecue restaurant",
-      "url": "https://www.businessinsider.com/best-things-to-order-barbecue-pitmaster-menu-recommendations-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:53:35Z",
-      "summary": "Award-winning pitmaster shares the best things to order at any barbecue restaurant, including the meat she'll always recommend if it's on the menu.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a3a8f9936d7e6f260b787db?format=jpeg"
-    },
-    {
-      "id": "f1de4064f74f58d557f80d26ea00b3cc00c84124da8bee0eb9a53a5cc56d0b17",
-      "title": "I'm a college admissions expert, and my top students use AI. Here's how your kids should use AI on their essays.",
-      "url": "https://www.businessinsider.com/college-admissions-expert-best-students-use-ai-heres-how-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:43:19Z",
-      "summary": "Parents often ask me whether their kids should use AI to write their college essays. I say they should only do so after they've written it themselves.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a397f895071a205a9ed5171?format=jpeg"
-    },
-    {
-      "id": "183524e57556db5f6658a0d56489513097c6987edce74a572a79a12fd8f17a29",
-      "title": "Thailand Expands Crypto Mining Probe Into $300M Chinese Laundering Network",
-      "url": "https://decrypt.co/371854/thailand-expands-crypto-mining-probe-into-300m-chinese-laundering-network",
-      "source": "Decrypt",
-      "source_id": "decrypt",
-      "published_at": "2026-06-23T13:40:47Z",
-      "summary": "Thailand's DSI says a Chinese \"grey capital\" network used illegal crypto mining and cash mules to launder more than $300 million a year.",
-      "category": "crypto",
-      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png"
-    },
-    {
-      "id": "6b910d92bc74daf08e90db5ca0774500705c730fcc4a5ede75df25eb10dd81a7",
-      "title": "We spent a week at an all-inclusive resort to celebrate our anniversary \u2014 with our daughter and my mother-in-law",
-      "url": "https://www.businessinsider.com/anniversary-trip-with-mother-in-law-and-kid-worth-it-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:21:21Z",
-      "summary": "We celebrated my birthday and our fifth anniversary with a trip to Canc\u00fan. We didn't want to leave our daughter home, so my mother-in-law came with us.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a397a0b2d17fe7fdf027b9a?format=jpeg"
-    },
-    {
-      "id": "1be74354ce85a1170dbb1e1f4024e2701ad9cbcc8c072bacc285ede739c84324",
-      "title": "US forces started running sea-drone rescue drills years before the downing of an Apache forced them to do it for real",
-      "url": "https://www.businessinsider.com/us-rehearsed-sea-drone-rescues-apache-downed-real-mission-began-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:20:02Z",
-      "summary": "A US military official described the rescue mission as a \"significant step forward\" for American drone operations.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a3a5a27b9227396386dcdde?format=jpeg"
-    },
-    {
-      "id": "134e1477510ccbfb014cd5a5e868311468ebbc26b4e7bb76e2360e87d4181717",
-      "title": "Don\u2019t restrict AI in sports, ensure fair access, Hong Kong lawmaker urges",
-      "url": "https://www.scmp.com/news/hong-kong/society/article/3358095/dont-restrict-ai-sports-ensure-fair-access-hong-kong-lawmaker-urges?utm_source=rss_feed",
-      "source": "South China Morning Post \u2014 Homepage",
-      "source_id": "scmp_home",
-      "published_at": "2026-06-23T13:19:22Z",
-      "summary": "Hong Kong\u2019s lawmaker for the sports sector has urged authorities to focus on ensuring fair access to AI rather than attempting to restrict its use, arguing that the technology has increasingly reshaped athlete development and competitions.\nSpeaking at a World Economic Forum panel in mainland China\u2019s Dalian on Tuesday, Kenneth Fok Kai-kong said that artificial intelligence (AI) was transforming sports in ways that differed from past technological advances.\nSuch changes had made it difficult to...",
-      "category": "crypto",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/e32a5c99-5dea-47b9-946c-8d47017c9ee4_8bfd8ad7.jpg?itok=8SpwaC8u&v=1782220749"
-    },
-    {
-      "id": "111d54d853e7246ed665c47df780a0bdb44fb34e1695ae1f0e4f20fe0b374040",
-      "title": "Bold move, Cotton: Trump administration tells US techies it expects American quantum computer by 2028",
-      "url": "https://www.theregister.com/hpc/2026/06/23/bold-move-cotton-trump-administration-tells-us-techies-it-expects-american-quantum-computer-by-2028/5260074",
-      "source": "The Register \u2014 Headlines",
-      "source_id": "the_register",
-      "published_at": "2026-06-23T13:18:00Z",
-      "summary": "Ahem. National effort required to kick-start the era of quantum-enabled scientific discovery and keep America ahead of the game",
-      "category": "crypto",
-      "image": "https://image.theregister.com/?imageId=259233&width=800"
-    },
-    {
-      "id": "7b013f7c3782b8c846cc67e72b743f2a6aff116c32cdd3644d045df3adabc777",
-      "title": "The first ticking 'nuclear clocks' are here",
-      "url": "https://www.scientificamerican.com/article/the-first-ticking-nuclear-clocks-are-here/",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T13:15:00Z",
-      "summary": "<p>These radical new devices keep time using fluctuations in the energy states of an atom&rsquo;s nucleus, rather than those of its electrons, which atomic clocks currently use to define the length of a second</p>",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "a627b46f85b8b02b37561ce4ddfcea914bcbda6ec4a84ce45fab3a694adecf19",
-      "title": "My husband and I moved from the US to Barbados with 6 kids. They're more independent and chat easily with strangers.",
-      "url": "https://www.businessinsider.com/moved-us-to-barbados-8-kids-more-independent-now-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:11:01Z",
-      "summary": "Lisa Desai and her husband decided to move to Barbados from Florida because they craved freedom and adventure for their eight kids.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a3995b4d175c90a6a6fa9ab?format=jpeg"
-    },
-    {
-      "id": "368f0b23cce424cec0e924abb9c1eeefe59447a13b85101fcd160961078cf441",
-      "title": "US presidents' approval ratings when they left office, ranked",
-      "url": "https://www.businessinsider.com/us-presidents-approval-ratings-when-they-left-office-ranked",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:09:03Z",
-      "summary": "Gallup presidential approval polls measured presidents' performance for nearly 90 years. Here's how presidents from Harry Truman to Joe Biden ranked.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a398eb2d175c90a6a6fa939?format=jpeg"
-    },
-    {
-      "id": "458fdcffb7b7b6a296418457927b742cb8094814715ed6148bd855a589886b72",
-      "title": "Here\u2019s what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "source_id": "cointelegraph",
-      "published_at": "2026-06-23T13:07:43Z",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation.",
-      "category": "crypto",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg"
     }
   ]
 }
