@@ -1,7 +1,7 @@
 {
   "key": "science",
   "label": "Science",
-  "generated_at": "2026-06-23T20:14:02Z",
+  "generated_at": "2026-06-23T23:13:49Z",
   "articles": [
     {
       "id": "c1e8fca4fe6ff5f3f70044fd313ac5ff328f4222fca5f72f181bb21878ba844f",
@@ -68,6 +68,39 @@
       "summary": "<p>Scientific Reports, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-57902-7\">doi:10.1038/s41598-026-57902-7</a></p>Fractional caputo modeling of delayed disease dynamics: sensitivity analysis and control strategies incorporating environmental influences",
       "category": "science",
       "image": null
+    },
+    {
+      "id": "08a31f23aff54a77f738faa85f008d8894b973032be9d435c27c5e798f623232",
+      "title": "'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years",
+      "url": "https://www.livescience.com/planet-earth/geology/unequivocal-evidence-of-the-age-of-earths-oldest-impact-crater-turns-out-to-be-off-by-half-a-billion-years",
+      "source": "Live Science",
+      "source_id": "live_science",
+      "published_at": "2026-06-23T22:00:00Z",
+      "summary": "A new study updates the age of Earth's oldest known meteorite impact crater, the North Pole Dome crater, which scientists previously claimed was 3.47 billion years old.",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/oSctphGYZHdL4FG9BqeR3K-1280-80.jpg"
+    },
+    {
+      "id": "8fa788882b1679904d49712082699909b4de52f5e07676a6e0b408fa077cb8a7",
+      "title": "Drug-induced 'brain freeze' may help protect the brain after a stroke, early study suggests",
+      "url": "https://www.livescience.com/health/medicine-drugs/drug-induced-brain-freeze-may-help-protect-the-brain-after-a-stroke-early-study-suggests",
+      "source": "Live Science",
+      "source_id": "live_science",
+      "published_at": "2026-06-23T21:10:00Z",
+      "summary": "By tamping down metabolism, a new experimental treatment that induces a hypothermia-like state may slow stroke-associated brain injury, scientists report.",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/wMwDiNZwHSPz24J7YWFVFH-1280-80.jpg"
+    },
+    {
+      "id": "648a6dfb4a76cd346e34e14d161c03b1e0b017009c571fd40fe85fe04f5e5e31",
+      "title": "What is Starfall? A look at SpaceX's mysterious new return capsule",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule",
+      "source": "Space.com",
+      "source_id": "space_com",
+      "published_at": "2026-06-23T21:00:00Z",
+      "summary": "SpaceX just launched its Starfall return capsule for the first time. What does the company plan to do with the new vehicle?",
+      "category": "science",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZX6DnUDfj4XHaaWvyuiJkf-1280-80.jpg"
     },
     {
       "id": "d8ffc37029432a9fe698a7d0e8a6d4218fd4548367e08ffa1d45fe2cd2a827ea",
@@ -627,39 +660,6 @@
       "source_id": "arxiv_cs_ai",
       "published_at": "2026-06-22T17:57:08Z",
       "summary": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to outputs, then apply it to unseen inputs. Large Language Models (LLMs) notoriously struggle here; traditional methods force them to simulate complex boolean logic and arithmetic, leading to hallucinations. Furthermore, the search space of bitwise operations (combinations of shifts, rotations, and logic gates) suffers from a severe combinatorial explosion. To overcome this computational intractability, we present a novel approach that abandons arithmetic logic entirely in favor of string similarity, structured search, and autonomous error recovery.\n  Our core contributions are: 1. Bases and Truth Table Formulation: We reframe logic-gate deduction into a base-selection task, leveraging string similarity (minimal bit flips) to isolate primitive transformations (\"bases\") and deduce truth tables without complex arithmetic. 2. Backtracking DFS and Error Recovery: We formalize a search process that tests candidate bases, detects logical collisions across examples, and backtracks upon failure to perform robust error recovery. 3. Bit Tokenization and Interactive Reasoning SFT: We force the tokenizer to encode binary strings as individual single-bit tokens. We use dynamic masking to simulate external oracle feedback, training the model to hypothesize, self-evaluate, and backtrack natively.\n  Evaluated on bit manipulation puzzles, our approach achieved over 96% validation accuracy. This represents the highest performance in this category, driving our 7th Place overall finish in the contest.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "caa52e71af35efe3d0e9cb7901fbb41398faba6feb7e0b1795d6a9396116792b",
-      "title": "Can LLMs Reliably Self-Report Adversarial Prefills, and How?",
-      "url": "https://arxiv.org/abs/2606.23671v1",
-      "source": "arXiv API - Computation and Language",
-      "source_id": "arxiv_cs_cl",
-      "published_at": "2026-06-22T17:56:30Z",
-      "summary": "Prior work shows that large language models (LLMs) exhibit introspective capability on benign tasks. We extend the question to safety contexts and examine how reliably a model can recognize that its own prior response was elicited by an adversarial prefill attack. Across ten open-weight instruction-tuned LLMs (3B to 70B) and four safety benchmarks, no model reliably recognizes its own compromised outputs, with models claiming intent on prefilled responses at an average rate of $27.3\\%$. Introspective signal stems largely from safety- and refusal-related reasoning. Orthogonalizing models' weights against the refusal direction collapses the gap between claiming rates on prefilled and natural outputs to near zero, though the direction is not its unique mediator. The signal is also probe-dependent: framing the question as internal intention versus external tampering elicits qualitatively different responses on the same models. We test three LoRA finetuning methods (SFT, GRPO, DPO) on eight models from 3B to 27B; all three widen the intention-probe gap on every model from 8B to 27B, with method ranking varying by model. The intervention does not transfer to the tampering probe and counterintuitively raises attack success rate under adversarial prefill on most models, amounting to a partial mitigation. These findings outline mechanisms underpinning the observed introspective signals in safety contexts and highlight risks in the reliability of LLM self-reports.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "0683537ca4d76a387556aadf85193b56ef9309dd9e766d06fe53fe66912dda26",
-      "title": "Tapered Language Models",
-      "url": "https://arxiv.org/abs/2606.23670v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:56:25Z",
-      "summary": "Modern language models, including transformer, recurrent, and memory-based variants, share a common chassis: a stack of identical layers in which parameters are allocated uniformly across depth. This is a default inherited from the original transformer and largely unchanged since, yet a growing body of evidence suggests that layers contribute non-uniformly to the final output, with later layers refining the residual stream rather than transforming it. We ask whether parameter capacity should reflect this asymmetry. Our controlled experiment shows that, under a fixed budget, allocating more capacity to earlier layers and less to later layers improves perplexity over a uniform-width baseline, while the reverse allocation hurts. Building on this result, we introduce Tapered Language Models (TLMs), an architectural principle in which a parameter-bearing component is monotonically tapered across depth under a fixed total budget. MLPs are the natural site for this instantiation: they dominate parameter count across all modern LM families and expose width as a single, clean axis of variation. Across three model scales and four architectures (Transformer, Gated Attention, Hope-attention, and Titans), tapering MLP width via a smooth cosine schedule consistently improves perplexity and downstream benchmark performance over uniform baselines, at no additional parameter or compute cost. These findings establish depth-aware capacity allocation as a simple, architecture-agnostic axis of language model design, a free lever hidden in plain sight.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "00400276e441c368d61c876dc5a96401a086c38f3bf1c052b5c10a67415797d6",
-      "title": "On the Limits of Prompt-Conditioned Language Models as General-Purpose Learners",
-      "url": "https://arxiv.org/abs/2606.23668v1",
-      "source": "arXiv API - Machine Learning",
-      "source_id": "arxiv_cs_lg",
-      "published_at": "2026-06-22T17:52:59Z",
-      "summary": "Large Language Models (LLMs) are frequently portrayed as general-purpose solvers capable of solving arbitrary tasks. We argue that this view overlooks a fundamental constraint: language is a compressed and capacity-limited interface for conveying task information. Modelling User--System interaction as a bilevel \\emph{cheap-talk} game, we analyse how latent tasks are encoded into prompts and reinterpreted under alignment and safety constraints. We introduce a conceptual decomposition separating task inference from execution and derive PAC-Bayes bounds that distinguish finite-sample estimation error from irreducible structural limitations. Our first main result establishes an \\emph{expressivity floor}: language acts as a capacity-limited communication channel, and whenever the informational complexity of a task family exceeds the capacity of that channel, distinct tasks become unavoidably indistinguishable to the Solver, inducing a strictly positive error floor that cannot be eliminated by additional data, optimisation, or model scaling alone. We then establish an \\emph{objective-misalignment floor}: when alignment constraints restrict the admissible output set, the User-ideal distribution may lie outside the feasible class, inducing an irreducible distortion. Together, these results yield a formal negative conclusion: prompt-conditioned LLMs are not universal problem solvers through prompting alone, as there exist task families for which correct behaviour is provably unattainable even in the infinite-data regime. More broadly, our analysis shows the limits of prompt-based generalisation arise from information-constrained communication and alignment-constrained objectives. This suggests that interfaces beyond natural language, including multimodal observations and, external memory, may reduce the inherent LLM limitations by increasing the task-relevant information available to the System.",
       "category": "science",
       "image": null
     }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T20:14:02Z",
+  "generated_at": "2026-06-23T23:13:49Z",
   "edition": "2026-06-23",
   "top_stories": [
     {
@@ -36,17 +36,6 @@
       "image": null
     },
     {
-      "id": "4c2a30597925ba86418a8e62eba083bef5261dfbb0696f2baf48269dae753ecc",
-      "title": "Meta Exposed Data Internally from Its Controversial Employee-Tracking Program",
-      "url": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
-      "source": "Hacker News - Top Stories",
-      "source_id": "hackernews_topstories",
-      "published_at": "2026-06-22T20:28:53Z",
-      "summary": "Employees had previously raised concerns about the initiative, which involves collecting workers\u2019 keystroke data to train AI models.",
-      "category": "ai",
-      "image": null
-    },
-    {
       "id": "0bb3c4e10063655272cb6c3221f5a2c616c5514f77b0f602dfa80c07592e7222",
       "title": "VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO",
       "url": "https://arxiv.org/abs/2606.16140",
@@ -55,6 +44,17 @@
       "published_at": "2026-06-23T02:01:25Z",
       "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.16140\">https://arxiv.org/abs/2606.16140</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48639240\">https://news.ycombinator.com/item?id=48639240</a></p>\n<p>Points: 175</p>\n<p># Comments: 68</p>",
       "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "9cafc31689e6a3f71c2442d2a5ac8618566ead52de1a17b7a7fbda063a07e379",
+      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+      "url": "https://tikz.dev/editor/",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-23T14:24:21Z",
+      "summary": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look nice. I guess it\u2019s a bit like SVG, but it\u2019s more code than markup, for example it has loops with \\foreach.<p>I built an open-source WYSIWYG TikZ editor (available for web and desktop) that allows you to edit your TikZ source code visually by dragging and resizing elements. It simultaneously shows the source code and the rendered figure, and lets you edit either one while the two views stay in sync. I\u2019m not aware of any other editors that are simultaneously source editors and WYSIWYG (even for editing SVG or HTML), and I\u2019m quite pleased with how well the combination works.<p>The way the app is implemented is by parsing the TikZ code, and at all times keeping track of the exact source location of each object. Thereby, when a user drags an element to a new position, the app can override just the numbers in the coordinate without changing anything else in the code (such as line breaks or indentation).<p>This approach essentially required reimplementing a large fraction of TikZ, which is the kind of task that no human would ever want to do. I think building software that doesn\u2019t exist yet because it would be impossibly tedious to code up is one of the great new possibilities thanks to coding agents, and it\u2019s worth brainstorming for other examples. (This app was built almost entirely by Codex.)<p>Implementing the app came with lots of fun side quests, including building converters from SVG &#x2F; pptx &#x2F; ipe to TikZ, re-implementing the LaTeX hyphenation and line-breaking algorithm to support multi-line nodes, and making a color picker that uses the red!20!black color mixing notation used in LaTeX papers.",
+      "category": "ai",
       "image": null
     },
     {
@@ -69,24 +69,24 @@
       "image": null
     },
     {
-      "id": "384ba4ae80d6cf18e996e55b09ebe8cd169074b15c43e36a15ac977bd956717f",
-      "title": "The new HTTP QUERY method explained",
-      "url": "https://kreya.app/blog/new-http-query-method-explained/",
-      "source": "Hacker News - Top Stories",
-      "source_id": "hackernews_topstories",
-      "published_at": "2026-06-23T06:05:37Z",
-      "summary": "<p>Article URL: <a href=\"https://kreya.app/blog/new-http-query-method-explained/\">https://kreya.app/blog/new-http-query-method-explained/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640974\">https://news.ycombinator.com/item?id=48640974</a></p>\n<p>Points: 73</p>\n<p># Comments: 32</p>",
+      "id": "91e6f6c0974510935d21a7c4fd8d575ef1d0bd9abe9b85ccb13fc7de8a05d6a7",
+      "title": "The Low-Tech AI Of Elden Ring",
+      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+      "source": "Lobsters - RSS",
+      "source_id": "lobsters_rss",
+      "published_at": "2026-06-23T05:25:04Z",
+      "summary": "<p><a href=\"https://lobste.rs/s/fzz7pf/low_tech_ai_elden_ring\">Comments</a></p>",
       "category": "ai",
       "image": null
     },
     {
-      "id": "46230ca8052790f28e0fb70df75d0d33d617bd0054cbd77acf1b2a50fb72014f",
-      "title": "The Traditional Vi",
-      "url": "https://ex-vi.sourceforge.net/",
+      "id": "b307aec192adecb6cf5f4c624202ebbcc05a280fffc615e58248cf3ef9efb073",
+      "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
+      "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
       "source": "Hacker News - New Stories",
       "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T09:00:48Z",
-      "summary": "<p>Article URL: <a href=\"https://ex-vi.sourceforge.net/\">https://ex-vi.sourceforge.net/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48642232\">https://news.ycombinator.com/item?id=48642232</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "published_at": "2026-06-23T14:49:04Z",
+      "summary": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
       "category": "technology",
       "image": null
     },
@@ -102,14 +102,14 @@
       "image": null
     },
     {
-      "id": "4e90ced6cdba41522fb42722f50de5fe1f38715cddf245711fed70f1e5cf47cc",
-      "title": "6/22: The Takeout with Major Garrett",
-      "url": "https://www.cbsnews.com/video/062226-the-takeout-with-major-garrett/",
-      "source": "CBS News \u2014 World",
-      "source_id": "cbs_world",
-      "published_at": "2026-06-22T21:00:00Z",
-      "summary": "Vice President JD Vance says he feels great about progress on Iran talks; British Prime Minister Keir Starmer announces his resignation.",
-      "category": "world_affairs",
+      "id": "e6de148e9d99c3e663078ff4339b5a14b261f38a10635774e7537e30b20dc329",
+      "title": "When falling housing prices are good news \u2014 and when they're not",
+      "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
+      "source": "NPR \u2014 News",
+      "source_id": "npr_news",
+      "published_at": "2026-06-23T10:30:00Z",
+      "summary": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
+      "category": "real_estate",
       "image": null
     },
     {
@@ -122,28 +122,6 @@
       "summary": "Ketan Agarwal was a resident of Gahunje in Pune district.",
       "category": "real_estate",
       "image": "https://c.ndtvimg.com/2026-06/g4llnjvg_ketan-agarwal-siya-agarwal-_625x300_23_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "id": "e6de148e9d99c3e663078ff4339b5a14b261f38a10635774e7537e30b20dc329",
-      "title": "When falling housing prices are good news \u2014 and when they're not",
-      "url": "https://www.npr.org/sections/planet-money/2026/06/23/g-s1-129339/when-falling-housing-prices-are-good-news-and-when-theyre-not",
-      "source": "NPR \u2014 News",
-      "source_id": "npr_news",
-      "published_at": "2026-06-23T10:30:00Z",
-      "summary": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "9965fd2fe18297c18513fad53ca8cfb213e1dcbb731d171df9c6b146fa61143b",
-      "title": "Can Quad break China\u2019s mineral monopoly amid US-India rift?",
-      "url": "https://www.scmp.com/news/us/article/3357977/can-quad-break-chinas-mineral-monopoly-amid-us-india-rift?utm_source=rss_feed",
-      "source": "South China Morning Post \u2014 China",
-      "source_id": "scmp_china",
-      "published_at": "2026-06-22T21:35:49Z",
-      "summary": "The US strike on an oil tanker in the Gulf of Oman earlier this month did more than kill three Indian sailors and severely undercut US-India relations. It has also cast further doubt on the unity of the Quad, an informal bloc made up of the United States, Japan, Australia and India, and the group\u2019s ambitious agenda aimed at loosening China\u2019s dominant grip on critical minerals.\nDespite the persistent US-India fissures that could slow down the Quad\u2019s momentum, however, a counter-unifying force may...",
-      "category": "world_affairs",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/aeedefae-78ca-4cda-9b12-0f2c6adf28e5_9e2c6de7.jpg?itok=sB0-z0eh&v=1782164145"
     },
     {
       "id": "ecdc0bb3c9658df4e69b81ceffa6c2f1efa22fdc38dd5d47f95067a3fa4cd184",
@@ -168,15 +146,26 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/c8150b88-e267-49cb-83fe-660da400fbac_0550f3e5.jpg?itok=vVn4i_3R&v=1782200657"
     },
     {
-      "id": "60f69dfee97051b5de60d5c7afc14cbe88760ede353744ab4526b081100c629b",
-      "title": "How Trump's 'Complete and Total Endorsement' has reshaped the Republican Party",
-      "url": "https://www.npr.org/2026/06/23/nx-s1-5863542/trump-endorsements-primary-runoff-general",
-      "source": "NPR \u2014 National",
-      "source_id": "npr_national",
-      "published_at": "2026-06-23T09:00:00Z",
-      "summary": "An NPR analysis of more than a thousand Trump endorsements in House, Senate and governor races over the last decade finds the president now picks candidates earlier \u2014 and in safer races.",
-      "category": "us_news",
-      "image": null
+      "id": "cf1f46b55e271953bfa9d8712782be3556f56b22d7de9a574409765a9902bdf0",
+      "title": "China and Philippines have a rare naval stand-off near disputed Scarborough Shoal",
+      "url": "https://www.scmp.com/news/china/military/article/3358063/china-and-philippines-have-rare-naval-stand-near-disputed-scarborough-shoal?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 China",
+      "source_id": "scmp_china",
+      "published_at": "2026-06-23T09:14:24Z",
+      "summary": "Four Chinese warships reportedly confronted a Philippine Navy vessel near the disputed Scarborough Shoal in a rare stand-off on Saturday, the same day Manila wrapped up a joint drill with the US and its allies.\nThe confrontation coincided with the end of Salaknib 2026, a nearly three-month joint military exercise involving more than 7,000 troops from the Philippines, the United States, Japan, New Zealand and Australia.\nBeijing has not commented on the incident.\n\n\nAccording to a report by 24 Oras...",
+      "category": "world_affairs",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/b6bb0248-3c9e-47b3-a886-79a48c6a544d_b0e8a5be.jpg?itok=saNDhkyf&v=1782206039"
+    },
+    {
+      "id": "3ab57b8474dd32e8d5ab26bc68170b7d5fd80a51de358d3017d716ac7c9d5088",
+      "title": "China targets US rare earth miners as Pentagon faces restocking rush",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 China",
+      "source_id": "scmp_china",
+      "published_at": "2026-06-23T09:04:55Z",
+      "summary": "China put two US rare earth miners on its export control list, along with eight technology companies, in response to the US Department of Defence blacklisting Chinese businesses for their alleged ties to the People\u2019s Liberation Army.\nMP Materials and USA Rare Earth will both be banned from buying Chinese exports with dual civilian and military uses, the Ministry of Commerce said on Monday. Motor maker Aveox and drone companies Red Cat and Teal Drones were among the other companies included in...",
+      "category": "world_affairs",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/719ec17d-38f4-4d38-a4bb-8e0784cf1f8b_adf6d9fd.jpg?itok=xGSwgWvW&v=1782204898"
     },
     {
       "id": "218860609155010174853b01d946f33faa8e475f2bfc3cfaa066b46d7a65d49b",
@@ -201,6 +190,28 @@
       "image": null
     },
     {
+      "id": "60f69dfee97051b5de60d5c7afc14cbe88760ede353744ab4526b081100c629b",
+      "title": "How Trump's 'Complete and Total Endorsement' has reshaped the Republican Party",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5863542/trump-endorsements-primary-runoff-general",
+      "source": "NPR \u2014 National",
+      "source_id": "npr_national",
+      "published_at": "2026-06-23T09:00:00Z",
+      "summary": "An NPR analysis of more than a thousand Trump endorsements in House, Senate and governor races over the last decade finds the president now picks candidates earlier \u2014 and in safer races.",
+      "category": "us_news",
+      "image": null
+    },
+    {
+      "id": "fc9ff9bc2700def6c0b2365fa4e25a800fab576531d31d87c3507c3055f94b4e",
+      "title": "Strongest Dollar This Year Pressures EM Currencies and Stocks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/emerging-market-stocks-fall-on-korea-selloff-currencies-weaken",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-23T11:20:58Z",
+      "summary": "Most developing-world currencies weakened against the dollar on Tuesday as the greenback climbed to its strongest level of the year, amid a risk-off mood triggered by a steep selloff in South Korea\u2019s technology giants.",
+      "category": "stocks",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3SGi6qk4Knk/v3/1200x-1.png"
+    },
+    {
       "id": "35f988735b4e6802f8eaa1745ebca21fb90787e5e72c52d0da840acee5796f0b",
       "title": "Private equity bosses turn to carried interest loans as payouts stall",
       "url": "https://www.ft.com/content/1fe784c5-f52c-48c0-a99e-4d1b83546c32",
@@ -210,17 +221,6 @@
       "summary": "Requests to borrow against future shares of profits are multiplying, as the buyout market remains slow",
       "category": "stocks",
       "image": null
-    },
-    {
-      "id": "fbf1dfbcc1ffa3d24e2a48703f8d74a293c67dc7f044c55fc9c36554b9a95eba",
-      "title": "Israel Weighs US IPO for Multi-Billion-Dollar Defense Companies",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/israel-weighs-us-ipo-for-multi-billion-dollar-defense-companies",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T15:15:45Z",
-      "summary": "Israel is considering listing state-owned defense giants Israel Aerospace Industries Ltd. and Rafael Advanced Defense Systems Ltd. in the US to potentially avoid stricter disclosure obligations in the local market.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ic6fUlebreUU/v1/1200x-1.jpg"
     }
   ],
   "categories": [
@@ -230,35 +230,35 @@
       "count": 60,
       "top": [
         {
-          "id": "ae62e8b1c9961f21388352dafe9de992fa816166f682f61433d79d32ae6b049f",
-          "title": "Show HN: I explained 821 US patents in plain English, with JSON/Markdown",
-          "url": "https://patentbrief.org",
+          "id": "8b4dbfd1de1b819de86fea438d44848ae7a993512659cc94e356011b4111b336",
+          "title": "LLM-CTF benchmark \u2013 2,639 real data points from NeurIPS and original runs",
+          "url": "https://www.kaggle.com/datasets/manitejamaram/can-ai-hack-llm-ctf-benchmark",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T20:07:53Z",
-          "summary": "Plain-English explanations of ~821 US patents \u2014 slide-to-unlock, CRISPR, nylon, RSA encryption, and more. Every page has &#x2F;json and &#x2F;md endpoints for structured data. Open data at patentbrief.org&#x2F;data.",
+          "published_at": "2026-06-23T23:04:57Z",
+          "summary": null,
           "category": "ai",
           "image": null
         },
         {
-          "id": "8a249a66378615973dd6bd9796f01011b5d4836de18f6c6e179c50eb543aa9ab",
-          "title": "Cracks in the crypto world? This top data center provider is spending $500 million to turn former cryptomining sites into AI cloud facilities",
-          "url": "https://www.techradar.com/pro/cracks-in-the-crypto-world-this-top-data-center-provider-is-spending-usd500-million-to-turn-former-cryptomining-sites-into-ai-cloud-facilities",
-          "source": "TechRadar \u2014 All",
-          "source_id": "techradar",
-          "published_at": "2026-06-23T20:05:00Z",
-          "summary": "AiOnX pays $500 million for major stake in Genesis Digital Assets, a US-based Bitcoin miner, plans to convert sites into AI cloud centers serving hyperscalers.",
-          "category": "ai",
-          "image": "https://cdn.mos.cms.futurecdn.net/Y5BaBkp9uJ2RQnJbCbDEsA-1280-80.jpg"
-        },
-        {
-          "id": "fd5266993d9b28a1a1d589f4ee099ffdbc24de6891a565beb6151d3aab47b297",
-          "title": "Finding a Feedback Loop: shipping my first prod agentic feature at Pair Team",
-          "url": "https://pairteamtech.substack.com/p/finding-a-feedback-loop",
+          "id": "1a6682ceac7302a7b5dcb2a8d2f60fc805e251ef53aff1a5eb3fa8b06eac45d9",
+          "title": "Why Companies Are Dumping OpenAI and Anthropic [video]",
+          "url": "https://www.youtube.com/watch?v=V46Fw9LPNXI",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T20:02:39Z",
+          "published_at": "2026-06-23T23:04:57Z",
           "summary": null,
+          "category": "ai",
+          "image": null
+        },
+        {
+          "id": "8423103e2edf008d264f0ff3876b52443a8a94dc855071cf4b2f1e9c14253a3c",
+          "title": "Show HN: Budget Control in Claude Code Harness with Codex Handoff",
+          "url": "https://blog.rduffy.uk/posts/the-speedometer-i-made-up/",
+          "source": "Hacker News - New Stories",
+          "source_id": "hackernews_newstories",
+          "published_at": "2026-06-23T23:03:44Z",
+          "summary": "<p>Article URL: <a href=\"https://blog.rduffy.uk/posts/the-speedometer-i-made-up/\">https://blog.rduffy.uk/posts/the-speedometer-i-made-up/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652767\">https://news.ycombinator.com/item?id=48652767</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
           "category": "ai",
           "image": null
         }
@@ -269,6 +269,17 @@
       "label": "Space",
       "count": 60,
       "top": [
+        {
+          "id": "648a6dfb4a76cd346e34e14d161c03b1e0b017009c571fd40fe85fe04f5e5e31",
+          "title": "What is Starfall? A look at SpaceX's mysterious new return capsule",
+          "url": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule",
+          "source": "Space.com",
+          "source_id": "space_com",
+          "published_at": "2026-06-23T21:00:00Z",
+          "summary": "SpaceX just launched its Starfall return capsule for the first time. What does the company plan to do with the new vehicle?",
+          "category": "space",
+          "image": "https://cdn.mos.cms.futurecdn.net/ZX6DnUDfj4XHaaWvyuiJkf-1280-80.jpg"
+        },
         {
           "id": "d8ffc37029432a9fe698a7d0e8a6d4218fd4548367e08ffa1d45fe2cd2a827ea",
           "title": "Space.com just launched an app! Get your inside scoop on space exploration",
@@ -290,17 +301,6 @@
           "summary": "Firefly Aerospace launched the Victus Nox mission for the U.S. Space Force on Thursday night (Sept. 14), just 27 hours after receiving the liftoff order.",
           "category": "space",
           "image": "https://cdn.mos.cms.futurecdn.net/N7zCZnvtwhDuE8s737gBeL-1280-80.jpg"
-        },
-        {
-          "id": "7b3fb95d44ee450156186d67ab9ee8d708fa9ddc3086691867b6c468c07e4297",
-          "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Ni\u00f1o",
-          "url": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino",
-          "source": "Live Science",
-          "source_id": "live_science",
-          "published_at": "2026-06-23T17:53:20Z",
-          "summary": "This year's El Ni\u00f1o is on track to be among the strongest ever recorded.",
-          "category": "space",
-          "image": "https://cdn.mos.cms.futurecdn.net/inA6MZpL97JRAu3wcERPFE-1280-80.jpg"
         }
       ]
     },
@@ -321,24 +321,24 @@
           "image": null
         },
         {
-          "id": "c945f3b43ad85c32df34b84fb36a8f9bd04801b93461c4f4e10dd23309162834",
-          "title": "\"Black box\" found near crash site of Ethiopian Airlines flight",
-          "url": "https://en.wikinews.org/wiki/\"Black_box\"_found_near_crash_site_of_Ethiopian_Airlines_flight",
-          "source": "Wikinews - Published Articles",
-          "source_id": "wikinews_published",
-          "published_at": null,
-          "summary": null,
+          "id": "4e6959b9478944d7b7068ad07943ea07b32e99334d8f5061f176d7215a8d28a9",
+          "title": "[Comment] Intersecting vulnerabilities and homelessness in young people",
+          "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(26)00102-7/fulltext?rss=yes",
+          "source": "The Lancet Public Health",
+          "source_id": "lancet_public_health",
+          "published_at": "2026-07-01T00:00:00Z",
+          "summary": "Homelessness is a growing global problem. In 2024, the Organisation for Economic Co-operation and Development (OECD) and the EU estimated that more than two million people were experiencing homelessness across the 38 member countries.1 Notably, youths consistently make up a large share. OECD and EU reports indicate that youths account for 35% of people experiencing homelessness in the Netherlands, 31% in Australia, and 28% in Denmark.2 In North America, Canada reports that 18% of people experiencing homelessness are younger than 24 years,3 and the USA reports 27%, with a 10% increase between 2023 and 2024.",
           "category": "crypto",
           "image": null
         },
         {
-          "id": "2df850366df69d4593f97a843b883702d4e8d96e9f70520488f66a9753b3bac4",
-          "title": "News24 | Trump allies defend Iran deal to assure Israel of \u2018unbreakable bond\u2019",
-          "url": "https://www.news24.com/world/trump-allies-defend-iran-deal-to-assure-israel-of-unbreakable-bond-20260623-0481",
-          "source": "News24 \u2014 Top Stories (South Africa)",
-          "source_id": "news24_topstories",
-          "published_at": null,
-          "summary": "American allies of US President Donald Trump this week defended him to an Israeli public anxious about a US interim deal with Iran and White House criticism that together appeared to signal fissures in Israel\u2019s decades-old alliance with Washington.",
+          "id": "b9564359bff84d861189e3e084ca55321bb1be3e73c9e91a5825cf6303259640",
+          "title": "[Correspondence] Paralysis in public health: evidence as an alibi? \u2013 Authors' reply",
+          "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(26)00120-9/fulltext?rss=yes",
+          "source": "The Lancet Public Health",
+          "source_id": "lancet_public_health",
+          "published_at": "2026-07-01T00:00:00Z",
+          "summary": "We welcome the thoughtful responses to our Viewpoint1 from Michael Glick, Arnaud Chiolero and colleagues, and Nicolas Dritsch and colleagues. Together, the letters extend the discussion around analysis paralysis in public health across three related domains: evidence infrastructure, learning systems, and systems theory.",
           "category": "crypto",
           "image": null
         }
@@ -350,35 +350,35 @@
       "count": 60,
       "top": [
         {
-          "id": "cce131d9c5cdb52bf756dee8301b8701fa0c9fc661f338c858d570e05b1bd6b0",
-          "title": "Top Stock Reports for Visa, TotalEnergies & AT&T",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-totalenergies-201900826.html",
-          "source": "Alpha Vantage - NEWS_SENTIMENT",
-          "source_id": "alphavantage_news_sentiment",
-          "published_at": "2026-06-23T19:49:00Z",
-          "summary": "This article presents Zacks Research Daily's top stock reports for June 22, 2026, featuring detailed analyses of 16 major and micro-cap stocks. Key companies highlighted include Visa (V), TotalEnergies (TTE), and AT&T (T), with insights into their recent performance, financial outlooks, and challenges. The reports offer both positive and cautious views on these stocks based on current market conditions and company-specific factors.",
+          "id": "90453861cf643fe91fb9b62f7567d11878d443f4584a7e1623f14d262963dbc8",
+          "title": "[Editorial] Protecting childhood: a pressing priority",
+          "url": "https://www.thelancet.com/journals/lanpub/article/PIIS2468-2667(26)00127-1/fulltext?rss=yes",
+          "source": "The Lancet Public Health",
+          "source_id": "lancet_public_health",
+          "published_at": "2026-07-01T00:00:00Z",
+          "summary": "All children deserve to grow up in safe, stable, and nurturing environments. Yet millions globally face adversity, with their youngest years marked by stress, trauma, or abuse. So-called adverse childhood experiences (ACEs) include sexual, physical, or emotional abuse, physical or emotional neglect, and parental separation or divorce. Witnessing intimate partner violence, living with someone who has a mental illness or substance misuse problem, or having a household member who is incarcerated are further ACEs.",
           "category": "real_estate",
           "image": null
         },
         {
-          "id": "2780a7036978404e07091ae477d00fb1c60449d3abe65523ffae4b71f883af7f",
-          "title": "Without missiles Iran would have ended up \u2018like Gaza\u2019, says Iranian president",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president",
-          "source": "Middle East Eye \u2014 All",
-          "source_id": "middleeasteye_all",
-          "published_at": "2026-06-23T19:41:29Z",
-          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president\" rel=\"bookmark\">\n<span class=\"field field-title\">Without missiles Iran would have ended up \u2018like Gaza\u2019, says Iranian president </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Iranian President Massoud Pezeshkian said on Tuesday that, if Iran did not have its missile defensives, it would have ended up \u201crazed like Gaza\u201d in the US-Israeli war.</p>\n\n<p>\u201cIf the missiles we have for our defense did not exist, Israel and the United States would have razed Iran like Gaza,\u201d Pezeshkian said, reiterating that Iran\u2019s defensive capabilities would not be negotiated \u201cunder any circumstances\u201d.</p>\n</div>\n      \n  </div>\n\n</article>",
+          "id": "39fce5b8bc3c862f3f7e57204b8cbecf9ea7fce0925e33070ce42303ede4a608",
+          "title": "Here's what's behind the current tech stock selloff",
+          "url": "https://www.cbsnews.com/video/whats-behind-tech-stock-selloff-right-now/",
+          "source": "CBS News \u2014 Latest",
+          "source_id": "cbs_main",
+          "published_at": "2026-06-23T23:02:10Z",
+          "summary": "Stocks slid around the world on Tuesday as investors pulled back from some of the biggest names in tech amid concerns about ongoing inflation and the possibility of future interest rate hikes. CBS News' Jo Ling Kent has more.",
           "category": "real_estate",
           "image": null
         },
         {
-          "id": "5aad60fef0d9390200ebef75d312b9655805b62a6959fcdd978f71f58a901152",
-          "title": "Palo Alto Networks (PANW) Stock Could Be 82.8% Overvalued After AI Security Momentum",
-          "url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/palo-alto-networks-panw-stock-could-be-828-overvalued-after",
+          "id": "0e71bd2ce228ea3d539b535cd61e5ff2052e3a431cce602573c17ab00ca66f2c",
+          "title": "Hudson Pacific Properties COO Andrew Wattula resigns; duties reassigned By Investing.com",
+          "url": "https://ng.investing.com/news/stock-market-news/hudson-pacific-properties-coo-andrew-wattula-resigns-duties-reassigned-93CH-2568960",
           "source": "Alpha Vantage - NEWS_SENTIMENT",
           "source_id": "alphavantage_news_sentiment",
-          "published_at": "2026-06-23T19:36:00Z",
-          "summary": "Palo Alto Networks (PANW) stock is potentially 82.8% overvalued based on a fair value of $156.71 against a current price of $286.40, despite its strong performance and AI-focused security offerings. The company's market value is US$234.5 billion, and while it has seen significant share price appreciation, analysts question future upside. The narrative suggests the growth profile and valuation multiples are key factors in determining its true value, noting potential risks related to integration challenges of acquisitions or overly optimistic next-generation security growth.",
+          "published_at": "2026-06-23T22:40:18Z",
+          "summary": "Hudson Pacific Properties (NYSE: HPP) announced the resignation of COO Andrew Wattula, who cited no financial or operational disagreements. His duties will be reassigned among existing executive officers while the company decides on filling the role. This leadership change occurs as the real estate company, despite a \"weak\" financial health score from InvestingPro, has seen a significant stock surge and is considered undervalued.",
           "category": "real_estate",
           "image": null
         }
@@ -387,40 +387,40 @@
     {
       "key": "nba",
       "label": "NBA",
-      "count": 17,
+      "count": 20,
       "top": [
         {
-          "id": "a0feb235d1fbac0c069adae755c583b595ff2ef6c4e78dcb4dcae2f1da4eca6f",
-          "title": "Updated two-round mock draft: What we're hearing o...",
-          "url": "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
+          "id": "390d2ff51e4740610009312cf6b6766da32fc1946ff0c0ad70c027c155e36002",
+          "title": "Hammon won't apologize, says Brunson 'outlier'",
+          "url": "https://www.espn.com/nba/story/_/id/49157579/hammon-not-apologizing-opinion-says-brunson-nba-outlier",
           "source": "ESPN - NBA",
           "source_id": "espn_nba",
-          "published_at": "2026-06-23T17:10:01Z",
-          "summary": "We have an updated 60-pick mock draft with new intel ahead of Round 1 of the 2026 NBA draft (Tuesday, 8 p.m. ET on ESPN/ABC).",
+          "published_at": "2026-06-23T23:27:05Z",
+          "summary": "Aces coach Becky Hammon acknowledged Tuesday that Knicks star Jalen Brunson has put himself in a unique class of players, but didn't back off her general stance that small guards generally don't lead teams to NBA championships.",
           "category": "nba",
           "image": null
         },
         {
-          "id": "e5d475f598bede9fbb50065771b02086405d6bdbf57e2f7510a8a47796e1afc7",
-          "title": "Bilas' top NBA draft prospects: Most talented, bes...",
-          "url": "https://www.espn.com/nba/story/_/id/49100172/bilas-nba-draft-superlatives-no-1-pick-peterson-dybantsa-boozer-wilson-acuff",
-          "source": "ESPN - NBA",
-          "source_id": "espn_nba",
-          "published_at": "2026-06-23T17:10:00Z",
-          "summary": "Who should be No. 1? Who is the best guard after Darryn Peterson? Jay Bilas highlights 11 top prospects.",
+          "id": "073abc312b8a15f537353f0cd9f8e8b928e78f325723abf9094479a692bc986e",
+          "title": "2026 NBA draft: Boozer, Dybantsa lead top fits from first round",
+          "url": "https://www.espn.com/nba/story/_/id/49157116/2026-nba-draft-top-fashion-looks-fits-prospects",
+          "source": "Currents API - Latest News",
+          "source_id": "currents_latest_news",
+          "published_at": "2026-06-23T22:59:27Z",
+          "summary": "The NBA's next generation of players arrived in style for the 2026 draft in Brooklyn.",
           "category": "nba",
-          "image": null
+          "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0623%2Fr1678431_1296x729_16%2D9.jpg"
         },
         {
-          "id": "0065d979ed9e619baade2b98dd1484daa9f4889ee232fac73caf75dcf08e2817",
-          "title": "Latest NBA buzz: Everything we're hearing ahead of...",
-          "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-          "source": "ESPN - NBA",
-          "source_id": "espn_nba",
-          "published_at": "2026-06-23T17:04:33Z",
-          "summary": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Giannis Antetokounmpo front.",
+          "id": "ba91eadca5d7dc8ea045805a1deba1308688b831cc1f49513c5e176997bbcf33",
+          "title": "\"Trading a Ferrari for shopping cart\", \"Probably making $18/hr\" - NBA Fans Mock Trail Blazers For Micah Nori Hire Amid Tom Dundon's Cost-Cutting Era",
+          "url": "https://www.sportskeeda.com/basketball/news-trading-ferrari-shopping-cart-probably-making-18-hr-nba-fans-mock-trail-blazers-for-micah-nori-hire-amid-tom-dundon-s-cost-cutting-era",
+          "source": "Currents API - Latest News",
+          "source_id": "currents_latest_news",
+          "published_at": "2026-06-23T22:57:31Z",
+          "summary": "On Tuesday, the Portland Trail Blazers named Micah Nori as their new head coach. Nori has been considered to be one of the best assistant coaches over the past few seasons.",
           "category": "nba",
-          "image": null
+          "image": "https://staticg.sportskeeda.com/editor/2026/06/34f25-17822537455690-1920.jpg"
         }
       ]
     },
@@ -470,28 +470,6 @@
       "count": 60,
       "top": [
         {
-          "id": "ae8e55d4e4c400786a72911486ec5884c067684525c0e2b4769c4442855faac2",
-          "title": "Bell Potter tips 129% upside for this ASX materials stock",
-          "url": "https://www.fool.com.au/2026/06/24/bell-potter-tips-129-upside-for-this-asx-materials-stock/",
-          "source": "Currents API - Latest News",
-          "source_id": "currents_latest_news",
-          "published_at": "2026-06-23T20:04:24Z",
-          "summary": "After a key announcement, Bell Potter has bumped up its 12-month price target for this ASX materials stock.",
-          "category": "stocks",
-          "image": "https://www.fool.com.au/wp-content/uploads/2024/09/mine-happy-1200x675.jpg"
-        },
-        {
-          "id": "82f2f376bdcbe43ee0fca5d0e7fabf8aac7612e34c0ec5ac6cb74cd8f1fdc6d9",
-          "title": "China crackdown rattles Hong Kong wealth hub status",
-          "url": "https://asia.nikkei.com/business/markets/trading-asia/china-crackdown-rattles-hong-kong-wealth-hub-status",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
-          "summary": null,
-          "category": "stocks",
-          "image": null
-        },
-        {
           "id": "7a0989c00cf7815ddb95c3122fd5967953802e2aa8fec1c7bf86bfb8022c2d18",
           "title": "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival",
           "url": "https://asia.nikkei.com/business/materials/nippon-steel-shares-slump-as-debt-outweighs-fruits-of-u.s.-steel-revival",
@@ -501,6 +479,28 @@
           "summary": null,
           "category": "stocks",
           "image": null
+        },
+        {
+          "id": "9ff708b13a6aa3aac09463be568c5c554a107277e149805dab688117396f01dd",
+          "title": "ALLEGIANT TRAVEL COMPANY ANNOUNCES EARLY TENDER RESULTS AND RECEIPT OF CONSENTS FROM THE HOLDERS OF A MAJORITY OF THE OUTSTANDING PRINCIPAL AMOUNT OF ITS 7.250% SENIOR SECURED NOTES DUE 2027",
+          "url": "https://www.prnewswire.com/news-releases/allegiant-travel-company-announces-early-tender-results-and-receipt-of-consents-from-the-holders-of-a-majority-of-the-outstanding-principal-amount-of-its-7-250-senior-secured-notes-due-2027--302808403.html",
+          "source": "Currents API - Latest News",
+          "source_id": "currents_latest_news",
+          "published_at": "2026-06-23T23:00:00Z",
+          "summary": "/PRNewswire/ -- Allegiant Travel Company (NASDAQ: ALGT) (the \"Company,\" \"we,\" \"us,\" or \"our\") announced today that it has received for purchase $377,534,000...",
+          "category": "stocks",
+          "image": "https://mmx.prnewswire.com/media/MS765051/AllegiantLogoBlue--NoTagline-2014_Logo.jpg?id=OA2730893&p=facebook"
+        },
+        {
+          "id": "9a13bfeba8d5ebaa95906d00242face1c3a2145c9affd5056c14cf8e2b44128c",
+          "title": "Xi Pressures Takaichi By Throttling Key Mineral Exports to Japan",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-23/xi-pressures-takaichi-by-throttling-key-mineral-exports-to-japan",
+          "source": "Bloomberg \u2014 Markets",
+          "source_id": "bloomberg_markets",
+          "published_at": "2026-06-23T23:00:00Z",
+          "summary": "China is choking shipments of some critical minerals to Japan, a slowdown that\u2019s hurting companies and prompting calls for Prime Minister Sanae Takaichi to find a diplomatic off-ramp with Beijing.",
+          "category": "stocks",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwmI9BAFYV8o/v0/1200x-1.jpg"
         }
       ]
     },
@@ -509,17 +509,6 @@
       "label": "Economy",
       "count": 60,
       "top": [
-        {
-          "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
-          "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
-          "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
-          "summary": null,
-          "category": "economy",
-          "image": null
-        },
         {
           "id": "a2b016c399a747a6801751b3b9281adc09ab32f96ba047ae2f93293451822dd0",
           "title": "Indonesia's social media ban sends chill through 'kidfluencers' economy",
@@ -532,15 +521,26 @@
           "image": null
         },
         {
-          "id": "7dc2043b0878050d0b72a31fbcc684324f109421846b09c42496906be6221740",
-          "title": "Crypto isn't the problem with the US economy, says senator",
-          "url": "https://cointelegraph.com/news/digital-chamber-overlooked-senate-affordability-hearing?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-          "source": "Cointelegraph",
-          "source_id": "cointelegraph",
-          "published_at": "2026-06-23T19:49:59Z",
-          "summary": "Louisiana Senator John Kennedy largely dismissed what he called the \u201cpromotion\u201d of cryptocurrency by the Digital Chamber CEO Cody Carbone in a Senate hearing on affordability.",
+          "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
+          "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
+          "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds",
+          "source": "Nikkei Asia \u2014 Top",
+          "source_id": "nikkei_asia",
+          "published_at": null,
+          "summary": null,
           "category": "economy",
-          "image": "https://s3-images.ctmedia.io/media/article-covers/hinew-us-government-crypto2-2.jpg"
+          "image": null
+        },
+        {
+          "id": "c8313acf33ad7dcd7571296c84169a164142f4154334d082da0f830b1dfaa888",
+          "title": "Congress to pass housing help for Americans in rare act of bipartisanship",
+          "url": "https://www.washingtonpost.com/business/2026/06/23/congress-pass-housing-help-americans-rare-act-bipartisanship/",
+          "source": "The Washington Post \u2014 Business",
+          "source_id": "wapo_business",
+          "published_at": "2026-06-23T22:53:25Z",
+          "summary": "With elections looming, lawmakers in both political parties are under pressure to show they are listening to Americans\u2019 concerns about the economy.",
+          "category": "economy",
+          "image": null
         }
       ]
     },
@@ -550,35 +550,35 @@
       "count": 60,
       "top": [
         {
-          "id": "2aed54eaac1069c6a610fa6bad6d084c5bbc27031376bdf4895a462f2c550e0e",
-          "title": "Iran\u2019s president arrives in Pakistan for peace talks",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss",
+          "id": "6f03fd0f03969d6648a33bc04399b7df09ec2425a71e7b8da0bd8b02c6965968",
+          "title": "Israel\u2019s deliberate targeting of Palestinian children",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
           "source": "Al Jazeera English \u2014 All News",
           "source_id": "aljazeera_en_all",
-          "published_at": "2026-06-23T19:57:01Z",
-          "summary": "Iran\u2019s president arrives in Pakistan for peace talks",
+          "published_at": "2026-06-23T22:50:00Z",
+          "summary": "New UN report documents the toll of Israel&#039;s war on Gaza and its occupation of the West Bank on Palestinian children.",
           "category": "world_affairs",
           "image": null
         },
         {
-          "id": "666f177841d5340a0af7470714263f732d3ab2f89bbf1d2f1386dd088f153396",
-          "title": "US sanctions five Cuban companies, Castro relative",
-          "url": "https://www.straitstimes.com/world/us-sanctions-five-cuban-companies-castro-relative",
-          "source": "The Straits Times \u2014 World",
-          "source_id": "straitstimes_world",
-          "published_at": "2026-06-23T19:56:39Z",
-          "summary": "<p>Successive waves of US sanctions have piled misery on Cuba\u2019s 9.6 million inhabitants.</p>",
-          "category": "world_affairs",
-          "image": null
-        },
-        {
-          "id": "ae0fcbe0712a9cbbf44f28d8390cf9aadf04013f94d60426be0d1c1049697642",
-          "title": "US Senate votes to halt Iran war",
-          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/us-senate-votes-halt-iran-war",
+          "id": "01396ffb45fe793c5f2a15f42dc8016a14a12da4abe49c8be1e581943f388c88",
+          "title": "Israel denying Palestinian women medical care in prison",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-denying-palestinian-women-medical-care-prison",
           "source": "Middle East Eye \u2014 All",
           "source_id": "middleeasteye_all",
-          "published_at": "2026-06-23T19:53:57Z",
-          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/us-senate-votes-halt-iran-war\" rel=\"bookmark\">\n<span class=\"field field-title\">US Senate votes to halt Iran war</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">The Republican-majority US Senate backed legislation on Tuesday to stop military action against Iran, reflecting the growing unpopularity of the war as peace negotiations continue.</p>\n\n<p>The Senate voted 50-48 in favour of the resolution, which passed the House of Representatives in early June.&nbsp;</p>\n\n<p>Polling suggests that only one in four Americans believe that the Iran war is worth the cost to the US, affecting Trump\u2019s popularity, which has fallen to record low levels to match the worst recorded in his second term.</p>\n</div>\n      \n  </div>\n\n</article>",
+          "published_at": "2026-06-23T22:39:40Z",
+          "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-denying-palestinian-women-medical-care-prison\" rel=\"bookmark\">\n<span class=\"field field-title\">Israel denying Palestinian women medical care in prison</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Palestinian women are facing \u201ccatastrophic\u201d conditions in Israel\u2019s Damon Prison, according to a report by the Palestinian Prisoners and Ex-Prisoners Affairs Commission.&nbsp;</p>\n\n<p>The Commission cited severe overcrowding, deliberate medical neglect, and the denial of basic human rights.</p>\n\n<p>Damon Prison, which currently holds 87 Palestinian women, is also reportedly denying pregnant prisoners necessary media care and basic necessities.&nbsp;</p>\n\n<p>The Commission added that women are only allowed outside their cells for one hour per day for recreation and showering, and face poor-quality food and shortages of clothing, personal belongings, and hygiene products.&nbsp;</p>\n</div>\n      \n  </div>\n\n</article>",
+          "category": "world_affairs",
+          "image": null
+        },
+        {
+          "id": "f1bb1808d3108d45549cc0c0559753f58e7be14c6ab99be3b67f3363ca2ee4b5",
+          "title": "US Senate joins House in voting to halt Iran war, rebuking Trump",
+          "url": "https://www.straitstimes.com/world/middle-east/us-senate-joins-house-in-voting-to-halt-iran-war-rebuking-trump",
+          "source": "The Straits Times \u2014 World",
+          "source_id": "straitstimes_world",
+          "published_at": "2026-06-23T22:35:58Z",
+          "summary": "<p>WASHINGTON, June 23 - The U.S. Senate backed legislation on Tuesday directing President Donald Trump to halt U.S. military action against Iran, the latest rebuke of the Republican president from an increasingly restive Congress.</p>",
           "category": "world_affairs",
           "image": null
         }
@@ -587,40 +587,40 @@
     {
       "key": "us_news",
       "label": "US News",
-      "count": 53,
+      "count": 60,
       "top": [
         {
-          "id": "23f7acddc51515fcca3fc5eb355ebd9348a737dc6313cf8d59f8927e0d2f4e08",
-          "title": "Army sergeant gets life sentence for shootings that wounded 5 at Georgia base",
-          "url": "https://abcnews.com/US/wireStory/army-sergeant-gets-life-sentence-shootings-wounded-5-134145136",
+          "id": "ca987a82eacc579e614c3951130680723a4cdc3edad4ac233e10796bad58c04d",
+          "title": "Former Colorado analyst pleads guilty in DNA testing scandal",
+          "url": "https://abcnews.com/US/wireStory/former-colorado-analyst-pleads-guilty-dna-testing-scandal-134149953",
           "source": "ABC News \u2014 US Headlines",
           "source_id": "abc_us",
-          "published_at": "2026-06-23T19:20:00Z",
-          "summary": "An Army sergeant has been sentenced to life in prison for shootings that wounded five people at a Georgia base last summer",
+          "published_at": "2026-06-23T23:01:26Z",
+          "summary": "A former analyst with the Colorado Bureau of Investigation who was accused of cutting corners and bucking testing protocols has pleaded guilty to four felonies stemming from a DNA testing scandal",
           "category": "us_news",
-          "image": "https://s.abcnews.com/images/US/wirestory_5b0bb3f77f5b38651d078c37e7ed368e_4x3_384.jpg"
+          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
         },
         {
-          "id": "cd8d6f433c2d683b459c635eabadc9a0ac0e18f84530dfbfcb511fe866a1412e",
-          "title": "Alleged antifa members in Texas are sentenced for ICE protest",
-          "url": "https://www.washingtonpost.com/nation/2026/06/23/alleged-antifa-members-texas-get-maximum-sentences-ice-protest/",
-          "source": "The Washington Post \u2014 National",
-          "source_id": "wapo_national",
-          "published_at": "2026-06-23T19:16:59Z",
-          "summary": "Eight people got prison terms ranging from 30 to 100 years for their roles in a protest that turned violent outside an immigration detention center last summer.",
+          "id": "dde2aa2fee62cbd6b7878f92cb9813249764a641f1878c61604b7282d0ca70ff",
+          "title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere",
+          "url": "https://abcnews.com/US/wireStory/covid-19-vaccine-study-blocked-cdc-journal-published-134149898",
+          "source": "ABC News \u2014 US Headlines",
+          "source_id": "abc_us",
+          "published_at": "2026-06-23T22:52:21Z",
+          "summary": "A study on COVID-19 vaccine effectiveness has been published after being blocked from a government health journal",
+          "category": "us_news",
+          "image": "https://s.abcnews.com/images/US/wirestory_256e61b5ff4fcf3bfecd48826077e389_4x3_384.jpg"
+        },
+        {
+          "id": "1b7049b989dd1ca3c6f86dcfd613af25e3f289da660c347d498556e4d0bde53e",
+          "title": "Boaters compete in 750-mile race... with no engines",
+          "url": "https://www.npr.org/2026/06/23/nx-s1-5850711/boaters-compete-in-750-mile-race-with-no-engines",
+          "source": "NPR \u2014 National",
+          "source_id": "npr_national",
+          "published_at": "2026-06-23T22:13:39Z",
+          "summary": "For the \"Race to Alaska,\" intrepid boaters compete in a 750-mile no-engine boat race from Washington state to Alaska.",
           "category": "us_news",
           "image": null
-        },
-        {
-          "id": "c68b4835141381dcbb11357f35a44a11d9168e24e13c834c2d893d139d9dea8a",
-          "title": "UN adopts resolution to ensure perpetrators of crimes against peacekeepers face justice",
-          "url": "https://abcnews.com/US/wireStory/adopts-resolution-ensure-perpetrators-crimes-peacekeepers-face-justice-134141447",
-          "source": "ABC News \u2014 US Headlines",
-          "source_id": "abc_us",
-          "published_at": "2026-06-23T18:08:43Z",
-          "summary": "The U.N. Security Council has unanimously adopted a resolution authorizing new steps to ensure that perpetrators of crimes against peacekeepers face justice",
-          "category": "us_news",
-          "image": "https://s.abcnews.com/images/US/wirestory_bc3389d6ed14b1980ba8d4318048aa21_4x3_384.jpg"
         }
       ]
     },
@@ -630,35 +630,35 @@
       "count": 60,
       "top": [
         {
-          "id": "26c1bdfad0b4011b034eb61cdee9a68962b8da37a134e294f239b6e71571cde4",
-          "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-          "url": "https://arxiv.org/abs/2606.23688",
+          "id": "c76236b39bf16b535d1613c16e80b1b1aae7c1aeb5a0ef1aa22adb6190012ed5",
+          "title": "I turned the Dialog leak into a searchable conflict of interest database",
+          "url": "https://build-a-cult.com",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T20:08:18Z",
+          "published_at": "2026-06-23T23:05:15Z",
           "summary": null,
           "category": "technology",
           "image": null
         },
         {
-          "id": "eae9e03ab1033d77517d86433bb76526dd98843a21a74eeec43df26a66900ddf",
-          "title": "The World Needs More Whimsy \u2013 The Big Banana Car [video]",
-          "url": "https://www.youtube.com/watch?v=xvi0yjpa-es",
+          "id": "8b4dbfd1de1b819de86fea438d44848ae7a993512659cc94e356011b4111b336",
+          "title": "LLM-CTF benchmark \u2013 2,639 real data points from NeurIPS and original runs",
+          "url": "https://www.kaggle.com/datasets/manitejamaram/can-ai-hack-llm-ctf-benchmark",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T20:07:59Z",
+          "published_at": "2026-06-23T23:04:57Z",
           "summary": null,
           "category": "technology",
           "image": null
         },
         {
-          "id": "ae62e8b1c9961f21388352dafe9de992fa816166f682f61433d79d32ae6b049f",
-          "title": "Show HN: I explained 821 US patents in plain English, with JSON/Markdown",
-          "url": "https://patentbrief.org",
+          "id": "1a6682ceac7302a7b5dcb2a8d2f60fc805e251ef53aff1a5eb3fa8b06eac45d9",
+          "title": "Why Companies Are Dumping OpenAI and Anthropic [video]",
+          "url": "https://www.youtube.com/watch?v=V46Fw9LPNXI",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-23T20:07:53Z",
-          "summary": "Plain-English explanations of ~821 US patents \u2014 slide-to-unlock, CRISPR, nylon, RSA encryption, and more. Every page has &#x2F;json and &#x2F;md endpoints for structured data. Open data at patentbrief.org&#x2F;data.",
+          "published_at": "2026-06-23T23:04:57Z",
+          "summary": null,
           "category": "technology",
           "image": null
         }

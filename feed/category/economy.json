@@ -1,8 +1,19 @@
 {
   "key": "economy",
   "label": "Economy",
-  "generated_at": "2026-06-23T20:14:02Z",
+  "generated_at": "2026-06-23T23:13:49Z",
   "articles": [
+    {
+      "id": "a2b016c399a747a6801751b3b9281adc09ab32f96ba047ae2f93293451822dd0",
+      "title": "Indonesia's social media ban sends chill through 'kidfluencers' economy",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/indonesia-s-social-media-ban-sends-chill-through-kidfluencers-economy",
+      "source": "Nikkei Asia \u2014 Top",
+      "source_id": "nikkei_asia",
+      "published_at": null,
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
     {
       "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
       "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
@@ -15,15 +26,48 @@
       "image": null
     },
     {
-      "id": "a2b016c399a747a6801751b3b9281adc09ab32f96ba047ae2f93293451822dd0",
-      "title": "Indonesia's social media ban sends chill through 'kidfluencers' economy",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/indonesia-s-social-media-ban-sends-chill-through-kidfluencers-economy",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
+      "id": "c8313acf33ad7dcd7571296c84169a164142f4154334d082da0f830b1dfaa888",
+      "title": "Congress to pass housing help for Americans in rare act of bipartisanship",
+      "url": "https://www.washingtonpost.com/business/2026/06/23/congress-pass-housing-help-americans-rare-act-bipartisanship/",
+      "source": "The Washington Post \u2014 Business",
+      "source_id": "wapo_business",
+      "published_at": "2026-06-23T22:53:25Z",
+      "summary": "With elections looming, lawmakers in both political parties are under pressure to show they are listening to Americans\u2019 concerns about the economy.",
       "category": "economy",
       "image": null
+    },
+    {
+      "id": "da17998ef627aa8ccacea41f0d3251db84ab5b810b7168387f4f73c8a47114a8",
+      "title": "Dow swaps Verizon for Alphabet as Honeywell stays in the index",
+      "url": "https://www.stocktitan.net/news/VZ/alphabet-set-to-join-and-honeywell-international-to-remain-in-dow-ka6hff83h5ja.html",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T22:04:54Z",
+      "summary": "Alphabet will replace Verizon in the Dow Jones Industrial Average (DJIA) before market open on June 29, 2026, due to Verizon's lower share price giving it an immaterial impact on the price-weighted index. Honeywell International will remain in the DJIA following the spin-off of Honeywell Aerospace. This change aims to broaden the DJIA's exposure to dynamic areas of the U.S. economy, particularly in technology and digital services, with Alphabet's larger market capitalization and share price making it a more representative constituent.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "69f36bc677a9e63f71fcdec236a0cb683fe665da310bc62a861b4bd7f3536e10",
+      "title": "\u3010\u4eca\u671d\u306e5\u672c\u3011\u4ed5\u4e8b\u3092\u59cb\u3081\u308b\u524d\u306b\u8aad\u3093\u3067\u304a\u304d\u305f\u3044\u53b3\u9078\u30cb\u30e5\u30fc\u30b9",
+      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-23/TH3SBEKGIFPZ00",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-23T21:14:02Z",
+      "summary": "AI\u30d6\u30fc\u30e0\u904e\u71b1\u3092\u8b66\u6212\u3001\u300c\u7c73\u56fd\u304c\u7ba1\u7406\u300d\u3001\u30b4\u30fc\u30eb\u30c9\u30de\u30f3\u696d\u7e3e\u597d\u8abf\u3001\u30b9\u30da\u30fc\u30b9X\u5927\u578b\u8d77\u50b5\u3078\u3001\u4e00\u6975\u96c6\u4e2d\u306b\u8b66\u9418",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4M4_Tp93yEE/v5/1200x-1.jpg"
+    },
+    {
+      "id": "121204524dfcc2722a3b412ba1f8a3d55e3ff6f9514d23da0edb59c623c14ef5",
+      "title": "Options Market Challenges Futures Aggressive Fed Hike Bets",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/options-market-challenges-futures-aggressive-fed-hike-bets",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-23T20:41:20Z",
+      "summary": "Options traders are building up bets that the broader market overreacted to the Federal Reserve\u2019s hawkish pivot when it priced in a series of interest-rate hikes in the US starting later this year.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL6Vgg2MNds0/v1/1200x-1.jpg"
     },
     {
       "id": "7dc2043b0878050d0b72a31fbcc684324f109421846b09c42496906be6221740",
@@ -616,50 +660,6 @@
       "source_id": "federalreserve_press_all",
       "published_at": "2026-06-18T15:00:00Z",
       "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "fd68fc001e256775fc9f49d7b487d8400da1be22d4dc17912a10e225fdacdb93",
-      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-18T13:00:00Z",
-      "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "5bc6aff9da8e949b62911cbf74eeb7c64b1326c9e859a7c4c44f4ebe22980de5",
-      "title": "Europe buys the future, America builds it",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/18/europe-buys-the-future-america-builds-it",
-      "source": "The Economist - Finance and Economics",
-      "source_id": "economist_finance_economics",
-      "published_at": "2026-06-18T09:21:50Z",
-      "summary": "Does that matter? A high-stakes transatlantic spat has erupted over GDP figures",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "f4323a3a03c7d68901e93a3534cc2daceae03807d41ad0ba56e80df498570005",
-      "title": "Poll: Most Americans have the summer blues about Trump and the economy",
-      "url": "https://www.npr.org/2026/06/18/nx-s1-5861720/trump-economy-gas-prices-midterms-polling",
-      "source": "NPR \u2014 Business",
-      "source_id": "npr_business",
-      "published_at": "2026-06-18T09:00:00Z",
-      "summary": "A new NPR/PBS News/Marist poll finds a record low share of Americans approve of President Trump's job performance and his handling of the economy heading into the summer before a key midterm election.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "94826fcab8a056185eb932595a41e34df2a7e76f4feecbf2fd0f31f20ca6fdd6",
-      "title": "Federal Reserve issues FOMC statement",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-17T18:00:00Z",
-      "summary": "Federal Reserve issues FOMC statement",
       "category": "economy",
       "image": null
     }

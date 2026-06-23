@@ -1,8 +1,19 @@
 {
   "key": "space",
   "label": "Space",
-  "generated_at": "2026-06-23T20:14:02Z",
+  "generated_at": "2026-06-23T23:13:49Z",
   "articles": [
+    {
+      "id": "648a6dfb4a76cd346e34e14d161c03b1e0b017009c571fd40fe85fe04f5e5e31",
+      "title": "What is Starfall? A look at SpaceX's mysterious new return capsule",
+      "url": "https://www.space.com/space-exploration/launches-spacecraft/what-is-starfall-a-look-at-spacexs-mysterious-new-return-capsule",
+      "source": "Space.com",
+      "source_id": "space_com",
+      "published_at": "2026-06-23T21:00:00Z",
+      "summary": "SpaceX just launched its Starfall return capsule for the first time. What does the company plan to do with the new vehicle?",
+      "category": "space",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZX6DnUDfj4XHaaWvyuiJkf-1280-80.jpg"
+    },
     {
       "id": "d8ffc37029432a9fe698a7d0e8a6d4218fd4548367e08ffa1d45fe2cd2a827ea",
       "title": "Space.com just launched an app! Get your inside scoop on space exploration",
@@ -651,17 +662,6 @@
       "summary": "Percy has now traveled more than 26.2 miles on the Red Planet! Could you?",
       "category": "space",
       "image": "https://cdn.mos.cms.futurecdn.net/YjGHfxuhPVTdhaeKRAdDp3-1280-80.jpg"
-    },
-    {
-      "id": "f65432997371363555ff4a7d18381fbb8c60c8607ace88ba7f2175085c73b769",
-      "title": "James Webb Space Telescope discovers extreme exoplanet being roasted by its home star",
-      "url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-discovers-extreme-exoplanet-being-roasted-by-its-home-star",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-17T19:00:00Z",
-      "summary": "Who ordered the roasted exoplanet? Astronomers using the James Webb Space Telescope found a world that really puts the \"hot\" in \"Hot Jupiter.\"",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/c7o8Faj5dqs7UtTfaHm56m-1280-80.png"
     }
   ]
 }

@@ -1,8 +1,41 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-06-23T20:14:02Z",
+  "generated_at": "2026-06-23T23:13:49Z",
   "articles": [
+    {
+      "id": "390d2ff51e4740610009312cf6b6766da32fc1946ff0c0ad70c027c155e36002",
+      "title": "Hammon won't apologize, says Brunson 'outlier'",
+      "url": "https://www.espn.com/nba/story/_/id/49157579/hammon-not-apologizing-opinion-says-brunson-nba-outlier",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-23T23:27:05Z",
+      "summary": "Aces coach Becky Hammon acknowledged Tuesday that Knicks star Jalen Brunson has put himself in a unique class of players, but didn't back off her general stance that small guards generally don't lead teams to NBA championships.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "073abc312b8a15f537353f0cd9f8e8b928e78f325723abf9094479a692bc986e",
+      "title": "2026 NBA draft: Boozer, Dybantsa lead top fits from first round",
+      "url": "https://www.espn.com/nba/story/_/id/49157116/2026-nba-draft-top-fashion-looks-fits-prospects",
+      "source": "Currents API - Latest News",
+      "source_id": "currents_latest_news",
+      "published_at": "2026-06-23T22:59:27Z",
+      "summary": "The NBA's next generation of players arrived in style for the 2026 draft in Brooklyn.",
+      "category": "nba",
+      "image": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2026%2F0623%2Fr1678431_1296x729_16%2D9.jpg"
+    },
+    {
+      "id": "ba91eadca5d7dc8ea045805a1deba1308688b831cc1f49513c5e176997bbcf33",
+      "title": "\"Trading a Ferrari for shopping cart\", \"Probably making $18/hr\" - NBA Fans Mock Trail Blazers For Micah Nori Hire Amid Tom Dundon's Cost-Cutting Era",
+      "url": "https://www.sportskeeda.com/basketball/news-trading-ferrari-shopping-cart-probably-making-18-hr-nba-fans-mock-trail-blazers-for-micah-nori-hire-amid-tom-dundon-s-cost-cutting-era",
+      "source": "Currents API - Latest News",
+      "source_id": "currents_latest_news",
+      "published_at": "2026-06-23T22:57:31Z",
+      "summary": "On Tuesday, the Portland Trail Blazers named Micah Nori as their new head coach. Nori has been considered to be one of the best assistant coaches over the past few seasons.",
+      "category": "nba",
+      "image": "https://staticg.sportskeeda.com/editor/2026/06/34f25-17822537455690-1920.jpg"
+    },
     {
       "id": "a0feb235d1fbac0c069adae755c583b595ff2ef6c4e78dcb4dcae2f1da4eca6f",
       "title": "Updated two-round mock draft: What we're hearing o...",

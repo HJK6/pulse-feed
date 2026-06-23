@@ -1,8 +1,96 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-06-23T20:14:02Z",
+  "generated_at": "2026-06-23T23:13:49Z",
   "articles": [
+    {
+      "id": "ca987a82eacc579e614c3951130680723a4cdc3edad4ac233e10796bad58c04d",
+      "title": "Former Colorado analyst pleads guilty in DNA testing scandal",
+      "url": "https://abcnews.com/US/wireStory/former-colorado-analyst-pleads-guilty-dna-testing-scandal-134149953",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T23:01:26Z",
+      "summary": "A former analyst with the Colorado Bureau of Investigation who was accused of cutting corners and bucking testing protocols has pleaded guilty to four felonies stemming from a DNA testing scandal",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "dde2aa2fee62cbd6b7878f92cb9813249764a641f1878c61604b7282d0ca70ff",
+      "title": "COVID-19 vaccine study that was blocked from CDC journal is published elsewhere",
+      "url": "https://abcnews.com/US/wireStory/covid-19-vaccine-study-blocked-cdc-journal-published-134149898",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T22:52:21Z",
+      "summary": "A study on COVID-19 vaccine effectiveness has been published after being blocked from a government health journal",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_256e61b5ff4fcf3bfecd48826077e389_4x3_384.jpg"
+    },
+    {
+      "id": "1b7049b989dd1ca3c6f86dcfd613af25e3f289da660c347d498556e4d0bde53e",
+      "title": "Boaters compete in 750-mile race... with no engines",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5850711/boaters-compete-in-750-mile-race-with-no-engines",
+      "source": "NPR \u2014 National",
+      "source_id": "npr_national",
+      "published_at": "2026-06-23T22:13:39Z",
+      "summary": "For the \"Race to Alaska,\" intrepid boaters compete in a 750-mile no-engine boat race from Washington state to Alaska.",
+      "category": "us_news",
+      "image": null
+    },
+    {
+      "id": "90587672efd9fce14d46a8590a2db98263d245abd33795ef413210421a1592ae",
+      "title": "Chinese supercomputer displaces US machines as world's fastest",
+      "url": "https://abcnews.com/US/wireStory/chinese-supercomputer-displaces-us-machines-worlds-fastest-time-134148795",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T22:05:11Z",
+      "summary": "A supercomputer in China now outranks its U.S. counterparts as the world&rsquo;s most powerful, marking the first time since 2017 that a Chinese computer has topped a list sometimes viewed as a measure of a nation&rsquo;s technological prowess",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
+    {
+      "id": "5c587109975cbe532da3810a9aa347e13541059d67298ae87062123dbcf68c5a",
+      "title": "17 states and trade group sue California over plastics packaging law",
+      "url": "https://abcnews.com/US/wireStory/17-states-trade-group-sue-california-plastics-packaging-134147975",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T21:30:13Z",
+      "summary": "A coalition of 17 states and a trade association are suing California to block a strict recycling law aimed at reducing plastic waste",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_6a2acbb75a0b36fdab8bef8f6ee92dc2_4x3_384.jpg"
+    },
+    {
+      "id": "d37b7fdae30b620141004fef997a22f10ae819ce830f3a1c28d2221a38047e1a",
+      "title": "Fraught state fair opens on the National Mall",
+      "url": "https://www.npr.org/2026/06/23/nx-s1-5867567/fraught-state-fair-opens-on-the-national-mall",
+      "source": "NPR \u2014 National",
+      "source_id": "npr_national",
+      "published_at": "2026-06-23T21:07:01Z",
+      "summary": "The Great American State Fair begins in D.C. as part of the country's 250th anniversary celebrations. It's bringing hundreds of exhibits to the National Mall, though some state aren't participating.",
+      "category": "us_news",
+      "image": null
+    },
+    {
+      "id": "f3d276689785fd7c50446e73924de17701377eb788b639c5ba4c96fafd22397b",
+      "title": "GOP senators to meet Trump face-to-face at a time of growing frustration",
+      "url": "https://abcnews.com/US/wireStory/gop-senators-meet-trump-face-face-time-growing-134145800",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T19:49:47Z",
+      "summary": "Republican senators say they hope that a closed-door meeting with President Donald Trump is about unity, not disagreement",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_95a4396acacad1f30074a63e166546e2_4x3_384.jpg"
+    },
+    {
+      "id": "334d7c01484c467ff6895d127a12d6994f48b9d81d610667a0ebe484ec019a84",
+      "title": "California intends to sue Trump administration over deal to end offshore wind project",
+      "url": "https://abcnews.com/US/wireStory/california-intends-sue-trump-administration-deal-end-offshore-134145579",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-23T19:31:46Z",
+      "summary": "California intends to sue the Trump administration over its deal to end an offshore wind project proposed off the state&rsquo;s central coast",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_5bc963e77806cf760a377652eb793616_4x3_384.jpg"
+    },
     {
       "id": "23f7acddc51515fcca3fc5eb355ebd9348a737dc6313cf8d59f8927e0d2f4e08",
       "title": "Army sergeant gets life sentence for shootings that wounded 5 at Georgia base",
@@ -152,7 +240,7 @@
       "url": "https://www.cbsnews.com/news/bees-escape-truck-hives-crashes-texas/",
       "source": "CBS News \u2014 US",
       "source_id": "cbs_us",
-      "published_at": "2026-06-23T10:22:48Z",
+      "published_at": "2026-06-23T10:22:00Z",
       "summary": "The owner of Moore Honey estimated that only about a quarter of the 408 hives would survive.",
       "category": "us_news",
       "image": null
@@ -572,17 +660,6 @@
       "source_id": "cbs_us",
       "published_at": "2026-02-05T16:21:00Z",
       "summary": "The proposed site is situated along a flight path for nearby Reagan National Airport in Arlington, Virginia.",
-      "category": "us_news",
-      "image": null
-    },
-    {
-      "id": "8ca58c7d61b6f3c49dd484ecaccbd7aa78a2946d2f92d8fa5a0def001eaf8ba0",
-      "title": "Arc de Trump? President shows off model of Independence Arch",
-      "url": "https://www.cbsnews.com/news/trump-new-arch-resembling-arc-de-triomphe/",
-      "source": "CBS News \u2014 US",
-      "source_id": "cbs_us",
-      "published_at": "2025-10-16T16:42:00Z",
-      "summary": "President Trump waved a model of an arch that he wants to have built at the ceremonial entrance to Washington, D.C., by the nation's 250th anniversary next year.",
       "category": "us_news",
       "image": null
     }
