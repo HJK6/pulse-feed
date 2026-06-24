@@ -1,8 +1,19 @@
 {
   "key": "economy",
   "label": "Economy",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
+    {
+      "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
+      "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds",
+      "source": "Nikkei Asia \u2014 Top",
+      "source_id": "nikkei_asia",
+      "published_at": null,
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
     {
       "id": "a2b016c399a747a6801751b3b9281adc09ab32f96ba047ae2f93293451822dd0",
       "title": "Indonesia's social media ban sends chill through 'kidfluencers' economy",
@@ -15,15 +26,59 @@
       "image": null
     },
     {
-      "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
-      "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
+      "id": "c8d7213714118390424677547f9dd32d7b5a6441e22a831fe8240d4b5b86f6cd",
+      "title": "Bessent Signals Confidence in Warsh, Sees Inflation Coming Down",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bessent-signals-confidence-in-warsh-sees-inflation-coming-down",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T01:26:09Z",
+      "summary": "Treasury Secretary Scott Bessent signaled confidence in newly installed Federal Reserve Chairman Kevin Warsh during remarks Tuesday, and predicted that inflation will retreat as the Iran conflict subsides.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icX0vmlRGqhc/v0/1200x-1.jpg"
+    },
+    {
+      "id": "e182c923bd3402773ee63588cbf81a6f9433f10380a270cdbc4aa463be6d0679",
+      "title": "CBRE Group enters new $1 billion credit agreement with Wells Fargo",
+      "url": "https://www.investing.com/news/sec-filings/cbre-group-enters-new-1-billion-credit-agreement-with-wells-fargo-93CH-4757054",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:35:51Z",
+      "summary": "CBRE Group (NYSE:CBRE) has secured a new 364-day, $1 billion senior unsecured revolving credit agreement with Wells Fargo Bank. This facility replaces a maturing agreement and features interest rates tied to Term SOFR or a base rate plus a variable margin based on CBRE's credit rating. The company's financial health is robust, with a strong Altman Z-Score and a moderate debt level, according to InvestingPro data, and recent financial results show an earnings beat and successful capital raises.",
       "category": "economy",
       "image": null
+    },
+    {
+      "id": "078fb68d73908cc61cae0bf2d41bf14acf5cc8cc7be9ab1c24d16b886fbfd65d",
+      "title": "CleanFlake technology from Avery Dennison Corp. - label that lets PET bottles be recycled more easil",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/cleanflake-technology-from-avery-dennison-corp-label-that-lets-pet/69614618",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:19:06Z",
+      "summary": "Avery Dennison's CleanFlake technology enables PET bottle labels to wash off cleanly during standard recycling processes, enhancing the quality of recycled plastic. This innovation helps brands meet sustainability goals and regulatory demands by ensuring that labels detach effectively without contaminating PET flakes. The solution underscores Avery Dennison's role in the circular economy, impacting investor focus on companies committed to sustainable packaging.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "306c1c19485592e43b948c1544724b0137b0c02acb2e3ebf2cf7810fb5d678a7",
+      "title": "Pimco Sees China\u2019s Export Glut Boosting Emerging-Market Bonds",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/pimco-sees-china-s-export-glut-boosting-emerging-market-bonds",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "China\u2019s flood of cheap exports is bolstering the case for emerging-market bonds by helping to keep inflation under control across the developing world, according to Pacific Investment Management Co.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivu76LB6vHLo/v3/1200x-1.png"
+    },
+    {
+      "id": "20870000bb194a36e489da4cb9e05945ed474c4f6356d1db89ddbd737f73e126",
+      "title": "Thailand Seen Holding Rate to Support Growth as Neighbors Hike",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/thailand-seen-holding-rate-to-support-growth-as-neighbors-hike",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "Thailand is expected to keep its key interest rate unchanged at a nearly four-year low to support its fragile recovery, bucking a tightening trend among some regional peers.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irVbiblZQNuE/v3/1200x-1.png"
     },
     {
       "id": "c8313acf33ad7dcd7571296c84169a164142f4154334d082da0f830b1dfaa888",
@@ -605,61 +660,6 @@
       "source_id": "federalreserve_speeches",
       "published_at": "2026-06-22T13:00:00Z",
       "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "e54f7ffcced5a9bcb06034116385dcf720316fc29722815a93e22a0669cf6de4",
-      "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-22T12:45:00Z",
-      "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "423d3d58a0f4cd1734e605abd8efd1b5fdb2123bd93784e6435fcb84d6372d25",
-      "title": "Here are 3 big things to watch in the stock market this coming week",
-      "url": "https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html",
-      "source": "Finnhub - Market News",
-      "source_id": "finnhub_market_news",
-      "published_at": "2026-06-21T12:36:03Z",
-      "summary": "FedEx reports earnings, and the Fed's preferred inflation gauge is due out.",
-      "category": "economy",
-      "image": "https://image.cnbcfm.com/api/v1/image/108222477-17624482222025-11-06t165353z_1998999963_rc23rhaf1vzq_rtrmadp_0_usa-shutdown-air-travel.jpeg?v=1762448237&w=1920&h=1080"
-    },
-    {
-      "id": "f97e1b4871406e7c99899e986cf62d50110579ea358742ad0d85d869de84fe27",
-      "title": "Cuba pushes through sweeping free-market reforms",
-      "url": "https://abcnews.com/Business/wireStory/cuba-pushes-sweeping-free-market-reforms-biggest-economic-134047041",
-      "source": "ABC News \u2014 Business/Money",
-      "source_id": "abc_business",
-      "published_at": "2026-06-19T23:40:35Z",
-      "summary": "Observers are calling Cuba&rsquo;s new free-market reforms the most sweeping economic overhaul on the island&rsquo;s communist economy since the Cuban revolution while the grandson of former President Ra&uacute;l Castro says in an interview that Cuba must seek to move it...",
-      "category": "economy",
-      "image": "https://s.abcnews.com/images/International/wirestory_b6b8d4319d4291dde47084baa624c795_4x3_384.jpg"
-    },
-    {
-      "id": "db13c073488dbeb07eeecaf0135ed326253325664216c0e9e17cde6c5b4fa579",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-18T19:00:00Z",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "b3c005a471516592567a1fb4fd85cf523aee51d9a00e4906fd53caee03d80c30",
-      "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
-      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
-      "source": "Federal Reserve - All Press Releases",
-      "source_id": "federalreserve_press_all",
-      "published_at": "2026-06-18T15:00:00Z",
-      "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
       "category": "economy",
       "image": null
     }

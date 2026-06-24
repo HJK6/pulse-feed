@@ -1,8 +1,63 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
+    {
+      "id": "0cf923a1ff559ff026a1465e0071b89e51394464259ca5f012677b9f9c4b7307",
+      "title": "Follow live: AJ Dybantsa selected No. 1, Jazz take...",
+      "url": "https://www.espn.com/nba/draft/live",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-24T03:04:41Z",
+      "summary": "Tune in to ABC and ESPN to watch how the first round of the NBA draft plays out.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "d636db3e0b40c1682e83b3c0812e231cfef0d60bf056e57b2f940cbcb58ec005",
+      "title": "Johnson reunites with May, goes No. 9 to Mavs",
+      "url": "https://www.espn.com/nba/story/_/id/49160374/johnson-reunites-mavs-leads-u-m-trio-draft-lottery",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-24T03:04:31Z",
+      "summary": "The Mavericks picked Michigan forward Morez Johnson Jr. with the No. 9 pick, reuniting him with Dusty May less than six hours after he was announced as their new head coach.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "079c766df11ab2897a0441bf553baf9703584b898706bf5c6d20cb799834b0ea",
+      "title": "Jayhawks' Peterson lands with Jazz at No. 2 pick",
+      "url": "https://www.espn.com/nba/story/_/id/49159019/kansas-peterson-lands-jazz-no-2-pick-nba-draft",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-24T03:03:55Z",
+      "summary": "Kansas guard Darryn Peterson, who had been considered a potential No. 1 pick, wound up with the Jazz as the second pick of the 2026 NBA draft.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "3b64382449a564eceadb0e1ba4e6703be64e5fe0a9ce05af030d8cbdb1af69f3",
+      "title": "Hammon won't apologize, says Brunson 'outlier'",
+      "url": "https://www.espn.com/nba/story/_/id/49157579/hammon-my-opinion-was-wrong-knicks-star-jalen-brunson",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-24T03:03:55Z",
+      "summary": "Aces coach Becky Hammon had a change of heart regarding her prior criticism of Knicks star Jalen Brunson, saying Tuesday night that her \"opinion was wrong.\" But she's not apologizing for having it.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "02fe14ded6cf1246293bfe3f1ee8e2293b3b610def50d7d2c182bfe3b86698f5",
+      "title": "Fantasy basketball: Julius Randle's trade to Brook...",
+      "url": "https://www.espn.com/fantasy/basketball/story/_/id/49157117/fantasy-basketball-free-agent-trade-offseason-movement",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-24T01:35:15Z",
+      "summary": "Andre Snellings and Eric Moody break down the fantasy impact of the latest offseason moves from around the NBA.",
+      "category": "nba",
+      "image": null
+    },
     {
       "id": "390d2ff51e4740610009312cf6b6766da32fc1946ff0c0ad70c027c155e36002",
       "title": "Hammon won't apologize, says Brunson 'outlier'",

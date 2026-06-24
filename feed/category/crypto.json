@@ -1,7 +1,7 @@
 {
   "key": "crypto",
   "label": "Crypto",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
     {
       "id": "c1e8fca4fe6ff5f3f70044fd313ac5ff328f4222fca5f72f181bb21878ba844f",
@@ -57,6 +57,138 @@
       "summary": "American allies of US President Donald Trump this week defended him to an Israeli public anxious about a US interim deal with Iran and White House criticism that together appeared to signal fissures in Israel\u2019s decades-old alliance with Washington.",
       "category": "crypto",
       "image": null
+    },
+    {
+      "id": "57e5e77b88fa7606a412db5b80e4c788ecc49d11bb74c1ab2ae3bc810b170930",
+      "title": "Redrawn US House map in Utah sets up heated Democratic primary in Salt Lake-area district",
+      "url": "https://abcnews.com/Politics/wireStory/redrawn-us-house-map-utah-sets-heated-democratic-134121074",
+      "source": "ABC News \u2014 Politics",
+      "source_id": "abc_politics",
+      "published_at": "2026-06-24T01:57:38Z",
+      "summary": "Utah Democrats are set to face off in the primary election for a redrawn U.S. House district that could help determine whether the party takes control of the narrowly divided chamber this fall",
+      "category": "crypto",
+      "image": "https://s.abcnews.com/images/US/wirestory_7056aa4374606a37bbc6f9deb33a4733_4x3_384.jpg"
+    },
+    {
+      "id": "08ff784ef36ac4fc4a8ab071c19b45f94988f5c1220c5f2c5949432b4cb5dda9",
+      "title": "Gen. Chris Donahue set to retire, in latest departure by top military official",
+      "url": "https://www.cbsnews.com/news/gen-chris-donahue-to-retire-army-commander-latest-departure-military-trump-hegseth/",
+      "source": "CBS News \u2014 Latest",
+      "source_id": "cbs_main",
+      "published_at": "2026-06-24T01:35:12Z",
+      "summary": "Gen. Chris Donahue had clashed with Defense Secretary Pete Hegseth, multiple sources told CBS News.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "66f55feade2c75f0b49408b76661102a3f65d4b8a0e94509988d1e8587e1a239",
+      "title": "Jeffrey Epstein pitched his connections with billionaires to get close to Bill Gates",
+      "url": "https://www.businessinsider.com/bill-gates-jeffrey-epstein-congress-billionaire-connections-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-24T01:15:14Z",
+      "summary": "Bill Gates told Congress that Jeffrey Epstein wormed his way into his life with \"veiled threats\" to disclose extramarital affairs.",
+      "category": "crypto",
+      "image": "https://i.insider.com/6a3b30faace32b985cf895fd?format=jpeg"
+    },
+    {
+      "id": "1132a97e874e63c6a8aa2785b2ceb2c5e8e17ee74d7a89895981ef2dd87a1503",
+      "title": "11th Circ. Mulls DOT Order Scrapping Delta, Aeromexico JV",
+      "url": "https://www.law360.com/articles/2486420/11th-circ-mulls-dot-order-scrapping-delta-aeromexico-jv",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:00:31Z",
+      "summary": "The Eleventh Circuit is currently examining a U.S. Department of Transportation (DOT) order that mandated Delta Air Lines and Aeromexico dismantle their nearly decade-long joint venture. The court questioned whether the DOT adequately assessed the competitive impact of the partnership and explored alternative conditions before issuing the order. The article highlights the ongoing legal scrutiny of this significant aviation industry decision.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "1dbd45a3aaeb5fc6601d79ffe29be44616a488508b0842a81aa21e73c48595b3",
+      "title": "A Rust macros use case: Tightly-coupled API definitions for a client and server",
+      "url": "https://adenalhardan.com/#rust-macros-client-server",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T00:11:01Z",
+      "summary": null,
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "d9066877115f1f2e66c93d03c11b9908091556fb777075facbf383edfdae5e4a",
+      "title": "Show HN: Cruit.dev \u2013 Get hired at a startup based on your coding agent skills",
+      "url": "https://cruit.dev",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T00:10:06Z",
+      "summary": "Startups are struggling to find enough AI-native talent, but it definitely exists out there.",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "04b95de0a122d7f058afc79a791622778981bbc30002c0ffe96a6e0828c9d06d",
+      "title": "What Is Driving Europe's Heatwave?",
+      "url": "https://www.ndtv.com/world-news/what-is-driving-europes-heatwave-11678651#publisher=newsstand",
+      "source": "NDTV \u2014 Top Stories",
+      "source_id": "ndtv_top",
+      "published_at": "2026-06-24T00:04:04Z",
+      "summary": "Scientists say heatwaves are made more intense in a world hotter because of burning fossil fuels.",
+      "category": "crypto",
+      "image": "https://c.ndtvimg.com/2026-06/7m4bd3cg_europe-heatwave_625x300_24_June_26.jpeg"
+    },
+    {
+      "id": "bc6315d5585e62883bb2e778c344000f6d1e8f79878b08d374eae7719f62ad8b",
+      "title": "The CEO of AWS on why Amazon is hiring 11,000 interns and junior employees",
+      "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/",
+      "source": "Platformer (Casey Newton)",
+      "source_id": "platformer",
+      "published_at": "2026-06-24T00:00:32Z",
+      "summary": "Matt Garman argues that junior employees are as necessary as ever. But AWS now sells agents that can recruit, code, and process claims. Will the balance hold?",
+      "category": "crypto",
+      "image": null
+    },
+    {
+      "id": "ff417306257c163225788428cc31aa90806dca11bc32121656f4ffbad42690ee",
+      "title": "Creditors in aggressive push to sell 2 Hong Kong hotels amid banks\u2019 drive to cut losses",
+      "url": "https://www.scmp.com/business/article/3358101/creditors-aggressive-push-sell-2-hong-kong-hotels-amid-banks-drive-cut-losses?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 Homepage",
+      "source_id": "scmp_home",
+      "published_at": "2026-06-24T00:00:15Z",
+      "summary": "Receivers and agents of the Sheraton Hong Kong Tung Chung Hotel and the Four Points by Sheraton have expressed confidence in finally finding a buyer for the dual-branded complex \u2013 which together make up Hong Kong\u2019s third-largest hotel by room numbers \u2013 as creditors move to dispose of the asset.\nSole agent Savills is holding a formal tender that is expected to close on August 31 for the 1,219-room property on Lantau Island, near the Tung Chung MTR station and the Hong Kong International...",
+      "category": "crypto",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/24/28b46e09-dd8b-4347-b542-5a548ca9f658_ea9a666d.jpg?itok=pwBM-Szw&v=1782259316"
+    },
+    {
+      "id": "098c31300eb8903caeb6af12fdc0c92ab4c25f9f4a13372b37accff495a408e8",
+      "title": "Senate Votes to Limit Trump's Iran War Powers | Balance of Power: Late Edition 06/23/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/balance-of-power-late-edition-06-23-2026-video",
+      "source": "Bloomberg \u2014 Politics",
+      "source_id": "bloomberg_politics",
+      "published_at": "2026-06-23T23:43:47Z",
+      "summary": "\"Balance of Power: Late Edition\" focuses on the intersection of politics and global business. On today's show, Democratic Senator Angela Alsobrooks of Maryland says the 21st Century ROAD to Housing Act shows Congress can still work in a bipartisan fashion to tackle affordability, arguing there are \"many more opportunities\" for lawmakers to do so. Republican Senator Roger Marshall of Kansas says the SAVE America Act is the one bill he would choose to pass if he could pass only one more in his Senate career, as President Trump presses Congress to advance the measure. Democratic Representative Sydney Kamlager-Dove of California says she is not prepared to support additional Pentagon funding without more answers from Defense Secretary Pete Hegseth on Iran and depleted munitions stockpiles. (Source: Bloomberg)",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_fTmPhykNoE/v3/1200x-1.jpg"
+    },
+    {
+      "id": "126d2704239495414a4b7f7762c91405b703a40699426cf05c7f945f665fbad0",
+      "title": "Congress Passes Sweeping Housing Bill in Rare Bipartisan Accord",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/congress-passes-sweeping-housing-bill-in-rare-bipartisan-accord",
+      "source": "Bloomberg \u2014 Politics",
+      "source_id": "bloomberg_politics",
+      "published_at": "2026-06-23T23:29:45Z",
+      "summary": "The US House of Representatives on Tuesday passed the most significant housing legislation in decades on a 358-32 vote, sending to President Donald Trump\u2019s desk a bill with rare bipartisan backing that\u2019s aimed at showing action on voters\u2019 affordability concerns.",
+      "category": "crypto",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyp.dUE8XlyU/v1/1200x-1.jpg"
+    },
+    {
+      "id": "916d345ee430e26c5384627a1e6b6d52ff25a601a858590d08e466e0efa434ad",
+      "title": "Ethereum\u2019s much-hated staking 'tax' may already be obsolete",
+      "url": "https://cointelegraph.com/features/ethereums-funding-scare-why-a-hated-staking-tax-may-already-be-obsolete?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "source_id": "cointelegraph",
+      "published_at": "2026-06-23T23:18:08Z",
+      "summary": "Ethereum\u2019s latest \u201cfunding crisis\u201d has triggered a fierce debate over whether to tax staking rewards or to pursue funding from large ETH holders for new organizations like EthLabs.",
+      "category": "crypto",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-ethereum-and-break.jpg"
     },
     {
       "id": "40af48735b285d2f817d42b601469bca52733136a4d51a738f8b7a509535cf40",
@@ -528,138 +660,6 @@
       "source_id": "alphavantage_news_sentiment",
       "published_at": "2026-06-23T18:27:16Z",
       "summary": "Kroger Health, Hy-Vee, and Ahold Delhaize USA are collaborating to advance the \"Nourishing Change\" movement, focusing on improving health outcomes through collective efforts. They will co-host the 2027 Nourishing Change Conference in Washington D.C., bringing together leaders from various sectors to address chronic diseases and promote healthier lifestyles. This initiative builds on the success of the 2026 conference and aims to leverage partnerships to create lasting change in health and wellness.",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "f7ce3ee9f67b4715d9f1db739eecc67ff23bf415f5a37320b0393b47d6409073",
-      "title": "Georgia\u2019s QR codes for counting votes will remain for midterms after lawmakers vote to delay a fix",
-      "url": "https://abcnews.com/Technology/wireStory/georgias-qr-codes-counting-votes-remain-midterms-after-134142609",
-      "source": "ABC News \u2014 Technology",
-      "source_id": "abc_tech",
-      "published_at": "2026-06-23T18:24:06Z",
-      "summary": "Georgia will stick with an embattled vote-counting method that relies on QR codes for this year&rsquo;s midterm elections after state lawmakers passed legislation that put off making changes until 2028",
-      "category": "crypto",
-      "image": "https://s.abcnews.com/images/US/wirestory_89cc5261e6fc2e406e92a1ef029a600d_4x3_384.jpg"
-    },
-    {
-      "id": "e52d9d9944e856165e607767d45c69c32d6390e3202f34be681ee350fbb5b2a4",
-      "title": "Aldi's 'blind box' giveaway for free groceries sold out in minutes",
-      "url": "https://www.businessinsider.com/aldi-grocery-store-free-food-blind-box-how-to-get-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T18:24:02Z",
-      "summary": "Aldi's free \"Blind Boxes\" with mystery grocery themes quickly sold out on their first day available.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a398d95b9227396386dc917?format=jpeg"
-    },
-    {
-      "id": "ded72157ceafdbde463279f6ea0979e4f6a0646f2c853e5c569c8b7f874fd3c6",
-      "title": "Lethe \u2013 Brain-Centric AI Assistant",
-      "url": "https://lethe.gg/",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T18:16:37Z",
-      "summary": null,
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "bfb1f9109510fc16ca0eac70666e79da20dfce56387f28a598cd78d56c406189",
-      "title": "Fuel Ready, But Not Pumps: The E100 Challenge",
-      "url": "https://www.ndtv.com/india-news/fuel-ready-but-not-pumps-the-e100-challenge-11678076#publisher=newsstand",
-      "source": "NDTV \u2014 Top Stories",
-      "source_id": "ndtv_top",
-      "published_at": "2026-06-23T18:12:06Z",
-      "summary": "Unlike E20, E100 is not a blend. It is fuel made entirely from ethanol.",
-      "category": "crypto",
-      "image": "https://c.ndtvimg.com/2026-06/21gkildc_fuel_625x300_23_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "id": "c8309cc00ebd6b066d9c36461175393c5ea3375c01cfa72f59a336c255b639fe",
-      "title": "Trump Administration, Qatar Say EU Methane Rules Threaten Energy Security",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/trump-administration-qatar-say-europe-s-methane-rules-threaten-energy-security",
-      "source": "Bloomberg \u2014 Politics",
-      "source_id": "bloomberg_politics",
-      "published_at": "2026-06-23T18:06:53Z",
-      "summary": "The US, Qatar and other natural gas exporters are urging the European Union to ease some of its pending methane emissions rules, warning that the regulations could threaten the bloc\u2019s energy security.",
-      "category": "crypto",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ichs_X3FfouY/v1/1200x-1.jpg"
-    },
-    {
-      "id": "3f5c1143b66ffaf960d69a58c7a273c86c5c2c47984b1aa7d5d82cac3777d1d9",
-      "title": "Show HN: Apple Watch 10.6.2 Kernel R+W with Process Dumping",
-      "url": "https://github.com/datalocaltmp/peepo",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T18:03:20Z",
-      "summary": "Little project I put together for doing reverse engineering on WatchOS 10.6.2 by porting over the Darksword exploit.<p>Janky, panics, vibe&#x27;d, but provides something that hasn&#x27;t been available since WatchOS 4 w&#x2F; JelBrekTime.",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "8c2006fc0f176a00560818416571c92393caf239565a35ccaf4f63c7ac0a6fa9",
-      "title": "How top CMOs are making risk central to their marketing playbooks",
-      "url": "https://www.businessinsider.com/top-cmos-gap-duolingo-american-express-rewriting-marketing-playbook-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T17:59:00Z",
-      "summary": "Top marketers argue that embracing authenticity, moving fast, and creative risks are the only ways to survive in a fragmented digital world.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a3ac5f73302572bb8513842?format=jpeg"
-    },
-    {
-      "id": "0dd42a73bc8e47b5e5c1faef0ce34c50b4b6615699c07c0d511674af201618cf",
-      "title": "Stock Traders\u00a0Scour\u00a0for Technical Levels to Lure Dip Buyers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/stock-traders-scour-for-key-technical-levels-to-lure-dip-buyers",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T17:44:02Z",
-      "summary": "The rout in US stocks has brought the S&amp;P 500 Index to a crucial inflection point. Chart watchers are now scouring key technical thresholds for clues on whether the worst of the selloff is over.",
-      "category": "crypto",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyGhH7ITpCo8/v2/1200x-1.png"
-    },
-    {
-      "id": "88a3458a75a78ffa399927e417e9544eeb3c1bc3ee28c22b8a3ae2207c9f7e36",
-      "title": "VidCon 2026: 15 Years Later, the Creator Economy Shows No Signs of Slowing",
-      "url": "https://www.cnet.com/tech/services-and-software/vidcon-2026-anaheim-creators-fans-cnet-group/",
-      "source": "CNET \u2014 News",
-      "source_id": "cnet_news",
-      "published_at": "2026-06-23T17:40:00Z",
-      "summary": "At this week's VidCon, which starts Thursday, creators and their fans will come together to celebrate and grow the art form.",
-      "category": "crypto",
-      "image": "https://www.cnet.com/a/img/resize/52bb7326be375090007e93743cd31632835bd406/hub/2026/06/23/1421d062-c840-4b1a-b32d-35a511fb84cd/image-6.png?auto=webp&fit=crop&height=614&width=1092"
-    },
-    {
-      "id": "88376b90e31a7fb314864d35a7a5990ce88ea0e859f2d406c9af208a4b198cce",
-      "title": "SoftBank CEO questions Elon Musk's vision of AI data centers in space: 'What's the point?'",
-      "url": "https://www.businessinsider.com/softbank-ceo-masayoshi-son-elon-musk-ai-space-data-centers-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T17:36:56Z",
-      "summary": "Top SoftBank boss Masayoshi Son challenged the economic case for putting AI data centers in space, an idea championed by Elon Musk.",
-      "category": "crypto",
-      "image": "https://i.insider.com/6a3ab948c6798eef65c3ca7c?format=jpeg"
-    },
-    {
-      "id": "71ee6a536392f43db4b0d5ec5f29873d1d132c84d7d21f11dcb97e8d943d709f",
-      "title": "Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T17:04:57Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Israel's ambassador to the US, Yechiel Leiter, described the fifth round of US-mediated ceasefire negotiations with Lebanon as a \u201ctrain wreck\u201d in a statement on Tuesday.</p>\n\n<p>\u201cI fear that the concept of \u2018deconfliction\u2019 is misplaced. The only issue is Hezbollah. Hezbollah must be defeated and removed from the equation,\u201d Leiter stated, adding that, instead, the Lebanese armed group \u201cfeels stronger and bolder\u201d.</p>\n\n<p>The ambassador also questioned whether unfrozen funds made available to Iran could be used to support Hezbollah.</p>\n\n<p>This comes after Hezbollah chief Naim Qassem on Tuesday called for a full, scheduled withdrawal of Israeli troops from Lebanon to allow for the Lebanese army to secure the area in the south of the country.</p>\n\n  <figure class=\"media-block\">\n  <div class=\"group-inner\">\n    <div alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" class=\"embedded-entity\">  <img alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/000_B4XF4DP.jpg\" width=\"1920\" />\n\n</div>\n\n    <figcaption>Israel's ambassador to the US, Yechiel Leiter, speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington DC, on 3 June 2026 (Oliver Contreras/AFP)</figcaption>\n  </div>\n</figure>\n\n\n<p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n\n<p><span><img alt=\"alt\" height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "crypto",
-      "image": null
-    },
-    {
-      "id": "a393c4af16d1a1d03bb974d7d49e452516025a07ba19a68501b03516acaa3a7e",
-      "title": "Chinese fentanyl network suspected of crypto fraud via Japan base",
-      "url": "https://asia.nikkei.com/economy/trade-war/fentanyl-s-hidden-routes/chinese-fentanyl-network-suspected-of-crypto-fraud-via-japan-base",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
       "category": "crypto",
       "image": null
     }

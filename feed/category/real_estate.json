@@ -1,7 +1,7 @@
 {
   "key": "real_estate",
   "label": "Real Estate",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
     {
       "id": "90453861cf643fe91fb9b62f7567d11878d443f4584a7e1623f14d262963dbc8",
@@ -15,6 +15,149 @@
       "image": null
     },
     {
+      "id": "70baebccd0df3db97acfc909751f242e21cd4b7440245962a6cbb85a4a2d3673",
+      "title": "Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel",
+      "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-fall-on-smoother-flows-through-strait-of-hormuz-brent-below-77-per-barrel-11782265079363.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-24T01:57:35Z",
+      "summary": "US-Iran peace talks: Global benchmark Brent crude futures for August delivery declined 0.45% to $76.73 per barrel on Wednesday after falling 1.1% in the previous session.",
+      "category": "real_estate",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/crude_oil_1782265650538_1782265650668_07ed25d0-2a41-4f9e-a101-93e2fbc0822c.JPG"
+    },
+    {
+      "id": "66f55feade2c75f0b49408b76661102a3f65d4b8a0e94509988d1e8587e1a239",
+      "title": "Jeffrey Epstein pitched his connections with billionaires to get close to Bill Gates",
+      "url": "https://www.businessinsider.com/bill-gates-jeffrey-epstein-congress-billionaire-connections-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-24T01:15:14Z",
+      "summary": "Bill Gates told Congress that Jeffrey Epstein wormed his way into his life with \"veiled threats\" to disclose extramarital affairs.",
+      "category": "real_estate",
+      "image": "https://i.insider.com/6a3b30faace32b985cf895fd?format=jpeg"
+    },
+    {
+      "id": "1132a97e874e63c6a8aa2785b2ceb2c5e8e17ee74d7a89895981ef2dd87a1503",
+      "title": "11th Circ. Mulls DOT Order Scrapping Delta, Aeromexico JV",
+      "url": "https://www.law360.com/articles/2486420/11th-circ-mulls-dot-order-scrapping-delta-aeromexico-jv",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:00:31Z",
+      "summary": "The Eleventh Circuit is currently examining a U.S. Department of Transportation (DOT) order that mandated Delta Air Lines and Aeromexico dismantle their nearly decade-long joint venture. The court questioned whether the DOT adequately assessed the competitive impact of the partnership and explored alternative conditions before issuing the order. The article highlights the ongoing legal scrutiny of this significant aviation industry decision.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "1c775686422c9a6df72d6f22d8318615e177d6e3e342c236ca8d94c1faf43c73",
+      "title": "Petrol, diesel prices today \u2014 24 June: Check fuel rates in Chennai, Bengaluru, Delhi, Kolkata, Mumbai as oil holds drop",
+      "url": "https://www.livemint.com/news/india/petrol-diesel-prices-today-24-june-check-fuel-rates-in-chennai-bengaluru-delhi-kolkata-mumbai-as-oil-holds-drop-11782257837049.html",
+      "source": "LiveMint \u2014 News",
+      "source_id": "livemint_news",
+      "published_at": "2026-06-24T00:44:46Z",
+      "summary": "Petrol, diesel prices today \u2014 24 June: Global Oil prices eased as tankers navigated the Strait of Hormuz amid progress in US-Iran peace talks, with Brent crude closing above $77 a barrel. Check fuel rates in Chennai, Bengaluru, Delhi, Kolkata, Mumbai and other cities.",
+      "category": "real_estate",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/Hospital-administrators-said-they-have-been-unable_1782259897639_1782259914090_e989ef38-3eb7-48a8-b8a9-e1eff8e2a285.jpg"
+    },
+    {
+      "id": "928b9ff026033c7231c1eef1d9ba759ca024b47cd865203edfea97f0ef86d219",
+      "title": "Is Kraft Heinz (KHC) Turning Regional Reshuffle Into a Coherent Brand and Execution Strategy?",
+      "url": "https://simplywall.st/stocks/us/food-beverage-tobacco/nasdaq-khc/kraft-heinz/news/is-kraft-heinz-khc-turning-regional-reshuffle-into-a-coheren",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:42:51Z",
+      "summary": "Kraft Heinz recently reorganized its global operations into three regions and launched new products, aiming to refresh brands and sharpen execution after mixed performance. This article explores how the new structure, especially the consolidation of Emerging Markets, might affect its investment narrative, which hinges on brand relevance, margin protection, and stable earnings. While some see potential for growth in emerging markets, others remain cautious about innovation and consumer preference shifts, especially in the North American market.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "6482612464021a39c4f2c9a5c55a5669c94abaad07dd9b780e455401de27fea4",
+      "title": "Philippine telecoms giant PLDT files for first data centre REIT IPO",
+      "url": "https://www.financeasia.com/article/philippine-telecoms-giant-pldt-files-for-first-data-centre-reit-ipo/507924",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:18:17Z",
+      "summary": "Philippine telecom giant PLDT Inc. has filed a registration statement for the initial public offering (IPO) of VITRO REIT, which could raise up to P24.2 billion ($397 million). This proposed listing would be the Philippines' first digital infrastructure REIT, coming amidst increasing demand for data center development in Southeast Asia.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "a0f2071caf6a0188368ce54fa34d6d5258d979a1834d2e2cabab4fe48ba1722a",
+      "title": "The XR12 articulating boom lift from United Rentals Inc. - 40-foot reach for tight urban jobs",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-xr12-articulating-boom-lift-from-united-rentals-inc-40-foot-reach/69614513",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:08:43Z",
+      "summary": "The article introduces the XR12 articulating boom lift from United Rentals, highlighting its 40-foot reach and maneuverability for tight urban job sites. It emphasizes the integrated telematics for fleet management and its contribution to United Rentals' stock performance. The XR12 is presented as a compact solution for contractors, facility managers, and event crews in constrained urban environments.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "113723bfd6445096b41b090076db37d0f7ac9d989aaafc59a611747d9fd9c7c5",
+      "title": "PLDT data center REIT listing plan seen as net credit positive",
+      "url": "https://bworldonline.com/corporate/2026/06/24/758742/pldt-data-center-reit-listing-plan-seen-as-net-credit-positive/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:07:00Z",
+      "summary": "CreditSights views PLDT Inc.'s planned P24.2-billion digital infrastructure real estate investment trust (REIT) listing for its data center business as a net credit positive, despite maintaining an \"underperform\" recommendation on the company. The proceeds from the REIT listing are expected to significantly reduce PLDT's P284.7 billion net debt and support the expansion of its data center portfolio. The listing is projected to bring net leverage to around 2.7x-2.8x by year-end.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "bc6315d5585e62883bb2e778c344000f6d1e8f79878b08d374eae7719f62ad8b",
+      "title": "The CEO of AWS on why Amazon is hiring 11,000 interns and junior employees",
+      "url": "https://www.platformer.news/matt-garman-aws-ceo-interview-ai-jobs/",
+      "source": "Platformer (Casey Newton)",
+      "source_id": "platformer",
+      "published_at": "2026-06-24T00:00:32Z",
+      "summary": "Matt Garman argues that junior employees are as necessary as ever. But AWS now sells agents that can recruit, code, and process claims. Will the balance hold?",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "668b183c7a8bf684d76fdb9f52a124a807989a98cfdf05c983cfe5a949734bc9",
+      "title": "3 US Regional Bank Stocks With Dividends And Balance Sheet Support",
+      "url": "https://simplywall.st/stocks/us/banks/nasdaq-fult/fulton-financial/news/3-us-regional-bank-stocks-with-dividends-and-balance-sheet-s",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "As technology stocks face pressure, investors are shifting focus to value stocks with lower P/E and P/B ratios, steady dividends, and strong balance sheets. This article highlights three regional bank stocks\u2014Fulton Financial (FULT), WesBanco (WSBC), and Bank OZK (OZK)\u2014that offer dividends and balance sheet support, making them attractive amidst the current market sentiment. Each bank combines traditional financial services with specific strengths like profitability, dividend yields, and potential undervaluation, though they also carry their unique risks such as credit quality concerns or commercial real estate exposure.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "64904c385ed22aacaebcabf711a10e5ea43c4f2b484a2f8efffb43c79e7f4bb0",
+      "title": "Stocks Slide as Wall Street Gets AI Wake-up Call | The Close 06/23/2026",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-23/the-close-06-23-2026-video",
+      "source": "Bloomberg \u2014 Technology",
+      "source_id": "bloomberg_tech",
+      "published_at": "2026-06-23T23:46:34Z",
+      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are ProShares Head of Research & CIO, Active Investments Alessio de Longis, Citi Senior Equity Research Analyst Ariel Rosa, JP Morgan Asset Management Global Head of Real Estate Chad Tredway, Permanent Portfolio President & Portfolio Manager Michael Cuggino, Third Bridge Global Head of Sector Analysts Peter McNally, D.A. Davidson Technology Research Head Gil Luria, UBS Senior US Homebuilding Equity Research Analyst John Lovallo, NYC Tourism + Conventions President & CEO Julie Coker, & E11EVEN Miami Operating Partner Gino LoPinto. (Source: Bloomberg)",
+      "category": "real_estate",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inzwTXYZx_aY/v3/1200x-1.jpg"
+    },
+    {
+      "id": "1c299b8a0aa7a8f8568268aeb9b2901ecf4572d3d04e8b8a78e5fc5e1e73abbb",
+      "title": "Savannah Guthrie speaks out after new details revealed in Nancy's case",
+      "url": "https://www.cbsnews.com/video/savannah-guthrie-speaks-out-new-details-revealed-nancys-case/",
+      "source": "CBS News \u2014 Latest",
+      "source_id": "cbs_main",
+      "published_at": "2026-06-23T23:43:08Z",
+      "summary": "\"Today\" co-host Savannah Guthrie has renewed her plea for someone to come forward with new information on the apparent abduction of her mother, Nancy Guthrie. This comes after investigators revealed new information from a ransom note. Jonathan Vigliotti reports.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "8af6ce64f7b6ba8982cf2034bec4c191367fbb02602be0cb1f01bf9ddb788ce2",
+      "title": "FDA drops enforcement against Whoop after it tweaks blood pressure feature",
+      "url": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:36:09Z",
+      "summary": "The FDA told wearable maker Whoop last week that it would not take further enforcement action over the company's blood pressure feature.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
       "id": "39fce5b8bc3c862f3f7e57204b8cbecf9ea7fce0925e33070ce42303ede4a608",
       "title": "Here's what's behind the current tech stock selloff",
       "url": "https://www.cbsnews.com/video/whats-behind-tech-stock-selloff-right-now/",
@@ -24,6 +167,39 @@
       "summary": "Stocks slid around the world on Tuesday as investors pulled back from some of the biggest names in tech amid concerns about ongoing inflation and the possibility of future interest rate hikes. CBS News' Jo Ling Kent has more.",
       "category": "real_estate",
       "image": null
+    },
+    {
+      "id": "939f11b9cba6d2a3fdf15eef6536ec7953c778a0f449b01fdcd00a8f9eeb2c40",
+      "title": "As Ronaldo makes history, international fans fall in love with U.S. hospitality",
+      "url": "https://www.cbsnews.com/video/ronaldo-makes-history-international-fans-fall-love-us-hospitality/",
+      "source": "CBS News \u2014 Latest",
+      "source_id": "cbs_main",
+      "published_at": "2026-06-23T23:00:00Z",
+      "summary": "After Lionel Messi became the World Cup's all-time goal leader at age 38, Portuguese superstar Cristiano Ronaldo, age 41, became the first to score at six different World Cups. Kelly O'Grady is in Boston with more, including how the World Cup is providing a bump to consumer spending.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "4678725a6b3f75488f7228bc3b3ce04dda665a89c567f5e211bd2311cb5e990b",
+      "title": "World Cup 2026: Ronaldo becomes first player to score in six editions",
+      "url": "https://www.france24.com/en/video/20260623-world-cup-2026-ronaldo-becomes-first-player-to-score-in-six-editions",
+      "source": "France 24 (English) \u2014 Top Stories",
+      "source_id": "france24_en",
+      "published_at": "2026-06-23T22:58:24Z",
+      "summary": "Scoring a brace against Uzbekistan on Tuesday, Cristiano Ronaldo made history by becoming the first player to score in six different editions of the FIFA World Cup.\n \nThe 41-year-old will hope to secure Portugal a knockout stage berth, with the squad facing Colombia for their final group stage match on Saturday.",
+      "category": "real_estate",
+      "image": "https://s.france24.com/media/display/07d091f6-6f56-11f1-ad80-005056bf30b7/w:1024/p:16x9/Thumb-Ronaldo-Record-EN.png"
+    },
+    {
+      "id": "1550574880cb41ae29a322bff7437750ddfce5b9c441ba17dfb2c784d23cad28",
+      "title": "Trump Claims Record 19 Million Barrels Of Oil Transited Hormuz; Prices Ease",
+      "url": "https://www.ndtv.com/world-news/donald-trump-claims-record-19-million-barrels-of-oil-transited-hormuz-prices-ease-11678582#publisher=newsstand",
+      "source": "NDTV \u2014 Top Stories",
+      "source_id": "ndtv_top",
+      "published_at": "2026-06-23T22:51:13Z",
+      "summary": "Oil prices are tumbling down, and the world is a much safer place,\" Trump wrote on Truth Social.",
+      "category": "real_estate",
+      "image": "https://c.ndtvimg.com/2026-06/jbo1st2_donald-trump-photo-appti_625x300_18_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
     },
     {
       "id": "0e71bd2ce228ea3d539b535cd61e5ff2052e3a431cce602573c17ab00ca66f2c",
@@ -486,182 +662,6 @@
       "summary": "California has over 200 billionaires that could be hit by a proposed wealth tax. Several have moved assets out of the state.",
       "category": "real_estate",
       "image": "https://i.insider.com/6a345286c7a58f814f0d4498?format=jpeg"
-    },
-    {
-      "id": "863271eb0718276a514bb1b51fef34d42fb686af69c890dfd9cd6b489916978c",
-      "title": "Why Century Aluminum (CENX) Is Down 9.2% After Insider Selling And Valuation Concerns",
-      "url": "https://simplywall.st/stocks/us/materials/nasdaq-cenx/century-aluminum/news/why-century-aluminum-cenx-is-down-92-after-insider-selling-a",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T18:33:50Z",
-      "summary": "Century Aluminum (CENX) shares dropped 9.2% due to mounting valuation concerns and insider selling, with approximately US$800,000 worth of shares sold by insiders and no reported purchases. The company's stock is trading above some intrinsic value estimates, compounded by a reduction in institutional ownership and limited transparency on cash flow. This raises questions about the long-term confidence in the company's current pricing despite its U.S. expansion plans.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "a11d2dea27c081092e24002f6e60aebd6b83276a729d7af3ce7907877224d292",
-      "title": "Achieving net-zero carbon emissions can reduce the intensity, duration, and frequency of heat waves",
-      "url": "https://www.france24.com/en/achieving-net-zero-carbon-emissions-can-reduce-the-intensity-duration-and-frequency-of-heat-waves",
-      "source": "France 24 (English) \u2014 Top Stories",
-      "source_id": "france24_en",
-      "published_at": "2026-06-23T18:33:38Z",
-      "summary": "Haxie Meyers-Belkin\u00a0is pleased to welcome\u00a0Dr. Chloe Brimacombe. She presents a clear and sobering analysis of the current European heatwave as both a meteorological event and a societal stress test. Her argument is that the exceptional temperatures affecting France are not merely unusual because of their intensity, but because they combine several compounding factors: their early arrival in the season, elevated humidity that amplifies health risks, and a broader trend toward longer and more frequent heatwaves across Europe.\u00a0While she emphasizes the continued necessity of decarbonization and achieving net-zero emissions, her analysis focuses equally on adaptation. Schools, hospitals, care homes, and public infrastructure must be redesigned for a hotter climate.",
-      "category": "real_estate",
-      "image": "https://s.france24.com/media/display/edda2650-6f2c-11f1-9cd3-005056a90284/w:1024/p:16x9/EN-20260623-150101-151430-CS.jpg"
-    },
-    {
-      "id": "e52d9d9944e856165e607767d45c69c32d6390e3202f34be681ee350fbb5b2a4",
-      "title": "Aldi's 'blind box' giveaway for free groceries sold out in minutes",
-      "url": "https://www.businessinsider.com/aldi-grocery-store-free-food-blind-box-how-to-get-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T18:24:02Z",
-      "summary": "Aldi's free \"Blind Boxes\" with mystery grocery themes quickly sold out on their first day available.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a398d95b9227396386dc917?format=jpeg"
-    },
-    {
-      "id": "c433929d8af7a5b3b8971daf9ebea5537eade5026ff2226ea5463824e3830dc4",
-      "title": "Show HN: We Help Voice AI Handle Group Conversations",
-      "url": "https://github.com/attenlabs/saa-sdk",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T18:20:00Z",
-      "summary": "Hey folks. We built SAA (Selective Auditory Attention) after trying to find ways to make a good experience with multiple robots&#x2F;multiple agents. What typically ended up happening is they&#x27;d never stop talking.<p>This is an SDK you can put before your STT. It lets you know when your device is being spoken to or not without a wakeword. You can use it for: \n-Single AI, Multi human\n-Multi AI, Single human \n-Multi AI, Multi human (we recommend also adding a wakeword on top for a better system)<p>There are two models. One that is video + audio and one that is just audio. The way it overall works is that it looks for shifts in attention patterns (body language changes, vocal patterns) to work. It&#x27;s a tough problem to nail as every human being is different in how they interact with people&#x2F;devices.<p>Let me know how it is!",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "8c2006fc0f176a00560818416571c92393caf239565a35ccaf4f63c7ac0a6fa9",
-      "title": "How top CMOs are making risk central to their marketing playbooks",
-      "url": "https://www.businessinsider.com/top-cmos-gap-duolingo-american-express-rewriting-marketing-playbook-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T17:59:00Z",
-      "summary": "Top marketers argue that embracing authenticity, moving fast, and creative risks are the only ways to survive in a fragmented digital world.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a3ac5f73302572bb8513842?format=jpeg"
-    },
-    {
-      "id": "cb7bf822084da107736f70778a923bc858f8dee4738b712e589f6b8dff3c69f5",
-      "title": "Dream Europe trip for  \u20b91.5 lakh? Mumbai man shares expenses, money-saving tips",
-      "url": "https://www.livemint.com/news/trends/dream-europe-trip-for-1-5-lakh-mumbai-man-shares-expenses-money-saving-tips-11782233930511.html",
-      "source": "LiveMint \u2014 News",
-      "source_id": "livemint_news",
-      "published_at": "2026-06-23T17:26:47Z",
-      "summary": "For travel between cities, Tewari relied mainly on trains and FlixBus services. This helped him save money while travelling efficiently across different countries.",
-      "category": "real_estate",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/Untitled_design_-_2026-06-23T224142.236_1782234868456_1782234902512_c778ed39-13d1-4019-86a9-c9ed631c6155.png"
-    },
-    {
-      "id": "0aff40ff82c2c93c7734b9de5e5f61c3286596307f11c962926367405591b5ee",
-      "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T17:08:48Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\" rel=\"bookmark\">\n<span class=\"field field-title\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Lebanon&nbsp;and&nbsp;Israel&nbsp;began a fifth round of direct negotiations in Washington on Tuesday, with Beirut seeking to revive proposals for an Israeli withdrawal from southern Lebanon even as a new&nbsp;US-Iran&nbsp;diplomatic channel threatens to overshadow the talks.</p>\n\n<p>The three-day negotiations come after four previous rounds failed to produce a lasting ceasefire or bridge the wide gap between the two sides.</p>\n\n<p>Lebanon is expected to press for a timetable for an Israeli withdrawal, the return of hundreds of thousands of displaced people, the release of Lebanese prisoners and the beginning of reconstruction.</p>\n\n<p>Israel, meanwhile, has tied any withdrawal to the disarmament of Hezbollah and has insisted that its forces retain control of a large amount of land inside southern Lebanon until it is satisfied that the Lebanese army would prevent Hezbollah from rebuilding its military presence.</p>\n\n<p>But the negotiations are taking place in a markedly different diplomatic environment from the previous round earlier this month.</p>\n\n<h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</a></h3>\n\n<figure class=\"image\"><img alt=\"Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/hezbollah-funeral-lebanon-23-june-2026-afp.jpg.jpg?itok=498um05f\" />\n<figcaption>Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)</figcaption>\n</figure>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "7782f391d07e5994023711738c4ba43bc174219ecc32aa2503161f1be84d191f",
-      "title": "Alibaba Sues the US, Seeking Removal From Pentagon\u2019s Blacklist",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/alibaba-sues-the-us-seeking-removal-from-pentagon-s-blacklist",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-23T17:05:50Z",
-      "summary": "Alibaba Group Holding Ltd. sued the Department of Defense to be removed from a blacklist that identifies the e-commerce leader as supporter of the Chinese military, appealing to the US justice system to avoid a designation the company says is arbitrary and unjustified.",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwn3yo9oHjjg/v1/1200x-1.jpg"
-    },
-    {
-      "id": "b0ef6ef1a7b57b71b08878ed62223c830d9623eb50daf51d224ca81781b26e9a",
-      "title": "My wife didn't want to travel where I did, so I went on a trip without her. It worked out surprisingly well for both of us.",
-      "url": "https://www.businessinsider.com/traveling-without-wife-solo-trip-planning-good-relationship-cleveland-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T17:02:01Z",
-      "summary": "My wife didn't want to go to Cleveland, so I went on a solo trip without her. Traveling without my spouse had cons, but it was better than expected.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a32d2374074dae0e2044d0d?format=jpeg"
-    },
-    {
-      "id": "eba84e4a2c6922e7aac719148c1e76b3922eeae11b7d2662d730099ad1466fe6",
-      "title": "My dad left 2 packed storage units when he died. I found childhood memories, vintage gems, and trash.",
-      "url": "https://www.businessinsider.com/sorting-through-hoarder-parent-belongings-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T17:00:01Z",
-      "summary": "Maia Storm says sorting through her late father's hoarded belongings has helped her uncover forgotten memories and process grief.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a21b623b4fb977f35984735?format=jpeg"
-    },
-    {
-      "id": "57130e815c1d98dd34d7708ae134ad1da9a7e637cd5b31cc54ef4d2cfbb73ad9",
-      "title": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
-      "url": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
-      "source": "VentureBeat",
-      "source_id": "venturebeat",
-      "published_at": "2026-06-23T17:00:00Z",
-      "summary": "<p><a href=\"https://www.anthropic.com/\">Anthropic</a> on Tuesday launched <a href=\"http://anthropic.com/news/introducing-claude-tag\"><u>Claude Tag</u></a>, a new product that embeds its most advanced AI model directly inside Slack as a persistent, shared teammate that anyone on a team can delegate work to by simply typing @Claude.</p><p>The product, available today in beta for<a href=\"https://support.claude.com/en/articles/9797531-what-is-the-enterprise-plan\"> Claude Enterprise</a> and <a href=\"https://support.claude.com/en/articles/9266767-what-is-the-team-plan\">Team</a> customers, replaces Anthropic&#x27;s existing Claude in Slack app and represents the company&#x27;s most aggressive move yet to colonize the enterprise collaboration layer \u2014 the place where decisions get made, work gets assigned, and institutional knowledge accumulates in real time.</p><p>For enterprise technology leaders who have spent the past two years evaluating where AI fits into their operational stack, <a href=\"anthropic.com/news/introducing-claude-tag\">Claude Tag</a> reframes the question entirely. This is not a chatbot, a coding assistant, or a search tool bolted onto a messaging platform. It is an AI agent designed to function as a standing member of a team \u2014 one that builds memory, takes initiative, works asynchronously, and interacts with every person in a channel rather than serving a single user. The implications for enterprise workflow, governance, and vendor strategy are significant.</p><p>Anthropic says 65% of its own product team&#x27;s code is now created by its internal version of Claude Tag, and the company runs internal support and data insight channels through the same system. The claim is striking: Anthropic is asserting that the majority of its own product engineering output already flows through the tool it just put in customers&#x27; hands.</p><div></div><h2><b>How Claude Tag works inside enterprise Slack channels</b></h2><p>At its core, <a href=\"anthropic.com/news/introducing-claude-tag\">Claude Tag</a> works like this: an administrator pairs it with a Slack workspace, grants it access to specific tools and data sources, sets spending limits, and defines which channels it can operate in. From that point on, any team member in those channels can tag @Claude with a request \u2014 write a pull request, pull sales numbers, run a data analysis \u2014 and Claude will break the task into stages, execute them using the tools it has access to, and respond in a Slack thread with the result. The product runs on <a href=\"https://www.anthropic.com/news/claude-opus-4-8\">Claude Opus 4.8</a>, the model Anthropic released less than a month ago.</p><p>Four capabilities differentiate <a href=\"https://www.anthropic.com/news/introducing-claude-tag\">Claude Tag </a>from its predecessors and from competing integrations. First, it is multiplayer. Within a given Slack channel, there is one Claude that interacts with everyone, not a separate instance per user. Anyone can see what it is working on, and anyone can pick up the conversation where the last person left off. This is a direct contrast to most existing AI integrations in Slack, which tend to operate as single-player tools.</p><p>Second, it learns over time. As Claude follows along with its channel, it accumulates context about the work happening there. Users do not need to re-explain projects from scratch. If granted permission, Claude can also pull context from other Slack channels and data sources, though Anthropic says it will not report from private channels. Third, it takes initiative. With ambient behavior enabled, Claude will proactively surface relevant information from across the channels it monitors and the tools it is connected to, and will follow up on threads or tasks that have gone quiet without resolution. This is a notable expansion of agency: Claude is not just responding to requests but monitoring the information environment and deciding what its human teammates need to know. Fourth, it works asynchronously, pursuing projects autonomously over hours or days. Anthropic says its own teams &quot;now spend much more of our time delegating tasks to many Claudes in parallel.&quot;</p><h2><b>Enterprise security controls and administrative governance get a central role</b></h2><p><a href=\"https://www.anthropic.com/\">Anthropic</a> has designed the system with enterprise-grade isolation at its center. System administrators define separate Claude identities for different uses, scoped to specific channels with specific tools and data access. Everything, including Claude&#x27;s accumulated memories, stays within those boundaries. A Claude configured for sales work will not share memories or data access with one configured for engineering.</p><p>Administrators can set token-spend limits at both the organizational and channel level, and can review a complete log of every action Claude has taken and which user requested each task. For organizations managing compliance, audit, or regulatory requirements, this logging and scoping architecture is table stakes \u2014 and its absence has been a dealbreaker for many enterprises evaluating AI collaboration tools over the past year.</p><p>Migration from the existing <a href=\"https://slack.com/marketplace/A08SF47R6P4-claude\">Claude in Slack app</a> requires an administrator opt-in within 30 days, and Anthropic says it is issuing introductory launch credits to eligible Enterprise and Team organizations. The four-step setup process \u2014 pair with Slack, connect tools, set spend limits, test in a private channel \u2014 is designed to reduce friction for IT teams already managing sprawling SaaS portfolios.</p><h2><b>The Slack battleground is now the most contested real estate in enterprise AI</b></h2><p><a href=\"anthropic.com/news/introducing-claude-tag\">Claude Tag</a> arrives in the middle of what has become the most fiercely contested territory in enterprise AI: the Slack channel. Slack itself has been aggressively positioning the platform as an &quot;agentic operating system,&quot; and the major AI players have responded by racing to plant their flags.</p><p>Salesforce, which <a href=\"https://slack.com/blog/news/salesforce-completes-acquisition-of-slack\">acquired Slack for $27.7 billion in 2021</a>, announced more than <a href=\"https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the\">30 new capabilities for Slackbot</a> in March \u2014 the most sweeping overhaul of the platform since the acquisition \u2014 transforming it from a simple conversational assistant into a full-spectrum enterprise agent. OpenAI introduced &quot;<a href=\"https://openai.com/index/introducing-workspace-agents-in-chatgpt/\">Workspace Agents</a>&quot; in April, allowing enterprise subscribers to design agents that take on work tasks across third-party apps including Slack, Google Drive, Microsoft apps, Salesforce, and Notion. Perplexity launched its enterprise &quot;Computer&quot; agent with direct Slack integration, letting employees query @computer directly inside Slack channels. Cognition&#x27;s Devin, the autonomous AI software engineer, has been built around Slack as a primary interface since its early days. Even Microsoft has brought GitHub Copilot into Teams.</p><p>The logic driving this convergence is straightforward: the average enterprise juggles over 1,000 applications, and employees waste countless hours on context switching, draining productivity by up to 40%. Whichever AI system becomes the default presence in the communication layer where work is coordinated gains an enormous distribution advantage \u2014 and, critically, an enormous data advantage. The AI that lives in the channel where work happens absorbs the institutional context that makes it increasingly difficult to replace.</p><h2><b>Anthropic built Claude Tag on a foundation two years in the making</b></h2><p>To understand Claude Tag&#x27;s strategic significance, it helps to trace the product arc that led to it. Anthropic first integrated Claude with Slack in October 2025, offering two-way connectivity: users could invoke Claude from within Slack or connect Slack as a data source for Claude&#x27;s chatbot. As TechCrunch reported at the time, the initial integration was focused on individual productivity \u2014 direct messages, AI assistant panels, and thread participation. In January 2026, Anthropic expanded Claude&#x27;s Slack presence when it launched interactive Claude apps, which TechCrunch&#x27;s Russell Brandom reported included workplace tools like Slack, Canva, Figma, Box, and Clay.</p><p>In parallel, Anthropic was building out its enterprise infrastructure stack. As TechCrunch reported in August 2025, the company bundled Claude Code into enterprise plans, a move its product lead Scott White called &quot;the most requested feature from our business team and enterprise customers.&quot; In April 2026, Anthropic launched Claude Managed Agents, a suite of composable APIs for building and deploying cloud-hosted AI agents at scale, with early adopters including Notion, Rakuten, Asana, and Sentry. As The New Claw Times reported, the move positioned Anthropic &quot;as a direct competitor to AWS Bedrock Agents and Google Vertex Agent Builder.&quot;</p><p>Then came Claude Opus 4.8 in late May, which Anthropic described as &quot;a more effective collaborator&quot; with &quot;sharper judgement, more honesty about its progress, and the ability to work independently for longer than its predecessors.&quot; As 9to5Mac reported, benchmark improvements included a jump in agentic coding scores from 64.3% to 69.2% and a knowledge work score increase from 1753 to 1890. Claude Tag is the synthesis of all of these threads \u2014 combining the Slack channel presence, the enterprise security architecture, the Managed Agents infrastructure, and the Opus 4.8 model&#x27;s improved agentic capabilities into a single product that Anthropic frames as &quot;the beginning of an evolution of Claude Code.&quot;</p><h2><b>Anthropic&#x27;s explosive growth explains why it is betting big on the collaboration layer</b></h2><p>The financial stakes behind this launch are enormous. Anthropic raised $65 billion in Series H funding in late May at a $965 billion post-money valuation, and its run-rate revenue crossed $47 billion earlier this month. Claude Code&#x27;s run-rate revenue alone has grown to over $2.5 billion, more than doubling since the beginning of 2026, and enterprise use has grown to represent over half of all Claude Code revenue.</p><p>Those numbers explain why Anthropic is investing so heavily in channel-level presence. Every enterprise customer who grants Claude persistent access to a Slack channel \u2014 with connected tools, accumulated context, and ambient monitoring enabled \u2014 represents a dramatically deeper integration than a chatbot conversation or an API call. The usage patterns become stickier, the token consumption grows, and the switching costs rise. Deloitte&#x27;s deployment of Claude across more than 470,000 employees in 150 countries \u2014 reportedly its largest-ever enterprise AI deployment \u2014 illustrates the scale at which these dynamics play out.</p><p>The broader market trajectory reinforces the bet. Fortune Business Insights projects the global agentic AI market will grow from $9.14 billion in 2026 to $139 billion by 2034, and Gartner forecasts that 40% of enterprise applications will feature task-specific AI agents by 2026, up from less than 5% in 2025. Anthropic is not alone in seeing this future, but with Claude Tag it is making one of the most direct plays yet to own the enterprise agent layer.</p><h2><b>The risks enterprise buyers need to weigh before granting Claude a permanent seat at the table</b></h2><p>Claude Tag raises several questions that enterprise buyers will need to evaluate carefully. The first is vendor dependency. As The New Stack noted when analyzing Claude Managed Agents earlier this year, once an organization&#x27;s agents, operational configurations, and monitoring run on Anthropic&#x27;s managed infrastructure, switching costs increase significantly. Claude Tag deepens this dynamic: a Claude that has accumulated months of channel context and institutional memory becomes very difficult to replace. Enterprise procurement teams accustomed to negotiating multi-cloud flexibility will need to think hard about what it means to give a single vendor&#x27;s AI persistent access to the communication layer where institutional knowledge lives.</p><p>The second is governance around ambient monitoring. The proactive behavior mode \u2014 in which Claude monitors channels and surfaces information it decides is relevant \u2014 represents a meaningful expansion of what enterprise AI systems do. Organizations will need to develop clear frameworks for an AI agent that is not just responding to requests but actively surveilling information flows and making editorial judgments about what humans need to know. For regulated industries, this raises questions that existing AI governance policies may not yet address.</p><p>The third is pricing. Anthropic has not published detailed pricing for Claude Tag beyond noting that it runs on token-based spending with administrative controls. For an agent that monitors channels continuously, builds memory, and works asynchronously over hours or days, the token consumption profile could look very different from traditional AI usage. And the fourth is reliability: Anthropic has been candid in recent months about infrastructure strain caused by surging demand, and for a product positioned as an always-on team member, downtime carries a different kind of cost than it does for a tool invoked on demand.</p><h2><b>What Claude Tag signals about the future of enterprise work</b></h2><p>Anthropic says its goal is to expand Claude Tag beyond Slack &quot;so that teams can tag @Claude in the many other places they work.&quot; The company is clearly eyeing the full collaboration surface \u2014 Microsoft Teams, email, project management tools, and beyond. If Claude Tag succeeds, it will validate a model of enterprise AI that looks less like a tool and more like a new category of worker: one that never sleeps, never forgets what was discussed in the channel last Tuesday, and never needs to be onboarded twice.</p><p>But the deeper significance of this launch may be what it reveals about the competitive dynamics reshaping enterprise software. For decades, the most valuable real estate in business technology was the system of record \u2014 the database, the CRM, the ERP. The current AI arms race suggests that the next era of enterprise value will be captured not by the system that stores the data, but by the agent that sits in the room where the work happens and understands what to do with it. Anthropic just gave that agent a name, a permanent seat in the channel, and permission to speak up when it thinks it has something to say. The question for every enterprise technology leader is no longer whether that agent will arrive. It is whether they are ready to manage it when it does.</p>",
-      "category": "real_estate",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/6CFsd7sGf60QrI8jTqYfuy/788282d94743cf3a42c6c4bb28553ad6/Nuneybits_Vector_art_of_entirely_burnt_orange_chat_panel_mergin_c649b311-f246-4715-9849-8358622f4bee.webp?w=300&q=30"
-    },
-    {
-      "id": "cde14d52e5a29e281e4ad5d7e9d01f9ca698fd53f8f6d13bd2dcfb48cd22a7a6",
-      "title": "Show HN: Made in Everywhere \u2013 a live map of companies and products",
-      "url": "https://www.madeineverywhere.co/",
-      "source": "Hacker News - New Stories",
-      "source_id": "hackernews_newstories",
-      "published_at": "2026-06-23T16:52:59Z",
-      "summary": "I built Made in...Everywhere, a map where founders can pin their companies and show where they&#x27;re &quot;being made&quot;.<p>The idea is simple:\nAdd your company\nAdd your location\nSee other products near you\nExplore companies around the world<p>Current stats:\n- 360+ companies\n- Founders from dozens of countries\n- Completely free to join<p>ps.: I&#x27;m fixing some products, as this data comes from another product I launched last year (FA) and some products might be off.<p>I&#x27;d love feedback on what would make you come back regularly?",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "3ec465947b2b3587aef45f19e1d579ee524bc1cefda25bfb6c0373089ef30885",
-      "title": "Trump Call for Crop Sales to Iran Adds Cautious Hope for Farmers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/trump-call-for-crop-sales-to-iran-adds-cautious-hope-for-farmers",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T16:41:12Z",
-      "summary": "President Donald Trump on Tuesday reiterated that funds from any unfrozen Iranian assets would be used in part for grain shipments, potentially providing a fresh market for American farmers.",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iOhbqVmKCWJA/v3/1200x-1.png"
-    },
-    {
-      "id": "ddd8b3630a38afa4d5395c67dd5e4fa63a61d5b45feb95cc898108bd9096700d",
-      "title": "Etan Patz's 1979 kidnapping and murder \"touched a nerve\" with parents, author says",
-      "url": "https://www.cbsnews.com/video/etan-patzs-1979-kidnapping-and-murder-touched-a-nerve-with-parents-author-reflects-on-case-legacy/",
-      "source": "CBS News \u2014 Latest",
-      "source_id": "cbs_main",
-      "published_at": "2026-06-23T16:35:23Z",
-      "summary": "The Supreme Court recently decided to reinstate the conviction of the man accused of kidnapping and murdering 6-year-old Etan Patz in 1979, bringing the case back into the public eye. \"After Etan\" author Lisa Cohen shares her thoughts on how the Etan Patz kidnapping changed how the public viewed missing children's cases.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "68733664e2b1d770ae6a7155450d9cac0f4ce5adefa4b77ced8d1fe465d59c5f",
-      "title": "Sunbelt Rentals Holdings Inc. (SUNB) Q4 2026 Earnings Call Transcript",
-      "url": "https://seekingalpha.com/article/4916996-sunbelt-rentals-holdings-inc-sunb-q4-2026-earnings-call-transcript?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-23T16:32:11Z",
-      "summary": null,
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "3d125587362c6e92db5bb88178811e10eeacc727216b046fe55b469b51492f0b",
-      "title": "Haryana Cops Say Forensic Report On Bhagwant Mann Video Fabricated, File Case",
-      "url": "https://www.ndtv.com/india-news/haryana-cops-say-forensic-report-on-bhagwant-mann-video-fabricated-file-case-11677583#publisher=newsstand",
-      "source": "NDTV \u2014 Top Stories",
-      "source_id": "ndtv_top",
-      "published_at": "2026-06-23T16:19:16Z",
-      "summary": "Police are currently interrogating the accused to uncover the full extent of the conspiracy.",
-      "category": "real_estate",
-      "image": "https://c.ndtvimg.com/2026-06/77i8lb3_bhagwant-mann_625x300_08_June_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
     }
   ]
 }

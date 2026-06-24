@@ -1,7 +1,7 @@
 {
   "key": "space",
   "label": "Space",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
     {
       "id": "648a6dfb4a76cd346e34e14d161c03b1e0b017009c571fd40fe85fe04f5e5e31",
@@ -48,6 +48,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/inA6MZpL97JRAu3wcERPFE-1280-80.jpg"
     },
     {
+      "id": "bd995d1f0b5c14598fe43e0a22dad7b8bec67420e536c333862efd7e888b0179",
+      "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
+      "url": "https://arxiv.org/abs/2606.24854v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:34:18Z",
+      "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be difficult. People are intersectional beings and current evaluation metrics can struggle to capture the multifaceted and nuanced desires people may have for their AAC. We explore the complicated nature of six AAC problem spaces, explore how AI might be used in these spaces, and suggest more robust methods of evaluation that take the intersectional nuances of people into account. We also discuss broader issues that arise across these problem spaces and how they could be addressed using our proposed evaluation methods.",
+      "category": "space",
+      "image": null
+    },
+    {
       "id": "f24d2049e500faf4161858c97751fddc77879de2ae5186f7c2943f7a5fc08c33",
       "title": "This might be your last chance to pick up a retired Lego Star Wars set before it flies off forever, and it's under $100 on Amazon for Prime Day",
       "url": "https://www.space.com/entertainment/space-toys-lego/this-might-be-your-last-chance-to-pick-up-a-retired-lego-star-wars-set-before-it-flies-off-forever-and-its-under-100-dollars-on-amazon-for-prime-day",
@@ -59,6 +70,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Xps6kYPajUpTrQwN92boN-1280-80.jpg"
     },
     {
+      "id": "56361c2aaaaa835891294c9edcc893818bcbadd3e6475a22a9264ccef6d3021e",
+      "title": "Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution",
+      "url": "https://arxiv.org/abs/2606.24808v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:56:24Z",
+      "summary": "Quantum computers could outperform classical machines on important problems, but only if the errors that pervade quantum hardware can be corrected at scale. Quantum low-density parity-check (qLDPC) codes offer a promising route to this goal by combining sparse parity checks with finite encoding rate and growing distance, but their construction remains a challenging discrete design problem. Here we introduce structured concept evolution (SCE), a search framework that pairs a large language model with a structured algebraic mutation grammar to discover lifted-product code families, a class of CSS qLDPC codes. Instead of asking the LLM to design codes from first principles, SCE evolves structured concepts consisting of algebraic specifications paired with executable programs that realize them, using hierarchical mutations that modify the group algebra, protograph geometry, or base space. Running SCE, we discover a diverse set of competitive code families, ranging from abelian constructions to families over non-abelian groups beyond those underlying standard designs such as bivariate-bicycle codes, and characterize them under code-capacity depolarizing noise with BP+OSD decoding. These results are obtained with lightweight models (GPT-5.4-mini and GPT-5.4-nano).",
+      "category": "space",
+      "image": null
+    },
+    {
       "id": "eda679c462c7588d2e785778cbe5af683ad058962acc9610186c815676322bfe",
       "title": "China's space plane appears to have released a mystery object in orbit",
       "url": "https://www.space.com/space-exploration/launches-spacecraft/chinas-space-plane-appears-to-have-released-a-mystery-object-in-orbit",
@@ -68,6 +90,17 @@
       "summary": "China's Shenlong space plane appears to have released a mystery object while in orbit, according to a private space surveillance firm.",
       "category": "space",
       "image": "https://cdn.mos.cms.futurecdn.net/QUg55LuvZjoEbWWeoedWJU-1280-80.jpg"
+    },
+    {
+      "id": "b63fe8ae75a0a06239c9833be3e428d0e91d9b77ebf8fa3a1a474b6c281f18bd",
+      "title": "OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis",
+      "url": "https://arxiv.org/abs/2606.24799v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:50:47Z",
+      "summary": "Generic text-to-video models can be used as rich open-world scene priors. Despite the high quality of today's generated videos, they do not directly yield reliable 3D assets: camera motion is difficult to control, view coverage is partial, and frames often contain inconsistencies across time. We introduce OrbitForge, an adapter built from frozen video priors and per-prompt Gaussian Splatting reconstruction optimization that converts a single text-generated video into a canonical closed-orbit 3D Gaussian Splatting scene. We use 3D reconstruction as an anchor to improve the 3D consistency of the generated video. We obtain a preliminary 3D reconstruction from a first generated video via Deformable Gaussian Splatting with a robust MedianGS proxy. We render views from a prescribed orbit to detect missing viewpoints. OrbitForge uses the text-to-video model to complete only the missing views, and reconstructs the completed orbit into a final Gaussian Splatting scene. This design requires no task-specific video or multiview fine-tuning, avoids per-prompt score-distillation optimization, and does not progressively generate views one step at a time. We further argue that this setting demands coverage-aware evaluation: local smoothness alone rewards methods that never attempt a full orbit. On a frozen 300-prompt T3Bench-derived audit, OrbitForge reconstruction attains a 359.0-degree measured median span, raises originally unsupported-bin Q10 ImageReward from 8.07 to 16.36 relative to MedianGS-only reconstruction, while remaining competitive with VideoMV on the coverage-quality.",
+      "category": "space",
+      "image": null
     },
     {
       "id": "8a00961422fe3da67d832d0e514ee35a39a874307ef7d023c4f4baec4ee2560c",
@@ -114,6 +147,50 @@
       "image": "https://cdn.mos.cms.futurecdn.net/4ugoTjVhaT7FQiDgHFriYd-1280-80.jpg"
     },
     {
+      "id": "1150bf3d9cab9595e579dd6823700b15bef3f49d6d47eed9bd1a9600620354e7",
+      "title": "Task Decomposition for Efficient Annotation",
+      "url": "https://arxiv.org/abs/2606.24734v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:58:46Z",
+      "summary": "High-quality annotations of structured representations are expensive to collect over large corpora. Manual annotation of structure is laborious, and model-based annotation, although cheaper to generate, requires expensive validation and potentially significant supervision to ensure that the annotation quality is strong enough to be useful downstream. In traditional annotation workflows, annotation of each complete example is performed end-to-end by a single annotator. However, structured annotation is complex, and each aspect of the task represents a unique challenge with an associated inferential load for a given annotator. Modern annotation projects can incorporate heterogeneous groups of annotators, including both models and human annotators with varying domain and linguistic expertise. It remains unclear, however, how to redesign annotation tasks in this setting, where efforts are discriminately allocated across heterogeneous annotators with respect to distinct annotation challenges.\n  We propose to decompose annotation tasks into sub-tasks in order to reduce the aggregate inferential load of annotation projects. Inspired by the notion of centers from centering theory, we introduce a formal model of inferential load based on the degrees of freedom in the space of valid annotations. Using this model, we show that identifying these centers (i.e. salient anchor entities realized by annotation sub-tasks) constrains the output space complexity, and decompositions which isolate and advance center identification reduce the aggregate inferential load. We provide guidelines for decomposing complex structured annotation tasks, supported by examples demonstrating improved cost-efficiency from our prior work. Finally, we present a procedure for allocating sub-tasks across annotators to maximize quality under a fixed budget.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "7a8bc7d1ee782e82914d9dbb9526078c114a3209c05534e18d1eee8ce3f36ebb",
+      "title": "TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments",
+      "url": "https://arxiv.org/abs/2606.24712v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:33:51Z",
+      "summary": "Humans effortlessly locate and identify objects by touch alone, even without vision. In contrast, robotic systems rely heavily on vision and struggle with autonomous tactile exploration and object identification. We present TACTFUL, a vision-free tactile exploration framework that enables a multi-fingered robot to autonomously explore confined workspaces, discover objects through contact, and identify them via tactile reconstruction. Trained entirely on real hardware without simulation, our system learns a single policy that balances global workspace exploration with local surface refinement through a dynamic reward schedule. Our results demonstrate that tactile sensing, when paired with structured learning, can serve as an effective primary modality for object-level reasoning, achieving 77% success with 0.015 m average reconstruction error and outperforming baseline approaches on real-world objects.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "22398ee106aa64a234780dfc9a817aa4741572a51dff88fc53079080b438b4a6",
+      "title": "FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction",
+      "url": "https://arxiv.org/abs/2606.24679v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:10:00Z",
+      "summary": "Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computationally difficult because operator sequences are combinatorial and end-to-end evaluation is expensive. Existing state-of-the-art (SOTA) Multi-DQN methods still face three key limitations: decoupled value estimators weaken long-horizon credit assignment, dataset context is only weakly injected into the policy, and exploration is inefficient in a sparse search space with many invalid states. To address these issues, we propose FlowPipe, a unified framework that formulates pipeline synthesis as conditional probabilistic flow generation over a directed acyclic graph. FlowPipe uses Conditional Generative Flow Networks (C-GFlowNets) with a Trajectory Balance objective to connect terminal validation rewards with early pipeline decisions. It further introduces Deep Semantic Modulation through Feature-wise Linear Modulation (FiLM), allowing LLM-derived logical priors to condition the policy's internal activations according to dataset semantics. In addition, FlowPipe incorporates failure awareness into the flow objective to avoid invalid states and concentrate search on high-potential regions. Experiments on two benchmark suites with 74 real-world datasets show that FlowPipe outperforms SOTA baselines, improving accuracy by 11.96% on average and achieving 12.5x faster training convergence. Source code is available at https://github.com/KunyuNi/FlowPipe.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "f3077ee8a089bb1d126bce9a028119385fcfaaf55c62932f9c9a95029394cd26",
+      "title": "Cost-Optimal Decision Diagrams for Stochastic Boolean Function Evaluation",
+      "url": "https://arxiv.org/abs/2606.24672v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:04:51Z",
+      "summary": "In many decision-making scenarios, acquiring information incurs different costs. We consider the problem of constructing a deterministic evaluation strategy that minimizes the expected cost of evaluating a propositional formula under variable costs and a probability distribution over truth assignments. We present a branch-and-bound algorithm with variable-selection heuristics, pruning, and caching. To the best of our knowledge, it is the first practical exact algorithm for this level of generality. Experiments on random instances demonstrate scalability and quantify the efficiency-quality trade-off of a greedy beam-search variant. We additionally evaluate a structured heart-disease diagnosis instance. Finally, we prove that the problem is $\\#P$-hard and contained in $\\mathrm{PSPACE}$.",
+      "category": "space",
+      "image": null
+    },
+    {
       "id": "70248328b8a2711115396504eb949ecad64b0cd890a8d2452b1b29b8e678d898",
       "title": "'Rick and Morty' cast talk vocal health, hot viscous liquids, and their favorite season 9 moments (interview)",
       "url": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-cast-talk-vocal-health-hot-viscous-liquids-and-their-favorite-season-9-moments-interview",
@@ -125,6 +202,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/ZZivzwr3Bo34aCHmurBZwJ-1280-80.jpg"
     },
     {
+      "id": "78850fcd66e2fe52e646384a5f47ce7e544718bbea890d005af55a411546b12d",
+      "title": "Visualizing \"We the People\": Bridging the Perception Gap through Pluralistic Data Storytelling",
+      "url": "https://arxiv.org/abs/2606.24635v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T14:28:11Z",
+      "summary": "Traditional visual data storytelling relies on binary graphics that depict two simplified groups in conflict. This can increase political polarization by oversimplifying intra-group disagreements and erasing ambiguity and shared ideas or values. This can inadvertently foster \"us versus them\" thinking. Intentional, pluralistic design choices for AI-enabled digital platforms can produce visualizations that emphasize nuance, opinion distribution, and intergroup commonalities. To demonstrate this potential, we examine deliberative technologies that map high-dimensional opinion spaces and highlight areas of both consensus and dissensus. The paper highlights the We the People deliberation conducted by Jigsaw and the Napolitan Institute in September 2025, which engaged over 2,400 Americans across all 435 congressional districts in an AI-supported, asynchronous dialogue regarding freedom and equality. By utilizing AI to synthesize long-form, text-based participant inputs into interactive \"opinion landscapes,\" the initiative provided an alternative format for pluralistic data storytelling that humanized diverse viewpoints and revealed hidden areas of substantial broad consensus. The paper concludes that shifting from divisive, contrast-heavy visual frameworks to distribution-focused, interactive models represents a highly scalable, low-cost intervention capable of bridging perceptual gaps and cultivating a more resilient, collaborative democratic culture.",
+      "category": "space",
+      "image": null
+    },
+    {
       "id": "b59a87a7ce37aedebc52f28f672fbc3affee822de0e2ecb5838a05ea3dd10864",
       "title": "Ignite a child's imagination with the stars: Our expert-picked Astronaut Galaxy Star Projector is a Prime Day steal at just $25",
       "url": "https://www.space.com/entertainment/space-toys-lego/ignite-a-childs-imagination-with-the-stars-our-expert-picked-astronaut-galaxy-star-projector-is-a-prime-day-steal-at-just-25-dollars",
@@ -134,6 +222,17 @@
       "summary": "After the historic Artemis 2 crew looping around the moon back in April, kids everywhere are eager to follow in their footsteps. This Astronaut star projector is the perfect way to bring the wonder of their new heroes home, and with this Prime Day deal, it\u2019s an absolute bargain.",
       "category": "space",
       "image": "https://cdn.mos.cms.futurecdn.net/qo7uQDrunALmiYPc4mVVSM-1280-80.jpg"
+    },
+    {
+      "id": "3c0633352a9e4284cd8d77b44c20f2303641d81a28748d7255d21ff2ed8e775d",
+      "title": "ASALT: Adaptive State Alignment for Lateral Transfer in Multi-agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.24601v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T14:03:36Z",
+      "summary": "Multi-agent reinforcement learning (MARL) addresses the problem of training multiple agents that pursue collaborative, competitive, or mixed objectives. Prior work has investigated transfer learning between source and target domains in MARL; however, the majority of existing approaches impose the constraint that the dimensionalities of the observation space and the global state space must be identical across domains. In this paper, we introduce a method that explicitly accommodates mismatched state-space dimensionalities between source and target domains. The proposed approach, ASALT, incorporates both observation-level and state-level adapters that map the target-domain observations and global states into a shared embedding space, thereby enabling more effective transfer of knowledge across both actors and critics. These adapters can generate embeddings that support efficient strategy transfer across heterogeneous domains. Experimental results on multiple configurations in standard benchmark environments demonstrate that ASALT surpasses existing baselines in terms of sample efficiency and global return in cooperative settings, but its effectiveness depends on the degree of mismatch between source and target domains. Furthermore, our findings indicate that ASALT mitigates negative transfer, which frequently constitutes a major obstacle when transferring policies between domains with differing observation and action spaces.",
+      "category": "space",
+      "image": null
     },
     {
       "id": "513916b1fab7f030614f5c74685ffdd5dc7ac5221267896522ebe577a81c6d5e",
@@ -158,6 +257,50 @@
       "image": "https://cdn.mos.cms.futurecdn.net/5x5aUWmKjzPZgMowaVS44V-1280-80.jpg"
     },
     {
+      "id": "a0ce852d27575a60fb66d92b3d390c96a3f03b6c0f0bd183d87153226f734bd5",
+      "title": "An Agnostic Machine Learning Model of Photosynthetic Habitability",
+      "url": "https://arxiv.org/abs/2606.24458v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T11:45:54Z",
+      "summary": "The search for exoplanet biosignatures is guided by whether planetary environments can sustain photosynthesis. As such, the Photosynthetic Habitable Zone (PHZ) was recently proposed, as the overlap between the canonical habitable zone and the orbital range where stellar irradiance is sufficient to drive photosynthesis. Existing PHZ estimates rely on empirical light-response curves from Earth phytoplankton, and thus include implicit Earth-centric biases. We introduce an agnostic PHZ derived from a generalized model of photosynthesis grounded in thermodynamics and redox chemistry, without reference to model organisms. The model is built on a generic photochemical reaction in which photon capture couples oxidation of a donor molecule to the reduction of CO2. The optical properties and CO2 reduction rate are optimized against irradiance spectra for exoplanets orbiting main-sequence stars, using a genetic algorithm that mimics evolution by natural selection. Our simulations predict that photosynthetic organisms compensate for reduced flux by evolving larger light-harvesting structures. As a result, photosynthetic viability declines only linearly with orbital distance, despite stellar flux falling off quadratically. As such, the agnostic PHZ expands well beyond previous Earth-based estimates. Earth-like (visible light) oxygenic photosynthesis is flux-limited at the outer habitable zone for cool M-dwarf stars; however, both anoxygenic photosynthesis and a hypothetical, NIR-driven oxygenic photosynthesis are viable across the entire habitable zone for M, K, and G stars. This implies that M-dwarf exoplanets could sustain robust oxygenic photosynthesis, though it would be different to that found on Earth, presenting reflectance biosignatures in the NIR band rather than the visible.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "4eb94f4a1284020bf1689ee0a0f4e0b0bbf407a2fb2ab8d3c01e290ccb1a6db8",
+      "title": "Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning",
+      "url": "https://arxiv.org/abs/2606.24428v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T11:05:05Z",
+      "summary": "Experience-driven self-evolution is critical for large language model (LLM) agents to improve through open-world interaction. However, existing experience learning methods mostly rely on single-agent loops, where the same agent executes tasks, summarizes outcomes, and determines memory content. This setup makes agents vulnerable to the Self-Confirmation Trap: wrong-but-self-consistent trajectories are misidentified as successful experience, leading to cumulative errors during retrieval and reuse. To address this issue, we propose EDV, an Execute-Distill-Verify framework for reliable experience learning. In the Execute stage, multiple heterogeneous agents explore the same task space in parallel to generate diverse candidate trajectories. In the Distill stage, a dedicated third-party agent comparatively analyzes these trajectories to produce candidate experiences, reducing executor-centric summarization bias. In the Verify stage, the execution group validates candidates via a consensus mechanism, and only approved experiences are written into shared or private memory. By decoupling the three stages, EDV transforms experience learning from isolated self-reflection into collaborative construction, filtering erroneous and noisy content before memory insertion. We evaluate EDV on three challenging long-horizon benchmarks: tau2-bench, Mind2Web and MMTB. Results show EDV consistently outperforms strong baselines, validating that reliable experience construction is essential for robust agent self-evolution. Our code is available at https://github.com/shidingz/EDV.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "62ccdbd7515e3bd22a5994569d13447fd7fe4a80d66b08f747facb3fafec1fc6",
+      "title": "Data Augmentation: A Fourier Analysis Perspective",
+      "url": "https://arxiv.org/abs/2606.24418v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T10:54:14Z",
+      "summary": "Data augmentation is a simple and model-agnostic approach for exploiting known invariances in learning problems. Given a group acting on the input space, one augments the training set with transformed copies of each sample. Because it exploits symmetries without modifying the underlying learning algorithm, data augmentation can be applied broadly across learning methods. However, this universality comes at a computational cost: when the group is large, full group-sized augmentation quickly becomes computationally infeasible. This raises a fundamental question: Can partial data augmentation achieve the same statistical benefits as full augmentation in terms of generalization and sample complexity? We develop a general framework for investigating this question using Fourier analysis and the representation theory of finite groups. We show that, for a broad class of classical learning problems, partial data augmentation based on a randomly sampled subset of group elements achieves the same minimax rates as full augmentation, up to an approximation error that vanishes as the subset size increases. Our results provide a theoretical explanation for why partial augmentation can retain the statistical benefits of full augmentation despite enforcing symmetry only approximately, and shed light on a recently raised question in learning with symmetries: whether statistically optimal learning under general group invariances can be achieved using computationally scalable methods. Moreover, we prove a complementary impossibility result: enforcing exact invariance via data augmentation requires averaging over the entire group, and cannot be achieved by any strict subset when the hypothesis space is sufficiently expressive. Together, these results provide a unified perspective on full and partial data augmentation, as well as exact and approximate symmetry enforcement.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "ee4319d93684171e2afcf08e8fae6680ce731493952281f1365c73c06b2d42a7",
+      "title": "Age of LLM: A Strategic 1v1 Benchmark for Reasoning, Diplomacy and Reliability of Large Language Models under Fog of War",
+      "url": "https://arxiv.org/abs/2606.24391v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T10:25:31Z",
+      "summary": "We introduce Age of LLM, a turn-based 1v1 benchmark in which two LLMs face off on a 13x7 grid to destroy the enemy base. Three stressors are deliberate: fog of war, full diplomacy (messages, ceasefires, ultimatums; uranium kept secret), and a reliability dimension where every turn must follow a strict JSON schema and an illegal action is silently discarded. The engine is private and each match uses a fresh random map seed and opponent, mitigating the data contamination that affects public benchmarks. Models receive a (near) rule-only prompt with no build-order advice (two tactical seed phrases were present during data collection; see Section 2.7). We benchmark 15 reasoning models across 54 matches and 5,258 actions. Findings: (1) the nuclear rush dominates (78% on the rules-coherent v0.11+ sub-corpus; 85% corpus-wide) with a sole-launcher signature that is largely mechanical under secret-simultaneous launch rules, not a cognitive deterrence failure; (2) military conquest is rare but faster (12.3 vs 18.9 turns); (3) diplomacy is prolific yet almost never consummated; (4) ~58% of illegal actions are fog/state errors, making the illegal-action rate a measure of belief-tracking; (5) -- the least established, and the only one we label exploratory -- a weak link associates reliability with winning. The corpus is small, unbalanced and not side-swapped, so the ranking is a preliminary descriptive view, not a contribution. Beyond ranking, the turn-by-turn traces of actions and messages make the corpus a lens on how LLMs reason under adversarial uncertainty -- their belief-tracking, spontaneous deception, and per-model cognitive \"personas\" -- which we frame as a future research direction. We release the replay format, an isometric viewer and all replays; engine source on request.",
+      "category": "space",
+      "image": null
+    },
+    {
       "id": "f02efa12a62b6bcfbd0ae61beeb923bd7d0e2b41bd96223c66ff6f7715a841ec",
       "title": "This beginner-friendly travel telescope is the reason I turned into a skywatcher",
       "url": "https://www.space.com/stargazing/skywatching-kit/this-beginner-friendly-travel-telescope-is-the-reason-i-turned-into-a-skywatcher",
@@ -167,6 +310,28 @@
       "summary": "Now, for around $80, you can get the same telescope in the Amazon Prime Day sales and join me in looking up at the stars.",
       "category": "space",
       "image": "https://cdn.mos.cms.futurecdn.net/UqhRsDhjitR59hpMoNRHZe-1280-80.jpg"
+    },
+    {
+      "id": "2b681c63f86f6867a58790ec50addbf137cfb2dd767e9712c332ea90e63e3c05",
+      "title": "MotifGen: Spatiotemporal interpolation of misaligned satellite images via multi-source generative modeling, in an application to tropical cyclones",
+      "url": "https://arxiv.org/abs/2606.24263v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T07:49:34Z",
+      "summary": "Microwave satellite imagery plays a crucial role in monitoring tropical cyclone precipitation and intensity worldwide, but suffers from long revisit times, potentially missing rapid storm evolution phases. While this raises the need for an interpolation method, it is made challenging by the high level of heterogeneity of microwave data coming from different instruments. In this work, we introduce the first generative model that can be applied to multiple geospatial sources that change across samples, occur at irregular time intervals, are misaligned geographically, and come from instruments with varying characteristics. We apply this model to the case of spatio-temporal interpolation of tropical cyclone microwave images from other microwave and infrared instruments. We train using a self-supervised task in which a random source is masked and reconstructed, and show that it leads to a significant decrease in Continuous Ranked Probability Score over supervised training. We show a further improvement by combining infrared and microwave data compared to microwave only. Using these improvements, the generative model produces an ensemble mean on par with that of a deterministic model, while generating a power spectrum significantly closer to that of true observations. To the best of our knowledge, this is the first generative model that interpolates microwave images of cyclones by combining multiple microwave instruments and infrared observations at irregular time intervals.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "91dec4e4eb5b8aac48cbb027c4459f84b7fd6a40d59cdf4a11d372ed0d64d4b0",
+      "title": "Decoherence as Defence and the Magnitude of Noise Regularisation: A Rigorous N -Qubit Theory of Stochastic Quantum Neural Networks for Adversarially Robust Network Intrusion Detection",
+      "url": "https://arxiv.org/abs/2606.24219v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T07:06:56Z",
+      "summary": "Stochastic quantum neural networks (SQNNs) encode neuronal activations as qubits, synaptic topology as entanglement, and neural noise through a Lindblad master equation. A recent conference study applied a ring-entangled SQNN to collaborative intrusion detection and reached three conclusions: ring entanglement is \\emph{essential} for non-local anomaly detection; an adversarial-resilience bound holds but is \\emph{conservative}; and the depolarising channel \\emph{fails} to act as a dropout-style regulariser, behaving instead as output noise. It left open whether a per-gate stochastic deactivation (``true quantum dropout'') could regularise where the depolarising channel could not, and whether the loose robustness bound could be replaced by a predictive theory. This paper resolves both and extends the framework to real data and to neutral-atom hardware. We give an $N$-qubit formulation through the stochastic master equation and its vectorised Liouvillian, and prove a \\emph{decoherence-contraction theorem}: a depolarising channel of strength $\u03b3$ over $L$ entangling layers contracts every weight-$w$ Pauli read-out by a factor $(1-4\u03b3/3)^{wL}$ (for the weight-$1$ read-out used here, $(1-4\u03b3/3)^{L}$); building on the general noise-as-defence result of Du et al., we make this quantitative and operational for intrusion detection. On the real NSL-KDD dataset under white-box FGSM and PGD attacks, a depolarising SQNN trained with the channel is, over seven seeds under strong $\\ell_\\infty$/$\\ell_2$ attacks, significantly more robust than the noiseless circuit ($\\ell_\\infty$ PGD-$20$, $p=0.04$, large effect) and, critically, never suffers the catastrophic robustness collapse that the noiseless model and gradient-trained classical detectors (which fall from $95\\%$ to $47\\%$) do, cutting robustness variance roughly twofold; we show this robustness arises from a noise-reshaped training boundary rather than from attack-time gradient contraction. For generalisation, we derive an adaptive-penalty formula showing that per-gate dropout implements a curvature-weighted $L_2$ penalty $\\tfrac{p(1-p)}{2}\\sum\u03b8^2\\partial^2_\u03b8L$ in weight space, maximised at $p=1/2$, whereas depolarising noise implements an output-space penalty. A $30$-seed study confirms the formula's quantitative prediction: both mechanisms reduce the train-test gap by a small but statistically significant margin ($\\approx\\!0.01$; $p<10^{-4}$ and $p=0.004$), are statistically indistinguishable from each other, and the effect is concentrated where overfitting is largest; increasing the dropout rate past $1/2$ does not help, as the formula predicts. The single-seed dichotomy of prior work does not survive replication. We close with a neutral-atom realisation and a feasibility-by-$N$ analysis.",
+      "category": "space",
+      "image": null
     },
     {
       "id": "9f0e9a31b51ac0a9aad0a79bfadf5826e6344c528e3a61294c408cb3c1a4a7a6",
@@ -180,6 +345,72 @@
       "image": "https://cdn.mos.cms.futurecdn.net/pqxY6S7MnVs2VjEKwnEikj-1280-80.jpg"
     },
     {
+      "id": "d409215d6aac70f1663cc70669d7371ece58a75186b6d812951c1bbeecf436b4",
+      "title": "Dialogue to Discovery: Attribute-Aware Preference Elicitation for Conversational Product Search Assistants",
+      "url": "https://arxiv.org/abs/2606.24194v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T06:30:31Z",
+      "summary": "Conversational product search assistants offer a more expressive, natural, and interactive alternative to traditional keyword-based product search. With limited screen space, showing only a few items increases the need for precise preference elicitation, which can prolong conversations, leading to user frustration and session abandonment. Conversely, rushing to recommend items without a clear understanding of preferences risks poor matches and a degraded user experience. We present Dialogue to Discovery (D2D), an attribute-oriented preference elicitation framework that dynamically exploits the structure of product attributes to efficiently steer conversations toward the user's desired item. D2D adaptively prioritizes the most informative queries and strategically times product recommendations, reducing premature or off-target suggestions that harm engagement. To evaluate D2D, we curate three datasets from the Amazon Reviews corpus. In simulated conversations modelled using a multi-factor utilitarian patience framework, D2D achieves a 22.2-29.9% improvement in target-finding accuracy, 6.6-16.1% reduction in abandonment, and 27.5% shorter average conversations over the state-of-the-art baselines. A complementary user study further confirms significant gains in both user satisfaction and perceived efficiency.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "937463a17effd7fe03b4233144bca3102db4f56a951fcaf749aaa958494c7ec9",
+      "title": "Lightweight Transformer Models for On-Device Fault Detection: A Benchmark Study on Resource-Constrained Deployment",
+      "url": "https://arxiv.org/abs/2606.24173v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T05:54:33Z",
+      "summary": "On-device fault detection enables real-time diagnostics without cloud dependency, but deploying machine learning models on resource-constrained hardware demands careful tradeoffs between accuracy, latency, and model size. We present a benchmark comparing traditional ML methods (Random Forest, XGBoost, SVM, Logistic Regression) against lightweight transformer architectures (DistilBERT, TinyBERT-6L, TinyBERT-4L, MobileBERT) for binary fault detection across three public datasets: NASA C-MAPSS turbofan degradation, SECOM semiconductor manufacturing, and UCI AI4I 2020 predictive maintenance. We evaluate classification performance (F1-score, AUC), model size, and CPU inference latency, and further assess INT8 dynamic quantization and a two-stage adaptive inference pipeline. Our results reveal that on well-separated sensor data (C-MAPSS), lightweight transformers match traditional ML at 87.8% F1 but at 100x the model size and 9000x the latency. TinyBERT-4L emerges as the most deployment-friendly transformer at 55 MB and 18 ms CPU latency. INT8 quantization reduces size by 25% while preserving 86.9% F1. Our adaptive pipeline, routing 97.9% of predictions through a quantized triage model and only 2.1% to a larger expert, achieves 87.6% F1 at 19.5 ms average latency. On severely imbalanced datasets (SECOM, UCI-PM), both traditional and transformer methods struggle significantly, highlighting fundamental limitations of current approaches for extreme class imbalance in fault detection. All code is publicly available.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "e69e0e273bc5d918856f8f99b60b90073720efc81e04584a1f7fbf973036047a",
+      "title": "A Time-Reparameterized Cumulative Intensity Extrapolation Sampler for Discrete Flow Matching",
+      "url": "https://arxiv.org/abs/2606.24140v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T04:48:45Z",
+      "summary": "Discrete flow matching (DFM) provides a principled framework for generative modeling on discrete state spaces via continuous-time Markov chain dynamics. In practice, sampling for DFM commonly employs discretizations such as $\u03c4$-leaping, yet efficient sampling methods under a limited number of function evaluations (NFE) remain less studied. To address this gap, we propose the Time-Reparameterized Cumulative Intensity Extrapolation (TR-CIE) sampler, which aims to improve sampling quality when function evaluations are restricted. TR-CIE consists of two components. First, a schedule-based time reparameterization rescales the time grid according to the noise schedule. Under standard factorized DFM rate parameterizations, this transformation of variables absorbs the schedule-dependent growth term and mitigates stiffness near the terminal sampling stage. Second, we introduce a cumulative-intensity extrapolation updating rule. By reusing cached model outputs from the previous step as a history term, this improves the approximation of stepwise cumulative intensities on the resulting non-uniform time grid. We provide a theoretical analysis that bounds the local approximation error of cumulative intensities and establishes convergence results. The resulting sampler requires one NFE per step and introduces no additional model evaluations compared to the standard $\u03c4$-leaping sampler. Extensive experiments on synthetic tasks, text generation, and text-to-image benchmarks demonstrate that our method improves sampling quality under limited NFE.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "62adb50396efa89afd0bcf04d989f2093abcb56785ac8249257cb25df9b8b8ca",
+      "title": "Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.24133v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T04:32:46Z",
+      "summary": "The composition of training data, governed by the diversity of sources and their mixing strategy, is a cornerstone of Large Language Model (LLM) pre-training. Online Data Mixing (ODM), the technique of adaptively adjusting data mixtures during training, has emerged as a promising direction to improve efficiency. However, existing methods are constrained by their reliance on a singular optimization perspective, which fundamentally overlooks the need for complex LLM pre-training to consider the dynamic data composition from multiple dimensions. To overcome this limitation, we introduce the Holistic Data Scheduler (HDS), a novel online data mixing framework. HDS formulates the data scheduling challenge as a reinforcement learning problem in a continuous control space and leverages the Soft Actor-Critic (SAC) algorithm for its stability and sample efficiency in exploring the high-dimensional policy space. At the core of HDS lies a novel multi-objective, holistic reward function that integrates three critical perspectives: a data-driven reward for quality, a loss-driven reward capturing inter-domain influence, and a model-driven reward based on weight norms. To validate our design and determine its optimal configuration, we conducted systematic experiments on LLMs of various sizes. On The Pile benchmark, HDS reaches the final validation perplexity of the next best method with 44% fewer training iterations. Furthermore, it achieves a 7.2% improvement on the MMLU 0-shot task along with consistent gains on other benchmarks, showcasing its ability to enhance both training efficiency and final model capability.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "e5cdaeb5507f6c084ecf4e966654d012a4d4c26e482ed0eea806af92b7a76ed5",
+      "title": "NeuroSonic: Conditional Flow Matching for EEG-to-Speech Reconstruction",
+      "url": "https://arxiv.org/abs/2606.24087v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T03:04:53Z",
+      "summary": "Reconstructing continuous speech from scalp electroencephalography (EEG) remains fundamentally challenging. EEG provides a weak, spatially diffuse, and highly variable measurement of distributed cortical activity, whereas speech is organized as a coherent acoustic trajectory with strong harmonic and temporal structure. The resulting mismatch makes waveform regression unstable and causes stochastic multi-step generation to be sensitive to artifact-dependent conditioning and subject variability. We introduce NeuroSonic, a conditional flow-matching framework for EEG-to-speech reconstruction. Instead of predicting waveforms directly or refining them through stochastic denoising, NeuroSonic learns a deterministic probability-flow velocity field that transports a noise-corrupted acoustic state toward clean speech under EEG conditioning. EEG and audio are embedded into a shared token space and processed by a time-conditioned gated Transformer that parameterizes the transport ordinary differential equation. This formulation models trajectory evolution explicitly while avoiding iterative stochastic sampling. We evaluate NeuroSonic on the CineBrain and EAV benchmarks under cross-subject evaluation. Across both datasets, the proposed method improves distributional realism, spectral fidelity, and perceptual quality over representative GAN-, diffusion-, and mean-flow baselines, with up to a 26.3\\% gain in overall perceptual quality. The performance gap is most evident in artifact-heavy segments, where conditioning variability is strongest. These findings indicate that deterministic conditional transport provides a stable and effective formulation for EEG-driven speech reconstruction. Code is available at https://github.com/Y-Research-SBU/NeuroSonic/ .",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "b2ba11f31a6823a14bb819cd2657f90b4397a638fd69867ca6839f9766c286c7",
+      "title": "Rapid FinFET Modelling Using an Autoencoder",
+      "url": "https://arxiv.org/abs/2606.24046v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T01:15:50Z",
+      "summary": "This work presents a machine learning framework that leverages an autoencoder (AE) for the efficient modeling of FinFET. We first calibrated a BSIM-CMG model to generate a dataset of current-voltage (ID-VG) characteristics. This data was used to train an autoencoder that compresses full I-V curves into a low-dimensional latent space, which intrinsically encodes key device physics. A key innovation is the explicit incorporation of parameter such as drain to source voltage (VDS) as an input feature, enhancing the model ability to capture bias dependent variation. The trained model successfully reconstructs full I-V curves and directly extracts critical device metrics including threshold voltage (VTH), subthreshold slope (SS), and peak transconductance (gm). This approach demonstrates that data driven compact models, built from actual characterization data, can achieve high accuracy with minimal training data, providing a powerful tool for rapid device characterization, modelling and circuit level simulation.",
+      "category": "space",
+      "image": null
+    },
+    {
       "id": "b828620c8c72d7b3da325d77cef49de8dc8118eb52f40bc3f29b4f6a327d4a97",
       "title": "A potential intrinsic magnetic field for the Neptunian moon Triton",
       "url": "https://www.nature.com/articles/s41550-026-02869-8",
@@ -187,6 +418,50 @@
       "source_id": "nature_astronomy",
       "published_at": "2026-06-23T00:00:00Z",
       "summary": "<p>Nature Astronomy, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41550-026-02869-8\">doi:10.1038/s41550-026-02869-8</a></p>Modelling of the thermal and magnetic evolution of Neptune\u2019s moon Triton indicates that it might possess an as-yet-undetected magnetic field, generated by a dynamo in its metallic core. If this field does indeed exist, it could complicate efforts to search for a sub-surface ocean on Triton using magnetic induction.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "1bd3ea9e1f34c13a743e13b851dfe6df70d8cc9449112772efb9680ddb5a117f",
+      "title": "You Don't Need to Run Every Eval",
+      "url": "https://arxiv.org/abs/2606.24020v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-22T23:54:00Z",
+      "summary": "A modern model release reports scores on 40+ benchmarks and the same evaluations were run many more times before it: to track training progress, compare design choices, and select the checkpoint for the release. But do we need to run every eval? We compile a public score matrix of 84 frontier models on 133 benchmarks (2,604 cells, 23.3% filled) and find it is approximately rank-2: a model's scores across all 133 benchmarks are largely determined by just two numbers. We confirm this in two ways: scores hidden from the matrix are best recovered using two factors, and two factors already explain over 90% of the variation among models on the benchmarks they share. Building on this, we design BenchPress: a logit-space rank-2 matrix completion method that recovers held-out scores to within 4.6 points, and a confidence layer that says when each prediction can be trusted. Using BenchPress, we find a subset of five benchmarks {GPQA-D, HLE, Codeforces, MMLU-Pro, ARC-AGI-1} that can recover the rest of a model's public scorecard to within 3.93 points. For a tighter inference budget, a cheaper set {GPQA-D, MMLU-Pro, Aider Polyglot, MATH-500, AIME 2026} can predict a model's evals to within 4.55. We release the score matrix, the BenchPress code, and an interactive tool that predicts any model's score on any benchmark.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "8c8ac5a3e4cdab22a4b0f7c393057e5bf0355c35c10f2cdf6a34f8c2caf6ec05",
+      "title": "Cyclic Denoising Reveals Ultrastable Memories in Diffusion Models",
+      "url": "https://arxiv.org/abs/2606.24000v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-22T23:11:38Z",
+      "summary": "We introduce cyclic denoising -- repeated forward and reverse diffusion at controlled noise amplitudes -- as an extraction attack for image diffusion models. Inspired by random organization in disordered solids, cyclic denoising exposes regions of the learned distribution that are largely inaccessible to standard sampling. The dynamics drive samples toward attractors with a broad stability spectrum. The deepest attractors are ultrastable: they regenerate after near-total corruption and persist through thousands of noising-denoising cycles. Many of these attractors correspond to memorized training images, including stock photographs, brand watermarks, and web-crawl artifacts. The attack requires only sampler-level control, with no gradients, weight inspection, prompts, captions, or prior knowledge of the training data. Unlike generate-and-filter attacks, which rely on large-scale prompted generation and post-hoc similarity or membership-inference filtering, our main protocol is fully unconditioned. We demonstrate the phenomenon in Stable Diffusion v1.4 and in a pixel-space DDPM, showing consistent behavior across latent- and pixel-space diffusion models. Across noise amplitudes, we observe a yielding-like transition: low-amplitude cycling produces trivial absorbing fixed points or limit cycles, while larger amplitudes induce rearrangements, basin hopping, and long-lived trapping in structured memorized attractor basins. We also observe hierarchical partial absorption, prompt-stabilized basins, and cross-initial-condition universality of the recovered attractor set. Our results therefore show that cyclic denoising is both a physics-inspired probe of generative landscapes and a practical tool for memorization auditing, with implications for privacy, copyright compliance, and model fingerprinting.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "7705ac2f1a17b7f330c0ba22c606b11f2652584455175cd8411198e424bbfe0a",
+      "title": "EMAgnet: Parameter-Space EMA Regularization for Policy Gradient Self-Play in Large Games",
+      "url": "https://arxiv.org/abs/2606.23995v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-22T23:05:01Z",
+      "summary": "Recent work has established that regularized policy gradient methods such as PPO, when used in self-play, can match or exceed specialized game-theoretic algorithms for solving two-player zero-sum imperfect-information games. The uniform distribution has emerged as a strong policy regularization target for this purpose, but it regularizes equally toward all actions regardless of their viability. We introduce EMAgnet, which instead regularizes toward an exponential moving average (EMA) of the last-iterate policy's parameters, providing an adaptive regularization target that evolves with the agent's improving strategy. We evaluate EMAgnet on both standard two-player zero-sum benchmarks and modified benchmarks with exploration challenges and large numbers of strictly dominated strategies. Relative to PPO self-play with uniform-magnet regularization under both linear and power-law annealing schedules, EMAgnet achieves lower exploitability in the majority of tested environments, with consistent performance gains across games containing strictly dominated strategies.",
+      "category": "space",
+      "image": null
+    },
+    {
+      "id": "67e30cec0b56e41673d7b482bd43a946f9aaf15d697bbfddc03b216925db8a22",
+      "title": "Offline Reinforcement Learning for Warehouse SLAM Throughput Control",
+      "url": "https://arxiv.org/abs/2606.23978v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-22T22:10:06Z",
+      "summary": "We present an offline reinforcement learning (RL) framework for optimizing SLAM throughput control in a warehouse fulfillment environment. SLAM (Scan/Label/Apply/Manifest) throughput directly influences system congestion and operational efficiency. Our RL-based control approach dynamically recommends SLAM throughput settings that adaptively balance throughput maximization with downstream stability through intelligent adjustment of throttling behavior. We include a history-informed state representation, action space abstraction for delayed-impact control, and a reward function that captures both upstream and downstream operational metrics. Our approach is algorithm-agnostic, enabling integration of multiple offline RL methods under a unified architecture. We instantiate our framework with three state-of-the-art offline RL algorithms, and trained the models offline using de-identified historical operational logs from a large-scale warehouse. Policy performance is evaluated using a comprehensive multi-method strategy. These include model-free approaches including immediate reward estimation via regression models and long-horizon Fitted Q Evaluation (FQE), as well as model-based Deep Koopman dynamics evaluation. Empirical results reveal that the CQL policy consistently outperforms alternatives, improving system health by 22.97% and reducing average throttling duration by 3.18%. These findings demonstrate the potential of offline RL for safe and scalable warehouse throughput control optimization.",
       "category": "space",
       "image": null
     },
@@ -387,281 +662,6 @@
       "summary": "Time series forecasting is a fundamental machine learning task. Recent work has explored Large Language Models (LLMs) for this purpose due to their strong generalization, pattern recognition, and zero-shot or few-shot capabilities. Despite their suitability for long-context learning, LLMs face challenges in multimodal settings: they lack calibrated probabilistic modeling for non-text data and struggle to align heterogeneous representations. To address these issues, we propose a new framework Diffusion-LLM that integrates a conditional diffusion model into an LLM-based forecasting pipeline. This joint design enables learning the conditional distribution of future data while improving semantic alignment in a shared latent space. We evaluate Diffusion-LLM on six long-term forecasting benchmarks, including ETT, Weather, and ECL. Our method consistently outperforms existing LLM-based baseline, achieving notable gains in ultra-long-term and few-shot forecasting and demonstrating the value of distribution-aware regularization for enhancing robustness and generalization in time series LLMs.",
       "category": "space",
       "image": null
-    },
-    {
-      "id": "21a6cd16973ffe0d4bff5e39f06a4821d9a896fa68f7b73a6a0015177bc52b32",
-      "title": "James Webb Space Telescope captures the star-forming clouds of Orion A in stunning detail | Space photo of the day for June 22, 2026",
-      "url": "https://www.space.com/astronomy/james-webb-space-telescope/james-webb-space-telescope-captures-the-star-forming-clouds-of-orion-a-in-stunning-detail-space-photo-of-the-day-for-june-22-2026",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T14:00:00Z",
-      "summary": "The Orion A region has never looked as colorful and vibrant.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/55AkX4kckKH6ExTntmPVC3-1280-80.png"
-    },
-    {
-      "id": "2a01dc49fce51180b81a38ebbbebf5314351a28c733d5c396e64fc2880cafe5e",
-      "title": "Launch monster: SpaceX has lofted more satellites than everyone else in history, combined",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/launch-monster-spacex-has-lofted-more-satellites-than-everyone-else-in-history-combined",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T12:00:00Z",
-      "summary": "SpaceX has now launched more satellites than the rest of humanity combined \u2014and the gap will continue to widen over time.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/SUSzXRuQVqehTzY9zTS9yE-1280-80.jpg"
-    },
-    {
-      "id": "92a19abcf41cac1e88a09318264aea5e167b68f6e5d2d17641d3251d1ba63c3c",
-      "title": "Humanity trashed Earth orbit \u2013 next stop the Moon",
-      "url": "https://www.theregister.com/science/2026/06/22/humanity-trashed-earth-orbit-next-stop-the-moon/5259067",
-      "source": "The Register \u2014 Headlines",
-      "source_id": "the_register",
-      "published_at": "2026-06-22T10:45:00Z",
-      "summary": "Neuraspace CEO floats lunar scrapyards as a cleaner way to handle hardware left behind",
-      "category": "space",
-      "image": "https://image.theregister.com/?imageId=5228580&width=800"
-    },
-    {
-      "id": "4d64b4bfee8ce7cd942757bdbc1833a034730182f4c3ec69a742b2d9deb391af",
-      "title": "James Webb telescope detects 'galaxy-killing wind' near the dawn of time \u2014 and it could preview the death of the Milky Way",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-detects-galaxy-killing-wind-near-the-dawn-of-time-and-it-could-foretell-the-death-of-the-milky-way",
-      "source": "Live Science",
-      "source_id": "live_science",
-      "published_at": "2026-06-22T10:00:00Z",
-      "summary": "New observations from the James Webb Space Telescope show that ancient galaxies lived fast and died young because of intense, collision-driven winds.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/AeUBdQW7zp6bw8Q4iEcxth-1280-80.jpg"
-    },
-    {
-      "id": "6a096f9c70d40cc514c0f6056929d21df0481bcc7e57095fee6983ebe8c37157",
-      "title": "Could we actually terraform Mars? Scientists are trying to find out",
-      "url": "https://www.space.com/astronomy/mars/could-we-actually-terraform-mars-scientists-are-trying-to-find-out",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T10:00:00Z",
-      "summary": "Scientists have drawn up a research blueprint for assessing the viability of warming the Red Planet, outlining what it might take to make Mars a place in space where Earth life can thrive.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/7zWzTQ8nWnmTK7d7vHfjV6-1280-80.jpg"
-    },
-    {
-      "id": "10e990d86b5c644451c20de30ad0975f1a6408ba4fb57d319b8ccb7daaf06a1b",
-      "title": "A spacecraft is falling to its doom \u2014 can NASA save it?",
-      "url": "https://www.nature.com/articles/d41586-026-01949-z",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-22T00:00:00Z",
-      "summary": "<p>Nature, Published online: 22 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01949-z\">doi:10.1038/d41586-026-01949-z</a></p>A successful rescue of the Swift space observatory could be a good omen for the Hubble Space Telescope.",
-      "category": "space",
-      "image": null
-    },
-    {
-      "id": "ed5035111e8bbebfaf78d5ffadb70952afe88074eb29f79dd972521f75706b89",
-      "title": "SpaceX Falcon 9 rocket launches 24 Starlink satellites into low Earth orbit from California (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-starlink-17-28-b1063-vsfb-ocisly",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-21T18:38:10Z",
-      "summary": "A SpaceX Falcon 9 rocket carrying 24 Starlink satellites lifted off from Vandenberg Space Force Base in California on Sunday, June 21, 2026.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/epwz7pZ4iUa6UjXSNmpW2B-1280-80.jpg"
-    },
-    {
-      "id": "6c9cb523923ee603b198479404602bbf33b48314bb4dcc8312679af77681870a",
-      "title": "James Webb telescope finds a cosmic cloud of creation buried in the Sword of Orion \u2014 Space photo of the week",
-      "url": "https://www.livescience.com/space/astronomy/james-webb-telescope-finds-a-cosmic-cloud-of-creation-buried-in-the-sword-of-orion-space-photo-of-the-week",
-      "source": "Live Science",
-      "source_id": "live_science",
-      "published_at": "2026-06-21T10:00:00Z",
-      "summary": "A new James Webb telescope snap shows off the glowing gas, sculpted jets and newborn stars lurking within the giant cosmic cloud OMC-2, located in the Sword of Orion.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/MyaZfqnwrMK4YbSd3j65vY-1280-80.jpg"
-    },
-    {
-      "id": "c187364dbfd39954711ab1c759a8e4fdfda5667003c9444baf9e1ac8121dc048",
-      "title": "This Week In Space podcast: Episode 215 \u2014 Disclosure Day",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-week-in-space-podcast-episode-215-disclosure-day",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-20T15:16:59Z",
-      "summary": "On Episode 215 of This Week In Space, Rod Pyle and guest co-host Susan Karlin talk with bestselling sci-fi/sci-fact author Dr. David Brin.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/qyRiFdGcmgaMBwr7yes5W3-1280-80.jpg"
-    },
-    {
-      "id": "d440d0bbd0f06a8465a8df6eb060a84b552e3d26c70d690b8658a65bf9098d6f",
-      "title": "Do we need a lunar building code to build moon bases safely?",
-      "url": "https://www.space.com/space-exploration/artemis/do-we-need-a-lunar-building-code-to-build-moon-bases-safely",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-20T10:00:00Z",
-      "summary": "As NASA pushes to build a sustained human presence on the moon, one expert says what's needed is a lunar building code.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/mHvpXKF4KEphcTv3VoPGXh-1280-80.jpg"
-    },
-    {
-      "id": "5c8aae6f8f309dbdc1122709d1bb41198ae0378d7337c1d4228c0f803159c817",
-      "title": "A private company will build and launch NASA's next Mars orbiter in 2028 \u2014 and it's not SpaceX",
-      "url": "https://www.space.com/space-exploration/missions/a-private-company-will-build-and-launch-nasas-next-mars-orbiter-in-2028-and-its-not-spacex",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-19T21:00:00Z",
-      "summary": "A California-based company will design, build and launch a spacecraft for NASA's Aeolus mission to orbit around Mars, where the probe will be the first to provide daily measurements of the planet's global environment.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/tGv7Lot9LU6cXC7HKFJ2QF-1280-80.jpg"
-    },
-    {
-      "id": "f82adee80ba71f18d3067306c916b1f72c71a851fcf1ede8f38b864d563c42b2",
-      "title": "'This is not like life that we\u2019ve experienced' 'Star City' cast on struggling to relate to the brutality of Soviet existence in Apple TV's For All Mankind' spin-off",
-      "url": "https://www.space.com/entertainment/space-movies-shows/this-is-not-like-life-that-weve-experienced-star-city-cast-on-struggling-to-relate-to-the-brutality-of-soviet-existence-in-apple-tvs-for-all-mankind-spin-off",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-19T20:00:00Z",
-      "summary": "\"I don\u2019t have a relatable thing. This is not like life that we\u2019ve experienced.\"",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/vAGzGMMpGzZPWaSwzFyxd9-1280-80.png"
-    },
-    {
-      "id": "9425a9d5a413466e21011e99c1be2f93968257ee986003130ba4e254815724b9",
-      "title": "We've found a mysterious substance on Titan and Pluto",
-      "url": "https://www.newscientist.com/article/2531107-weve-found-a-mysterious-substance-on-titan-and-pluto/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
-      "source": "New Scientist - Space",
-      "source_id": "new_scientist_space",
-      "published_at": "2026-06-19T17:00:01Z",
-      "summary": "Something is absorbing light on the surfaces of Pluto and Saturn\u2019s moon Titan, and figuring out what it is could be crucial to understanding Titan\u2019s complex chemistry",
-      "category": "space",
-      "image": "https://images.newscientist.com/wp-content/uploads/2026/06/19145041/SEI_302060273.jpg"
-    },
-    {
-      "id": "24c195f3c876ed2610dc97608a5ec37961168410b45bcee4fa82a0eb13b7cecc",
-      "title": "'No one thought it was going to be possible.' A space telescope is falling out of space. This is NASA's daring plan to save it. (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/no-one-thought-it-was-going-to-be-possible-a-space-telescope-is-falling-out-of-space-this-is-nasas-daring-plan-to-save-it",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-19T16:00:00Z",
-      "summary": "NASA's Swift space observatory is falling out of orbit. Can a commercial company build a spacecraft in nine months to save it?",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/4qpLsvHVY5NfVXrwMdPV45-1280-80.png"
-    },
-    {
-      "id": "e7118fbefc533bc5329428b1dc8953a9566e58cf125b14ddc3e7fa12f011a640",
-      "title": "Menstruation in space will be studied for 1st time with 'Operation Period'",
-      "url": "https://www.space.com/space-exploration/human-spaceflight/menstruation-in-space-will-be-studied-for-1st-time-with-operation-period",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-19T15:00:00Z",
-      "summary": "Maybe the next Sally Ride won't be asked the \"100 tampons\" question.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/yKaSu2cD7VwZrjrDCiJfRU-1280-80.png"
-    },
-    {
-      "id": "9f256298d98b0304f916e533cea5c384306d6f9e044adec7a3b99cba5ea682b7",
-      "title": "Annie Easley, a hero of NASA | Space photo of the day for June 19, 2026",
-      "url": "https://www.space.com/space-exploration/private-spaceflight/annie-easley-a-hero-of-nasa-space-photo-of-the-day-for-june-19-2026",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-19T14:00:00Z",
-      "summary": "Easley was a human computer for the agency who helped with building the Centaur upper-stage rocket.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/Zv23VNBX5qGuge3VeZq4sm-1280-80.jpg"
-    },
-    {
-      "id": "f6dbe3008868966cd1daba1f2fec596b3ce55e6c8d242c2138aa22c0ca83ae87",
-      "title": "Juicy new details emerge about an asteroid NASA's Lucy spacecraft flew by last year",
-      "url": "https://www.space.com/astronomy/asteroids/juicy-new-details-emerge-about-an-asteroid-nasas-lucy-spacecraft-flew-by-last-year",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-19T10:00:00Z",
-      "summary": "Evidence of chemical alteration by liquid water has been found on the asteroid Donaldjohanson, which formed further from the sun before being shoved inwards.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/xZh6S52ZjNRwbCJDrcM3JJ-1280-80.png"
-    },
-    {
-      "id": "1b558eac09f674c8adcc143268dc64a2583e82a4d71d18f664e20c3aa5b00033",
-      "title": "The Moon\u2019s ice archive that was never written",
-      "url": "https://www.nature.com/articles/s41550-026-02871-0",
-      "source": "Nature Astronomy",
-      "source_id": "nature_astronomy",
-      "published_at": "2026-06-19T00:00:00Z",
-      "summary": "<p>Nature Astronomy, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41550-026-02871-0\">doi:10.1038/s41550-026-02871-0</a></p>Lunar polar shadows are traditionally seen as ancient cold traps. However, new models of orbital evolution suggest lunar ice archives are surprisingly young, fundamentally altering our search for the Solar System\u2019s volatile history.",
-      "category": "space",
-      "image": null
-    },
-    {
-      "id": "68882b9c1374bed98f7d2785beea7af22a8149b9faf7d33c19436cdf073aa9bd",
-      "title": "Closing the human research protections gap in US commercial space policy",
-      "url": "https://www.nature.com/articles/s41550-026-02903-9",
-      "source": "Nature Astronomy",
-      "source_id": "nature_astronomy",
-      "published_at": "2026-06-19T00:00:00Z",
-      "summary": "<p>Nature Astronomy, Published online: 19 June 2026; <a href=\"https://www.nature.com/articles/s41550-026-02903-9\">doi:10.1038/s41550-026-02903-9</a></p>The 18 December 2025 Executive Order on Ensuring American Space Superiority identifies private industry as a central driver of scientific innovation in space. Yet by omitting human research protections, the order leaves a substantial gap that should be addressed in future US commercial space policy reform.",
-      "category": "space",
-      "image": null
-    },
-    {
-      "id": "8561fae73d21a4f83049b88ac7cb8e66496273681cb7b8652a30c2f54aff03f8",
-      "title": "James Webb Space Telescope finds a salty surprise on famous 'Pink Planet'",
-      "url": "https://www.space.com/astronomy/exoplanets/james-webb-space-telescope-finds-a-salty-surprise-on-famous-pink-planet",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-18T20:00:00Z",
-      "summary": "Using the James Webb Space Telescope, astronomers have discovered that one of the coldest exoplanets ever discovered, the so-called Pink Planet, harbors a salty surprise.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/qFmaKRRqwHZ9GoZ7GzHNdH-1280-80.png"
-    },
-    {
-      "id": "3cfd7b1ed7c27afc0d3965c88bc86c91fc6a98db243ff3d424f9773c2c7e4091",
-      "title": "Jared Leto's unreal Skeletor transformation for 'Masters of the Universe' only took '15 minutes' (interview)",
-      "url": "https://www.space.com/entertainment/space-movies-shows/jared-letos-unreal-skeletor-transformation-for-masters-of-the-universe-only-took-15-minutes-interview",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-18T18:00:00Z",
-      "summary": "'He was a joy to work with on set, he really was. He was a lot of fun and there was this charismatic presence every day.'",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/esapQfPKBZbDmLbPdiB8LV-1280-80.jpg"
-    },
-    {
-      "id": "5da57a99d74a2021541fece4d8087b9d97a72a0572abca6de6cef7c091e3b27c",
-      "title": "SpaceX launches new batch of US spy satellites from California (video)",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-spy-satellite-launch-nrol-179-nro",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-18T17:00:00Z",
-      "summary": "SpaceX launched the latest batch of spy satellites for the U.S. government early Friday morning (June 19).",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/Gqur53owchuyeEepnb6SmT-1280-80.jpg"
-    },
-    {
-      "id": "83c8e6729964af7e6a9dc1fd0bcbd9ec957fda40a40731db423a420594df2527",
-      "title": "These Mars valleys are hiding 30 dust devils | Space photo of the day for June 18, 2026",
-      "url": "https://www.space.com/astronomy/earth/these-mars-valleys-are-hiding-30-dust-devils-space-photo-of-the-day-for-june-18-2026",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-18T14:00:00Z",
-      "summary": "Europe's Mars Express orbiter recently imaged a huge valley system on the Red Planet \u2014 and dust devils dot the alien landscape.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/mM7MA3Nuz4PD3LhFvbGLUc-1280-80.jpg"
-    },
-    {
-      "id": "e56c3600a7b4d600e644b81db61924229cec71ac52d3d64d7a9adcde3a8d9753",
-      "title": "'It's quite a bit more than we expected': Satellite reveals immense scale of GPS signal tampering",
-      "url": "https://www.space.com/space-exploration/satellites/its-quite-a-bit-more-than-we-expected-satellite-reveals-immense-scale-of-gps-signal-tampering",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-18T13:00:00Z",
-      "summary": "For the first time, an experimental satellite has mapped the scale of GPS jamming across Europe and the Middle East from space.",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/QKugvqvJaYaG649YYKJCDE-1280-80.jpg"
-    },
-    {
-      "id": "18ab5f68d3656a931af3cd7a6e08ee360d5f1ad16f0b35327e952a6fc9bfd561",
-      "title": "NASA's Perseverance rover just ran a marathon on Mars. Could you do the same?",
-      "url": "https://www.space.com/astronomy/mars/nasas-perseverance-rover-just-ran-a-marathon-on-mars-could-you-do-the-same",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-18T10:00:00Z",
-      "summary": "Percy has now traveled more than 26.2 miles on the Red Planet! Could you?",
-      "category": "space",
-      "image": "https://cdn.mos.cms.futurecdn.net/YjGHfxuhPVTdhaeKRAdDp3-1280-80.jpg"
     }
   ]
 }

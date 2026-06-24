@@ -1,8 +1,74 @@
 {
   "key": "world_affairs",
   "label": "World Affairs",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
+    {
+      "id": "31aafb99e81a4595b0d49a64bc5777c4ccb92d7345ef52f1b218494273ac4f46",
+      "title": "North Korea's Kim claims progress on nuclear-armed navy as new warship is placed into service",
+      "url": "https://abcnews.com/International/wireStory/north-koreas-kim-claims-progress-nuclear-armed-navy-134153016",
+      "source": "ABC News \u2014 International",
+      "source_id": "abc_intl",
+      "published_at": "2026-06-24T01:57:59Z",
+      "summary": "North Korea has commissioned a 5,000-ton destroyer that leader Kim Jong Un touts as a symbol of the country&rsquo;s growing naval and nuclear capabilities, state media reported Wednesday",
+      "category": "world_affairs",
+      "image": "https://s.abcnews.com/images/International/wirestory_ab1896be64bd1e3e198104477b80109e_4x3_384.jpg"
+    },
+    {
+      "id": "abd902df310416c6af8e6d735f0de8c4f5564d642b0a976069d9d419cbe9b45f",
+      "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
+      "source": "Al Jazeera English \u2014 All News",
+      "source_id": "aljazeera_en_all",
+      "published_at": "2026-06-24T01:29:51Z",
+      "summary": "US Senate votes to pause Iran war in rare rebuke to Trump",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "de6485e46181e968a469b7af97bbe511d2b6c020440b0cabbc65916d3b127797",
+      "title": "Is this teenage girl North Korea\u2019s next dictator?",
+      "url": "https://www.ft.com/content/7c1a4a27-2212-46e1-96d8-92dabe4a087c",
+      "source": "Financial Times \u2014 World (open feed)",
+      "source_id": "ft_world",
+      "published_at": "2026-06-24T00:45:46Z",
+      "summary": "Emergence of Kim Jong Un\u2019s daughter at many public events fuels speculation that she is being lined up as a leader",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "e48e996a5506314ba032d348faaa09349bcfe2fb6b3d3c59d2a916db01e07edf",
+      "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+      "source": "Al Jazeera English \u2014 All News",
+      "source_id": "aljazeera_en_all",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "US and Iran offer conflicting statements as negotiators push towards reaching a final, comprehensive deal.",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "88dc2c1dd144bc66cd9d5a06678fb4c7b893a4739ca61637c2412c40c382130b",
+      "title": "Xi pressures Takaichi by throttling key China mineral exports to Japan",
+      "url": "https://www.straitstimes.com/asia/east-asia/xi-pressures-takaichi-by-throttling-key-china-mineral-exports-to-japan",
+      "source": "The Straits Times \u2014 Asia",
+      "source_id": "straitstimes_asia",
+      "published_at": "2026-06-23T23:59:00Z",
+      "summary": "<p>The throttling of goods began after Takaichi angered Beijing last November with comments about Taiwan.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "5151f56f92e192e3eae6b3026b78aab025adb344085ccc64b857cafe6b27bc22",
+      "title": "Ukraine submits updated bid for OECD membership, Zelenskiy says",
+      "url": "https://www.straitstimes.com/world/europe/ukraine-submits-updated-bid-for-oecd-membership-zelenskiy-says",
+      "source": "The Straits Times \u2014 World",
+      "source_id": "straitstimes_world",
+      "published_at": "2026-06-23T23:11:08Z",
+      "summary": "<p>June 24 - President Volodymyr Zelenskiy said on Tuesday that Ukraine had submitted a revised application to join the Organisation for Economic Co-operation and Development (OECD), a club of mostly advanced economies, as Kyiv pursues closer integration with Western institutions.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
     {
       "id": "6f03fd0f03969d6648a33bc04399b7df09ec2425a71e7b8da0bd8b02c6965968",
       "title": "Israel\u2019s deliberate targeting of Palestinian children",
@@ -594,72 +660,6 @@
       "source_id": "dw_en_europe",
       "published_at": "2026-06-23T16:19:00Z",
       "summary": "Ukraine continues to hit infrastructure on the Crimea to isolate the Russian-annexed peninsula. Meanwhile, Russia attacked Volodymyr Zelenskyy's hometown with a ballistic missile in a deadly strike.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "c80bbada878a02c87e5c9572877618bd76d8ea9b35e7ddc7820f417c6967c0b4",
-      "title": "Pakistan PM says there should not be double standards over Iran having ballistic missiles",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T16:12:59Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/pakistan-pm-says-there-should-not-be-double-standards-over-iran-having\" rel=\"bookmark\">\n<span class=\"field field-title\">Pakistan PM says there should not be double standards over Iran having ballistic missiles</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Pakistan\u2019s Prime Minister Shehbaz Sharif said on Tuesday that there should be no double standards where some countries are permitted to have ballistic missiles while Iran is not.</p>\n\n<p>Sharif told reporters that there was no mention of ballistic missiles in the memorandum of understanding agreed between the US and Iran because it was \u201cnever on the table\u201d.</p>\n\n<p>He added that Pakistan would like to continue its role in mediating negotiations until a lasting peace is achieved.</p>\n\n<p><em>Reporting by Reuters</em></p>\n\n  <figure class=\"media-block\">\n  <div class=\"group-inner\">\n    <div alt=\"Iran's President Masoud Pezeshkian (L) shaking hands with Pakistan's Prime Minister Shehbaz Sharif during his ceremonial reception at the Prime Minister House in Islamabad Pakistan's Prime Minister Office / AFP\" class=\"embedded-entity\">  <img alt=\"Iran's President Masoud Pezeshkian (L) shaking hands with Pakistan's Prime Minister Shehbaz Sharif during his ceremonial reception at the Prime Minister House in Islamabad Pakistan's Prime Minister Office / AFP\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/000_B8248NQ.jpg\" width=\"1920\" />\n\n</div>\n\n    <figcaption>Iran's President Masoud Pezeshkian (L) shaking hands with Pakistan's Prime Minister Shehbaz Sharif in Islamabad on 23 June 2026 (Pakistan's Prime Minister Office/AFP)</figcaption>\n  </div>\n</figure>\n\n\n<p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "d79b5962b057b28363e33a5f438e4fc37840aa0359fdb8836ecb2c1d36f220ea",
-      "title": "Iran casts doubt on nuclear inspections Vance said would happen",
-      "url": "https://www.washingtonpost.com/world/2026/06/23/iran-says-no-nuclear-inspections-countering-vance-statement/",
-      "source": "The Washington Post \u2014 World",
-      "source_id": "wapo_world",
-      "published_at": "2026-06-23T16:01:35Z",
-      "summary": "Iran\u2019s Foreign Ministry said there was no plan for the IAEA to inspect its damaged nuclear facilities, a day after Vice President JD Vance said conversations with inspectors could happen imminently.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "bd4514e95d2705b0f2b0b8e84b0ead3ac7e65a01c224166773daf3a572d069dc",
-      "title": "Trump to meet arms company CEOs on Wednesday, Reuters reports",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-meet-arms-company-ceos-wednesday-reuters-reports",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T15:58:51Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/trump-meet-arms-company-ceos-wednesday-reuters-reports\" rel=\"bookmark\">\n<span class=\"field field-title\">Trump to meet arms company CEOs on Wednesday, Reuters reports</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">US President Donald Trump is set to host executives from weapons manufacturers for a meeting in the Oval office on Wednesday, Reuters has reported, citing a source familiar with the plan.</p>\n\n<p>This comes as delicate negotiations are taking place to work towards a ceasefire with Iran, and between Israel and Lebanon.</p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "7f681c72d25d582d95e051a7f66590533df1a704c4df6699e4c336b078624697",
-      "title": "Israel smuggled Starlink systems into Iran, former PM says",
-      "url": "https://www.reddit.com/r/worldnews/comments/1udl2g3/israel_smuggled_starlink_systems_into_iran_former/",
-      "source": "Reddit \u2014 r/worldnews",
-      "source_id": "reddit_rss_worldnews",
-      "published_at": "2026-06-23T15:56:08Z",
-      "summary": "&#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DQ-Supervisor\"> /u/DQ-Supervisor </a> <br /> <span><a href=\"https://www.reuters.com/business/media-telecom/israel-smuggled-starlink-systems-into-iran-former-pm-says-2026-06-23/\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1udl2g3/israel_smuggled_starlink_systems_into_iran_former/\">[comments]</a></span>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "b37fc6726cd5c42441308b16f567b4cc4fa29577d7c054e99a2d279cdf6edc11",
-      "title": "Evacuation plan through Hormuz for stranded ships in Gulf under way, UN agency says",
-      "url": "https://www.straitstimes.com/world/middle-east/evacuation-plan-through-hormuz-for-stranded-ships-in-gulf-underway-un-agency-say",
-      "source": "The Straits Times \u2014 World",
-      "source_id": "straitstimes_world",
-      "published_at": "2026-06-23T15:50:52Z",
-      "summary": "<p>LONDON, June 23 - An evacuation plan to enable hundreds of ships with some 11,000 seafarers stranded in the Gulf to sail through the Strait of Hormuz is underway after Iran and the U.S. reached a ceasefire deal, the United Nations' shipping agency said on Tuesday.</p>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "bb8134183a9966f44433bb4d0fe1a17d85671d4cd12ab9395c3f983291d86a13",
-      "title": "UN shipping agency announces evacuation of 11,000 seafarers stranded in the Gulf",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/un-shipping-agency-announces-evacuation-11000-seafarers-stranded-gulf",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T15:47:34Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/un-shipping-agency-announces-evacuation-11000-seafarers-stranded-gulf\" rel=\"bookmark\">\n<span class=\"field field-title\">UN shipping agency announces evacuation of 11,000 seafarers stranded in the Gulf </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">The UN shipping agency said on Tuesday that an evacuation plan for 11,000 seafarers onboard 500-600 ships stranded in the Strait of Hormuz is currently under way after months of waiting.</p>\n\n<p>\u201cThis large-scale operation will be carried out in close cooperation with Iran, Oman, coastal States, the US and industry,\u201d Arsenio Dominguez, secretary-general of the International Maritime Organisation, posted to social media, adding that he had obtained the \u201cnecessary security guarantees\u201d.</p>\n\n<p>This comes after maritime tracking data found traffic on Monday through the strait reached its highest level since the start of the US-Israel war on Iran began.</p>\n\n<blockquote class=\"twitter-tweet\">\n<p dir=\"ltr\" lang=\"en\">After months of distress for thousands of <a href=\"https://x.com/hashtag/seafarers?src=hash&amp;ref_src=twsrc%5Etfw\">#seafarers</a>, we will finally begin the implementation of the evacuation plan in <a href=\"https://x.com/hashtag/StraitofHormuz?src=hash&amp;ref_src=twsrc%5Etfw\">#StraitofHormuz</a>. This large-scale operation will be carried out in close cooperation with Iran, Oman, coastal States,the US &amp; industry. <a href=\"https://t.co/tSG25vfBI1\">https://t.co/tSG25vfBI1</a> <a href=\"https://t.co/igKs7zND0M\">pic.twitter.com/igKs7zND0M</a></p>\n\u2014 Arsenio Dominguez (@IMOSecGen) <a href=\"https://x.com/IMOSecGen/status/2069432046682862027?ref_src=twsrc%5Etfw\">June 23, 2026</a></blockquote>\n</div>\n      \n  </div>\n\n</article>",
       "category": "world_affairs",
       "image": null
     }

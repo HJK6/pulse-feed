@@ -1,8 +1,30 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
+    {
+      "id": "0b2be4d2046726c5b022ba36eeee27de6e40baa99deb199f6d7485455e6cf6b9",
+      "title": "In New York primaries, progressives make inroads on establishment, and a Kennedy scion seeks office",
+      "url": "https://abcnews.com/US/wireStory/new-york-primaries-progressives-make-inroads-establishment-kennedy-134124306",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-24T01:58:27Z",
+      "summary": "Incumbent Democrats faced fierce challenges in New York's congressional primaries",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_2dfee173b65643be516574440f8c5d90_4x3_384.jpg"
+    },
+    {
+      "id": "8db691a2146632519777b9e2c50409830161a5885e111da9fd2d8d69118cd089",
+      "title": "Warehouse fire spews potentially toxic smoke in California",
+      "url": "https://www.cbsnews.com/video/warehouse-fire-spews-potentially-toxic-smoke-california/",
+      "source": "CBS News \u2014 US",
+      "source_id": "cbs_us",
+      "published_at": "2026-06-23T23:41:10Z",
+      "summary": "A warehouse fire in Southern California has been spewing potentially toxic smoke for nearly a week near the Port of Los Angeles. Matt Gutman reports.",
+      "category": "us_news",
+      "image": null
+    },
     {
       "id": "ca987a82eacc579e614c3951130680723a4cdc3edad4ac233e10796bad58c04d",
       "title": "Former Colorado analyst pleads guilty in DNA testing scandal",
@@ -638,28 +660,6 @@
       "source_id": "cbs_us",
       "published_at": "2026-04-16T18:19:00Z",
       "summary": "The plans call for the arch to be built on Columbia Island, a man-made strip of land in the Potomac River that is part of Washington, D.C.",
-      "category": "us_news",
-      "image": null
-    },
-    {
-      "id": "31db89078b8c7cbfe246bd863b081482c600a1b6f4797c123e9a63752d2a175b",
-      "title": "Planned \"Arc de Trump\" would be over twice as high as Lincoln Memorial",
-      "url": "https://www.cbsnews.com/news/trump-arch-would-dwarf-lincoln-memorial-new-plans-show/",
-      "source": "CBS News \u2014 US",
-      "source_id": "cbs_us",
-      "published_at": "2026-04-11T00:18:00Z",
-      "summary": "Plans submitted by the Interior Department show the triumphal arch would be 250 feet tall, the tallest triumphal arch in the world.",
-      "category": "us_news",
-      "image": null
-    },
-    {
-      "id": "7997c1976f096badc35f546fe2a5d3bad56f2d387d521b8eec06d77beed95e30",
-      "title": "Trump says he wants proposed arch to be world's \"biggest\"",
-      "url": "https://www.cbsnews.com/news/trump-arch-dca-airport-flight-path/",
-      "source": "CBS News \u2014 US",
-      "source_id": "cbs_us",
-      "published_at": "2026-02-05T16:21:00Z",
-      "summary": "The proposed site is situated along a flight path for nearby Reagan National Airport in Arlington, Virginia.",
       "category": "us_news",
       "image": null
     }

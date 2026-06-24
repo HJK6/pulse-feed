@@ -1,7 +1,7 @@
 {
   "key": "science",
   "label": "Science",
-  "generated_at": "2026-06-23T23:13:51Z",
+  "generated_at": "2026-06-24T02:16:39Z",
   "articles": [
     {
       "id": "c1e8fca4fe6ff5f3f70044fd313ac5ff328f4222fca5f72f181bb21878ba844f",
@@ -66,6 +66,28 @@
       "source_id": "scientific_reports",
       "published_at": "2026-06-25T00:00:00Z",
       "summary": "<p>Scientific Reports, Published online: 25 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-57902-7\">doi:10.1038/s41598-026-57902-7</a></p>Fractional caputo modeling of delayed disease dynamics: sensitivity analysis and control strategies incorporating environmental influences",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "2b0f0c9ca07a3185b95a7306757df9a8e0277f279890cf2d5e4996cd2b37ce43",
+      "title": "Regional differences in physical fitness profiles of preschool children in Chongqing China revealed by machine learning",
+      "url": "https://www.nature.com/articles/s41598-026-59211-5",
+      "source": "Scientific Reports",
+      "source_id": "scientific_reports",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "<p>Scientific Reports, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-59211-5\">doi:10.1038/s41598-026-59211-5</a></p>Regional differences in physical fitness profiles of preschool children in Chongqing China revealed by machine learning",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "271dd975aadbd5a4e8fee385272599f10ed30d857b5b63fc980dd2a57de7b5b6",
+      "title": "Compartmentalized biomarker correlations in HIV: plasma-CSF relationships vary by blood-brain/blood-CSF barrier permeability and viral suppression",
+      "url": "https://www.nature.com/articles/s41598-026-59301-4",
+      "source": "Scientific Reports",
+      "source_id": "scientific_reports",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "<p>Scientific Reports, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-59301-4\">doi:10.1038/s41598-026-59301-4</a></p>Compartmentalized biomarker correlations in HIV: plasma-CSF relationships vary by blood-brain/blood-CSF barrier permeability and viral suppression",
       "category": "science",
       "image": null
     },
@@ -136,6 +158,17 @@
       "image": "https://cdn.mos.cms.futurecdn.net/N7zCZnvtwhDuE8s737gBeL-1280-80.jpg"
     },
     {
+      "id": "dc5f14e9c77719626b45337e8783c25b4e92b9c8c1a5baac6590f8c74134f438",
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "https://arxiv.org/abs/2606.24884v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:59:01Z",
+      "summary": "Vision-language-action (VLA) models can learn manipulation skills from demonstrations, but their capabilities are bounded by the skills in the training data. We present InSight, a framework that unlocks autonomous skill acquisition by rendering VLAs steerable at the primitive-action level (e.g., \"move gripper to the bowl\", \"lift upward\", \"pour the bottle\"). InSight consists of two primary stages: (1) an automated segmentation pipeline that partitions demonstrations into labeled primitives via VLM plan decomposition and end-effector poses to enable VLA primitive steerability, and (2) a VLM-guided data flywheel that identifies missing primitives required to accomplish a novel task, autonomously attempts demonstrations of the missing primitives with VLM-proposed low-level control, and automatically labels, stores, and integrates successful demonstrations into the VLA training set. We evaluate InSight across simulation and real-world manipulation tasks, including block flipping, drawer closing, sweeping, twisting, and pouring, without any human demonstrations of these target skills. Once learned, these primitives can be composed to execute novel, long-horizon tasks without additional human demonstrations. Our findings demonstrate that primitive steerability provides a practical foundation for continual skill acquisition in VLA policies. Project website: https://insight-vla.github.io.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "7b3fb95d44ee450156186d67ab9ee8d708fa9ddc3086691867b6c468c07e4297",
       "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Ni\u00f1o",
       "url": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino",
@@ -145,6 +178,39 @@
       "summary": "This year's El Ni\u00f1o is on track to be among the strongest ever recorded.",
       "category": "science",
       "image": "https://cdn.mos.cms.futurecdn.net/inA6MZpL97JRAu3wcERPFE-1280-80.jpg"
+    },
+    {
+      "id": "1cc7fff3937187b54015a0a1665edd119a8669e2d1ce10bfaf35746d5e7c87b8",
+      "title": "FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation",
+      "url": "https://arxiv.org/abs/2606.24874v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:52:21Z",
+      "summary": "Sparse voxel representation has emerged as a scalable foundation for image-to-3D Gaussian Splatting (3DGS) generation, yet current methods struggle to preserve high-frequency visual details of input images due to two structural bottlenecks. First, they adopt discriminative 2D features optimized for semantic abstraction to construct sparse voxel latents, which suppress reconstructive cues and induce a representation bottleneck. Second, in the generation stage, standard diffusion transformers lack effective mechanisms to align dense 2D image tokens with sparse 3D voxel latents, resulting in a cross-modal correspondence bottleneck. To address these issues, we propose FLUX3D, a scalable image-to-3DGS framework that boosts both representation learning and cross-modal alignment during generation. We first revisit 2D feature selection for sparse-voxel-based 3D representation learning, propose Diffusion-Aligned Structured Latents (DA-SLAT) and couple it with a decoder-only architecture to improve 3DGS reconstruction fidelity. We also design a sparse-structure-aware diffusion framework, which integrates the Sparse-structure Multimodal Diffusion Transformer (SMDiT) and Modal-Aware Rotary Positional Embedding (MARoPE) to achieve geometry-agnostic 2D-3D alignment. Extensive benchmark experiments demonstrate that FLUX3D yields substantial improvements in appearance fidelity and significantly outperforms all state-of-the-art (SOTA) methods in generating high-quality 3DGS assets.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "8f0b700afac9588e09e9fcc5e87f50d8337c81c7c26bb37e2dde53c48ce43401",
+      "title": "OpenThoughts-Agent: Data Recipes for Agentic Models",
+      "url": "https://arxiv.org/abs/2606.24855v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:34:29Z",
+      "summary": "Agentic language models dramatically expand the applications of AI yet little is publicly known about how to curate training data for broadly capable agents. Existing open efforts such as SWE-Smith, SERA, and Nemotron-Terminal typically target a single benchmark, leaving open the question of how to train models that generalize across diverse agentic tasks. The OpenThoughts-Agent (OT-Agent) project addresses this gap with a fully open data curation pipeline for training agentic models. We conduct more than 100 controlled ablation experiments to systematically investigate each stage of the pipeline, yielding insights on the importance of task sources and diversity. We then assemble a training set of 100K examples from our pipeline and fine-tune Qwen3-32B on this dataset, which yields an average accuracy of 44.8% across seven agentic benchmarks and a 3.9 percentage point improvement over the strongest existing open data agentic model (Nemotron-Terminal-32B, 40.9%). Moreover, our training data exhibits strong scaling properties, outperforming alternative open datasets at every training set size in compute-controlled comparisons. We publicly release our training sets, data pipeline, experimental data, and models at openthoughts.ai to support future open research on agentic model training.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "bd995d1f0b5c14598fe43e0a22dad7b8bec67420e536c333862efd7e888b0179",
+      "title": "It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces",
+      "url": "https://arxiv.org/abs/2606.24854v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:34:18Z",
+      "summary": "Artificial intelligence (AI) can enhance what people who use augmentative and alternative communication (AAC) are able to do with their systems. However, evaluating AI-powered AAC interfaces can be difficult. People are intersectional beings and current evaluation metrics can struggle to capture the multifaceted and nuanced desires people may have for their AAC. We explore the complicated nature of six AAC problem spaces, explore how AI might be used in these spaces, and suggest more robust methods of evaluation that take the intersectional nuances of people into account. We also discuss broader issues that arise across these problem spaces and how they could be addressed using our proposed evaluation methods.",
+      "category": "science",
+      "image": null
     },
     {
       "id": "f24d2049e500faf4161858c97751fddc77879de2ae5186f7c2943f7a5fc08c33",
@@ -158,6 +224,116 @@
       "image": "https://cdn.mos.cms.futurecdn.net/Xps6kYPajUpTrQwN92boN-1280-80.jpg"
     },
     {
+      "id": "72f5bde9b2b020d3cdd84c7ee3cb4e415370e606a51aaa6901336ad1e0bdcaa3",
+      "title": "IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation",
+      "url": "https://arxiv.org/abs/2606.24849v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:28:00Z",
+      "summary": "Unified multi-modal large language models (MLLMs) have achieved strong text-to-image generation quality, but still struggle with structure-aware prompt following, where object counts, spatial relations, attribute bindings, and coarse layouts must be preserved. We attribute this limitation in part to the entanglement of structural planning and appearance rendering within a single conditioning stream. To address this issue, we propose Implicit Visual Chain-of-Thought (IV-CoT), a latent visual reasoning framework for query-conditioned image generation. IV-CoT decomposes the visual conditioning queries into a structural-to-semantic cascade, where structural queries first form a latent visual plan and semantic queries then render appearance conditioned on this plan. To guide the structural queries, we introduce training-only sketch supervision, which encourages them to capture structure from sketches without requiring sketch extraction or intermediate decoding at inference time. IV-CoT performs implicit CoT reasoning in a single forward pass and achieves superior results on GenEval and T2I-CompBench. Visualizations and analyses demonstrate that the learned structural and semantic queries play complementary roles in structure-aware generation.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "3d67138f91382b3ff24652783de36ef439c9ef5ca845b6d6b37b9772a0c43a71",
+      "title": "World Models in Pieces: Structural Certification for General Agents",
+      "url": "https://arxiv.org/abs/2606.24842v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:21:09Z",
+      "summary": "In the big-world regime, agents cannot be universally capable and their ability is inevitably specialized across a world model in pieces. Consequently, standard uniform guarantees fail to distinguish between the understanding of critical bottlenecks and irrelevant failures. We first formalize this limitation by proving that general agents are not universal, rendering standard worst-case analysis uninformative. To overcome this, we introduce structural certification, a transition-local framework that maps bounded goal-conditioned performance to entry-wise guarantees on the agent's internal world model. Our main contribution is constructive. We provide algorithms that filter specific transitions using deep compositional goals and prove that a general agent on these goals has a structural world model with a $\\mathcal{O}(1/n) + \\mathcal{O}(\u03b4)$ error bound. Conversely, this bound is tight in the small-$\u03b4$ regime, whose existence is explicitly guaranteed by our certification. These results enable the certifiable deployment of general agents by localizing the specific transitions where long-horizon planning is reliable.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "8646021ef2d582930aba993d74ad3d0099e5677b3f0a37fbe7fb3f93c51a4d18",
+      "title": "Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models",
+      "url": "https://arxiv.org/abs/2606.24841v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:21:03Z",
+      "summary": "Prompt-based learning has emerged as a dominant paradigm in natural language processing. This study explores the impact of diverse pre-training objectives on the performance of encoder-decoder pre-trained language models across generation and question answering tasks, with a focus on commonsense knowledge retrieval and completion. We highlight the benefits of incorporating multiple objectives during both pre-training and fine-tuning stages. We introduce the Match Task to Objective (MTO) framework and methods for determining the appropriate objective for a given task. This framework offers automated methods to prepare task-related data for adaptation through unsupervised training, based on the identified objective. In the fine-tuning stage, we design novel templates that align with the objectives of the pre-training and adaptation stages. When aligned with task requirements, these strategies can achieve a performance gain of over 120\\% compared to conventional methods in few-shot settings. They significantly outperform related works in few-shot settings and exceed the baseline even in full-dataset scenarios. Furthermore, we extend this approach to include prompt-tuning methodologies, providing guidance for more effective soft prompt engineering and optimization. Our strategies significantly enhance prompt-tuning performance as well. These insights hold substantial value, precisely guiding the selection and optimization of models customized for specific tasks. Code is available at https://github.com/puraminy/MTO/",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "efdacaf629d5ebcb5cbfbbd48fc483a01239d09f2bbe3338554830c16a900195",
+      "title": "Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System",
+      "url": "https://arxiv.org/abs/2606.24839v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:18:28Z",
+      "summary": "Agentic data analysis systems produce rich outputs, including code, numerical results, and verbal diagnostics. This makes them more challenging to evaluate than single-turn LLM responses. It is therefore necessary to distinguish genuine disagreement between an agent's output and a ground-truth answer from grading artifacts. We investigate how reliably automated graders assess such a system and what strategies improve grading quality by applying LAMBDA, a multi-agent data-analysis system, on 153 numerical QRData tasks from DSGym. We develop and evaluate a three-layer human-AI grading cascade: strict regex matching, LLM-based lenient grading, and snippet-based human inspection, which combines non-GenAI and GenAI strategies with different failure profiles. Both automated graders achieve 100% observed precision (0/70 false positives). The lenient grader's recall is 97% against human labels. A keyword-anchored extraction pipeline raises the strict grader's recall by 60 percentage points over a last-number heuristic; the lenient grader is architecturally parser-independent. An iterative nudge mechanism raises grading run success from 36% to 97% and lenient-pass rates from 16% to 46%; comparing nudging with and without original-question re-injection shows that re-injection offers no benefit, confirming the nudge as an answer template cue. We further observe in this case study that variable type is the task metadata field most consistently associated with grading pipeline dynamics and observed outcome grades.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "a612cfcf5a63080f92f74f546274fba378384d657fd39688d46f58b28ceab827",
+      "title": "Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment",
+      "url": "https://arxiv.org/abs/2606.24834v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:15:40Z",
+      "summary": "LLM-based dialogue assistants have become mainstream tools for software developers, yet current evaluation benchmarks focus exclusively on functional correctness. This leaves a critical gap in assessing the quality and accuracy of these conversations when handling Non-Functional Requirements (NFRs), which are inherently vague, context-dependent, and involve many parts of a program. Evaluating how well these systems support collaborative reasoning about NFRs requires methods that go beyond single-turn accuracy to capture both the correctness of the system's outputs and the quality of the multi-turn interaction. In this paper, we investigate the accuracy and quality of multi-turn conversations between developers and an LLM-based agent in the domain of Health Insurance Portability and Accountability Act (HIPAA) regulatory compliance. We hired 49 programmers to interact with GitHub Copilot to assess 148 HIPAA-derived NFRs against the iTrust codebase, a system designed to comply with HIPAA regulations, across three dimensions: requirement satisfaction level, reasoning, and code localization. We find that developers tend to agree with LLM assessments, but accuracy against expert ground truth is low. We model user satisfaction and find that longer system responses and more information-providing turns negatively affect user satisfaction, whereas proactive interactions positively affect it. Our findings provide insights for designing LLM-based dialogue systems that support NFR assessment.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "f1e9807c6fc6c639686aa3bb0a843e27d41cdcaf0b71465212f467d784190f54",
+      "title": "Difference-Making without Making a Difference",
+      "url": "https://arxiv.org/abs/2606.24832v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:15:26Z",
+      "summary": "Over a series of seven papers, Andreas & G\u00fcnther have introduced seven definitions of actual causation and have classified them as belonging to three different, competing, types of accounts: factual difference-making, counterfactual difference-making, and regularity-based. I show that their most recent - factual difference-making - definition instantiates all three types, thereby proving that these are distinctions without a difference. I further compare their novel account to the other six accounts on several crucial examples, revealing that this undermines all seven of their accounts.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "64e663f0e60cdc353dc9526253da26dc5c49fe8b8cebeb81465139ac1128dd54",
+      "title": "Less is More: Quality-Aware Training Data Selection for Scientific Summarization",
+      "url": "https://arxiv.org/abs/2606.24828v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T17:12:06Z",
+      "summary": "Scientific long-document summarization datasets commonly treat author-written abstracts as gold reference summaries, although their quality and alignment with the source article vary. At the same time, publicly available scientific summarization datasets remain limited in scale and structure for modern long-context models. In this work, we address both challenges by a) constructing and releasing one of the largest biomedical and life science datasets for long-document summarization, containing 1.88 million PMC articles, and b) analyzing the reference quality of author-written abstracts with source-grounded and model-based metrics. We show that author-written abstracts vary in their alignment with the full article and that these quality signals can guide training-data selection. Training on selected high-quality subsets outperforms random sampling at matched training sizes and can match or exceed larger random subsets on factuality-oriented metrics. Our findings suggest that reference quality is an important factor in scientific summarization and that quality-aware data selection can improve training efficiency.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "9a629e0d379fd3f8ff4aaaedb29e771fd94540bcbf4424dfbaa772588f2cb90f",
+      "title": "L3Cube-MahaPOS: A Marathi Part-of-Speech Tagging Dataset and BERT Models",
+      "url": "https://arxiv.org/abs/2606.24825v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T17:10:46Z",
+      "summary": "Part-of-Speech (POS) tagging is a foundational NLP task underpinning machine translation, information extraction, and syntactic parsing. Despite Marathi being spoken by over 83 million people and ranking among the top twenty most spoken languages worldwide, it remains severely under-resourced in annotated corpora and standardised evaluation benchmarks. Marathi presents unique challenges for computational modelling owing to its rich morphology, relatively free word order, lack of capitalisation conventions, and pervasive code-mixing with Hindi and English. We introduce L3Cube-MahaPOS, a gold-standard POS tagging dataset for Marathi comprising 32,354 manually annotated sentences drawn from news text. Annotation was performed entirely manually by a team of Marathi-proficient annotators following a 16-tag Universal Dependencies-aligned scheme. A structured preprocessing pipeline covering Unicode normalisation, Devanagari-aware tokenisation, and noise filtering ensures label consistency across all splits. We benchmark the dataset across six model families spanning HMM, CRF, BiLSTM, BiLSTM+CharCNN, MuRIL, and the Marathi-specific transformer MahaBERT-v2. The best system achieves 88.67\\% token-level accuracy and a macro-F1 of 81.67% over 15 evaluated tag classes. We release the dataset, annotation guidelines, and trained model checkpoints to foster further research in Marathi NLP.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "a0c17c922566cf25d8d607cf49998bd095dd2999e52d9ae7c81509c54b8a558e",
+      "title": "Solving Inverse Problems of Chaotic Systems with Bidirectional Conditional Flow Matching",
+      "url": "https://arxiv.org/abs/2606.24824v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T17:07:47Z",
+      "summary": "Modeling chaotic systems is crucial yet challenging. Inverse problems in chaotic dynamics, namely inferring initial conditions from final states, remain largely unsolved because of ill-posedness, non-uniqueness, instability, and potentially chaotic time-reverse dynamics. We address this open problem with Bidirectional Conditional Flow Matching (Bi-CFM), which learns bidirectional mappings between distributions of initial and final states to capture the stochasticity of chaotic evolution and mitigate exponential error accumulation over time. Furthermore, for systems with conservation laws, we extend it to Conservation-constrained Bi-CFM (CBi-CFM). Across the classic Lorenz, Circuit, and high-dimensional Lorenz 96 systems, Bi-CFM improves five distribution-level metrics over baselines while achieving a speedup of more than two orders of magnitude. In the three-body planet-planet scattering problem in planetary dynamics, CBi-CFM better respects conservation laws, with conservation errors comparable to those of the ground truth. Finally, on real observations of globular clusters, collisional million-body systems shaped by $\\sim 10^{10}$ years (10 Gyr) of evolution, our method represents an advance in accuracy, establishing a scalable route to solving inverse problems of long-timescale real-world chaotic dynamics.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "9ac8bb653f66e395821d67166ff58feb1c23a4f2094f22f5510b366318159308",
+      "title": "SHERLOC: Structured Diagnostic Localization for Code Repair Agents",
+      "url": "https://arxiv.org/abs/2606.24820v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T17:05:50Z",
+      "summary": "LLM agents solve repository-level coding tasks through multi-turn tool use, but utilize half their budget on locating faults before editing. Dedicated localization frameworks have emerged, yet are still evaluated as file retrieval rather than actionable diagnosis, producing locations without the diagnostic context a repair agent needs. We introduce SHERLOC (Structured Hypothesis-driven Exploration and Reasoning for Localization), a training-free framework pairing a reasoning LLM with compact repository tools and self-recovery, without fine-tuning or multi-agent orchestration. SHERLOC reaches state-of-the-art localization across model scales: 84.33% accuracy@1 on SWE-Bench Lite and 81.27% recall@1 on SWE-Bench Verified; at ~30B parameters, it matches or outperforms other agentic methods. Injecting our locations and diagnostic findings into repair agents yields, on average, +5.95 pp resolve rate on SWE-Bench Verified while cutting localization and total tokens by 36.7% and 23.1%.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "44fe30c330f000177ffd5d2a253530babdc7b5d8459feb8c22e4f73d5d92f5d1",
       "title": "A 'new' star could finally appear in the night sky this week, thanks to a once-in-a-lifetime explosion",
       "url": "https://www.space.com/stargazing/a-new-star-could-finally-appear-in-the-night-sky-this-week-thanks-to-a-once-in-a-lifetime-explosion",
@@ -167,6 +343,17 @@
       "summary": "The \"Blaze Star\" T. Coronae Borealis could brighten dramatically this week to shine with the brilliance of the North Star Polaris. Here's where to look.",
       "category": "science",
       "image": "https://cdn.mos.cms.futurecdn.net/yTagv3APhFBG5xHJbaq97K-1280-80.jpg"
+    },
+    {
+      "id": "56361c2aaaaa835891294c9edcc893818bcbadd3e6475a22a9264ccef6d3021e",
+      "title": "Large-Language-Model Discovery of Quantum LDPC Codes through Structured Concept Evolution",
+      "url": "https://arxiv.org/abs/2606.24808v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:56:24Z",
+      "summary": "Quantum computers could outperform classical machines on important problems, but only if the errors that pervade quantum hardware can be corrected at scale. Quantum low-density parity-check (qLDPC) codes offer a promising route to this goal by combining sparse parity checks with finite encoding rate and growing distance, but their construction remains a challenging discrete design problem. Here we introduce structured concept evolution (SCE), a search framework that pairs a large language model with a structured algebraic mutation grammar to discover lifted-product code families, a class of CSS qLDPC codes. Instead of asking the LLM to design codes from first principles, SCE evolves structured concepts consisting of algebraic specifications paired with executable programs that realize them, using hierarchical mutations that modify the group algebra, protograph geometry, or base space. Running SCE, we discover a diverse set of competitive code families, ranging from abelian constructions to families over non-abelian groups beyond those underlying standard designs such as bivariate-bicycle codes, and characterize them under code-capacity depolarizing noise with BP+OSD decoding. These results are obtained with lightweight models (GPT-5.4-mini and GPT-5.4-nano).",
+      "category": "science",
+      "image": null
     },
     {
       "id": "eda679c462c7588d2e785778cbe5af683ad058962acc9610186c815676322bfe",
@@ -180,6 +367,83 @@
       "image": "https://cdn.mos.cms.futurecdn.net/QUg55LuvZjoEbWWeoedWJU-1280-80.jpg"
     },
     {
+      "id": "b63fe8ae75a0a06239c9833be3e428d0e91d9b77ebf8fa3a1a474b6c281f18bd",
+      "title": "OrbitForge: Text-to-3D Scene Generation via Reconstruction-Anchored Video Synthesis",
+      "url": "https://arxiv.org/abs/2606.24799v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:50:47Z",
+      "summary": "Generic text-to-video models can be used as rich open-world scene priors. Despite the high quality of today's generated videos, they do not directly yield reliable 3D assets: camera motion is difficult to control, view coverage is partial, and frames often contain inconsistencies across time. We introduce OrbitForge, an adapter built from frozen video priors and per-prompt Gaussian Splatting reconstruction optimization that converts a single text-generated video into a canonical closed-orbit 3D Gaussian Splatting scene. We use 3D reconstruction as an anchor to improve the 3D consistency of the generated video. We obtain a preliminary 3D reconstruction from a first generated video via Deformable Gaussian Splatting with a robust MedianGS proxy. We render views from a prescribed orbit to detect missing viewpoints. OrbitForge uses the text-to-video model to complete only the missing views, and reconstructs the completed orbit into a final Gaussian Splatting scene. This design requires no task-specific video or multiview fine-tuning, avoids per-prompt score-distillation optimization, and does not progressively generate views one step at a time. We further argue that this setting demands coverage-aware evaluation: local smoothness alone rewards methods that never attempt a full orbit. On a frozen 300-prompt T3Bench-derived audit, OrbitForge reconstruction attains a 359.0-degree measured median span, raises originally unsupported-bin Q10 ImageReward from 8.07 to 16.36 relative to MedianGS-only reconstruction, while remaining competitive with VideoMV on the coverage-quality.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "a57a8f83656544ac54c0cf8a1a5a9c0ce94818dc43304983ae3be9cbc530e537",
+      "title": "EG-VQA: Benchmarking Verifiable Video Question Answering with Grounded Temporal Evidence",
+      "url": "https://arxiv.org/abs/2606.24797v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:49:28Z",
+      "summary": "Recent advances in Video Large Language Models (Video-LLMs) have yielded promising performance on video question answering (VideoQA). Nevertheless, existing benchmarks are predominantly evaluated through answer correctness, while the grounding of predictions in relevant video evidence remains largely unexamined. This disconnect between answer generation and evidence understanding motivates the construction of the Evidence-Grounded Video Question Answering Benchmark (EG-VQA), an open-ended evaluation protocol in which each QA pair is explicitly annotated with supporting temporal evidence, thereby requiring joint reasoning and precise evidence localization. EG-VQA is comprised of 2,067 videos and 11,838 QA pairs with fine-grained evidence annotations. To evaluate predicted evidence, Evidence-Grounded F1 (EG-F1) is introduced as a unified metric in which temporal alignment and semantic consistency against ground-truth evidence are jointly measured. Experimental evaluation reveals that even strong proprietary models struggle to accurately ground their predictions, exposing a fundamental discrepancy between answer correctness and faithful evidence localization. To bridge this gap, EG-Reasoner, an evidence-grounded reasoning model trained with explicit supervision, is proposed. State-of-the-art performance is achieved among open-source models, with results competitive against proprietary systems, particularly pronounced gains are observed on reasoning-intensive tasks such as counterfactual questions. These findings demonstrate that scaling alone is insufficient for robust video understanding and that structured evidence supervision is essential for the development of more reliable and interpretable VideoQA systems.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "061d5cc76459556477feba7aabd59e79f27b19206929cf06a8c9b12d9fad4dc3",
+      "title": "Grad Detect: Gradient-Based Hallucination Detection in LLMs",
+      "url": "https://arxiv.org/abs/2606.24790v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:46:36Z",
+      "summary": "Large Language Models (LLMs) have demonstrated remarkable capabilities across diverse tasks, yet they remain prone to generating hallucinations. Detecting these hallucinations is critical for deploying LLMs reliably in high-stakes applications. We present Grad Detect, a gradient-based approach for predicting hallucinations by analyzing layer-wise gradient patterns from a single forward-backward pass during inference. Our method shows that the internal gradient structure of a model carries rich information about the correctness of its output. This information is not accessible through output-level signals alone. We evaluate Grad Detect on several Q&A benchmarks across both hallucination detection and model abstention prediction, where it consistently outperforms confidence-based and sampling-based baselines. Through comprehensive layer ablation studies across all eleven models from four architectural families, we find that the final five layers concentrate over 97% of the discriminative gradient signal, enabling efficient deployment with minimal performance loss. Grad Detect provides a unified framework for predicting multiple dimensions of LLM reliability, offering strong predictive performance alongside interpretable insights into where and how model failures originate.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "bb5a81d80313f13c87003d696bb753bcb4e09958ca0d49eceff2bc4eb98ea371",
+      "title": "Paying to Know: Micro-Transaction Markets for Verified Product Information in Agentic E-Commerce",
+      "url": "https://arxiv.org/abs/2606.24783v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:42:21Z",
+      "summary": "Commercial NLP treats the shopping chatbot as a recommender or a conversion tool: its job is to match a user to a catalogue entry and close a sale. We argue that the arrival of agent-native micro-payment rails (e.g., x402, AP2) changes what is scarce. When the buyer is an autonomous agent that can investigate exhaustively, the bottleneck is no longer matching products but acquiring trustworthy, decision-relevant information about them. We envision agentic e-commerce as a micro-transaction market for verified information: buyer agents spend fractions of a cent to progressively unlock seller- and reviewer-supplied data -- service histories, third-party test reports, bills of materials, audited sales and support metrics -- paid for a la carte under a freemium model, with reviewer trust scored reputationally. We sketch the architecture of such a market and argue that it rewards genuine product quality and yields truer competition than ranking-based storefronts. We then translate the vision into concrete NLP problems -- cost-optimal information acquisition, data pricing and negotiation, real-time entity resolution, grounded value exchange, and privacy-preserving persona modelling -- and argue that these, not chat fluency, deserve the field's attention.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "a856bbc1da111924969e15bf402dab3f0c7b1725a532a868f151e6ea68dfbd95",
+      "title": "Assessing Distribution Shift in Human Activity Recognition for Domain Generalization",
+      "url": "https://arxiv.org/abs/2606.24781v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:40:05Z",
+      "summary": "While the field of Human Activity Recognition (HAR) continues to draw interest from researchers and advance in important ways, some key challenges remain. One of the most difficult aspects of building HAR models that show good performance in real-world settings is dealing with data diversity from device and sensor heterogeneity, and contextual changes that are intrinsic to real-world applications. While data diversity in HAR has been well-acknowledged in the literature, there remains a gap in understanding the effect of various types of distribution shifts on HAR models and the domain generalization problem that arises. Towards that end, this paper systematically evaluates 4 different types of distribution shifts, including variations in device type, sensor placement, sampling rate, and user behavior. Quantifying their effects, we illustrate that diversity shifts predominantly define all types of shifts, indicating the existence of unique features that are not shared across different domains. We then introduce a uniform HAR-based distribution shift benchmarks and conduct a comprehensive evaluation of up to 28 domain generalization methods. Our analysis exposes the limitations of current domain generalization algorithms in achieving model generalizability, marginally outperforming the empirical risk minimization baseline. This work represents the first systematic exploration of domain generalization and adaptation concerning specific distribution shifts in sensor-based HAR, offering an open-source benchmark platform and datasets to spur further research.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "87f1a6a078a7d6897cdbe62c0db092419fd6ce403ca7712395c33e07afa84cc6",
+      "title": "BluTrain: A C++/CUDA Framework for AI Systems",
+      "url": "https://arxiv.org/abs/2606.24780v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:39:25Z",
+      "summary": "Progress in deep learning is, at scale, more a matter of systems engineering than of modelling: the behaviour of a model in training (its throughput, its memory footprint, and the numerical fidelity of the result) is determined less by the architecture itself than by how that architecture is expressed on the hardware. To achieve absolute control over this hardware expression while abstracting away systems complexity to make modelling seamless and eliminating the need for repetitive orchestration logic, BluTrain was architected from first principles as a robust, lightweight, and architecture-general training framework in standard C++ and the core CUDA programming model. Every layer is implemented natively: a typed tensor module with reverse-mode autograd, a linear-algebra library, a caching allocator, a multi-mode distributed-execution module, and an MLIR-based deep-learning compiler. In formal evaluations training a 124M-parameter GPT-2 baseline in FP32 on an 8-GPU 6000 Ada system, BluTrain outperforms industry-standard baselines in both throughput (sustaining an average of 407K tokens/s versus PyTorch's 395K tokens/s) and memory efficiency (achieving up to a 22% footprint reduction), while strictly preserving numerical fidelity and converging to a marginally lower final validation loss. With every layer explicitly open to native tuning, the performance ceiling is the framework's own to raise.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "04dd84cc0cac1b90f8db1c845e91c26ed9a5f5b4c6e64903d2c9fd73483cc3df",
+      "title": "DeepBD: A Grounded Agentic Workflow for Variant Prioritization and Diagnosis of Genetic Birth Defects",
+      "url": "https://arxiv.org/abs/2606.24779v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:37:48Z",
+      "summary": "Birth defects are a major cause of fetal loss, neonatal morbidity and long-term disability. In the subset with suspected genetic etiologies, exome and genome sequencing have moved many cases from variant detection to post-sequencing interpretation: clinicians must rank patient-specific candidate variants under incomplete fetal or infant phenotypes and heterogeneous evidence from population genetics, variant-effect prediction, gene-disease validity, phenotype ontologies, cellular and pathway context, protein structure and clinical literature. We present DeepBD, a grounded agentic workflow for variant prioritization and diagnostic interpretation of genetic birth defects. DeepBD organizes the workflow into LLM-assisted case structuring, a pretrained evidence engine, specialist evidence modules and a grounded diagnostic review layer. The evidence engine learns patient-specific variant scores from structured rule evidence, sequence and variant-effect representations and phenotype-conditioned biological context, whereas specialist modules and the agentic layer provide tool-based refinement, candidate-pool review and diagnosis-oriented synthesis from ranked candidates. Developed using an in-house fetal and infant cohort comprising 18,622 cases, DeepBD achieved Recall@1/3/5/10 of 0.658/0.882/0.912/0.929 on an internal held-out solved-case benchmark, outperforming standalone Exomiser, DeepRare and prompted LLM reranking baselines evaluated on Exomiser-derived top-20 candidate variants. Ablation and overlap analyses show that rule evidence, mechanistic context, and specialist refinement provide complementary signals. These findings support a grounded agentic workflow that separates evidence integration, tool-based refinement, and LLM-assisted diagnostic review for retrospective variant prioritization in genetic birth defects.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "8a00961422fe3da67d832d0e514ee35a39a874307ef7d023c4f4baec4ee2560c",
       "title": "SpaceX's secretive plans to deliver cargo to Earth from space",
       "url": "https://www.newscientist.com/article/2531559-spacexs-secretive-plans-to-deliver-cargo-to-earth-from-space/?utm_campaign=RSS%7CNSNS&utm_source=NSNS&utm_medium=RSS&utm_content=space",
@@ -191,6 +455,28 @@
       "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg"
     },
     {
+      "id": "1877f0aaef5ee0f75a5da8100de20d0992e09fb378b6b4e29e0402b42cef9c38",
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "url": "https://arxiv.org/abs/2606.24775v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T16:34:55Z",
+      "summary": "Memory for large language model (LLM) agents has rapidly evolved from simple retrieval-augmented mechanisms into a data management system that supports persistent information storage, retrieval, update, consolidation, and dynamic lifecycle governance throughout agent execution. Despite this evolution, existing evaluations still benchmark agent memory mainly through end-to-end task success metrics (e.g., F1, BLEU), while treating the underlying system as a monolithic black box. As a result, critical system-level concerns, including operational costs, architectural trade-offs across memory modules, and robustness under dynamic knowledge updates, remain insufficiently explored. In this paper, we present a systematic experimental study of agent memory from a data management perspective. We propose an analytical framework that decomposes agent memory into four core modules: memory representation and storage, extraction, retrieval and routing, and maintenance. Under this framework, we evaluate 12 representative memory systems and two reference baselines across five benchmark workloads spanning 11 datasets. Our extensive end-to-end evaluation shows that no single architecture dominates across all scenarios; instead, effectiveness depends heavily on how well the memory structure aligns with the workload bottleneck. Furthermore, through fine-grained ablation studies, we quantify their individual effects on representation fidelity, retrieval precision, update correctness, and long-horizon stability. Finally, we reveal cost-performance trade-offs under realistic workloads, showing localized maintenance is more cost-efficient than global reorganization. Based on these findings, we identify promising directions towards building truly agent-native memory systems. The code is publicly available at https://github.com/OpenDataBox/MemoryData.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "e94c0571f19cd5f5f7b89f84eeac2c2d88874e6f663bae3999b16780087a490e",
+      "title": "Posterior Refinement: Fast Language Generation via Any-Order Flow Maps",
+      "url": "https://arxiv.org/abs/2606.24773v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T16:33:13Z",
+      "summary": "Non-autoregressive generation offers a powerful paradigm for iterative refinement, allowing models to recursively critique, erase and regenerate arbitrary subsets of tokens. However, existing non-autoregressive models fail to realize this potential. Masked Diffusion Models (MDMs) suffer from factorization error, causing sample quality to collapse when generating multiple tokens simultaneously. Flow Map Language Models (FMLMs) circumvent this bottleneck via joint sequence transport for excellent few-step generation, but sacrifice the inference-time flexibility of MDMs. We introduce FMLM+, a framework that bridges this gap by equipping FMLM with masking-style noise schedules. While generating the full sequence in a single step, FMLM+ simultaneously scores the global consistency of each token a posteriori. We leverage this to introduce Posterior Refinement, a novel inference-time refinement strategy that enables the model to adaptively self-correct its outputs, matching the performance of discrete baselines with 32x fewer NFEs. Across diverse benchmarks, we demonstrate that FMLM+ with Posterior Refinement improves the speed--quality tradeoff over both MDM and FMLM families, providing a scalable foundation for high-fidelity language modeling.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "9943488ec0d74fd5df6087411965e67a3449c76da054fef8c9560343a9f9172c",
       "title": "What telescope could cause our astrophotography expert to break their hard-and-fast rule about not traveling with a telescope? This one! Now even cheaper in this Prime Day telescope deal",
       "url": "https://www.space.com/stargazing/skywatching-kit/this-telescope-caused-our-astrophotography-expert-to-break-their-hard-and-fast-rule-about-not-traveling-with-a-telescope",
@@ -200,6 +486,61 @@
       "summary": "Ready to turn your skywatching upside-down? Then snap up this ZWO Seestar S30 Pro, which offers views so stunning it made our expert bin their no telescope rule.",
       "category": "science",
       "image": "https://cdn.mos.cms.futurecdn.net/58ehGwRTjD84ERcjbuL8XC-1280-80.jpg"
+    },
+    {
+      "id": "4187af0db5a364f2e6c2ea7100fd7f5691d25c98a2a2713914594e352a8cb95a",
+      "title": "UniDrive: A Unified Vision-Language and Grounding Framework for Interpretable Risk Understanding in Autonomous Driving",
+      "url": "https://arxiv.org/abs/2606.24759v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:17:39Z",
+      "summary": "Recent multimodal large language models (MLLMs) have shown strong potential for autonomous driving scene understanding, yet existing methods still face a fundamental trade-off between temporal reasoning and spatial precision. Models that rely on single-frame or low-resolution inputs often miss small, distant, or partially occluded hazards, while language-centric driving models frequently provide limited grounded evidence for their explanations. To address this gap, we propose UniDrive, a unified visual-language and grounding framework for interpretable risk understanding in autonomous driving. UniDrive combines a temporal reasoning branch that models scene dynamics from multi-frame visual input with a high-resolution perception branch that preserves fine-grained spatial details from the latest frame. The two branches are integrated through a gated cross-attention fusion module, enabling dynamic context to be aligned with precise spatial evidence. Based on the fused representation, UniDrive jointly generates natural-language risk descriptions and grounded bounding-box outputs for risk objects. Experiments on the DRAMA-Reasoning benchmark show that UniDrive outperforms representative image-based and video-based baselines in both captioning and risk-object grounding. In particular, UniDrive achieves the best overall performance on the validation split and demonstrates clear advantages in small-object localization, zero-shot generalization to NuScenes and BDD100K, and human-rated interpretability and trustworthiness. These results suggest that explicitly combining temporal semantics and high-resolution perception provides a stronger foundation for interpretable and safety-oriented autonomous driving systems. The code is available at https://github.com/pixeli99/unidrive-dev.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "cafe5045ae698c569edb8ec6ca0cff742fcc54644186faa5f0d1580fad01d1b9",
+      "title": "CANDLE: Character-level Arabic Noise Deduplication using Lightweight Encoder",
+      "url": "https://arxiv.org/abs/2606.24758v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T16:17:24Z",
+      "summary": "Handling repeated characters in text can be tricky, since they can represent either the correct spelling of a word or informal character elongation often seen in social media posts. We present CANDLE, a lightweight system for character-level Arabic noise deduplication that addresses this challenge without relying on handcrafted rules, dictionaries, or morphological analyzers. At the heart of CANDLE is a novel application of Connectionist Temporal Classification (CTC) to this task, a formulation not previously explored for character deduplication, which frames normalization as a sequence alignment problem over a character-based encoder. Evaluated on three benchmarks spanning clean newspaper, manually curated ambiguous cases, and real-world social media text, the CTC model achieves a Sentence Error Rate (SER) as low as $5.37\\%$ and consistently outperforms a classification-based baseline by a large margin. To reduce inference overhead, we distill the 6-layer CTC model into a 2-layer student, achieving a $3\\times$ depth reduction with minimal performance degradation. Beyond deduplication accuracy, normalization yields a practical downstream benefit: a relative reduction in tokenizer fertility of up to $12.8\\%$ across a diverse set of Arabic LLM tokenizers, directly lowering inference costs and improving context window utilization. We release all code and models publicly to support reproducibility and advance future research\\footnote{https://github.com/abjadai/candle}.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "d6f6842b4d4c119dfaf982770d30461d645ea8dc09e4eef1ebced2c1d74991ea",
+      "title": "Can Scale Save Us From Plasticity Loss in Large Language Models?",
+      "url": "https://arxiv.org/abs/2606.24752v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:14:52Z",
+      "summary": "The loss of plasticity - the ability of a network to learn new information after having already learned older information - is a fundamental challenge in creating artificial neural networks capable of continual learning. Although this phenomenon has been known for decades, it has mostly been studied in older, relatively small architectures and rarely in natural-language domains. To determine whether loss of plasticity remains a problem in the modern transformer-based LLM paradigm, we study plasticity loss in GPT-style Transformer models trained on a multilingual continual learning problem. Consistent with prior work, we find evidence of plasticity loss across models ranging from 5M to 314M non-embedding parameters, as measured by deterioration on a held-out Vietnamese probing task. We further find that the onset of plasticity loss follows a predictable scaling law, growing sublinearly with model size. These results suggest that larger models may delay the measurable effects of plasticity loss, but that increasing parameter count alone is likely to be insufficient to completely prevent it. We also find evidence of plasticity loss under stationary multilingual training, challenging the view that the phenomenon is exclusive to continual learning with abrupt task changes. Overall, our results suggest that even large Transformer language models trained on natural-language will eventually lose the ability to efficiently adapt to new data after sufficiently long training, in both continual and stationary settings.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "b26d4c5e7d8dae137df2060161650be88b0136954a783f9e38cfa165f73d86c8",
+      "title": "Scaling Laws for Task-Specific LLM Distillation",
+      "url": "https://arxiv.org/abs/2606.24747v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:09:57Z",
+      "summary": "Large Language Models (LLMs) achieve strong performance across a growing range of domains, yet their scale poses deployment challenges in applications where latency and cost constraints are critical. This paper derives empirical scaling laws for domain-specific LLM compression, quantifying how in-domain and general knowledge performance scale with dataset size, compression ratio, supervision format, and iterative pruning schedule. Using quantitative finance as our application domain, we compare logit-based and LoRA-based distillation under iterative structural pruning, introducing a blended chain-of-thought supervision loss that stabilizes KL-divergence distillation over reasoning traces. In-domain task quality degrades predictably under compression while general-knowledge benchmarks collapse well before the same point; supervision format is the key driver of this tradeoff, with chain-of-thought supervision actively recovering general knowledge that pruning erases. We release the headline dataset FinHeadlineMix, scaling law results, and practical recommendations to provide a reusable framework for domain-specific compression decisions.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "2e114be1ebd5cd326d0fed003242f60df450ae811833bb352d2dcc28691276cd",
+      "title": "Beyond U-Net: A Latent-Representation-Aligned Skip-Free Backbone for Flow-Matching Speech Enhancement",
+      "url": "https://arxiv.org/abs/2606.24745v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T16:09:31Z",
+      "summary": "Generative models, particularly diffusion and score-based approaches, have recently achieved strong performance in speech enhancement, but their iterative sampling process limits real-time deployment. Flow Matching offers an efficient alternative by transporting noisy speech toward clean speech through an ordinary differential equation with few function evaluations. In this work, we propose a skip-free encoder-decoder backbone for flow-matching speech enhancement, guided by Latent Representation Alignment (LRA). Instead of relying on U-Net skip connections, which may transfer noise-correlated low-level features to the decoder, the proposed model aligns its bottleneck and decoder representations with clean latent features extracted from a frozen Descript Audio Codec encoder-decoder without quantization. This codec-aligned supervision promotes compact clean-speech representations while preserving efficient few-step inference. Experiments on WSJ0-CHiME3 and VoiceBank-DEMAND show improved PESQ and perceptual quality, especially on VoiceBank-DEMAND, using only five function evaluations.",
+      "category": "science",
+      "image": null
     },
     {
       "id": "7f6f58b0dde9e4b39bd1d5163a5c3fcf30f9924042993077d6fd585f24f838e9",
@@ -224,6 +565,61 @@
       "image": "https://cdn.mos.cms.futurecdn.net/4ugoTjVhaT7FQiDgHFriYd-1280-80.jpg"
     },
     {
+      "id": "1150bf3d9cab9595e579dd6823700b15bef3f49d6d47eed9bd1a9600620354e7",
+      "title": "Task Decomposition for Efficient Annotation",
+      "url": "https://arxiv.org/abs/2606.24734v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:58:46Z",
+      "summary": "High-quality annotations of structured representations are expensive to collect over large corpora. Manual annotation of structure is laborious, and model-based annotation, although cheaper to generate, requires expensive validation and potentially significant supervision to ensure that the annotation quality is strong enough to be useful downstream. In traditional annotation workflows, annotation of each complete example is performed end-to-end by a single annotator. However, structured annotation is complex, and each aspect of the task represents a unique challenge with an associated inferential load for a given annotator. Modern annotation projects can incorporate heterogeneous groups of annotators, including both models and human annotators with varying domain and linguistic expertise. It remains unclear, however, how to redesign annotation tasks in this setting, where efforts are discriminately allocated across heterogeneous annotators with respect to distinct annotation challenges.\n  We propose to decompose annotation tasks into sub-tasks in order to reduce the aggregate inferential load of annotation projects. Inspired by the notion of centers from centering theory, we introduce a formal model of inferential load based on the degrees of freedom in the space of valid annotations. Using this model, we show that identifying these centers (i.e. salient anchor entities realized by annotation sub-tasks) constrains the output space complexity, and decompositions which isolate and advance center identification reduce the aggregate inferential load. We provide guidelines for decomposing complex structured annotation tasks, supported by examples demonstrating improved cost-efficiency from our prior work. Finally, we present a procedure for allocating sub-tasks across annotators to maximize quality under a fixed budget.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "defdc8eba1541f18979998de6d40b4187f87419059e18020900bd4170c4243d0",
+      "title": "Decentralised AI Training and Inference with BlockTrain",
+      "url": "https://arxiv.org/abs/2606.24722v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:47:33Z",
+      "summary": "Frontier AI training is increasingly shaped by access to dense, centrally controlled accelerator clusters. This creates a structural advantage for hyperscalers and large centralized laboratories, and makes open or independent AI efforts depend on scarce capital, privileged infrastructure, and data-center geography. We present Spheroid BlockTrain, a decentralized training protocol in which a model is partitioned into independently trainable blocks, each optimized on a local objective derived from the same global target and composed at inference into one model. On byte-level WikiText, BlockTrain reaches cross entropy 1.359 (perplexity 3.89), within about 0.04 CE of a same-setup end-to-end Transformer reference, while each active worker trains only one block and avoids full-model optimizer state. A shared six-worker block training run reaches CE 1.385 by averaging same-block updates into one assembled model. HTTP/TCP transport experiments move real serialized checkpoints and updates, including a public-IP three-host run that improves CE from 5.580 to 1.811 while moving 15.22 GB. For inference, the current BlockTrain path uses one block-stack traversal per full output and serves over direct TCP across three public-network GPU hosts up to a 75.80B-parameter logical fp16 shape, outperforming a matched plain-autoregressive TCP pipeline baseline because it emits a full sequence per WAN pipeline traversal rather than one token per traversal.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "56e22619299bb7d52f5127a7b73d7117ee3fbdeeb202da36be4738c57867ccce",
+      "title": "Evaluating the Interpretability of Sparse Autoencoders with Concept Annotations",
+      "url": "https://arxiv.org/abs/2606.24716v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:39:29Z",
+      "summary": "Sparse autoencoders (SAEs) are increasingly used to extract interpretable concepts from vision and vision language models, yet existing evaluation methods largely rely on proxy metrics or qualitative inspection rather than measuring semantic correspondence. We present a human-grounded evaluation framework that quantifies alignment between SAE latents and human-annotated concepts, without requiring user studies, and validate this matching through targeted attribute perturbations. To enable this intervention-style evaluation in vision, we construct synCUB and synCOCO, synthetic benchmarks of paired images that differ in exactly one attribute. We introduce Fully-Binary Matching Pursuit (FBMP), a coalition-based matching procedure that supports many-to-one mappings between SAE latents and annotated concepts, and consistently outperforms one-to-one baselines. For functional validation, we propose a Targeted Attribute Perturbation Alignment Score (TAPAScore), which tests whether matched concepts respond selectively and in the expected direction under targeted image-level attribute perturbations. Under sanity checks, our matching and TAPAScore are the only evaluated metrics that reliably distinguish trained SAEs from untrained ones. Across SAEs trained on CLIP and DINOv2 embeddings, we find that increased overcompleteness can reduce perturbation alignment, indicating a reduction in interpretability. Our evaluation framework suggests that moderate dictionary sizes provide the best trade-off, yielding the most interpretable SAEs. Code and datasets are available at https://github.com/JonasKlotz/sae-concept-eval.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "060b43cfbb18325623658a8a3369ec4f23d090103aad2f9cad5065744a0a080b",
+      "title": "CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation",
+      "url": "https://arxiv.org/abs/2606.24714v1",
+      "source": "arXiv API - Computation and Language",
+      "source_id": "arxiv_cs_cl",
+      "published_at": "2026-06-23T15:34:58Z",
+      "summary": "Chinese news text contains dense written forms such as scores, hyphenated model names, ranges, unit symbols, percentages, English abbreviations, and mixed Chinese-Latin-digit names. These forms are frequent in real listening workflows, and a text-to-speech (TTS) system can preserve the written string while changing the spoken meaning. We introduce CN-NewsTTS Bench v0.1, an open target-level benchmark for evaluating whether Chinese news TTS products pronounce such targets correctly from raw text, without user-side rules, LLM rewriting, SSML hints, or manual edits. The release contains a 200-record development set, an 800-record public test set, 992 public auto-evaluable targets, fixed transcripts from a three-ASR ensemble, an automatic target scorer, and initial results for seven product TTS systems. We additionally report ASR-route diagnostics, ASR-subset ablations, category-level results, confidence intervals, and provider configuration metadata. The best system reaches 0.879 strict accuracy, while several systems remain below 0.60.",
+      "category": "science",
+      "image": null
+    },
+    {
+      "id": "7a8bc7d1ee782e82914d9dbb9526078c114a3209c05534e18d1eee8ce3f36ebb",
+      "title": "TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments",
+      "url": "https://arxiv.org/abs/2606.24712v1",
+      "source": "arXiv API - Computer Science AI",
+      "source_id": "arxiv_cs_ai",
+      "published_at": "2026-06-23T15:33:51Z",
+      "summary": "Humans effortlessly locate and identify objects by touch alone, even without vision. In contrast, robotic systems rely heavily on vision and struggle with autonomous tactile exploration and object identification. We present TACTFUL, a vision-free tactile exploration framework that enables a multi-fingered robot to autonomously explore confined workspaces, discover objects through contact, and identify them via tactile reconstruction. Trained entirely on real hardware without simulation, our system learns a single policy that balances global workspace exploration with local surface refinement through a dynamic reward schedule. Our results demonstrate that tactile sensing, when paired with structured learning, can serve as an effective primary modality for object-level reasoning, achieving 77% success with 0.015 m average reconstruction error and outperforming baseline approaches on real-world objects.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "85ad166bb33abb639812b761591f4af65abb16c1f1fe4f437451b6dc05b00ebc",
       "title": "The Unistellar Odyssey Pro helped me feel in touch with the universe and it's now 15% off",
       "url": "https://www.space.com/stargazing/skywatching-kit/the-unistellar-odyssey-pro-helped-me-feel-in-touch-with-the-universe-and-its-now-15-percent-off",
@@ -235,431 +631,35 @@
       "image": "https://cdn.mos.cms.futurecdn.net/DYYSCXT28WD6ws7kMn3oa4-1280-80.jpg"
     },
     {
-      "id": "4c5d11c528f17e01738ab6e2736706117770721b7ae1aafc46e76f3f902a2ca7",
-      "title": "'If there's any country that will do it, it's China': Why is China diverting some of the world's mightiest rivers thousands of miles?",
-      "url": "https://www.livescience.com/planet-earth/if-theres-any-country-that-will-do-it-its-china-why-is-china-diverting-some-of-the-worlds-mightiest-rivers-thousands-of-miles",
-      "source": "Live Science",
-      "source_id": "live_science",
-      "published_at": "2026-06-23T15:00:00Z",
-      "summary": "People in China's northern megacities have 74 times less fresh water than the average American \u2014 so the Chinese government has built the world's largest water diversion project, with the most ambitious and dangerous route still to come.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/EfJMvDCS9dCNCkAdagEfS3-1280-80.jpg"
-    },
-    {
-      "id": "70248328b8a2711115396504eb949ecad64b0cd890a8d2452b1b29b8e678d898",
-      "title": "'Rick and Morty' cast talk vocal health, hot viscous liquids, and their favorite season 9 moments (interview)",
-      "url": "https://www.space.com/entertainment/space-movies-shows/rick-and-morty-cast-talk-vocal-health-hot-viscous-liquids-and-their-favorite-season-9-moments-interview",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T15:00:00Z",
-      "summary": "'With all the wacky hijinks that take place, we\u2019re in for a really amazing season and some real good science fiction.'",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/ZZivzwr3Bo34aCHmurBZwJ-1280-80.jpg"
-    },
-    {
-      "id": "b59a87a7ce37aedebc52f28f672fbc3affee822de0e2ecb5838a05ea3dd10864",
-      "title": "Ignite a child's imagination with the stars: Our expert-picked Astronaut Galaxy Star Projector is a Prime Day steal at just $25",
-      "url": "https://www.space.com/entertainment/space-toys-lego/ignite-a-childs-imagination-with-the-stars-our-expert-picked-astronaut-galaxy-star-projector-is-a-prime-day-steal-at-just-25-dollars",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T14:07:34Z",
-      "summary": "After the historic Artemis 2 crew looping around the moon back in April, kids everywhere are eager to follow in their footsteps. This Astronaut star projector is the perfect way to bring the wonder of their new heroes home, and with this Prime Day deal, it\u2019s an absolute bargain.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/qo7uQDrunALmiYPc4mVVSM-1280-80.jpg"
-    },
-    {
-      "id": "513916b1fab7f030614f5c74685ffdd5dc7ac5221267896522ebe577a81c6d5e",
-      "title": "SpaceX Dragon says goodbye to the ISS | Space photo of the day for June 23, 2026",
-      "url": "https://www.space.com/space-exploration/international-space-station/spacex-dragon-says-goodbye-to-the-iss-space-photo-of-the-day-for-june-23-2026",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T14:00:00Z",
-      "summary": "The cargo spacecraft catches the sunlight as it departs its visit to the space station.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/PBbK5cbfaxAYTPvKtDV2V6-1280-80.jpg"
-    },
-    {
-      "id": "708b4eab7d29290f4d7cfe31b53f176c8bc77f26c24bb637eec71a746fad69a7",
-      "title": "Searching for alien life: New model could help scientists home in on habitable exoplanets",
-      "url": "https://www.space.com/space-exploration/search-for-life/searching-for-alien-life-new-model-could-help-scientists-home-in-on-habitable-exoplanets",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T13:00:00Z",
-      "summary": "A new exoplanet model screens rocky worlds by their ability to retain atmospheres over geologic timescales, helping narrow the search for potentially habitable planets beyond Earth.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/5x5aUWmKjzPZgMowaVS44V-1280-80.jpg"
-    },
-    {
-      "id": "02b97a41664ea982565acaab51ac0fadddfefaeb5a4458e8149b8c379d8fdb90",
-      "title": "This 'improbable' exoplanet system is so wonky because of a weird object within",
-      "url": "https://www.space.com/astronomy/exoplanets/this-improbable-exoplanet-system-is-so-wonky-because-of-a-weird-object-within",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T10:00:00Z",
-      "summary": "\"This discovery provides a crucial insight into how planets form even around massive, eccentric objects.\"",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/FMixzoXuSmCKBHvcgGVga6-1280-80.png"
-    },
-    {
-      "id": "f02efa12a62b6bcfbd0ae61beeb923bd7d0e2b41bd96223c66ff6f7715a841ec",
-      "title": "This beginner-friendly travel telescope is the reason I turned into a skywatcher",
-      "url": "https://www.space.com/stargazing/skywatching-kit/this-beginner-friendly-travel-telescope-is-the-reason-i-turned-into-a-skywatcher",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T09:51:39Z",
-      "summary": "Now, for around $80, you can get the same telescope in the Amazon Prime Day sales and join me in looking up at the stars.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/UqhRsDhjitR59hpMoNRHZe-1280-80.jpg"
-    },
-    {
-      "id": "fe596791153ed1eff18cb17a78b32a39d170297ca27f673be952c6f61cb27fa4",
-      "title": "9 of the best technology conspiracy theories",
-      "url": "https://www.livescience.com/technology/the-best-technology-conspiracy-theories",
-      "source": "Live Science",
-      "source_id": "live_science",
-      "published_at": "2026-06-23T09:30:00Z",
-      "summary": "From covert government surveillance to wireless signals transmitting viruses, tech-centric conspiracy theories have been propagating wildly in recent years. Most of them are completely unfounded \u2014 but not all.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/feaRggMM9KeddGrdTedhKX-1280-80.jpg"
-    },
-    {
-      "id": "9f0e9a31b51ac0a9aad0a79bfadf5826e6344c528e3a61294c408cb3c1a4a7a6",
-      "title": "Bizarre 'bull's-eye' cloud rings appear above erupting volcano on Atlantic island \u2014 Earth from space",
-      "url": "https://www.livescience.com/planet-earth/volcanoes/bizarre-bulls-eye-cloud-rings-appear-above-erupting-volcano-on-atlantic-island-earth-from-space",
-      "source": "Live Science",
-      "source_id": "live_science",
-      "published_at": "2026-06-23T07:00:00Z",
-      "summary": "A 2021 satellite photo shows an unusual series of concentric cloud rings that appeared directly above an erupting volcano on La Palma in Spain's Canary Islands.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/pqxY6S7MnVs2VjEKwnEikj-1280-80.jpg"
-    },
-    {
-      "id": "be6fb5bfe4978114d58639e6c9b2812231ce912be38d11061f9cd64325492644",
-      "title": "Nepal\u2019s new science ministry must strengthen scientific capacity",
-      "url": "https://www.nature.com/articles/d41586-026-01970-2",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01970-2\">doi:10.1038/d41586-026-01970-2</a></p>Nepal\u2019s new science ministry must strengthen scientific capacity",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "a86b80e230c9f08656e33d80651fb1f3732a131948c1678a8199fd9299ddec86",
-      "title": "Academic success still assumes uninterrupted careers",
-      "url": "https://www.nature.com/articles/d41586-026-01971-1",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01971-1\">doi:10.1038/d41586-026-01971-1</a></p>Academic success still assumes uninterrupted careers",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "239796bf29c26c2340a79467ce30eea04aab3846d22c3e9a26e505724b8dc5d7",
-      "title": "The halo effect: how academic hierarchy undermines peer review and enables fraud",
-      "url": "https://www.nature.com/articles/d41586-026-01969-9",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01969-9\">doi:10.1038/d41586-026-01969-9</a></p>The halo effect: how academic hierarchy undermines peer review and enables fraud",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "562f62ca3c2fda9a833d7ec5fdc080e7f3069554529399f429ae8741a34752ca",
-      "title": "Do not leave fungi out of impact assessments",
-      "url": "https://www.nature.com/articles/d41586-026-01972-0",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01972-0\">doi:10.1038/d41586-026-01972-0</a></p>Do not leave fungi out of impact assessments",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "a9e1c2fd97eb33291c30fb91d1144afc041fa6507a0a5c498265451a03c8e722",
-      "title": "A 1970s patent that changed the course of commercial biotechnology",
-      "url": "https://www.nature.com/articles/d41586-026-01812-1",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01812-1\">doi:10.1038/d41586-026-01812-1</a></p>The scientific community awaits a patent for recombinant DNA technology, and experimentation with an anaesthetic from puffballs, in our weekly dip into Nature\u2019s archive.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "59ba18b1a3863783f8d227ef0747a76a3eae5bed9c1c3e6bfab6c6755824a6a2",
-      "title": "Silicon Valley\u2019s vision for global AI is flawed: each country needs its own blueprint",
-      "url": "https://www.nature.com/articles/d41586-026-01951-5",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01951-5\">doi:10.1038/d41586-026-01951-5</a></p>From energy grids to language performance, emerging economies are exposing the limits of today\u2019s artificial-intelligence strategy as it expands globally.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "5d1e4429754831f1712447bf31f5043a58a2f2632680b395756f726e3ff50f8b",
-      "title": "Europe as science superpower: what it will take to rival the US and China",
-      "url": "https://www.nature.com/articles/d41586-026-01955-1",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01955-1\">doi:10.1038/d41586-026-01955-1</a></p>Amid chaos in US science and geopolitical turmoil, Europe wants to position itself as a research haven \u2014 but questions about funding and innovation remain.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "36b1f223e8eae2ffff2ae40f8bab3a41f45226c0ee5bb062592a4951ab670ef5",
-      "title": "How should I respond to race-based exclusion in my lab?",
-      "url": "https://www.nature.com/articles/d41586-026-01130-6",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01130-6\">doi:10.1038/d41586-026-01130-6</a></p>A researcher in Europe feels left out of their team and held to different standards from their colleagues. How can they challenge exclusion without risking their position?",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "d6518fc76af841930a64e18521bd789531a45c384da67c7b990a01bc309fd390",
-      "title": "Europe must seize the moment to lead on free and open science",
-      "url": "https://www.nature.com/articles/d41586-026-01953-3",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01953-3\">doi:10.1038/d41586-026-01953-3</a></p>An under-appreciated research powerhouse, Europe has a responsibility to champion democratic science that is accessible to all the world\u2019s research talent.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "b39fb03b31133f40b50029b84e588ddecf2172098d2c4965c9877302233b409d",
-      "title": "Making samples one billion times bigger lets simple microscopes pinpoint amino acids",
-      "url": "https://www.nature.com/articles/d41586-026-01842-9",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/d41586-026-01842-9\">doi:10.1038/d41586-026-01842-9</a></p>Stretching protein samples in all directions pulls molecules farther apart, allowing them to be visualized using only light microscopy.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "26064f91240fdb2a937c005db0fbe598d25212b8de0972b9483129ed15d4bc48",
-      "title": "Mapping and engineering the human cell\u2013cell interactome",
-      "url": "https://www.nature.com/articles/s41587-026-03177-2",
-      "source": "Nature Biotechnology",
-      "source_id": "nature_biotechnology",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature Biotechnology, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41587-026-03177-2\">doi:10.1038/s41587-026-03177-2</a></p>Di Carlo and colleagues discuss technologies required to map and engineer the human cell\u2013cell interactome and the therapeutic avenues such an atlas could unlock.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "21252fd660bafc18486a9b88c932983faa7701e864042366c360d97037da594d",
-      "title": "Efficient generation of epitope-targeted antibodies with Germinal",
-      "url": "https://www.nature.com/articles/s41587-026-03187-0",
-      "source": "Nature Biotechnology",
-      "source_id": "nature_biotechnology",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature Biotechnology, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41587-026-03187-0\">doi:10.1038/s41587-026-03187-0</a></p>Germinal achieves epitope-targeted, de novo complementarity-determining region design with high experimental success rates.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "33f62624b1f2e390a806d2891fae16fc5b566c3edb52688d8326435a9e58053f",
-      "title": "Self-supervised cross frame-rate event-frame depth learning without ground truth",
-      "url": "https://www.nature.com/articles/s41598-026-55770-9",
-      "source": "Scientific Reports",
-      "source_id": "scientific_reports",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Scientific Reports, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-55770-9\">doi:10.1038/s41598-026-55770-9</a></p>Self-supervised cross frame-rate event-frame depth learning without ground truth",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "3e4fb7a90846baf062481cd3ca46bea7ae2c8bc9c0a68e5b8bee10fc9fcdf6f1",
-      "title": "High-temporal-resolution slope-aspect deformation extraction and evolution analysis of the Xiongba landslide group based on time-series InSAR and unscented Kalman filter",
-      "url": "https://www.nature.com/articles/s41598-026-54884-4",
-      "source": "Scientific Reports",
-      "source_id": "scientific_reports",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Scientific Reports, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-54884-4\">doi:10.1038/s41598-026-54884-4</a></p>High-temporal-resolution slope-aspect deformation extraction and evolution analysis of the Xiongba landslide group based on time-series InSAR and unscented Kalman filter",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "c03019b25b4800dd4b66f9bb5cbe9f1325e13b3e8f9c3bae2f4bbdda712cb62b",
-      "title": "Retraction Note: Sub-second periodicity in a fast radio burst",
-      "url": "https://www.nature.com/articles/s41586-026-10799-8",
-      "source": "Nature",
-      "source_id": "nature",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41586-026-10799-8\">doi:10.1038/s41586-026-10799-8</a></p>Retraction Note: Sub-second periodicity in a fast radio burst",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "b828620c8c72d7b3da325d77cef49de8dc8118eb52f40bc3f29b4f6a327d4a97",
-      "title": "A potential intrinsic magnetic field for the Neptunian moon Triton",
-      "url": "https://www.nature.com/articles/s41550-026-02869-8",
-      "source": "Nature Astronomy",
-      "source_id": "nature_astronomy",
-      "published_at": "2026-06-23T00:00:00Z",
-      "summary": "<p>Nature Astronomy, Published online: 23 June 2026; <a href=\"https://www.nature.com/articles/s41550-026-02869-8\">doi:10.1038/s41550-026-02869-8</a></p>Modelling of the thermal and magnetic evolution of Neptune\u2019s moon Triton indicates that it might possess an as-yet-undetected magnetic field, generated by a dynamo in its metallic core. If this field does indeed exist, it could complicate efforts to search for a sub-surface ocean on Triton using magnetic induction.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "3d01c757303545202687a453d67176749badad141c66997a5e42261d0ee9f83a",
-      "title": "SpaceX launches its 1st 'Starfall' reentry capsule in early morning Falcon 9 liftoff",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/spacex-launching-its-1st-starfall-reentry-capsule-early-on-june-23-watch-it-live",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T22:00:00Z",
-      "summary": "SpaceX launched its first-ever Starfall spacecraft,  demonstrating the new vehicle's ability to operate in space and return safely back to Earth.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/xxodMemiBQsEELGsWETNHi-1280-80.jpg"
-    },
-    {
-      "id": "363ed19f7b27cf16c360419b36367f69524be6463b84cde4b09f0b26223fd3aa",
-      "title": "One underlying cause of inflammatory bowel disease pinpointed in new study",
-      "url": "https://www.livescience.com/health/immune-system/one-underlying-cause-of-inflammatory-bowel-disease-pinpointed-in-new-study",
-      "source": "Live Science",
-      "source_id": "live_science",
-      "published_at": "2026-06-22T21:00:00Z",
-      "summary": "Autoantibodies may be disabling one of the body's anti-inflammatory brakes in some IBD patients, a new study finds.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/SHvwEBYDdLMYsW9EjokSoH-1280-80.jpg"
-    },
-    {
-      "id": "a93809ca21476e614eb95116c2c12ff1496ef41d4d2a3b1261f99d858ddfb5a4",
-      "title": "This ball of stars named Terzan 5 may be one of the Milky Way's original building blocks",
-      "url": "https://www.space.com/astronomy/stars/this-ball-of-stars-named-terzan-5-may-be-one-of-the-milky-ways-original-building-blocks",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T21:00:00Z",
-      "summary": "Terzan 5 is a globular cluster with some unusual properties that have led a team of astronomers to suspect that it is more than meets the eye.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/bFEoJfyGd5ALgTfzQtXS4L-1280-80.png"
-    },
-    {
-      "id": "12960f22156f554aefd90ec4f76e2ce853b2d63ec3eedcce6a2266134434744d",
-      "title": "NASA's Roman Space Telescope arrives in Florida ahead of SpaceX Falcon Heavy launch this summer",
-      "url": "https://www.space.com/space-exploration/launches-spacecraft/nasas-roman-space-telescope-arrives-in-florida-ahead-of-spacex-falcon-heavy-launch-this-summer",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T20:00:00Z",
-      "summary": "The Nancy Roman Grace Telescope has arrived at NASA's Kennedy Space Center for final preparations ahead of launching to join the orbital ranks of Hubble, Webb, Spitzer and Chandra.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/f9KFdLFrUaPWVxmnbWexBF-1280-80.jpg"
-    },
-    {
-      "id": "411700ec716947512d4e10fad1ca41ee539445e4d4ac65afbd60cf9296327333",
-      "title": "'Project Hail Mary' is streaming now on MGM+, and you can watch for just $0.99 for a limited time",
-      "url": "https://www.space.com/entertainment/space-movies-shows/project-hail-mary-is-streaming-now-on-mgm-and-you-can-watch-for-just-usd0-99-for-a-limited-time",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T19:00:00Z",
-      "summary": "Ryland and Rocky's epic voyage to save the galaxy finally blasts off into the streaming-verse",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/zDTvxLxTTbbLb6bhUc6mBm-1280-80.jpg"
-    },
-    {
-      "id": "ab03a3ace1a26c2e06f259698bbf74c234a8cf55135e288c574f6574a53dfa3d",
-      "title": "Dark energy is still accelerating the expansion of the universe, and astronomers are relieved. 'Thankfully, we have averted this crisis'",
-      "url": "https://www.space.com/astronomy/dark-universe/dark-energy-is-still-accelerating-the-expansion-of-the-universe-and-astronomers-are-relieved-thankfully-we-have-averted-this-crisis",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-22T18:02:36Z",
-      "summary": "The expansion of the universe is still accelerating under the influence of dark energy, despite recent claims to the contrary averting a cosmological crisis, according to new research.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/GMtABHdsnpei2A59kmeADi-1280-80.png"
-    },
-    {
-      "id": "e8f9ae16c2b0bed64b1a2c6e8a5e3b20fb7d214b48fb973754697158f8478cd4",
-      "title": "AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection",
-      "url": "https://arxiv.org/abs/2606.23689v1",
-      "source": "arXiv API - Machine Learning",
-      "source_id": "arxiv_cs_lg",
-      "published_at": "2026-06-22T17:59:55Z",
-      "summary": "Learning robust dexterous grasping requires real-world data that records the physical outcomes of grasp attempts. Such data is hard to obtain at scale: teleoperation yields valid physical outcomes but is slow and operator-biased, while simulation-based generation is cheap and scalable but cannot certify contact validity. A natural solution is to generate candidate grasps and verify them on real hardware, but this scales only if the entire collection loop (perception, execution, labeling, and reset) runs without human intervention. We present AutoDex, an automated real-world data-collection system that closes this loop: for each candidate from a replaceable generator, it localizes the object under severe hand-object occlusion with dense 20-camera perception, executes collision-monitored robot motions, labels lift-and-hold success or failure, and actively resets the object between trials to expose additional candidates across stable poses. The result is a reusable database of physically labeled grasp trials that downstream systems can query by retrieval and feasibility filtering. Using AutoDex, we collect 3,593 grasp trials across Allegro and Inspire hands on 100 diverse objects, with synchronized multi-view observations and robot-state logs. For a matched 500-trajectory collection, AutoDex requires 10.3 h versus 49.4 h for teleoperation, yielding a 4.8x throughput improvement, and grasps retrieved from the AutoDex-validated database succeed 76% versus 34% for simulation-only validation. Code and data will be publicly released.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "8985793f9d5be9857d648162541865b7d20b274c57d71238fa991ffabde4ca12",
-      "title": "Randomized YaRN Improves Length Generalization for Long-Context Reasoning",
-      "url": "https://arxiv.org/abs/2606.23687v1",
-      "source": "arXiv API - Computation and Language",
-      "source_id": "arxiv_cs_cl",
-      "published_at": "2026-06-22T17:59:53Z",
-      "summary": "Large language models (LLMs) are typically pretrained on short sequences and then extended to work on longer sequences with additional training. However, such LLMs still struggle to further generalize to very long sequences. We propose Randomized YaRN, a training method that improves length generalization by combining YaRN-based positional extrapolation with randomized positional encoding and a length curriculum. During training on short context data, tokens are assigned YaRN positional encodings sampled from a larger position range, exposing the model to out-of-distribution positional representations even on short-context inputs. We evaluate Randomized YaRN on two challenging long-context reasoning benchmarks, BABILong and Multi-Round Coreference Resolution (MRCR). When training on data with <8K context, Randomized YaRN consistently improves reasoning performance on context lengths from 16K to 128K and outperforms standard fine-tuning, with the largest gains appearing at far out-of-distribution lengths. Our results suggest that progressively exposing models to OOD positional distributions provides an effective recipe for generalizable long-context reasoning.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "3b95acd97ac61a161e02536204817f765b3c95c9e06f9eca737003d86936df4a",
-      "title": "CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation",
-      "url": "https://arxiv.org/abs/2606.23680v1",
+      "id": "22398ee106aa64a234780dfc9a817aa4741572a51dff88fc53079080b438b4a6",
+      "title": "FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction",
+      "url": "https://arxiv.org/abs/2606.24679v1",
       "source": "arXiv API - Computer Science AI",
       "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:59:20Z",
-      "summary": "Humanoid loco-manipulation is often simplified into a stop-and-go process: walking to an object, stopping to manipulate it, and then resuming locomotion. It also commonly relies on low degree-of-freedom (DoF) end effectors that behave like an open-close grasp primitive. We introduce CoorDex, a learning pipeline that converts high-dimensional body and dexterous hand control into coordinated latent residual control, enabling high-DoF dexterous loco-manipulation on the move. Starting from simulated whole-body and hand demonstrations, CoorDex trains privileged motion tracking teachers for the humanoid body and dexterous hand, distills them into proprioception-conditioned latent priors, and uses the frozen priors as the action space for downstream residual reinforcement learning. A coordinated latent residual policy composes these priors through shared task context and separate body-hand residual heads, preserving natural whole-body motion while improving finger-level contact reliability. CoorDex enables a Unitree G1 humanoid with a 20-DoF WUJI hand to execute dexterous manipulation while in motion, including non-stop bottle grasping and carrying, fridge door opening on the move, and cube pick-and-turn. Ablations on the walk-grasp-carry task show that joint-space PPO, joint-space hand control, and monolithic latent prediction all fail under the same reward budget, while the latent-prior interface and coordinated residual structure make high-dimensional contact-rich loco-manipulation trainable. Project Page: https://skevinci.github.io/coordex/",
+      "published_at": "2026-06-23T15:10:00Z",
+      "summary": "Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computationally difficult because operator sequences are combinatorial and end-to-end evaluation is expensive. Existing state-of-the-art (SOTA) Multi-DQN methods still face three key limitations: decoupled value estimators weaken long-horizon credit assignment, dataset context is only weakly injected into the policy, and exploration is inefficient in a sparse search space with many invalid states. To address these issues, we propose FlowPipe, a unified framework that formulates pipeline synthesis as conditional probabilistic flow generation over a directed acyclic graph. FlowPipe uses Conditional Generative Flow Networks (C-GFlowNets) with a Trajectory Balance objective to connect terminal validation rewards with early pipeline decisions. It further introduces Deep Semantic Modulation through Feature-wise Linear Modulation (FiLM), allowing LLM-derived logical priors to condition the policy's internal activations according to dataset semantics. In addition, FlowPipe incorporates failure awareness into the flow objective to avoid invalid states and concentrate search on high-potential regions. Experiments on two benchmark suites with 74 real-world datasets show that FlowPipe outperforms SOTA baselines, improving accuracy by 11.96% on average and achieving 12.5x faster training convergence. Source code is available at https://github.com/KunyuNi/FlowPipe.",
       "category": "science",
       "image": null
     },
     {
-      "id": "7f5c847bdf55c1d846c0461780c0725316701a164191375a05f8e522a4bed060",
-      "title": "Semantic Browsing: Controllable Diversity for Image Generation",
-      "url": "https://arxiv.org/abs/2606.23679v1",
+      "id": "f3077ee8a089bb1d126bce9a028119385fcfaaf55c62932f9c9a95029394cd26",
+      "title": "Cost-Optimal Decision Diagrams for Stochastic Boolean Function Evaluation",
+      "url": "https://arxiv.org/abs/2606.24672v1",
       "source": "arXiv API - Computer Science AI",
       "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:59:17Z",
-      "summary": "Modern text-to-image models excel in visual fidelity and prompt adherence. However, this strict adherence comes at the cost of diversity: generated samples tend to collapse into a single visual interpretation. Existing methods to improve diversity produce outputs driven by incidental variations rather than meaningful design choices. This motivates a new variant of the diversity task where structure is enforced on the generated samples. We introduce a method for controlled diversity that enables Semantic Browsing, where users can navigate structured image galleries and experience creative exploration through a systematic traversal of meaningful, interpretable axes of variation. Achieving this level of semantic control requires a deep understanding of the scene. We exploit the fact that recent text-to-image models are trained on elaborated captions, effectively decoupling semantic decision-making from pixel generation. This enables a paradigm shift: instead of relying on stochastic variation within the text-to-image model, we induce diversity directly at the text level. By leveraging rich textual representations, we allow a Vision Language Model (VLM) to operate on the full scene context. To overcome the generic outputs typical of standard VLMs, we employ an agentic workflow that explicitly enforces structured variation attuned to the original prompt. We demonstrate that our method produces diverse and navigable design spaces where every variation corresponds to a specific, user-understandable semantic decision.",
+      "published_at": "2026-06-23T15:04:51Z",
+      "summary": "In many decision-making scenarios, acquiring information incurs different costs. We consider the problem of constructing a deterministic evaluation strategy that minimizes the expected cost of evaluating a propositional formula under variable costs and a probability distribution over truth assignments. We present a branch-and-bound algorithm with variable-selection heuristics, pruning, and caching. To the best of our knowledge, it is the first practical exact algorithm for this level of generality. Experiments on random instances demonstrate scalability and quantify the efficiency-quality trade-off of a greedy beam-search variant. We additionally evaluate a structured heart-disease diagnosis instance. Finally, we prove that the problem is $\\#P$-hard and contained in $\\mathrm{PSPACE}$.",
       "category": "science",
       "image": null
     },
     {
-      "id": "75ac058e06850a186ddca7c48ba81c40db7712f02ab256f85f959e52c8ea7263",
-      "title": "AIR: Adaptive Interleaved Reasoning with Code in MLLMs",
-      "url": "https://arxiv.org/abs/2606.23678v1",
+      "id": "bdd6970eb1820eeff8cd39d16492ff8e24b23ff3dd07f52dec3708bd5b078990",
+      "title": "LaGO: Latent Action Guidance for Online Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2606.24669v1",
       "source": "arXiv API - Computer Science AI",
       "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:58:54Z",
-      "summary": "Following the paradigm shift initiated by OpenAI o3, interleaved reasoning with code to enhance multimodal large language models (MLLMs) has become a pivotal research frontier. The existing literature focuses primarily on tool-use within vision-perception tasks. However, such approaches typically rely on predefined heuristics for visual manipulation and are inherently incapable of addressing numerical computation problems due to their exclusive focus on visual operations. This paper empowers MLLMs with adaptive interleaved reasoning capabilities through extended reinforcement learning training on code-augmented complex numerical computation tasks. To this end, we propose a comprehensive three-component solution consisting of: a two-stage cold-start data construction pipeline, data filtering strategies for RL dataset curation, and an adaptive tool-invocation strategy leveraging a group-constrained reward function for interleaved reasoning trajectories. Extensive experiments demonstrate that after Reinforcement Learning training with the group-constrained reward function, performance improves by an average of 6.1 percentage points (pp) on evaluation benchmarks. Specifically, the accuracy for interleaved reasoning samples increases by 9.9 pp, and the overall success rate of tool-use exceeds 95%. Our data and code are available at: https://github.com/CongHan0808/AIR.git.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "7f09e4edcf8c71dbae24511559f0715c738d5bfe28b1d33a9066a5c1ca51ccd4",
-      "title": "Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?",
-      "url": "https://arxiv.org/abs/2606.23676v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:58:52Z",
-      "summary": "AdamW is the de facto optimizer for training large language models (LLMs), yet the theory behind it still lives mostly in finite-variance regimes. This is increasingly unsatisfying, as empirical evidence indicates that stochastic gradient noise in LLM pretraining is typically heavy-tailed. Recent work shows that sign-based optimizers such as Lion and Muon achieve sharp heavy-tailed rates, and that AdaGrad can also converge under heavy-tailed noise. However, no rigorous convergence theory for AdamW has yet been established in this regime. Can AdamW converge under the same heavy-tailed assumptions, or does its second-moment accumulator create a genuine obstruction? We formulate this as an open problem, prove a positive weighted-metric benchmark, and give a corridor lower-bound mechanism showing how denominator memory can hide large gradients.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "520f36cf5e6c01dd710b91c05600759d03fee0d14caa984a02440160ec03538d",
-      "title": "PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support",
-      "url": "https://arxiv.org/abs/2606.23673v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:57:15Z",
-      "summary": "Mental health assessment commonly relies on isolated screening instruments or data-driven models that often lack interpretability and multi-dimensional integration. Existing approaches frequently focus on individual indicators such as depression or anxiety while providing limited support for comprehensive and explainable decision-making. To address this limitation, this study proposes PsyBridge, a hybrid intelligent decision-support framework designed for multi-dimensional mental health assessment through the integration of clinically validated screening tools, cognitive evaluation, and personality profiling within a unified architecture. The proposed framework incorporates PHQ-9 and GAD-7 assessments alongside cognitive and behavioural indicators using a modular design and a weighted aggregation mechanism to generate interpretable mental health risk classifications and recommendations. To evaluate the framework, a semi-synthetic dataset consisting of 500 patient profiles representing varying severity levels was constructed based on clinically grounded score distributions. Experimental results demonstrate that PsyBridge achieves an overall accuracy of 0.84, outperforming standalone PHQ-9 and GAD-7 assessments while improving precision, recall, and F1-score. Sensitivity analysis and ablation studies further indicate that integrating cognitive and personality components contributes to more stable classification performance and reduces inconsistencies in moderate-risk prediction. The findings suggest that PsyBridge provides a scalable and interpretable approach for AI-assisted mental health decision support, particularly within digital healthcare and telehealth environments.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "a9022483e278d6b7195641ab8631674adf194dc392a5474e00ce8be5659d198d",
-      "title": "Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles",
-      "url": "https://arxiv.org/abs/2606.23672v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T17:57:08Z",
-      "summary": "This paper presents our algorithmic innovations for the NVIDIA Nemotron Model Reasoning Challenge, focusing on Bit Manipulation Puzzles. In this task, the objective is to discover a hidden logical rule transforming input binary strings to outputs, then apply it to unseen inputs. Large Language Models (LLMs) notoriously struggle here; traditional methods force them to simulate complex boolean logic and arithmetic, leading to hallucinations. Furthermore, the search space of bitwise operations (combinations of shifts, rotations, and logic gates) suffers from a severe combinatorial explosion. To overcome this computational intractability, we present a novel approach that abandons arithmetic logic entirely in favor of string similarity, structured search, and autonomous error recovery.\n  Our core contributions are: 1. Bases and Truth Table Formulation: We reframe logic-gate deduction into a base-selection task, leveraging string similarity (minimal bit flips) to isolate primitive transformations (\"bases\") and deduce truth tables without complex arithmetic. 2. Backtracking DFS and Error Recovery: We formalize a search process that tests candidate bases, detects logical collisions across examples, and backtracks upon failure to perform robust error recovery. 3. Bit Tokenization and Interactive Reasoning SFT: We force the tokenizer to encode binary strings as individual single-bit tokens. We use dynamic masking to simulate external oracle feedback, training the model to hypothesize, self-evaluate, and backtrack natively.\n  Evaluated on bit manipulation puzzles, our approach achieved over 96% validation accuracy. This represents the highest performance in this category, driving our 7th Place overall finish in the contest.",
+      "published_at": "2026-06-23T15:03:31Z",
+      "summary": "Large language models (LLMs) have shown strong potential for planning and sequential decision-making, but prior work often relies on using them as direct controllers, which requires precise action generation and can be unreliable in practice. This paper proposes Latent Action Guidance for Online Reinforcement Learning (LaGO), a framework that uses a pretrained LLM as a latent action prior to softly guide online policy optimization, rather than treating the LLM as an explicit planner or controller. Experiments on both a discrete-control benchmark, CLEVR-Robot, and a continuous-control benchmark, Meta-World, demonstrate that LaGO consistently improves both reward and success rate over Vanilla PPO. In particular, LaGO increases the average success rate from 15.1% to 27.2% on CLEVR-Robot and from 2.7% to 15.2% on Meta-World. Our analysis further shows that stronger pretrained LLMs provide more effective guidance, suggesting that LLM knowledge can improve planning and online decision-making.",
       "category": "science",
       "image": null
     }
