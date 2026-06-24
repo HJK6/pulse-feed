@@ -1,7 +1,7 @@
 {
   "key": "space",
   "label": "Space",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
     {
       "id": "648a6dfb4a76cd346e34e14d161c03b1e0b017009c571fd40fe85fe04f5e5e31",
@@ -112,6 +112,17 @@
       "summary": "Not much is known about Starfall, SpaceX's new delivery system, but an assessment published in May revealed its intended purpose",
       "category": "space",
       "image": "https://images.newscientist.com/wp-content/uploads/2026/06/23163514/SEI_302542725.jpg"
+    },
+    {
+      "id": "a9257a7da1164034dd7e6b8e38c2255e33202bae613803e4df8cbc50d6d2bbe5",
+      "title": "Dirac-Frenkel dynamics with inertia for nonlinearly parametrized solutions of evolution problems",
+      "url": "https://arxiv.org/abs/2606.24769v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T16:30:42Z",
+      "summary": "Even when Dirac-Frenkel dynamics determine a well-defined evolution in function space, the corresponding parameter dynamics can be non-unique or ill-conditioned for redundant nonlinear parametrizations such as neural networks or mixture models. We propose to add inertia to the Dirac-Frenkel dynamics and show that this allows useful parameter velocity information to persist from the past trajectory in directions that are weakly informed, while well-informed parameter velocity directions continue to follow the Dirac-Frenkel dynamics. We prove that the inertial formulation yields well-posed parameter dynamics and provide a posteriori error bounds. After time discretization, the method requires the solution of the same type of regularized linear least-squares problem as standard Dirac-Frenkel dynamics, but with the previous velocity appearing as an anchor. Numerical experiments demonstrate the increased robustness obtained with inertia.",
+      "category": "space",
+      "image": null
     },
     {
       "id": "9943488ec0d74fd5df6087411965e67a3449c76da054fef8c9560343a9f9172c",
@@ -649,17 +660,6 @@
       "source_id": "arxiv_cs_cl",
       "published_at": "2026-06-22T14:19:57Z",
       "summary": "Pretrained text embeddings are increasingly used as representational maps, yet high category separability does not imply that their geometry recovers expert-defined structure. We study this problem in mental-health-related language, where symptom relations provide an external reference and online communities introduce strong domain, affective, stylistic, and discourse confounds. Using 28 Reddit communities, we compare pretrained and supervised fine-tuned Qwen3 embedding spaces at two scales (0.6B and 4B). We construct category prototypes, evaluate their representational dissimilarity matrices against an expert symptom matrix with representational similarity analysis, and complement this global test with prototype-based typicality and multi-baseline confound controls. Pretrained embeddings show measurable alignment with expert structure within the mental-health subset; fine-tuning strengthens this alignment most at the finest category level; and larger scale improves both zero-shot alignment and supervision-induced gains. Residual alignment remains substantial after controlling for VAD, LIWC, lexical style, and topic-distribution structure. These results suggest that LLM embeddings can recover expert-relevant category geometry, but this recovery is level-dependent and should be tested against explicit confounds rather than inferred from classification alone.",
-      "category": "space",
-      "image": null
-    },
-    {
-      "id": "668d12a20ef6a828361e2e3c4f7ef7a1d9b29a06efa9821e4b249c5092738796",
-      "title": "Distribution-Aware Diffusion-LLM for Robust Ultra-Long-Term Time Series Forecasting",
-      "url": "https://arxiv.org/abs/2606.23391v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-22T14:18:28Z",
-      "summary": "Time series forecasting is a fundamental machine learning task. Recent work has explored Large Language Models (LLMs) for this purpose due to their strong generalization, pattern recognition, and zero-shot or few-shot capabilities. Despite their suitability for long-context learning, LLMs face challenges in multimodal settings: they lack calibrated probabilistic modeling for non-text data and struggle to align heterogeneous representations. To address these issues, we propose a new framework Diffusion-LLM that integrates a conditional diffusion model into an LLM-based forecasting pipeline. This joint design enables learning the conditional distribution of future data while improving semantic alignment in a shared latent space. We evaluate Diffusion-LLM on six long-term forecasting benchmarks, including ETT, Weather, and ECL. Our method consistently outperforms existing LLM-based baseline, achieving notable gains in ultra-long-term and few-shot forecasting and demonstrating the value of distribution-aware regularization for enhancing robustness and generalization in time series LLMs.",
       "category": "space",
       "image": null
     }

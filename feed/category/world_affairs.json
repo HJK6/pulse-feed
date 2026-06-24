@@ -1,8 +1,129 @@
 {
   "key": "world_affairs",
   "label": "World Affairs",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
+    {
+      "id": "cb6b586c3c33cfdae91e854ba0bfae9881ac2992ff06e17f584504c39a81cf2b",
+      "title": "South Korea says North Korean soldier in custody after crossing border: Yonhap",
+      "url": "https://www.straitstimes.com/asia/east-asia/south-korea-says-north-korean-soldier-in-custody-after-crossing-border-yonhap",
+      "source": "The Straits Times \u2014 Asia",
+      "source_id": "straitstimes_asia",
+      "published_at": "2026-06-24T04:16:00Z",
+      "summary": "<p>More than 34,000 North Koreans have escaped the isolated country to the South.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "35866b7d43611d6736c82251eb4388574e33cd33111501dda2248ad57f2e6e85",
+      "title": "Geopolitics and AI in spotlight at China\u2019s \u2018Summer Davos\u2019",
+      "url": "https://www.straitstimes.com/asia/east-asia/geopolitics-and-ai-in-spotlight-at-chinas-summer-davos",
+      "source": "The Straits Times \u2014 Asia",
+      "source_id": "straitstimes_asia",
+      "published_at": "2026-06-24T04:10:00Z",
+      "summary": "<p>Recent high-level engagement between the Chinese and US presidents is reason for optimism.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "6715ef0a8360bd017984d1cd2da3c7cf2d5e86a5e8316eed9d6884f3d34d9bf8",
+      "title": "\"What About India?\" What Trump Said To JD Vance's Ukraine Peacekeeper Plan",
+      "url": "https://www.ndtv.com/world-news/russia-ukraine-war-news-jd-vance-india-peacekeeping-force-ukraine-proposal-donald-trump-11679270#publisher=newsstand",
+      "source": "NDTV \u2014 World",
+      "source_id": "ndtv_world",
+      "published_at": "2026-06-24T04:03:27Z",
+      "summary": "President Donald Trump, Prime Minister Narendra Modi (File)",
+      "category": "world_affairs",
+      "image": "https://c.ndtvimg.com/2026-02/sq3jqjs4_trump-modi_625x300_02_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "id": "346f55b1de3fa66067fc6d3d0deffa32f7be6ea59c87ea093f4d38d5d4ed4365",
+      "title": "China takes US crown on ranking of world\u2019s fastest supercomputers",
+      "url": "https://www.aljazeera.com/economy/2026/6/24/china-takes-us-crown-for-worlds-fastest-supercomputer?traffic_source=rss",
+      "source": "Al Jazeera English \u2014 All News",
+      "source_id": "aljazeera_en_all",
+      "published_at": "2026-06-24T04:01:42Z",
+      "summary": "China\u2019s LineShine overtakes US-based El Capitan as most powerful supercomputer, according to the TOP500 list.",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "a6860d147a612c313bf85537f4c4d825313c4073a3ab734a35fbb26df3b205a5",
+      "title": "Struggling European carmakers have options, none of them good",
+      "url": "https://www.ft.com/content/d6af558d-c6ff-4f1e-a92d-91b46084f405",
+      "source": "Financial Times \u2014 World (open feed)",
+      "source_id": "ft_world",
+      "published_at": "2026-06-24T04:00:29Z",
+      "summary": "Forging alliances with China would help the struggling sector offload some of its bloated costs. It may be the pick of a bad bunch",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "1ece3b1cc2c18b35bb1dc5e1fe21d0688cff316b40b7fd6ea5abefa2269b66b4",
+      "title": "Taiwan says warning time for any China attack is shortening",
+      "url": "https://www.straitstimes.com/asia/east-asia/taiwan-says-warning-time-for-any-china-attack-is-shortening",
+      "source": "The Straits Times \u2014 Asia",
+      "source_id": "straitstimes_asia",
+      "published_at": "2026-06-24T03:57:57Z",
+      "summary": "<p>The island's defence minister said its military needs to test if it can respond immediately to a war breaking out.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "02a022e82553734caf35560bdfec831dde27e602fb7b456042095abfa4e97c5a",
+      "title": "Dettol apologises after sexist ad backfires in China, sparks calls for boycott",
+      "url": "https://www.straitstimes.com/asia/east-asia/dettol-apologises-after-sexist-ad-backfires-in-china-sparks-calls-for-boycott",
+      "source": "The Straits Times \u2014 Asia",
+      "source_id": "straitstimes_asia",
+      "published_at": "2026-06-24T03:45:00Z",
+      "summary": "<p>A man in the ad declares he wants a woman who is \u201cclean\u201d and \u201cuntouched by other men\u201d.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "b3780c98bb873d327d0fe4c1a695bfbf551a8bbc40244bf844d7ba8edcd20dfe",
+      "title": "Disinfectant brand apologises after \u2018toxic men\u2019 advert backfires in China",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/disinfectant-brand-apologises-after-toxic-men-advert-backfires-in-china?traffic_source=rss",
+      "source": "Al Jazeera English \u2014 All News",
+      "source_id": "aljazeera_en_all",
+      "published_at": "2026-06-24T03:12:13Z",
+      "summary": "Dettol has apologised after an advert in China intended to challenge sexism was accused of reinforcing it.",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "599286be263ea79e1696b70607e7bb48b34f590631708ca870bc7afc54c288ad",
+      "title": "Race for robotaxi market arrives in London",
+      "url": "https://www.straitstimes.com/world/europe/race-for-robotaxi-market-arrives-in-london",
+      "source": "The Straits Times \u2014 World",
+      "source_id": "straitstimes_world",
+      "published_at": "2026-06-24T02:27:38Z",
+      "summary": "<p>Britain stands ahead of the European Union in the race to getting driverless cars on the road.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "94638e92e003de202d53f467a2354a32ec21818acc146c6a53d37df3bcca2399",
+      "title": "China outpacing Europe in drug innovation and development: Pfizer executive",
+      "url": "https://www.straitstimes.com/world/china-outpacing-europe-in-drug-innovation-and-development-pfizer-executive",
+      "source": "The Straits Times \u2014 World",
+      "source_id": "straitstimes_world",
+      "published_at": "2026-06-24T02:17:00Z",
+      "summary": "<p>The comments come as drugmakers and policymakers debate how to maintain Europe\u2019s competitiveness.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "2eb02291c84502786cf1c68c8e888449843ba432e08d74a9ade582565135cbde",
+      "title": "Russian-held Sevastopol, Moscow-controlled parts of Ukraine's Kherson grabble with power outages",
+      "url": "https://www.straitstimes.com/world/europe/russian-held-sevastopol-without-power-after-ukraine-strikes-moscow-installed-governor-says",
+      "source": "The Straits Times \u2014 World",
+      "source_id": "straitstimes_world",
+      "published_at": "2026-06-24T02:05:52Z",
+      "summary": "<p>June 24 - The city of Sevastopol in Russia-annexed Crimea and Moscow-held parts of the Ukrainian region of Kherson were facing power outages on Wednesday, the Kremlin-installed authorities said, adding to fuel shortages as Kyiv intensifies attacks.</p>",
+      "category": "world_affairs",
+      "image": null
+    },
     {
       "id": "31aafb99e81a4595b0d49a64bc5777c4ccb92d7345ef52f1b218494273ac4f46",
       "title": "North Korea's Kim claims progress on nuclear-armed navy as new warship is placed into service",
@@ -541,127 +662,6 @@
       "summary": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis",
       "category": "world_affairs",
       "image": "https://s.abcnews.com/images/US/wirestory_831adf749af121c0d2627b0501980ee8_4x3_384.jpg"
-    },
-    {
-      "id": "0aff40ff82c2c93c7734b9de5e5f61c3286596307f11c962926367405591b5ee",
-      "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T17:08:48Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\" rel=\"bookmark\">\n<span class=\"field field-title\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Lebanon&nbsp;and&nbsp;Israel&nbsp;began a fifth round of direct negotiations in Washington on Tuesday, with Beirut seeking to revive proposals for an Israeli withdrawal from southern Lebanon even as a new&nbsp;US-Iran&nbsp;diplomatic channel threatens to overshadow the talks.</p>\n\n<p>The three-day negotiations come after four previous rounds failed to produce a lasting ceasefire or bridge the wide gap between the two sides.</p>\n\n<p>Lebanon is expected to press for a timetable for an Israeli withdrawal, the return of hundreds of thousands of displaced people, the release of Lebanese prisoners and the beginning of reconstruction.</p>\n\n<p>Israel, meanwhile, has tied any withdrawal to the disarmament of Hezbollah and has insisted that its forces retain control of a large amount of land inside southern Lebanon until it is satisfied that the Lebanese army would prevent Hezbollah from rebuilding its military presence.</p>\n\n<p>But the negotiations are taking place in a markedly different diplomatic environment from the previous round earlier this month.</p>\n\n<h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</a></h3>\n\n<figure class=\"image\"><img alt=\"Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/hezbollah-funeral-lebanon-23-june-2026-afp.jpg.jpg?itok=498um05f\" />\n<figcaption>Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)</figcaption>\n</figure>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "71ee6a536392f43db4b0d5ec5f29873d1d132c84d7d21f11dcb97e8d943d709f",
-      "title": "Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T17:04:57Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Israel's ambassador to the US, Yechiel Leiter, described the fifth round of US-mediated ceasefire negotiations with Lebanon as a \u201ctrain wreck\u201d in a statement on Tuesday.</p>\n\n<p>\u201cI fear that the concept of \u2018deconfliction\u2019 is misplaced. The only issue is Hezbollah. Hezbollah must be defeated and removed from the equation,\u201d Leiter stated, adding that, instead, the Lebanese armed group \u201cfeels stronger and bolder\u201d.</p>\n\n<p>The ambassador also questioned whether unfrozen funds made available to Iran could be used to support Hezbollah.</p>\n\n<p>This comes after Hezbollah chief Naim Qassem on Tuesday called for a full, scheduled withdrawal of Israeli troops from Lebanon to allow for the Lebanese army to secure the area in the south of the country.</p>\n\n  <figure class=\"media-block\">\n  <div class=\"group-inner\">\n    <div alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" class=\"embedded-entity\">  <img alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/000_B4XF4DP.jpg\" width=\"1920\" />\n\n</div>\n\n    <figcaption>Israel's ambassador to the US, Yechiel Leiter, speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington DC, on 3 June 2026 (Oliver Contreras/AFP)</figcaption>\n  </div>\n</figure>\n\n\n<p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n\n<p><span><img alt=\"alt\" height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "31ca8421ed0a4660582e9ac186186d60880f964a332dd5e420dc6f0f07f4d88e",
-      "title": "Sharif warns of \u2018spoilers\u2019 attempting to sabotage US-Iran deal",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T16:55:36Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal\" rel=\"bookmark\">\n<span class=\"field field-title\">Sharif warns of \u2018spoilers\u2019 attempting to sabotage US-Iran deal</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Pakistani Prime Minister Shehbaz Sharif warned that some actors are trying to derail the process towards achieving a ceasefire deal between the US and Iran.</p>\n\n<p>\u201cThere are spoilers all over the world who want to scuttle this peace deal,\u201d Sharif said, without mentioning any specific countries or parties involved.</p>\n\n<p>\u201cThey don\u2019t want the Iranian nation, a great nation, to come out of the ashes of war and touch the zenith of glory,\u201d he added.</p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "a0f2080c0eff186acb0ebb513e62d176128091f5decbd8c60262f452fcbec93b",
-      "title": "Iran will never negotiate defensive ability, president says",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-never-negotiate-defensive-ability-president-says",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T16:53:39Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/iran-will-never-negotiate-defensive-ability-president-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Iran will never negotiate defensive ability, president says </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Iranian President Masoud Pezeshkian said that Iran will never negotiate their defensive ability with any country.</p>\n\n<p>Iran\u2019s missiles were not in the Memorandum of Understanding signed with the US and \u201cwill never be\u201d, Pezeshkian told reporters in a press conference in Islamabad after meeting with Pakistan\u2019s prime minister on Tuesday.</p>\n\n<p>He added that he believes regional peace and stability will only be achieved through honest discussions and intraregional cooperation.</p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "5ab3623690cbe1ab919471043ebba7defbaa44f6d23260e32682ad0226d6bdb9",
-      "title": "Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T16:42:18Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/rubio-us-iran-deal-iran-will-not-be-able-charge-tolls-hormuz-lebanon\" rel=\"bookmark\">\n<span class=\"field field-title\">Rubio on US-Iran deal: Iran will not be able to charge tolls on Hormuz, Lebanon ceasefire kept separate </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">US Secretary of State Marco Rubio said on Tuesday that Iran would not be allowed to charge a toll on ships passing through the Strait of Hormuz as part of any final agreement with the US.</p>\n\n<p>\u201cIt\u2019s an international waterway. No country is allowed to charge toll or fees on an international waterway. That\u2019s existing international law,\u201d Rubio told reporters as he landed in Abu Dhabi on the first leg of his tour of the Gulf nations.</p>\n\n<p>He also said that negotiating and maintaining a ceasefire between Israel and Lebanon will be kept separate from any deal with Iran, adding that the US will \u201cnegotiate and deal directly with the Lebanese government\u201d.</p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "1a9bb740339515235d785a341f61c96680091215472803d11966ca2ce86afe05",
-      "title": "Missile strike kills three in Ukraine as Russia feels war\u2019s economic strain",
-      "url": "https://www.aljazeera.com/news/2026/6/23/missile-strike-kills-three-in-ukraine-as-russia-feels-wars-economic-strain?traffic_source=rss",
-      "source": "Al Jazeera English \u2014 All News",
-      "source_id": "aljazeera_en_all",
-      "published_at": "2026-06-23T16:29:28Z",
-      "summary": "Kyiv has previously accused Moscow of using cluster munitions, which, when dropped, scatter into smaller munitions.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "1cfae081eed9cfb1caa6357da157d7bd37b6126e066cb0c914bd07719a79b18d",
-      "title": "'Syria and Turkiye represent bigger threat to Israel than Iran': Israeli minister",
-      "url": "https://www.reddit.com/r/worldnews/comments/1udlues/syria_and_turkiye_represent_bigger_threat_to/",
-      "source": "Reddit \u2014 r/worldnews",
-      "source_id": "reddit_rss_worldnews",
-      "published_at": "2026-06-23T16:23:46Z",
-      "summary": "<table> <tr><td> <a href=\"https://www.reddit.com/r/worldnews/comments/1udlues/syria_and_turkiye_represent_bigger_threat_to/\"> <img alt=\"'Syria and Turkiye represent bigger threat to Israel than Iran': Israeli minister\" src=\"https://external-preview.redd.it/m0ny1g0OgqiQUOjLNQt2Wzygy2GCqde27Knhjn2kB5c.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=faa2ef2eda3bb7d9e40bb6b7d510aa53df012ba0\" title=\"'Syria and Turkiye represent bigger threat to Israel than Iran': Israeli minister\" /> </a> </td><td> &#32; submitted by &#32; <a href=\"https://www.reddit.com/user/DoremusJessup\"> /u/DoremusJessup </a> <br /> <span><a href=\"https://thecradle.co/articles/syria-and-turkiye-represent-bigger-threat-to-israel-than-iran-israeli-minister#google_vignette\">[link]</a></span> &#32; <span><a href=\"https://www.reddit.com/r/worldnews/comments/1udlues/syria_and_turkiye_represent_bigger_threat_to/\">[comments]</a></span> </td></tr></table>",
-      "category": "world_affairs",
-      "image": "https://external-preview.redd.it/m0ny1g0OgqiQUOjLNQt2Wzygy2GCqde27Knhjn2kB5c.jpeg?width=640&crop=smart&auto=webp&s=faa2ef2eda3bb7d9e40bb6b7d510aa53df012ba0"
-    },
-    {
-      "id": "6733aa70965c4001e0eb3cd709baabef7b59351abee650fa23a44f9f9b6777b5",
-      "title": "Israeli police clash with anti-draft ultra-Orthodox protesters",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-police-clash-with-anti-draft-ultra-orthodox-protesters?traffic_source=rss",
-      "source": "Al Jazeera English \u2014 All News",
-      "source_id": "aljazeera_en_all",
-      "published_at": "2026-06-23T16:22:00Z",
-      "summary": "Israeli police clashed with Ultra-Orthodox (Haredi) Jews on Monday as they protested against mandatory conscription.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "559c5d70647e7d6fd8d26ab1c4610e84fdb3265b5c863371d561bcf2035c5325",
-      "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
-      "url": "https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T16:19:13Z",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\" rel=\"bookmark\">\n<span class=\"field field-title\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/adam-chamseddine\" lang=\"lang\" title=\"View user profile.\">Adam Chamseddine</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-06-23T14:08:38+01:00\" title=\"23 June 2026 14:08 BST\">Tue, 06/23/2026 - 14:08</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">New round of direct negotiations opens amid uncertainty over how it will intersect with deconfliction mechanism negotiated in Switzerland<br />\n</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"787\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)\" height=\"922\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/hezbollah-funeral-lebanon-23-june-2026-afp.jpg.jpg?itok=498um05f\" width=\"1640\" />\n\n  \n\n</div>\n                  <div class=\"field field-field-cutline\">Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)</div>\n                  <div class=\"field field-field-wide-photo-video\">Off</div>\n                  <div class=\"field field-body clearfix\"><p><a href=\"https://www.middleeasteye.net/Lebanon\">Lebanon </a>and <a href=\"https://www.middleeasteye.net/countries/israel\">Israel</a> began a fifth round of direct negotiations in Washington on Tuesday, with Beirut seeking to revive proposals for an Israeli withdrawal from southern Lebanon even as a new <a href=\"https://www.middleeasteye.net/countries/us\">US</a>-<a href=\"https://www.middleeasteye.net/countries/iran\">Iran </a>diplomatic channel threatens to overshadow the talks.</p>\n\n<p>The three-day negotiations come after four previous rounds failed to produce a lasting ceasefire or bridge the wide gap between the two sides.</p>\n\n<p>Lebanon is expected to press for a timetable for an Israeli withdrawal, the return of hundreds of thousands of displaced people, the release of Lebanese prisoners and the beginning of reconstruction.</p>\n\n<p>Israel, meanwhile, has tied any withdrawal to the disarmament of Hezbollah and has insisted that its forces retain control of a wide security zone inside southern Lebanon until it is satisfied that the Lebanese army can prevent the group from rebuilding its military presence.</p>\n\n<p>But the negotiations are taking place in a markedly different diplomatic environment from the previous round earlier this month.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>A memorandum of understanding signed between the United States and Iran placed the Lebanese front within a wider regional ceasefire framework. Subsequent talks near Lake Lucerne in Switzerland also produced plans for a mechanism intended to reduce tensions between Israel and Hezbollah.</p>\n\n<p>The development means the Washington negotiations are no longer the only diplomatic forum dealing with the war in Lebanon.</p>\n\n<p>For the Lebanese presidency, which has promoted the direct talks as an attempt to return decisions over war, peace and sovereignty to state institutions, the emergence of the Swiss channel has raised difficult questions over who ultimately controls the negotiations.</p>\n\n<p>President Joseph Aoun has repeatedly said that no foreign power can negotiate on Lebanon\u2019s behalf.</p>\n\n<p>\u201cWe welcome any assistance to end the war, but we are a sovereign country and no one negotiates on our behalf,\u201d Aoun said ahead of the latest round.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>Lebanese officials have described the decision to enter direct negotiations with Israel as a historic step through which the state would reclaim responsibility for the country\u2019s foreign and security policies.</p>\n\n<p>Article 52 of Lebanon\u2019s constitution gives the president responsibility for negotiating international treaties in agreement with the prime minister. Any eventual treaty would also require the approval of the cabinet and, depending on its terms, parliament.</p>\n\n<p>However, sources familiar with the decision said the opening of direct talks was also the result of intense US pressure on Beirut.</p>\n\n<h3>Talks without a ceasefire</h3>\n\n<p>Aoun had previously insisted that a comprehensive ceasefire should precede negotiations over an Israeli withdrawal, the return of displaced Lebanese, prisoners and reconstruction.</p>\n\n<p>But the direct talks proceeded even as Israel continued its strikes and ground operations in Lebanon.</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>Four rounds of negotiations since April have failed to secure a durable halt to the fighting. However, the longest lull in Israeli bombing came only after the US-Iran memorandum, rather than any agreement reached directly between Lebanon and Israel.</p>\n\n<p>That has strengthened Hezbollah\u2019s argument that Iran\u2019s negotiations with Washington are more capable of extracting an Israeli ceasefire than the Lebanese government\u2019s bilateral track.</p>\n\n<blockquote>\n<p>'The Israelis appeared as though they had been dragged into the negotiating room by the Americans. You could see it on their faces. They did not want to be there'</p>\n\n<p><em>- Source close to negotiations</em></p>\n</blockquote>\n\n<p>It has also exposed the tension at the heart of Beirut\u2019s strategy: Lebanon entered the direct negotiations to prevent regional powers from deciding its future, only for Iran to place Lebanon at the centre of its own talks with the United States.</p>\n\n<p>The fourth Washington round, held on 2 and 3 June, ended with a joint statement issued by the United States, Lebanon and Israel.</p>\n\n<p>The statement said a ceasefire would be contingent on a complete halt to Hezbollah\u2019s attacks and the removal of its operatives from the area south of the Litani River.</p>\n\n<p>It also announced that the parties would move towards establishing \u201cpilot zones\u201d in which the Lebanese Armed Forces would exercise exclusive control and non-state armed groups would be excluded.</p>\n\n<p>The statement emphasised that the future of Lebanese-Israeli relations should be determined by the two governments and rejected attempts by any state or non-state actor to hold Lebanon\u2019s future hostage.</p>\n\n<p>The wording was strongly criticised by Hezbollah, which viewed it as an attempt to impose unilateral obligations on the group while offering no binding commitment for an Israeli withdrawal.</p>\n\n<p>Hezbollah officials described the direct negotiations as a grave mistake that granted Israel political gains it had long sought without requiring it to end its occupation or military operations.</p>\n\n<p>Parliament Speaker Nabih Berri, who served as the principal Lebanese channel during previous indirect negotiations, has also argued that Beirut should continue to use the ceasefire-monitoring mechanism established after the cessation of hostilities agreement that ended the 2024 war with Israel.</p>\n\n<p>Berri has publicly rejected limited pilot zones, calling instead for a comprehensive ceasefire, a full Israeli withdrawal and parallel implementation by both sides.</p>\n\n<h3>The battle over Bint Jbeil</h3>\n\n<p>A senior source close to the Lebanese delegation told Middle East Eye that the pilot-zone proposal had nearly caused the previous negotiations to collapse.</p>\n\n<p>According to the source, Israel initially rejected the proposal, prompting the Lebanese delegation to threaten to withdraw from the session.</p>\n\n<p>US officials then intervened and persuaded the Israeli delegation to accept the principle of pilot zones, although the two sides remained divided over where they should be established and what obligations would apply.</p>\n\n<p>The Lebanese delegation proposed Bint Jbeil as the first pilot area.</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/exclusive-how-hezbollah-rebuilt-while-enemies-declared-dead\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/hezbollah%20fighter%20nasrallah%20funeral%20reuters.jpg.webp?itok=-TAv0Khg\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">Exclusive: How Hezbollah rebuilt while its enemies declared it dead</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/exclusive-how-hezbollah-rebuilt-while-enemies-declared-dead\">Read More \u00bb</a>\n</div>\n\n<p>The southern city lies within what Israel describes as the <a href=\"https://www.middleeasteye.net/news/we-were-left-alone-along-israel-yellow-line-southern-lebanese-feel-abandoned-state\">\u201cYellow Line\u201d</a> \u2013 a military boundary it has marked inside Lebanese territory to indicate areas under its operational control and restrictions.</p>\n\n<p>By nominating Bint Jbeil, Beirut sought to challenge the possibility that the Israeli-controlled area would gradually become a permanent buffer zone.</p>\n\n<p>The Lebanese proposal envisaged an Israeli withdrawal from the city, followed by the deployment of the Lebanese army, the dismantling of Hezbollah\u2019s military infrastructure and the return of residents.</p>\n\n<p>Israel rejected Bint Jbeil as the initial test area, according to the source.</p>\n\n<p>\u201cThe Israelis appeared as though they had been dragged into the negotiating room by the Americans,\u201d the source said.</p>\n\n<p>\u201cYou could see it on their faces. They did not want to be there.\u201d</p>\n\n<p>Israel instead proposed retaining control of the entire \u201cYellow Line\u201d&nbsp;while monitoring the Lebanese army\u2019s operations against Hezbollah both south and north of the Litani River.</p>\n\n<p>Only after assessing the army\u2019s performance and its ability to dismantle Hezbollah\u2019s positions would Israel consider discussing further withdrawals, the source said.</p>\n\n<p>For Lebanon, such a formula would risk turning Israel\u2019s current positions into a semi-permanent security zone while leaving withdrawal dependent on an open-ended Israeli assessment of the Lebanese army.</p>\n\n<h3>From villages to districts</h3>\n\n<p>The Lebanese delegation is expected to return to the pilot-zone proposal during the fifth round and attempt to expand its geographical scope.</p>\n\n<p>The areas discussed during the previous negotiations were largely individual villages or narrowly defined sectors.</p>\n\n<p>A presidential source close to the talks said a broader formula involving entire districts has also been raised. Such districts would incorporate numerous towns and villages on both sides of the Litani River, rather than testing the arrangement in isolated localities.</p>\n\n<p>The source said this approach had also been discussed by Berri, despite his public rejection of limited pilot zones.</p>\n\n<p>Under such a formula, an Israeli withdrawal, Lebanese army deployment, the return of residents and the removal of Hezbollah\u2019s military presence would take place across a much larger area.</p>\n\n<p>But the differences remain fundamental.</p>\n\n<p>Lebanon wants withdrawal to begin the process. Israel wants evidence of Hezbollah\u2019s disarmament before surrendering the territory it controls.</p>\n\n<h3>A second negotiating table</h3>\n\n<p>The greatest uncertainty surrounding the Washington talks, however, comes from the diplomatic mechanism emerging from the US-Iran negotiations in Switzerland.</p>\n\n<p>US Vice President JD Vance said the talks had produced a mechanism intended to reduce tensions in Lebanon and prevent renewed escalation.</p>\n\n<p>Details of the proposed body, variously described as a deconfliction cell or tension-reduction committee, have not been made public.</p>\n\n<p>The source close to Lebanon's presidential palace told MEE that Lebanese officials had not yet received a full explanation of the body's membership, authority or relationship with the existing Washington negotiations.</p>\n\n<p>The mechanism would include Lebanon, Iran and the United States, with <a href=\"https://www.middleeasteye.net/countries/pakistan\">Pakistan </a>and <a href=\"https://www.middleeasteye.net/countries/qatar\">Qatar&nbsp;</a>potentially playing roles as mediators.</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/ceasefires-and-construction-how-israel-cementing-its-presence-lebanon-and-syria\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/2026-06/syria-satellite-base-landing-social-mee_0.jpg.webp?itok=5xcCr5t1\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">Ceasefires and construction: Satellite images reveal how Israel is cementing its presence in Lebanon and Syria</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/ceasefires-and-construction-how-israel-cementing-its-presence-lebanon-and-syria\">Read More \u00bb</a>\n</div>\n\n<p>The source said the working logic appeared to be that Washington would communicate with Israel, while Iran would communicate with Hezbollah, with the Lebanese state participating directly.</p>\n\n<p>Such an arrangement would leave neither Israel nor Hezbollah formally represented but would give both indirect access through their principal international allies.</p>\n\n<p>Israel has voiced concern that the mechanism grants Iran a recognised role in Lebanon while potentially restricting Israeli military operations.</p>\n\n<p>Lebanese officials face another concern: that Iran could use the process to speak for Hezbollah and negotiate matters affecting Lebanese territory independently of the government in Beirut.</p>\n\n<p>The presidency nevertheless appears prepared to engage with the mechanism provided that the US leads it and the Lebanese state remains formally represented.</p>\n\n<p>According to the presidential source, Washington\u2019s recognition of the Pakistan-backed diplomatic initiative does not necessarily mean the Washington and Swiss tracks are mutually exclusive.</p>\n\n<p>The two processes could eventually converge: the direct talks would address Lebanese-Israeli territorial and political disputes, while the Swiss mechanism would attempt to enforce calm between Israel and Hezbollah through US and Iranian guarantees.</p>\n\n<p>But no framework has yet been established to determine where the authority of one process ends and the other begins.</p>\n\n<p>\u201cThe Washington and Swiss tracks do not have to remain separate,\u201d the source said.</p>\n\n<p>\u201cThe question is how they will intersect. At this stage, that is still not clear.\u201d</p>\n</div>\n                  <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/israel-war-lebanon\" hreflang=\"en\">Israel's war on Lebanon</a></div>\n            <div class=\"field field-field-coauthor-location\">\n              <div> </div>\n              <div> </div>\n              <div> </div>\n              <div> </div>\n          </div>\n              <div class=\"field field-field-article-location\">Beirut</div>\n                  <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div>\n        <div class=\"field field-field-post-date-override\">\n    <div>Post Date Override</div>\n              <div>0</div>\n          </div>\n  <div class=\"field field-field-update-date-override\">\n    <div>Update Date</div>\n              <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time>\n</div>\n          </div>\n  <div class=\"field field-field-update-date-check\">\n    <div>Update Date Override</div>\n              <div>0</div>\n          </div>\n\n  </div>\n  \n</article>",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "51b631529b988123505d05a7e9400e03f8c09bd13decb2a7138f587d9c66edcb",
-      "title": "Ukraine says major Crimea bridge destroyed in latest attack",
-      "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-world-4025-xml-mrss",
-      "source": "Deutsche Welle (English) \u2014 World",
-      "source_id": "dw_en_world",
-      "published_at": "2026-06-23T16:19:00Z",
-      "summary": "Ukraine continues to hit infrastructure on the Crimea to isolate the Russian-annexed peninsula. Meanwhile, Russia attacked Volodymyr Zelenskyy's hometown with a ballistic missile in a deadly strike.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "91edccad87aaa4492db5c865da242e8ba1753351b618291322f38486bbe97a00",
-      "title": "Ukraine says major Crimea bridge destroyed in latest attack",
-      "url": "https://www.dw.com/en/ukraine-says-major-crimea-bridge-destroyed-in-latest-attack/a-77678698?maca=en-rss-en-eu-2092-xml-mrss",
-      "source": "Deutsche Welle (English) \u2014 Europe",
-      "source_id": "dw_en_europe",
-      "published_at": "2026-06-23T16:19:00Z",
-      "summary": "Ukraine continues to hit infrastructure on the Crimea to isolate the Russian-annexed peninsula. Meanwhile, Russia attacked Volodymyr Zelenskyy's hometown with a ballistic missile in a deadly strike.",
-      "category": "world_affairs",
-      "image": null
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "key": "real_estate",
   "label": "Real Estate",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
     {
       "id": "90453861cf643fe91fb9b62f7567d11878d443f4584a7e1623f14d262963dbc8",
@@ -13,6 +13,204 @@
       "summary": "All children deserve to grow up in safe, stable, and nurturing environments. Yet millions globally face adversity, with their youngest years marked by stress, trauma, or abuse. So-called adverse childhood experiences (ACEs) include sexual, physical, or emotional abuse, physical or emotional neglect, and parental separation or divorce. Witnessing intimate partner violence, living with someone who has a mental illness or substance misuse problem, or having a household member who is incarcerated are further ACEs.",
       "category": "real_estate",
       "image": null
+    },
+    {
+      "id": "90a1f3eb8f156a443c525a72bb6e5a8be94081e92e368a3f25704fbf1e3cd12a",
+      "title": "Hong Kong school rearranges overnight World Cup watch party after feedback",
+      "url": "https://www.scmp.com/news/hong-kong/education/article/3358154/hong-kong-school-rearranges-overnight-world-cup-watch-party-after-feedback?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 Homepage",
+      "source_id": "scmp_home",
+      "published_at": "2026-06-24T04:53:52Z",
+      "summary": "A Hong Kong primary school that earlier suggested hosting an overnight World Cup viewing event has watered down the plan and opted for a weekend morning timeslot in response to feedback from parents.\nThe school clarified that its initial circular, which slated the event for the very early hours of July 15, sought to gauge parental interest, while its shift to daytime aimed to allow for more parents and students to watch the match together.\nIn a statement on Wednesday \u2013 about a week after the...",
+      "category": "real_estate",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/24/025e3607-b91c-4b67-9bbc-02164525fae7_4cb7430c.jpg?itok=VdPdz8Yi&v=1782276819"
+    },
+    {
+      "id": "2169202429e6398689e914e62e9b4337fe4ec445c57d48f039312a5553caaa8a",
+      "title": "Real Estate, Reinvented: How Alexis Zaballa and One Trade S.A. Let Everyday Investors Own a Piece of a Wyndham Hotel",
+      "url": "https://www.barchart.com/story/news/2614180/real-estate-reinvented-how-alexis-zaballa-and-one-trade-s-a-let-everyday-investors-own-a-piece-of-a-wyndham-hotel",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T04:40:33Z",
+      "summary": "One Trade S.A., founded by Alexis Zaballa, is revolutionizing real estate investment in Latin America through a \"condohotel\" model where individual investors can own a hotel room operated by Wyndham Hotels & Resorts. This model offers a fixed 8% annual return, contractually guaranteed for 15 years, without the operational burdens typically associated with property ownership. The company has already launched one hotel in Paraguay and is developing five more across Paraguay, the Dominican Republic, and Argentina, aiming to make hotel ownership accessible to everyday investors with entry points around $95,000.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "d417a9c02ad3fe8e0db5f826cd829e1ce017e1c87703c163f03e6528898aaa71",
+      "title": "Widepoint COO Todd Dzyak sells $150,000 in company stock",
+      "url": "https://www.investing.com/news/insider-trading-news/widepoint-coo-todd-dzyak-sells-150000-in-company-stock-93CH-4756797",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T04:39:40Z",
+      "summary": "Widepoint COO Todd Dzyak sold 10,000 shares of company stock for $150,000 at $15.00 per share. This sale occurred while the stock was near its 52-week high after a 335% surge over the past year, and InvestingPro analysis suggests it is currently overvalued. Dzyak still holds 135,436 shares and options for an additional 9,714 shares.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "80b99b0f1e61cde39b75f25006e1623b2915a0281ea6d33dd3a9710fa33337a1",
+      "title": "Tan France says he writes emails so his kids can see who they were growing up",
+      "url": "https://www.businessinsider.com/tan-france-writes-emails-to-kids-childhood-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-24T04:30:27Z",
+      "summary": "Tan France says he got the idea from Kim Kardashian.",
+      "category": "real_estate",
+      "image": "https://i.insider.com/6a3b44296891755ad48b84e9?format=jpeg"
+    },
+    {
+      "id": "5f01588e87928b59cc01c7c7d4fd023ca2a8a450325c71c26f05604bf9fb2308",
+      "title": "Ask HN: How do you test AI-generated code?",
+      "url": "https://news.ycombinator.com/item?id=48655020",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T04:14:52Z",
+      "summary": "When AI generates code, I first instruct the model to find, fix, and verify any issues. After that, I start the server and test whether it actually works from the user\u2019s perspective.<p>What I\u2019m looking for is a workflow where issues are received, fixed, tested, and deployed\u2014but it seems that current AI agents aren\u2019t very good at performing browser tests from the user\u2019s perspective.<p>I\u2019ve tried using the built-in browsers in Codex and Cursor, but they often only checked whether the page loaded. In the end, I had to instruct them step by step on what to do, and it turned out to be cheaper and faster for me to test it myself.<p>So I\u2019m curious to know how you\u2019ve set up test automation. Are there any services that do this (for individuals, not just enterprises)? If you\u2019re using a harness like Codex, I\u2019d like to know what instructions and skills are needed to get it to perform tests from the user\u2019s perspective.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "8fb972cd76ea9c1d9ed75e6fe632ffd27f69b43ab19c157dcb90921569feacda",
+      "title": "I missed out on a pro basketball career by one cut. At 26, I bought an Irish pub with my mom instead.",
+      "url": "https://www.businessinsider.com/professional-basketball-career-irish-pub-working-with-mom-family-restaurant-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-24T04:13:46Z",
+      "summary": "While Jareb Dougherty was busy chasing his basketball dreams, his mom got a bartending job at an Irish pub.",
+      "category": "real_estate",
+      "image": "https://i.insider.com/6a38ff2ec7a58f814f0d4e1e?format=jpeg"
+    },
+    {
+      "id": "d84417b8077e6c042d462ed6574700ec0f7bd5fbfc19d59894738f931a89d47f",
+      "title": "Parents have shouldered VAT on school fees with a groan",
+      "url": "https://www.ft.com/content/ec261146-dd39-4b69-a78e-5636557ff861",
+      "source": "Financial Times \u2014 World (open feed)",
+      "source_id": "ft_world",
+      "published_at": "2026-06-24T04:00:29Z",
+      "summary": "The decline in privately educated pupils has not been as big as many \u2014 including me \u2014 anticipated",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "1e59159e1d8c0c935a2fd02d3dac0ec947f968908c5ced3462550e6cd7c6cfde",
+      "title": "Allegiant Travel Co (ALGT) Valuation: PE, PB & Fair Value Analysis",
+      "url": "https://www.tradingkey.com/markets/stocks/nasdaq-algt/company-valuation",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T03:48:47Z",
+      "summary": "Allegiant Travel Co (ALGT) currently has a valuation score of 8.68, placing it 12th out of 21 in the Passenger Transportation Services industry. Its P/E ratio is -54.11, which is significantly below its recent high and slightly above its recent low. The company has not yet disclosed relevant data for P/B, P/S, and P/CF ratios.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "053714dc32ce3dc1c8c46f682713a7df42a18196fc31918e85804b1b65c6fd36",
+      "title": "Stock Market LIVE Updates, Sensex Today: Sensex, Nifty Trade Flat Amid Mixed Global Cues",
+      "url": "https://www.ndtv.com/business-news/stock-market-sensex-share-market-nifty-live-updates-today-24-june-us-iran-deal-oil-prices-11678918#publisher=newsstand",
+      "source": "NDTV \u2014 Top Stories",
+      "source_id": "ndtv_top",
+      "published_at": "2026-06-24T03:46:47Z",
+      "summary": "Sensex Today, Stock Market, Nifty, Share Market Live News Updates",
+      "category": "real_estate",
+      "image": "https://c.ndtvimg.com/2026-06/bob0o6lc_indian-share-market_625x300_21_June_26.jpg?im=FitAndFill,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "id": "051cd168c7c93bdaf51db348b6ae5bf124b8b1c5b1154d306b02307aeb644278",
+      "title": "Should Investors Buy Chipotle Stock on the Dip?",
+      "url": "https://www.fool.com/investing/2026/06/23/should-investors-buy-chipotle-stock-on-the-dip/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T03:35:19Z",
+      "summary": "The restaurant industry is currently facing struggles, which are impacting Chipotle's growth. This has led to a dip in Chipotle's stock price. The article asks whether this dip presents a buying opportunity for investors.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "5c99d40163bce1ec6996346cdae72c36956bfcadc7c8d5b7bad671a567f1d386",
+      "title": "Chinese supercomputer using local processors heads TOP500 list",
+      "url": "https://www.theregister.com/hpc/2026/06/24/chinese-supercomputer-using-local-processors-heads-top500-list/5260532",
+      "source": "The Register \u2014 Headlines",
+      "source_id": "the_register",
+      "published_at": "2026-06-24T03:34:44Z",
+      "summary": "Use of Arm cores and Linux mean Beijing hasn\u2019t broken away from the world",
+      "category": "real_estate",
+      "image": "https://image.theregister.com/?imageId=229889&width=800"
+    },
+    {
+      "id": "828819347e56e7ddb4519b9e5e03157bce0ce89d868c8228190772b71c41042c",
+      "title": "Who Was Ketan Agarwal, Pune Real Estate Firm Director Murdered By Fiance",
+      "url": "https://www.ndtv.com/india-news/ketan-agarwal-siya-goyal-who-was-ketan-agarwal-pune-real-estate-firm-director-murdered-by-fiance-11679047#publisher=newsstand",
+      "source": "NDTV \u2014 Top Stories",
+      "source_id": "ndtv_top",
+      "published_at": "2026-06-24T03:00:34Z",
+      "summary": "Ketan Agarwal's death was initially called an accident but was a murder.",
+      "category": "real_estate",
+      "image": "https://c.ndtvimg.com/2026-06/tkmemnjg_ketan-agarwal_625x300_24_June_26.jpeg"
+    },
+    {
+      "id": "db92c001976dc8f0322afb8d833ccd4c053bcba0b65ad23ca2d29c3c439bb152",
+      "title": "ASML EUV in China? The rumour is ridiculed but it reveals a tougher reality on the ground",
+      "url": "https://www.scmp.com/tech/tech-war/article/3358078/asml-euv-china-rumour-ridiculed-it-reveals-tougher-reality-ground?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 Homepage",
+      "source_id": "scmp_home",
+      "published_at": "2026-06-24T03:00:10Z",
+      "summary": "For anyone closely watching the semiconductor industry, the recent saga around ASML\u2019s denial of possible EUV (extreme ultraviolet) lithography shipments to China, in an apparent response to US concern, may sound almost absurd at first.\nThe machine at the centre of the discussion is not a laptop-sized piece of equipment that can be easily packed into a shipping carton. ASML\u2019s EUV lithography systems weigh about 180 tonnes, contain a vast number of precision components, are shipped to customers in...",
+      "category": "real_estate",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/6d459624-255b-464e-9787-a36e4feed146_86f23d53.jpg?itok=8mrXjLTF&v=1782210483"
+    },
+    {
+      "id": "f49626532377f3e43fd7b29fe410ce69e4252d0d82224d7639e08ab45797a163",
+      "title": "South Koreans back male parental leave, but not for colleagues",
+      "url": "https://www.straitstimes.com/asia/east-asia/south-koreans-back-male-parental-leave-but-not-for-colleagues",
+      "source": "The Straits Times \u2014 Asia",
+      "source_id": "straitstimes_asia",
+      "published_at": "2026-06-24T03:00:00Z",
+      "summary": "<p>Workers at private companies were less open to male parental leave than those in the public sector.</p>",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "0d87c5a79a0199bae14ed55ec2cf2abaae0d0de0230f2c90667d15895ae67127",
+      "title": "Amylyx Pharmaceuticals to Present Data from First-in-Human, Dose-Ranging Phase 1 LUMINA Trial of AMX0114 in ALS at ENCALS 2026",
+      "url": "https://www.biospace.com/press-releases/amylyx-pharmaceuticals-to-present-data-from-first-in-human-dose-ranging-phase-1-lumina-trial-of-amx0114-in-als-at-encals-2026",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T02:41:43Z",
+      "summary": "Amylyx Pharmaceuticals (NASDAQ: AMLX) announced that it will present data from its Phase 1 LUMINA trial of AMX0114 for ALS at the ENCALS Meeting 2026. The initial data from Cohort 1 showed AMX0114 had no drug-related serious adverse events and no serious neurological adverse events, supporting continued evaluation at higher doses. The LUMINA study is a multinational, randomized, double-blind, placebo-controlled trial evaluating the safety, tolerability, pharmacokinetics, and pharmacodynamics of AMX0114 in people with ALS, and Cohorts 1 and 2 are fully enrolled, with Cohort 3 currently enrolling.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "6796ac7cb597f6198668ebb008905b79575d92695b49a2947907996234898c28",
+      "title": "Insider Sell Alert: Adam Geller Sells Shares of Zscaler Inc (ZS)",
+      "url": "https://www.gurufocus.com/news/8928921/insider-sell-alert-adam-geller-sells-shares-of-zscaler-inc-zs",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T02:41:04Z",
+      "summary": "Adam Geller, Chief Product Officer at Zscaler Inc (ZS), recently sold 2,817 shares of the company, reducing his holdings to 42,314 shares. This transaction is part of a trend over the last year where Zscaler has seen 28 insider sells and no insider buys. The stock, currently trading at $122.6, is considered a \"Possible Value Trap, Think Twice\" according to its GF Value of $285.62.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "ead346cdfc263563d8918e4ffd02be03a7bffb9525ef3ff7de504ba89f8e81e4",
+      "title": "Form DEF 14A Ziff Davis Inc For: 23 June By Investing.com",
+      "url": "https://ng.investing.com/news/stock-market-news/form-def-14a-ziff-davis-inc-for-23-june-93CH-2571320",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T02:40:58Z",
+      "summary": "This article announces the filing of Form DEF 14A by Ziff Davis Inc. for June 23. It includes the company's stock symbol ZD and its current price performance, along with various financial market data and popular news articles from Investing.com.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "155e7b472f4df40e1cdf710b90fe618984832d81cc00f789c4a5a2fdcff598f7",
+      "title": "Bank of Korea Says Higher Rates Needed Amid Housing, Debt Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bank-of-korea-says-higher-rates-needed-amid-housing-debt-risks",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T02:00:00Z",
+      "summary": "South Korea\u2019s central bank reinforced its hawkish shift, saying higher interest rates will be needed at an appropriate time as rising home prices, household debt and leveraged investment threaten to stoke financial imbalances.",
+      "category": "real_estate",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix4Sv618XQ.k/v0/1200x-1.jpg"
     },
     {
       "id": "70baebccd0df3db97acfc909751f242e21cd4b7440245962a6cbb85a4a2d3673",
@@ -464,204 +662,6 @@
       "summary": "The Senate voted 50-48 in favor of the concurrent resolution, which passed the House of Representatives early this month, reflecting growing concern even among some of Trump's Republicans about the unpopular conflict that began on February 28.",
       "category": "real_estate",
       "image": "https://i.ndtvimg.com/i/2017-06/us-senate-reuters-650_650x400_51498171179.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
-    },
-    {
-      "id": "cce131d9c5cdb52bf756dee8301b8701fa0c9fc661f338c858d570e05b1bd6b0",
-      "title": "Top Stock Reports for Visa, TotalEnergies & AT&T",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-totalenergies-201900826.html",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:49:00Z",
-      "summary": "This article presents Zacks Research Daily's top stock reports for June 22, 2026, featuring detailed analyses of 16 major and micro-cap stocks. Key companies highlighted include Visa (V), TotalEnergies (TTE), and AT&T (T), with insights into their recent performance, financial outlooks, and challenges. The reports offer both positive and cautious views on these stocks based on current market conditions and company-specific factors.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "2780a7036978404e07091ae477d00fb1c60449d3abe65523ffae4b71f883af7f",
-      "title": "Without missiles Iran would have ended up \u2018like Gaza\u2019, says Iranian president",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T19:41:29Z",
-      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president\" rel=\"bookmark\">\n<span class=\"field field-title\">Without missiles Iran would have ended up \u2018like Gaza\u2019, says Iranian president </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Iranian President Massoud Pezeshkian said on Tuesday that, if Iran did not have its missile defensives, it would have ended up \u201crazed like Gaza\u201d in the US-Israeli war.</p>\n\n<p>\u201cIf the missiles we have for our defense did not exist, Israel and the United States would have razed Iran like Gaza,\u201d Pezeshkian said, reiterating that Iran\u2019s defensive capabilities would not be negotiated \u201cunder any circumstances\u201d.</p>\n</div>\n      \n  </div>\n\n</article>",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "5aad60fef0d9390200ebef75d312b9655805b62a6959fcdd978f71f58a901152",
-      "title": "Palo Alto Networks (PANW) Stock Could Be 82.8% Overvalued After AI Security Momentum",
-      "url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/palo-alto-networks-panw-stock-could-be-828-overvalued-after",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:36:00Z",
-      "summary": "Palo Alto Networks (PANW) stock is potentially 82.8% overvalued based on a fair value of $156.71 against a current price of $286.40, despite its strong performance and AI-focused security offerings. The company's market value is US$234.5 billion, and while it has seen significant share price appreciation, analysts question future upside. The narrative suggests the growth profile and valuation multiples are key factors in determining its true value, noting potential risks related to integration challenges of acquisitions or overly optimistic next-generation security growth.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "a3a2bcb5ef3f5b9d46e6d6dd0f5d5f67d95e67b11bbb6328caaf10ed468edb5d",
-      "title": "ONEOK clear analyst consensus, shares trade firmly on NYSE",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/oneok-clear-analyst-consensus-shares-trade-firmly-on-nyse/69613467",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:30:50Z",
-      "summary": "ONEOK (US6826801036) begins the week with a neutral Wall Street analyst consensus, reflecting its stable role as a high-yield US midstream company. Analysts estimate a 12-month price target in the mid-90-dollar range, with the stock currently trading in the high 80s per share. The company offers an estimated dividend yield just under 5 percent, and its mid-teen price-earnings ratio reflects both regulated cash flows and energy exposure.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "336a732dc37d0cbac1038b752aff25039e12afed907f4b3583b41ea0b9ac67a7",
-      "title": "Bristol Myers Squibb (BMY) Stock Could Be 13% Undervalued As Pipeline Plans Take Shape",
-      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/bristol-myers-squibb-bmy-stock-could-be-13-undervalued-as-pi",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:25:16Z",
-      "summary": "Bristol Myers Squibb (BMY) is currently deemed 13% undervalued by Simply Wall St, with a fair value of $62.96 compared to its recent close of $54.70. The company recently declared a quarterly dividend of $0.63 per share, and its robust late-stage pipeline and strategic partnerships are expected to drive future growth despite upcoming patent expirations for key drugs. However, the stock faces risks from patent cliffs and pricing pressure in the U.S. market, creating mixed signals regarding its valuation.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "e33ce08da1ae06dea0922c37f36656b4ec9087f8d35483556c88e6bceb7089a6",
-      "title": "General Electric (GE) Stock After 333% Three-Year Surge Is It Too Late To Buy?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-stock-333-181630614.html",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:16:00Z",
-      "summary": "General Electric (GE) has seen a 333% surge over three years, leading investors to question its current valuation. According to a Discounted Cash Flow (DCF) analysis and P/E ratio comparison by Simply Wall St, GE appears to be overvalued, with a DCF estimate suggesting the stock is 48.9% above its intrinsic value. However, different narratives, including bull and bear cases, present a fair value range between $350 and $405, indicating varied investor perspectives on its future growth and risks.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "7ab5ab30f910400920f3890b6ed0e13eb884e39b680f963b9a84989bf665b169",
-      "title": "CenterPoint Energy shares, analysts see a Buy consensus",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/centerpoint-energy-shares-analysts-see-a-buy-consensus/69613378",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:15:33Z",
-      "summary": "CenterPoint Energy is currently experiencing a \"Buy\" consensus from 13 analysts, with an average target price of $44.38, slightly above its current trading price of $43.49. The analyst breakdown shows a positive outlook, with 23% Strong Buy, 31% Buy, and 46% Hold ratings. The company, which provides electric transmission and natural gas services in various U.S. markets, is seen as having a stable regulated business model by investors.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "c8f0c3330dac147320278e2d7906f801b38782f6e8b66391604c9e63a6c5b4be",
-      "title": "UN warns Palestinian children 'defenceless' amid Israeli crackdown on NGOs",
-      "url": "https://www.middleeasteye.net/news/un-warns-palestinian-children-defenceless-amid-crackdown-ngos",
-      "source": "Middle East Eye \u2014 All",
-      "source_id": "middleeasteye_all",
-      "published_at": "2026-06-23T19:08:35Z",
-      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/un-warns-palestinian-children-defenceless-amid-crackdown-ngos\" rel=\"bookmark\">\n<span class=\"field field-title\">UN warns Palestinian children 'defenceless' amid Israeli crackdown on NGOs</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/mee-staff\" lang=\"lang\" title=\"View user profile.\">MEE staff</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-06-23T19:42:46+01:00\" title=\"23 June 2026 19:42 BST\">Tue, 06/23/2026 - 19:42</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">UN says Israeli measures have made it nearly impossible for rights groups to ensure the safety of children and families seeking critical assistance</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"alt\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_B7YW2VE.jpg.jpg?itok=PP8Z1zMO\" width=\"1920\" />\n\n  \n\n</div>\n                  <div class=\"field field-field-cutline\">Palestinians look at Israeli soldiers patrolling the market in the Old City of Nablus in the Israeli occupied West Bank on 23 June 2026 (Jaafar Ashtiyeh/AFP)</div>\n                  <div class=\"field field-field-wide-photo-video\">Off</div>\n                  <div class=\"field field-body clearfix\"><p><a href=\"https://www.middleeasteye.net/countries/palestine\">Palestinian</a> children are \"increasingly unprotected\", as <a href=\"https://www.middleeasteye.net/countries/israel\">Israel</a> forces human rights organisations to cease or curtail work across the occupied Palestinian territories, the United Nations Committee on the Rights of the Child <a href=\"https://www.ohchr.org/en/press-releases/2026/06/occupied-palestinian-territory-children-left-defenceless-rights-groups-are\">warned</a> on Monday.&nbsp;</p>\n\n<p>The committee condemned Israel's designation of civil society groups as \"terrorists\". Labelling NGOs as terrorist entities gives Israel legal cover to obstruct humanitarian work, including military raids, travel bans, personal financial sanctions, threats of arrest, destruction of records and, in some cases, \"threats of secondary sanctions against partners\".&nbsp;</p>\n\n<p>The committee is made up of a body of 18 independent experts that work within the UN Office of the High Commissioner for Human Rights (UN OHCHR).</p>\n\n<p>The warning doesn't name any of the organisations they are alluding to, but in 2021 Israel outlawed six major Palestinian NGOs, including Adameer, Al-Haq, Bisan Center for Research and Development, Defense for Children International - Palestine, Union of Agricultural Work Committees and the Union of Palestinian Women's Committees.&nbsp;</p>\n\n<p>In January of this year, more than 50 international NGOs operating in occupied Palestine warned that recent registration measures imposed by Israel threatened to halt operations at a time of acute humanitarian need in Gaza.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>On 30 December, 37 NGOs received an official notification that their registrations would expire the next day, triggering a two-month period after which they would be required to cease operations in Gaza, as well as the occupied West Bank and East Jerusalem.</p>\n\n<p>Israel's Ministry of Diaspora Affairs announced the ban on Tuesday, saying that organisations that had failed to meet their \"security and transparency requirements\" would have their licences suspended.&nbsp;</p>\n\n<p>The ministry said the ban would also apply to those who \"refused to submit a list of their Palestinian employees in order to rule out any links to terrorism\".</p>\n\n<p>\"Recent efforts to assess the impact of deregistering INGOs through selective metrics do not capture how humanitarian assistance is delivered in practice,\" the 53 NGOs jointly wrote at the time.</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/how-israel-turned-gazas-crossings-interrogation-and-torture-hubs\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/kerem-shalom-israeli-soldier-afp-2025.jpg.webp?itok=dljARepk\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">'They spat in my face': Palestinians describe Israeli abuse at Gaza crossings</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/how-israel-turned-gazas-crossings-interrogation-and-torture-hubs\">Read More \u00bb</a>\n</div>\n\n<p>Israeli measures have made it nearly impossible for these groups to ensure the safety of children and families seeking critical assistance, leaving \"children defenceless\", according to UN OHCHR.</p>\n\n<p>\"For more than three decades, these organisations have played a vital role in defending Palestinian children, including in the Israeli military courts, and in documenting grave violations against Palestinian children at the hands of Israeli forces,\" the Committee said.</p>\n\n<p>\"Without them, Palestinian children will be even less protected, and violations of their rights risk continuing with impunity,\" it continued.&nbsp;</p>\n\n<p>The UN OHCHR statement demanded Israel \"lift all restrictions and obstacles facing child rights defenders\" in the occupied Palestinian territories, and that the international community use \"all available means\" to hold Israeli authorities accountable for attacks and prioritise the rights of Palestinian children.</p>\n\n<p>\"Despite grave risks and limited resources, child rights defenders have continued to stand with Palestinian children and families in extraordinarily dangerous conditions,\" the committee said. \"They must be protected, not punished.\"</p>\n\n<p>Israel has waged a severe crackdown on humanitarian work throughout the occupied Palestinian territories since the ceasefire came into effect in Gaza on 10 October, including a move to ban Doctors Without Borders (MSF) after the organisation refused to provide a list of its Palestinian staff.</p>\n\n<p>In response to the Israeli government's targeting of the NGO, 17 international aid agencies petitioned Israel's Supreme Court in February to block the move.</p>\n\n<p>While a court injunction currently permits their temporary continuance, the Israeli government is attempting to halt their operations entirely.</p>\n</div>\n                  <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/inside-israel\" hreflang=\"en\">Inside Israel</a></div>\n            <div class=\"field field-field-coauthor-location\">\n              <div> </div>\n              <div> </div>\n              <div> </div>\n              <div> </div>\n          </div>\n              <div class=\"field field-field-article-location\"> </div>\n                  <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div>\n        <div class=\"field field-field-post-date-override\">\n    <div>Post Date Override</div>\n              <div>0</div>\n          </div>\n  <div class=\"field field-field-update-date-override\">\n    <div>Update Date</div>\n              <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time>\n</div>\n          </div>\n  <div class=\"field field-field-update-date-check\">\n    <div>Update Date Override</div>\n              <div>0</div>\n          </div>\n\n  </div>\n  \n</article>",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "622958c9093ac5080d6ac4ad363a91e708651a7c46b45f21aa43f62e7c391f47",
-      "title": "Heitman seizes downtown Oakland office building from KKR, TMG",
-      "url": "https://therealdeal.com/san-francisco/2026/06/23/kkr-tmg-partners-lose-oakland-office-tower-to-foreclosure/",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:07:25Z",
-      "summary": "Heitman Capital Management has seized a 535,000-square-foot office building in downtown Oakland, previously owned by KKR and TMG Partners, after foreclosing on a $239.6 million loan. The building, anchored by Clorox, will continue to be managed by TMG Partners, who plan renovations to attract new tenants. This foreclosure is part of a trend of rising vacancies and plummeting property values in Oakland's office market since the pandemic.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "32c6592caffc54741b0c954fcb29036a14b075bd483e6d5acfdb578020421c26",
-      "title": "Occidental Petroleum consensus firms ahead of August earnings, shares trade near 52 dollars",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/occidental-petroleum-consensus-firms-ahead-of-august-earnings-shares/69613264",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T19:00:15Z",
-      "summary": "Occidental Petroleum (OXY) shares are trading around $52 on the NYSE, with its next earnings report scheduled for August 5, 2026. Analysts maintain a stable outlook, with Truist Securities reiterating a Hold rating and a price target of $57, following a stronger-than-expected first quarter. The company, primarily involved in oil and gas exploration and production, has a market capitalization of approximately $51.5 billion and has seen an 18% share performance over the past year despite a recent 11.72% decline over 30 days.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "a43f760e0d1edc0a6e200d185462d6cdb19a8138b7845fb9eb7c5a2f3b4525e7",
-      "title": "Peachtree expands investor access",
-      "url": "https://www.asianhospitality.com/peachtree-expands-investor-access/",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T18:56:51Z",
-      "summary": "Peachtree Group is partnering with Goldman Sachs Group, Inc. to broaden investor access to its alternative investment offerings, making its private commercial real estate strategies available on the Goldman Sachs Custody Solutions platform. This collaboration aims to meet the growing demand for alternative investments, with Peachtree's products also accessible through platforms like iCapital, SEI marketplaces, and CAIS. The company continues to expand its distribution channels, having managed over $10 billion in committed capital and acquiring significant loan volumes in recent years.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "29b151ac0092625eba83c2a4a1031d8c80580372aa9a141408998bd3dce96eb6",
-      "title": "U.S. REIT Public Storage to Buy Public Storage Canada for $1.2B",
-      "url": "https://www.insideselfstorage.com/acquisitions-buying/u-s-self-storage-reit-public-storage-to-acquire-public-storage-canada-for-1-2b",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T18:53:39Z",
-      "summary": "Public Storage Inc., a U.S. self-storage REIT, announced an agreement to acquire Public Storage Canada (PS Canada) for approximately $1.2 billion ($1.67 billion CAD). This acquisition will expand Public Storage's presence in major Canadian markets, adding 68 properties totaling 5.3 million square feet. The transaction is expected to close in the second half of the year, with consideration consisting of Public Storage OP units and cash, plus potential earn-out consideration.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "098592f546ed51c5aa58d14a6dd0e1728974a0adcac358874125c5d5c839d81e",
-      "title": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
-      "url": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
-      "source": "VentureBeat",
-      "source_id": "venturebeat",
-      "published_at": "2026-06-23T18:53:03Z",
-      "summary": "<p>While many enterprises have already begun integrating AI-generated images, visuals, graphics and videos into their production workflows \u2014 there is also a<a href=\"https://gizmodo.com/ai-image-generators-default-to-the-same-12-photo-styles-study-finds-2000702012\"> growing pool of data</a> and subjective commentary indicating AI imagery ultimately looks non-distinct, monotonous, and too unoriginal to ensure a brand and its assets stand out from the pack. That it&#x27;s &quot;AI slop,&quot; in other words. </p><p>AI creative tools startup Krea is hoping to change that trend by<a href=\"https://x.com/krea_ai/status/2069435590995812396\"> opening up the weights</a> to its new frontier AI image model Krea 2 as two versions, &quot;<a href=\"https://huggingface.co/krea/Krea-2-Raw\">Krea 2 Raw</a>&quot; and &quot;<a href=\"https://huggingface.co/krea/Krea-2-Turbo\">Krea 2 Turbo</a>,&quot; under a <a href=\"https://huggingface.co/krea/Krea-2-Raw/blob/main/LICENSE.pdf\">custom license </a>that requires firms with more than 50 seats to pay for Enterprise usage, and mandates all users of any size to implement technical safeguards to <!-- -->prevent the generation of illegal materials, non-consensual intimate imagery (NCII), child sexual abuse material (CSAM), or defamatory assets.</p><p>Both models are available for public download on <a href=\"https://huggingface.co/krea\">Hugging Face</a>. The company says the models provide more visual variety than typical AI generators, while maintaining high prompt accuracy, fidelity, and quality. Importantly, they also offer enterprises and users the ability to customize the generative outputs much more than typical proprietary or even other open source models. </p><p>And, for those seeking to generate imagery at high-throughput, <a href=\"https://www.krea.ai/blog/krea-2-turbo\">Krea 2 Turbo&#x27;s generation speed is only 2 seconds</a>, making it among the fastest now available across open and proprietary AI image generation models.</p><h2><b>AI Image Generator API Speed &amp; Licensing Benchmarks (Mid-2026)</b></h2><table><tbody><tr><td><p><b>Model / Generator</b></p></td><td><p><b>Developer / Platform</b></p></td><td><p><b>Avg. Generation Time</b></p></td><td><p><b>Licensing &amp; Commercial Use</b></p></td><td><p><b>Key Characteristics</b></p></td></tr><tr><td><p>FLUX.1 [schnell] (fast)</p></td><td><p>Prodia</p></td><td><p>0.5 seconds</p></td><td><p>Open Weights (Apache 2.0).</p><p> Fully permissive for free commercial use.</p></td><td><p>Highly optimized endpoint utilizing step distillation to deliver sub-second generation times, representing the absolute floor for current API latency.</p></td></tr><tr><td><p>Z-Image Turbo</p></td><td><p>Replicate / fal.ai</p></td><td><p>1.8 seconds</p></td><td><p>Proprietary.</p><p> Commercial rights require active API usage contracts.</p></td><td><p>Designed for instantaneous inference bursts. Both Replicate and fal.ai achieve identical 1.8-second median times on this model.</p></td></tr><tr><td><p><b>Krea 2 Turbo</b></p></td><td><p><b>Krea</b></p></td><td><p><b>2.0 seconds</b></p></td><td><p><b>Open Weights / Proprietary Hybrid.</b></p><p><b> Available via platform trial or API.</b></p></td><td><p><b>Maintains the base model&#x27;s compatibility with style references and LoRAs while utilizing Trajectory Distribution Matching (TDM) to accelerate the creative ideation loop.</b></p></td></tr><tr><td><p>Midjourney v8.1 (Turbo Mode)</p></td><td><p>Midjourney</p></td><td><p>3 \u2013 6 seconds </p></td><td><p>Proprietary. Commercial use requires an active Standard, Pro, or Mega tier subscription. </p></td><td><p>Delivers generation speeds &quot;three times faster than v8&quot; while maintaining the model&#x27;s signature &quot;painterly realism with sophisticated lighting,&quot; though it requires a &quot;higher credit cost&quot;. </p></td></tr><tr><td><p>FLUX.2 [klein] 4B</p></td><td><p>Black Forest Labs</p></td><td><p>3.9 seconds</p></td><td><p>Open Weights.</p><p> Permissive commercial use.</p></td><td><p>The lightweight 4-billion parameter variant of the FLUX.2 architecture, balancing prompt adherence with high-speed generation.</p></td></tr><tr><td><p>FLUX.2 [klein] 9B</p></td><td><p>Black Forest Labs</p></td><td><p>4.6 seconds</p></td><td><p>Open Weights.</p><p> Permissive commercial use.</p></td><td><p>The medium-weight 9-billion parameter open model. It scales up compositional intelligence while keeping generation firmly under the 5-second barrier.</p></td></tr><tr><td><p>MAI Image 2 Efficient</p></td><td><p>Microsoft</p></td><td><p>4 \u2013 7 seconds </p></td><td><p>Proprietary. Commercial use requires consumption-based API billing via Azure AI Foundry. </p></td><td><p>A throughput-optimized variant explicitly designed to &quot;out-pace Google\u2019s Imagen Flash&quot;. It makes a slight trade-off in detail for &quot;substantially lower latency&quot; that suits &quot;automated pipelines&quot; perfectly. </p></td></tr><tr><td><p>Midjourney v8.1 (Fast Mode)</p></td><td><p>Midjourney</p></td><td><p>5 \u2013 9 seconds </p></td><td><p>Proprietary. Commercial use requires an active Standard, Pro, or Mega tier subscription. </p></td><td><p>The standard operational mode for v8.1. Average wait times &quot;consistently lands below 10 seconds for most prompts&quot; while offering &quot;excellent handling of complex multi-element scenes&quot;. </p></td></tr><tr><td><p>FLUX.2 [dev]</p></td><td><p>fal.ai / DeepInfra</p></td><td><p>6.1 \u2013 6.4 seconds</p></td><td><p>Open Weights (Non-Commercial).</p><p> Strictly for research and non-commercial development.</p></td><td><p>The developer-focused research model. API endpoint optimizations cause slight variance, with fal.ai operating at 6.1 seconds and DeepInfra at 6.4 seconds.</p></td></tr><tr><td><p>Midjourney v8.1 (Relax Mode)</p></td><td><p>Midjourney</p></td><td><p>8 \u2013 14 seconds </p></td><td><p>Proprietary. Commercial use requires an active Standard, Pro, or Mega tier subscription. </p></td><td><p>Processes standard 1024x1024 resolution images without consuming fast GPU hours. The model retains &quot;strong compositional instincts&quot; and &quot;consistent color grading and mood&quot;. </p></td></tr><tr><td><p>FLUX.2 [pro]</p></td><td><p>Black Forest Labs</p></td><td><p>11.1 seconds</p></td><td><p>Proprietary.</p><p> Commercial rights require paid API consumption.</p></td><td><p>The closed, professional-grade tier. It drops extreme step-distillation to prioritize high-fidelity commercial rendering and strict spatial alignments.</p></td></tr><tr><td><p>Seedream 4.0</p></td><td><p>BytePlus</p></td><td><p>11.6 seconds</p></td><td><p>Proprietary.</p><p> Commercial use via BytePlus enterprise contracts.</p></td><td><p>The base commercial generation model for the Seedream architecture, focused on reliable, standard-resolution outputs.</p></td></tr><tr><td><p>MAI Image 2 Standard</p></td><td><p>Microsoft</p></td><td><p>12 \u2013 20 seconds </p></td><td><p>Proprietary. Commercial use requires consumption-based API billing via Azure AI Foundry. </p></td><td><p>Operates as a &quot;full-quality output optimized for photorealism&quot;. It acts as a literal renderer, delivering &quot;high-fidelity skin tones and material textures&quot; and &quot;strong literal prompt adherence&quot;. </p></td></tr><tr><td><p>Nano Banana Pro (Gemini 3 Pro Image)</p></td><td><p>Google DeepMind</p></td><td><p>17.7 seconds</p></td><td><p>Proprietary.</p><p> Commercial rights granted via Gemini API terms.</p></td><td><p>Prioritizes exact semantic accuracy and prompt adherence through an extended reasoning phase, trading raw speed for complex contextual execution.</p></td></tr><tr><td><p>Seedream 4.5</p></td><td><p>BytePlus</p></td><td><p>18.2 seconds</p></td><td><p>Proprietary.</p><p> Commercial use via BytePlus enterprise contracts.</p></td><td><p>The upgraded high-fidelity variant, requiring an additional 6.6 seconds of compute time over the 4.0 version to refine complex textures and text rendering.</p></td></tr><tr><td><p>Krea 2 Large</p></td><td><p>Krea</p></td><td><p>23.7 seconds</p></td><td><p>Proprietary / Open Weights.</p><p> Commercial rights depend on deployment.</p></td><td><p>The un-distilled foundation model. It ignores the speed-focused Trajectory Distribution Matching of the Turbo variant to maximize aesthetic polish and structural stability.</p></td></tr><tr><td><p>FLUX.2 [max]</p></td><td><p>Black Forest Labs</p></td><td><p>25.6 seconds</p></td><td><p>Proprietary.</p><p> Closed enterprise API.</p></td><td><p>The heaviest parameter model in the FLUX lineup. It operates exclusively as a deep reasoning renderer for complex commercial assets.</p></td></tr><tr><td><p>GPT-Image-2</p></td><td><p>OpenAI</p></td><td><p>200.8 seconds</p></td><td><p>Proprietary.</p><p> Full commercial usage under standard OpenAI terms.</p></td><td><p>A massive outlier in the latency landscape. It dedicates over three minutes to complex, multi-step semantic reasoning, likely utilizing an expansive chain-of-thought process prior to finalizing pixel outputs.</p></td></tr></tbody></table><p><i>Sources: </i><a href=\"https://artificialanalysis.ai/image/models\"><i>Artificial Analysis</i></a><i>, </i><a href=\"https://www.krea.ai/blog/krea-2-turbo\"><i>Krea</i></a><i>, </i><a href=\"https://www.mindstudio.ai/blog/midjourney-v8-1-vs-microsoft-mai-image-2\"><i>MindStudio.AI</i></a><i></i></p><h2><b>Architectural bifurcation and the 12B parameter Transformer</b></h2><p>At the <a href=\"https://www.krea.ai/blog/krea-2-technical-report\">technical core</a> of the release sits an architectural framework built entirely from scratch: a Diffusion Transformer scaled to 12 billion parameters. </p><p>Rather than deploying a single, heavily fine-tuned model for all downstream tasks, Krea open-sources two highly differentiated checkpoints captured at distinct milestones of the model&#x27;s training lifecycle.</p><p>Departing from multi-stream configurations for structural clarity, the core engine standardizes on a single-stream transformer block architecture wherein attention and MLP layers are shared natively between text and image tokens. </p><p>To maximize computational efficiency, Krea incorporates a SwiGLU MLP layer operating at a 4x expansion factor alongside Grouped-Query Attention (GQA) combined with gated sigmoid attention layers to stabilize training dynamics. </p><p>Timestep conditioning is heavily optimized; the network replaces traditional per-block MLP modules with a lightweight, per-block tunable bias term, successfully cutting total block modulation parameters by 20% to 30% and reallocating that parameter budget directly into core layers. </p><p>Positional encoding is managed via a 3D Axial Rotary Position Embedding (RoPE) scheme mapping across individual frame, height, and width coordinate</p><p><b>Krea 2 Raw </b>represents an undistilled base release checkpoint taken directly from the mid-training stage of the larger Krea 2 Medium development cycle. </p><p>Because it lacks post-training alignment, reinforcement learning from human feedback (RLHF), or final aesthetic distillation, Krea 2 Raw functions as a blank canvas. </p><p>It retains a vast, uncurated latent space that makes it poorly suited for immediate out-of-the-box prompting, but highly optimized for structural training. </p><p>Operating this model via the Hugging Face `diffusers` library requires a heavy compute footprint, executing via `Krea2Pipeline` in `torch.bfloat16` precision across 52 inference steps with a guidance scale of 3.5.</p><p>To accelerate early-stage architectural convergence during the first epoch of this 256px baseline training phase, Krea applied internal Representation Alignment (iREPA) techniques before decoupling them to let the underlying model develop independent structural representations.</p><p>The second checkpoint, <b>Krea 2 Turbo,</b> represents the opposite end of the optimization spectrum. </p><p>It is a distilled, post-trained variant derived from Krea 2 Medium. Through knowledge distillation, the network&#x27;s complex multi-step generation sequence is compressed into an incredibly lean operational profile. </p><p>Krea 2 Turbo slashes the required generation cycle down to just 8 inference steps with a guidance scale of 0.0, enabling it to render native 2k resolution imagery on standard consumer-grade hardware in <b>approximately 2 seconds.</b></p><p>The underlying latent representations for both models are optimized through the integration of the Qwen Image VAE and the FLUX 2 VAE to guarantee rapid convergence while maintaining high reconstruction fidelity.</p><h2><b>Data and training</b></h2><p>The underlying dataset strategy for the Krea 2 family relies on a hybrid blend of publicly harvested data, third-party licensed image repositories, and highly curated synthetic datasets built via proprietary generation methods. </p><p>Prior to final training, Krea processed these collections through rigorous algorithmic filters designed to strip out duplicative frames, low-resolution media, and explicit or harmful material, ensuring high fidelity and strong prompt compliance across both models.</p><p>Krea enforces a <i>zero-synthetic data policy</i> within its primary pretraining mix. </p><p>To prevent the upper-bound quality limitations and output biases induced by AI-generated data, the engineering team deployed custom in-house filtering classifiers built on top of DINOv3 and SigLIP-2 architectures to completely purge synthetic images at scale. </p><p>Furthermore, rather than using traditional model-based aesthetic filters that inadvertently strip away artistic intents like motion blur, Krea preserves wide stylistic boundaries. </p><p>The team trained a Sparse Autoencoder (SAE) on SigLIP-2 embeddings to isolate and filter out genuine visual artifacts using an unsupervised tagging framework. </p><h2><b>Krea 2 Raw vs. Krea 2 Turbo: Distinctions and use cases</b></h2><p>The release establishes a highly deliberate operational paradigm for professional studios and independent creators: &quot;train on Raw, generate with Turbo.&quot; This workflow leverages the unique architectural properties of both open-weight files to optimize both training accuracy and rendering speed.</p><p>In creative production pipelines, engineers can use Krea 2 Raw to train custom Low-Rank Adaptations (LoRAs) or domain-specific fine-tunes. </p><p>Because the Raw checkpoint contains no baked-in stylistic opinions or aggressive post-training constraints, it absorbs unique aesthetic directions\u2014such as architectural drafting styles, specific brand assets, or complex lighting designs\u2014with high fidelity and zero stylistic interference. </p><p>Once the training phase is complete, creators can port those exact LoRAs directly over to Krea 2 Turbo.</p><p>This methodology is reflected in Krea&#x27;s own development ecosystem, which hosts an in-house collection of custom LoRAs trained entirely on the Raw foundation model but optimized for execution within Turbo workflows. </p><p>On the user-facing application layer, Krea integrates this dual-engine setup with a powerful style transfer system. Rather than relying on erratic text descriptions to achieve an artistic look, users can feed multiple style reference images directly into the system. </p><p>Krea 2 maps these references across its latent space, allowing creators to isolate individual aesthetic components, combine distinct moodboards, adjust style strength via generative sliders, and fine-tune batch variation levels to maintain visual cohesion across large-scale design iterations.</p><p>To address the gap between raw textual training captions and brief user inputs, Krea paired this suite with an advanced LLM Prompt Expander. Refined via Generalized Deep Q-Network Preference Optimization (GDPO) and trained on synthetic thinking traces to preserve intent reconstruction, the expander applies a photographic-medium bias to photorealistic requests and integrates an active DINOv3 embedding diversity score across rollout groups to prevent automated prompting routines from collapsing into a singular house style.</p><p>While Krea 2 Medium and Krea 2 Large remain the company&#x27;s flagship models for high-fidelity composition and absolute stylistic adherence, Turbo fills the critical role of rapid visual ideation. </p><p>It serves as an interactive scratchpad for early concept creation, quick prompt experimentation, and iterative art direction where near-instantaneous feedback loops are required to maintain creative momentum.</p><h2><b>The custom license and its particulars</b></h2><p>The open-weight assets deploy under the <a href=\"https://huggingface.co/krea/Krea-2-Raw/blob/main/LICENSE.pdf\">Krea 2 Community License Agreemen</a>t operating alongside an official Acceptable Use Policy. </p><p>At a macro level, this legal framework mirrors recent industry trends toward commercial-use permissions that target small businesses while restricting large enterprise exploitation. </p><p>The license explicitly permits individuals, independent creators, and <i>small</i> commercial companies to build applications, monetize generated imagery, and integrate the open weights directly into commercial software products without royalty obligations. </p><p>Furthermore, Krea states that it &quot;does not claim copyright or other intellectual property rights over content generated by users of this model,&quot; leaving output ownership entirely in the hands of the operator.</p><p>For organizations scaling beyond this baseline, the ecosystem shifts into a paid, custom-tier structure. </p><p>While Krea&#x27;s official documentation lacks a rigid revenue threshold defining a &quot;large enterprise,&quot; the company structurally demarcates the boundary based on organizational footprint: standard commercial usage caps at a &quot;Business&quot; tier accommodating up to 50 seats. </p><p>Therefore, any entity requiring more than 50 seats, Single Sign-On (SSO) integrations, guaranteed Service Level Agreements (SLAs), or custom Data Processing Agreements (DPAs) qualifies as an Enterprise. </p><p>These larger entities fall outside the free Community License scope and must pay for a custom commercial license\u2014operating under &quot;Custom Terms of Service&quot;\u2014negotiated directly with Krea&#x27;s sales team. </p><p>Additionally, developer access to Krea&#x27;s official API remains entirely decoupled from the open-weights release; API usage operates as a distinct, paid service billed dynamically on a per-generation basis (measured in microdollars) and requires a prepaid USD balance independent of standard monthly compute subscriptions.</p><p>However, a close examination reveals a significant structural shift regarding legal and behavioral compliance for all self-hosted deployments. </p><p>Unlike traditional open-source permissions like the MIT or Apache 2.0 licenses\u2014which grant unconditional usage rights and completely waive liability\u2014the Krea 2 Community License implements strict downstream behavioral guardrails.</p><p>Because Krea relinquishes centralized control over the downstream deployment of its open weights, the contract legally binds deployers to enforce content moderation protocols at the infrastructure layer. </p><p>Under the terms of the agreement, any developer or platform hosting Krea 2 models must implement active input/output classifiers or equivalent content filtering mechanisms to actively prevent the generation of illegal materials, non-consensual intimate imagery (NCII), child sexual abuse material (CSAM), or defamatory assets. </p><p>Developers who fail to deploy these defensive safety layers stand in immediate breach of contract, giving Krea the explicit right to update model weights or revoke access to the model family entirely.</p><h2><b>Background on Krea</b></h2><p>Founded in 2022 by audiovisual systems engineering dropouts V\u00edctor Perez and Diego Rodriguez Prado, San Francisco-based Krea initially captured market traction as a highly fluid user interface layer built to orchestrate disparate, third-party AI generative engines. </p><p>The startup&#x27;s rapid scaling via product-led adoption culminated in an aggregate<a href=\"https://techcrunch.com/2025/04/07/kreas-founders-snubbed-postgrad-grants-from-the-king-of-spain-to-build-their-ai-startup-now-its-valued-at-500m/\"> $83 million </a>in disclosed venture capital funding from major VCs including Andreessen Horowitz and Bain Capital Ventures, as well as early-stage institutional backers including Pebblebed, Abstract Ventures, and Gradient Ventures.</p><p>The company&#x27;s user base surpassed <a href=\"https://www.krea.ai/\">30 million individuals across 191 countries as of June 2026</a>, according to its website. </p><p>The open-weights launch of the Krea 2 model family represents the culmination of Krea\u2019s deliberate evolution from a multi-model SaaS aggregator into a self-sustaining media research lab. </p><p>Early in its lifecycle, Krea focused on building workflow tools, editing systems, and a node-based automation pipeline that allowed digital artists to unify models from competitors like Runway, Midjourney, and Adobe under a single subscription. </p><p>However, to insulate itself against upstream platform dependencies and supplier margin pressures, the company aggressively shifted toward developing proprietary architectures. This transition began taking public shape in July 2025 with the open-weights release of the custom-curated FLUX.1 Krea checkpoint, followed in October 2025 by Krea Realtime 14B\u2014an autoregressive video model distilled from Wan 2.1 capable of rendering 11 frames per second on localized enterprise hardware.</p><p>This underlying technical maturation parallels Krea&#x27;s accelerating push into high-end enterprise workflows. Large-scale creative production operations have shifted toward treating Krea as core creative infrastructure; for example, the digital creative services platform </p><p><a href=\"https://www.youtube.com/watch?v=OLNbn4L2fUM\">Superside reported migrating workflows</a> from fragmented open-source setups to route roughly 80 percent of its total AI generative production through Krea. </p><p>Furthermore, Krea established a strategic co-development partnership with Copenhagen-headquartered architecture firm <a href=\"https://henninglarsen.com/news/we-re-partnering-with-krea\">Henning Larsen</a> to build highly restricted, domain-specific design tools tuned to meet the compliance frameworks mandated by the EU AI Act. </p><p>By releasing Krea 2 Raw and Turbo as open weights, Krea is continuing its expansion from an AI tools provider to being a model provider in its own right.</p><h2><b>An alternative to typical rigid AI imagery APIs?</b></h2><p>Creators are focusing heavily on the structural freedom offered by the unaligned Raw checkpoint, viewing it as an important alternative to the locked-down APIs provided by closed-source models.</p><p>Through the<a href=\"https://x.com/krea_ai/status/2069435590995812396\"> official announcement on X,</a> Krea emphasized the foundational shift this launch represents for open AI workflows.</p><p>Developers note that by treating AI as an &quot;actual creative medium&quot; that feels &quot;raw, flexible, unopinionated, and unconstrained,&quot; Krea is intentionally providing an infrastructure that creators can &quot;break if [they] want to,&quot; moving far away from the rigid safety guardrails that frequently limit the visual range of competing enterprise tools.</p><p>As independent model builders begin compiling the Hugging Face repositories, the practical value of the release will be determined by how effectively the open-source community can scale customized LoRAs using Krea 2 Raw.</p><p>By providing clear commercial terms and lowering hardware entry barriers via Turbo&#x27;s 8-step inference pipeline, Krea has introduced a highly competitive alternative to the open-weights market, challenging dominant models by prioritizing artistic control over centralized corporate alignment.</p>",
-      "category": "real_estate",
-      "image": "https://images.ctfassets.net/jdtwqhzvc2n1/40PtOuCZ5IxnrcPzLnsEXH/921bf5750ef6de7995d4167ad8544135/6pAhBmfGUeBiqqzdBdyyh_28cdd3c23c2347a18026d5763e56fc64.png?w=300&q=30"
-    },
-    {
-      "id": "be72ddc7efed31a59b4f8bb7636297133d0e2790dfd8e5b3de6f7f98a0f5a9ce",
-      "title": "'A very different Afghanistan: Violence now linked to socioeconomic pressures'",
-      "url": "https://www.france24.com/en/tv-shows/spotlight/20260623-a-very-different-afghanistan-violence-now-linked-to-socioeconomic-pressures",
-      "source": "France 24 (English) \u2014 Top Stories",
-      "source_id": "france24_en",
-      "published_at": "2026-06-23T18:47:08Z",
-      "summary": "Fran\u00e7ois Picard is pleased to welcome Silvia Boccardi, freelance journalist based in Rome. Nearly five years after the Taliban's return to power, Afghanistan occupies an uneasy position in international politics. As European governments increasingly seek practical engagement with the authorities in Kabul, questions persist over whether diplomatic contact can alleviate humanitarian suffering without conferring legitimacy upon a regime whose restrictions on women and civil liberties remain widely condemned.",
-      "category": "real_estate",
-      "image": "https://s.france24.com/media/display/a8e307b0-6f31-11f1-8d5e-005056bfb2b6/w:1024/p:16x9/EN-20260623-181643-182732-CS.jpg"
-    },
-    {
-      "id": "3fc3e39fe59fc92f1267e5200f5429f9ca047a40e9c3ff60a70bc13cb6a85a4c",
-      "title": "Colgate-Palmolive holds firm ahead of next earnings, S&P 500 stock in analyst focus",
-      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/colgate-palmolive-holds-firm-ahead-of-next-earnings-s-and-p-500-stock-in/69613160",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T18:46:43Z",
-      "summary": "Colgate-Palmolive (US1941621039) is trading steadily on the NYSE as analysts anticipate its next quarterly report. Consensus points to continued organic growth and robust margins, with specific expectations for year-on-year revenue growth and solid earnings per share. The stock closed at $88.83 on June 22, 2026, with current trading indicating a price around $89.78, reflecting its status as a core holding with a P/E ratio around 34.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "52d464686002d0616be22230ab1545e7fa032427581c5b3ed7a2ffecb68c3047",
-      "title": "'A very different Afghanistan: Violence now linked to socioeconomic pressures'",
-      "url": "https://www.france24.com/en/a-very-different-afghanistan-violence-now-linked-to-socioeconomic-pressures",
-      "source": "France 24 (English) \u2014 Europe",
-      "source_id": "france24_en_europe",
-      "published_at": "2026-06-23T18:43:50Z",
-      "summary": "Fran\u00e7ois Picard is pleased to welcome Silvia Boccardi, freelance journalist based in Rome. Nearly five years after the Taliban's return to power, Afghanistan occupies an uneasy position in international politics. As European governments increasingly seek practical engagement with the authorities in Kabul, questions persist over whether diplomatic contact can alleviate humanitarian suffering without conferring legitimacy upon a regime whose restrictions on women and civil liberties remain widely condemned.",
-      "category": "real_estate",
-      "image": "https://s.france24.com/media/display/a8e307b0-6f31-11f1-8d5e-005056bfb2b6/w:1024/p:16x9/EN-20260623-181643-182732-CS.jpg"
-    },
-    {
-      "id": "427a3146067092183c39b4b1371f85551543262fc4ba668b2f39411a5889fc01",
-      "title": "Cedar Realty Trust (CDR) Stock News & Updates",
-      "url": "https://www.stocktitan.net/news/CDR/",
-      "source": "Alpha Vantage - NEWS_SENTIMENT",
-      "source_id": "alphavantage_news_sentiment",
-      "published_at": "2026-06-23T18:39:32Z",
-      "summary": "This page provides news and updates concerning Cedar Realty Trust (CDR) stock, focusing on its preferred securities and retail-property portfolio. Key announcements include dividend declarations on preferred stock, tax information for distributions, and details surrounding its merger with Wheeler Real Estate Investment Trust, which resulted in Cedar Realty Trust becoming a wholly owned subsidiary. The company, a Maryland corporation taxed as a real estate investment trust, primarily owns and operates grocery-anchored shopping centers.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "f41c1a8b2e7837fabdab222ab05a1b535bd7d8f9f4022c21ddd26ba678834024",
-      "title": "See the list of California's 200-plus billionaires who could be hit by the proposed wealth tax if it passes",
-      "url": "https://www.businessinsider.com/california-billionaires-list-wealth-tax-2026-1",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T18:34:33Z",
-      "summary": "California has over 200 billionaires that could be hit by a proposed wealth tax. Several have moved assets out of the state.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a345286c7a58f814f0d4498?format=jpeg"
     }
   ]
 }

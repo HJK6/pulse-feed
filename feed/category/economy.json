@@ -1,7 +1,7 @@
 {
   "key": "economy",
   "label": "Economy",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
     {
       "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
@@ -24,6 +24,171 @@
       "summary": null,
       "category": "economy",
       "image": null
+    },
+    {
+      "id": "efa856aeac22be3646fc1c898fbdfc62b0e2d66c391ba8480b0e7e1873b9dd6a",
+      "title": "Australia headline inflation cools to 4.0% in May, but sticky core pressures remain",
+      "url": "https://seekingalpha.com/news/4606468-australia-headline-inflation-cools-to-40-in-may-but-sticky-core-pressures-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source": "Seeking Alpha - Market Currents",
+      "source_id": "seekingalpha_market_currents",
+      "published_at": "2026-06-24T04:54:36Z",
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "01bb0ffd53bd56c445a2b494dd141a0eb1c63780ec22dc6a5b408fa11de5c5f2",
+      "title": "PBOC Adviser Sees Potential Rate Cut But Calls for Targeted Aid",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/pboc-adviser-sees-potential-rate-cut-but-calls-for-targeted-aid",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T04:42:35Z",
+      "summary": "China may still cut interest rates this year, though besides looser policy the economy requires more targeted support for technological innovation and improving people\u2019s livelihoods, according to an adviser to the central bank.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwpuBAopkP.Q/v3/1200x-1.png"
+    },
+    {
+      "id": "51b4c571b118ee5412ac27a9ed0015d2960120da402363c3115c6ede1048b136",
+      "title": "A fintech company said its employee burned through $80,000 in tokens making a 'brainrot shooter game'",
+      "url": "https://www.businessinsider.com/fintech-company-slash-employee-burned-through-thousands-in-tokens-2026-6",
+      "source": "Business Insider - All",
+      "source_id": "businessinsider_all",
+      "published_at": "2026-06-24T04:40:45Z",
+      "summary": "Slash is encouraging people to play the game so it can write it off as a \"marketing expense.\"",
+      "category": "economy",
+      "image": "https://i.insider.com/6a3b5b62ace32b985cf896bd?format=jpeg"
+    },
+    {
+      "id": "ae5774f714181a590ab63be4887201158ed6b3c1ff57d2c72cfc1b7cf2683c83",
+      "title": "The Federal Reserve's New Leader Lays Out His Agenda",
+      "url": "https://seekingalpha.com/article/4917200-federal-reserves-new-leader-lays-out-his-agenda?source=feed_all_articles",
+      "source": "Seeking Alpha - Latest Articles",
+      "source_id": "seekingalpha_all",
+      "published_at": "2026-06-24T04:30:00Z",
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "9ed0a686f3c7428a4f164c6790d5957631295db35037fb3c51462420ef47071a",
+      "title": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
+      "url": "https://www.investing.com/news/stock-market-news/trump-to-pay-visit-to-closely-divided-pennsylvania-in-return-to-campaigning-4754911",
+      "source": "Investing.com - News",
+      "source_id": "investing_news",
+      "published_at": "2026-06-24T04:24:30Z",
+      "summary": null,
+      "category": "economy",
+      "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M0LW_L.jpg"
+    },
+    {
+      "id": "de23d5a04d8c3efff475324568b16188c0a1cf31530a8ea14b680db19945cf23",
+      "title": "Webster Financial clear analyst picture, shares trade steady on NYSE",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/webster-financial-clear-analyst-picture-shares-trade-steady-on-nyse/69613756",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T04:10:30Z",
+      "summary": "Webster Financial (WBS) shares are trading steadily on the NYSE as analysts evaluate the bank's earnings and deposit franchise amid assumptions of higher interest rates. The stock closed around $76 on June 22, with analysts expecting stable mid-single-digit earnings growth. The bank recently beat EPS estimates, demonstrating its ability to manage net interest income and credit costs effectively.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "bcfbcb5329ec71c63f8219d484acf0acd199d8bea5cff920505ebf49a586cec4",
+      "title": "Urban Outfitters (URBN) up 3.6% since last earnings report: Can it continue? | FXStreet",
+      "url": "https://twaslnews1.twaslnews.com/2613656/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T04:09:38Z",
+      "summary": "Urban Outfitters (URBN) has seen a 3.6% increase in its stock price since its last earnings report, outperforming the S&P 500. The company reported strong Q1 fiscal 2027 results with earnings and revenues surpassing estimates, driven by momentum across Retail, Subscription, and Wholesale segments. Looking ahead, URBN anticipates continued sales growth for Q2 and fiscal year 2027, despite potential gross margin pressures from tariffs and fuel surcharges.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "9ac3025aeba406408d784d56a0acb6fb886df2cc89bc8dd7b88d3b6e557faa21",
+      "title": "China Unfazed by World\u2019s Ire on Trade as Premier Touts Openness",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/china-unfazed-by-world-s-ire-on-trade-as-premier-touts-openness",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-24T04:07:13Z",
+      "summary": "Beijing\u2019s No. 2 official played down worries about the disruption wrought by his country\u2019s surging exports on the global economy, championing the benefits provided to the world by China\u2019s development.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO8WfiN_BrIY/v3/1200x-1.jpg"
+    },
+    {
+      "id": "245144ba00698c242769693792cc0d8fe3ebf5baa7abc844cebe19aa65ed5dc3",
+      "title": "Rupee falls 16 paise to open at 94.90 against US dollar",
+      "url": "https://www.livemint.com/market/rupee-falls-16-paise-to-open-at-94-90-against-us-dollar-11782272003453.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-24T03:34:59Z",
+      "summary": "The rupee fell 16 paise to 94.90 against the US dollar as expectations of a Federal Reserve rate hike rise. Despite easing crude oil prices, the currency struggles, influenced by importer demand and the Fed's hawkish stance, with potential upside anticipated if it surpasses 95.",
+      "category": "economy",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1782272049577_1782272049723_eb2eac46-8089-4b5a-8906-c10f871c054b.jpg"
+    },
+    {
+      "id": "888bd50fbdc46fd3bf45589cf3b975df2eee7f20e59a832b04f199781a2fad05",
+      "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/copper-holds-losses-as-dollar-and-hawkish-fed-pressure-metals",
+      "source": "Bloomberg \u2014 Markets",
+      "source_id": "bloomberg_markets",
+      "published_at": "2026-06-24T03:30:36Z",
+      "summary": "Copper and industrial metals largely held Tuesday\u2019s slump as a stronger dollar and the Federal Reserve\u2019s hawkish stance weighed on the demand outlook.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAglffFETiD8/v1/1200x-1.jpg"
+    },
+    {
+      "id": "983c4b2bb4dc045e26feb6da2e7e67cb241f371fd64ed6e649b4bf37960bcb0d",
+      "title": "The Dollar Tree Frozen Favorites range from Dollar Tree Inc. - $1.25 comfort food that fills the fre",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-dollar-tree-frozen-favorites-range-from-dollar-tree-inc-1-25/69615314",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T03:29:31Z",
+      "summary": "Dollar Tree's Frozen Favorites range offers budget-friendly frozen food items at a consistent $1.25 price point, appealing to value-oriented customers. The company curates this selection through private-label arrangements and deals with smaller national brands, focusing on convenience and affordability for everyday meals, ensuring profitability despite higher logistics costs associated with frozen goods. This strategy drives traffic and reinforces Dollar Tree's commitment to accessible pricing amidst inflationary pressures.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "3e14f40447214456ea569a1ead9cb116c958a09f481c7ef4b1e526c32be8db55",
+      "title": "Mild Singapore Inflation Points to Policy Hold, Economists Say",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/mild-singapore-inflation-points-to-policy-hold-economists-say",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T03:22:46Z",
+      "summary": "Singapore will likely hold monetary policy at its meeting next month and consider further moves later in the year after weaker-than-expected inflation data for May, according to economists.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH88OYaDMJys/v1/1200x-1.jpg"
+    },
+    {
+      "id": "155e7b472f4df40e1cdf710b90fe618984832d81cc00f789c4a5a2fdcff598f7",
+      "title": "Bank of Korea Says Higher Rates Needed Amid Housing, Debt Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bank-of-korea-says-higher-rates-needed-amid-housing-debt-risks",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T02:00:00Z",
+      "summary": "South Korea\u2019s central bank reinforced its hawkish shift, saying higher interest rates will be needed at an appropriate time as rising home prices, household debt and leveraged investment threaten to stoke financial imbalances.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix4Sv618XQ.k/v0/1200x-1.jpg"
+    },
+    {
+      "id": "f39fc8cc057b3a754d4f7d026a519b98d87eaf539bd682a5fdbca58b973368ba",
+      "title": "BOJ Summary Affirms Rate Hike Stance as Inflation Risks Mount",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/boj-summary-affirms-rate-hike-stance-as-inflation-risks-mount",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T01:40:44Z",
+      "summary": "The Bank of Japan signaled the need for further increases to the benchmark interest rate in a summary of opinions from a last week\u2019s board meeting, when authorities raised the policy rate to the highest since 1995.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ita.vMPXQAmg/v1/1200x-1.jpg"
+    },
+    {
+      "id": "7351898f9880973d09fdf5f1c21eba2c27c20c279577d264c1896138882fe494",
+      "title": "Australia\u2019s Core Inflation Accelerates, Keeping RBA on Alert",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-24/australia-s-core-inflation-accelerates-keeping-rba-on-alert",
+      "source": "Bloomberg - Economics",
+      "source_id": "bloomberg_economics",
+      "published_at": "2026-06-24T01:31:17Z",
+      "summary": "Australia\u2019s core inflation remained above the top of the Reserve Bank\u2019s target in May, reinforcing expectations policymakers will maintain a hawkish stance on interest rates.",
+      "category": "economy",
+      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipnu5uDgCGWs/v3/1200x-1.png"
     },
     {
       "id": "c8d7213714118390424677547f9dd32d7b5a6441e22a831fe8240d4b5b86f6cd",
@@ -497,171 +662,6 @@
       "summary": "Hindustan Zinc shares fell 5% amid declining global silver prices, reaching an intraday low of  \u20b9544. Concerns over inflation and potential rate hikes persist as investors assess the US economic outlook and upcoming PCE data.",
       "category": "economy",
       "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/HINDUSTAN-ZINC-RESULTS--0_1749628981862_1782206755189_fe58983b-5e4c-4c43-af2b-32cb17d72df8.JPG"
-    },
-    {
-      "id": "bd130744047bd84c0783147e5cd09ce7aa4b5519070d81fd340b569ee24b6153",
-      "title": "ECB\u2019s Escriv\u00e1 Says Oil Starting to Ripple Through Other Sectors",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/ecb-s-escriva-says-oil-starting-to-ripple-through-other-sectors",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T08:38:18Z",
-      "summary": "European Central Bank Governing Council member Jose Luis Escriv\u00e1 said high oil prices are feeding through to other parts of the economy.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iXwMZ_qBvj40/v0/1200x-1.jpg"
-    },
-    {
-      "id": "f1c61ef6f76a4f2b1765ac68a879d01069940eee72f5bd6af20ad04327579130",
-      "title": "ECB\u2019s Lane Sees Danger Inflation Will Top 2% for Some Time",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/ecb-s-lane-sees-danger-inflation-will-top-2-for-quite-some-time",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T08:30:00Z",
-      "summary": "European Central Bank officials are facing the risk that inflation will hover above their goal \u201cfor quite some time,\u201d according to Chief Economist Philip Lane.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i2fxyNHrUAyk/v0/1200x-1.jpg"
-    },
-    {
-      "id": "66f4da6aa521c4e34279a4db750c52433504780d22b264ce141e61e92ab623f8",
-      "title": "UK Economy Shrinks for Second Straight Month, PMI Shows",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/uk-economy-shrinks-for-second-straight-month-flash-pmi-shows",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T08:30:00Z",
-      "summary": "The UK economy shrank for a second consecutive month in June, according to a prominent private sector survey that showed firms cutting more jobs.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i7tuvTDsTOhg/v1/1200x-1.jpg"
-    },
-    {
-      "id": "876cada20784859a04d97d297dd3e39f510dd362e72e647da15d0fecba550f8d",
-      "title": "French Business Activity Extends Drop With Economy \u2018Frail\u2019",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/french-business-activity-extends-drop-with-economy-frail",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T07:15:00Z",
-      "summary": "French business activity shrank for a sixth month after higher energy costs sparked by the Iran war hurt confidence and consumer spending.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqJkNNm0izcg/v3/1200x-1.png"
-    },
-    {
-      "id": "0283694c3294818c08666931ee32f83c246c936f684da2aac8e4cb23251f45c2",
-      "title": "Gold Reassesses the Post-Fed Landscape as Inflation and Growth Signals Return",
-      "url": "https://www.investing.com/analysis/gold-reassesses-the-postfed-landscape-as-inflation-and-growth-signals-return-200682598",
-      "source": "Investing.com - Commodities",
-      "source_id": "investing_commodities",
-      "published_at": "2026-06-23T06:50:00Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "d46f285803b80b2e753fcadce3ea2966a30b7e1c0ce83647af13597a0f1057e8",
-      "title": "US Senate passes housing bill with CBDC ban until 2030",
-      "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
-      "source": "Cointelegraph",
-      "source_id": "cointelegraph",
-      "published_at": "2026-06-23T05:58:20Z",
-      "summary": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
-      "category": "economy",
-      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-almost-year-since-hack-and-still-no-arrests-how-come2.jpg"
-    },
-    {
-      "id": "9945259f2eeb464824aa0343223ca0a31ee8207f9a60daec87c340607f28ed04",
-      "title": "Singapore\u2019s Core Inflation Steady at 1.4% Despite Oil Crunch",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/singapore-s-core-inflation-steady-at-1-4-despite-oil-crunch",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T05:01:07Z",
-      "summary": "Singapore\u2019s core inflation rate was unchanged last month, even as the Middle East conflict had pushed up global prices of energy and fertilizer.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH2Lfnknw17w/v0/1200x-1.jpg"
-    },
-    {
-      "id": "6aa4c0c6752fad53a45582a0b9b3bee1716e1db6c61baf033d30b709ee704fc5",
-      "title": "Where to Invest 10 Lakh Rupees in India Confronting Inflation and Iran War Risks",
-      "url": "https://www.bloomberg.com/features/2026-where-to-invest-in-india-q3-2026/",
-      "source": "Bloomberg - Wealth",
-      "source_id": "bloomberg_wealth",
-      "published_at": "2026-06-23T04:00:18Z",
-      "summary": "Indian markets are showing signs of recovery, but volatile oil prices, a delayed monsoon, and uneven stock valuations could eat into those gains. Four financial experts point to investment opportunities in an otherwise nervous market.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/imfGjVmGnl6s/v0/1200x-1.jpg"
-    },
-    {
-      "id": "b21d38a1686efd09120d987a0b29291c1d185132fca6978a39265009523b1efd",
-      "title": "Hungary Likely to Cut Rates as Forint Gains and Inflation Slows",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/hungary-likely-to-cut-rates-as-forint-gains-and-inflation-slows",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T04:00:00Z",
-      "summary": "Hungary\u2019s central bank is likely to lower borrowing costs for the first time in months as slowing inflation and a stronger currency give policymakers room to diverge from global peers starting monetary tightening.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izd055qeqBPE/v0/1200x-1.jpg"
-    },
-    {
-      "id": "1cfd35fbe82ed7d54d6c983ee9736d6979eca31a96c0b90829b8c25c995e15bc",
-      "title": "Rupee opens 1 paise lower at 94.69 against US dollar",
-      "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-1-paise-lower-at-94-69-against-us-dollar-11782185525553.html",
-      "source": "LiveMint \u2014 Markets",
-      "source_id": "livemint_markets",
-      "published_at": "2026-06-23T03:36:30Z",
-      "summary": "The Indian rupee opened weaker at 94.69 against the US dollar, down 1 paise. Market focus has shifted from oil prices to expectations of a US Federal Reserve rate hike in September, impacting Asian currencies including the rupee.",
-      "category": "economy",
-      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1782185754926_1782185755093_980df10f-33eb-4a3d-b37c-4419cf2d0fe2.jpg"
-    },
-    {
-      "id": "9b4c52d7dff38f46e66c3bffacca36ecebdeefc4d395d7ad1d2bc46bbc10be31",
-      "title": "India\u2019s Inflation Is Anchored Despite May Pickup, RBI Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/india-s-inflation-is-still-anchored-despite-may-pickup-rbi-says",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T01:15:53Z",
-      "summary": "Indian inflation remains anchored below the central bank\u2019s target despite the recent energy shock, as pass-through to domestic prices has been limited, the Reserve Bank said in a monthly bulletin.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iHWdSKg_jdxc/v0/1200x-1.jpg"
-    },
-    {
-      "id": "f5933490f9f0ed48c476e5b88fc3b23f17b7c2c8d46ab59394167919ddb376db",
-      "title": "Sony Returns to US Bond Market After Nearly Three Decades",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-22/sony-plans-its-first-dollar-bond-sale-in-nearly-three-decades",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-22T20:10:03Z",
-      "summary": "Sony Group Corp. was still marketing the original PlayStation when it last tapped the US investment-grade bond market. Almost three decades later, it\u2019s made a comeback.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iC04yg5Jd0P8/v1/1200x-1.jpg"
-    },
-    {
-      "id": "80ad0556be1886fe237ee19a0885b046482a14e621e38e7889f5839c9db62f4c",
-      "title": "Russia\u2019s war economy has problems\u2014but is not about to crash",
-      "url": "https://www.economist.com/finance-and-economics/2026/06/22/russias-war-economy-has-problems-but-is-not-about-to-crash",
-      "source": "The Economist - Finance and Economics",
-      "source_id": "economist_finance_economics",
-      "published_at": "2026-06-22T19:07:09Z",
-      "summary": "Vladimir Putin is still able to fund his aggression",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "727d7eb790d4da22388e0c1b506a7bd3602af4a6922b9abac2b255a2d4d01f9a",
-      "title": "The man who knew, but didn't say: Alan Greenspan (1926-2026)",
-      "url": "https://www.dw.com/en/the-man-who-knew-but-didn-t-say-alan-greenspan-1926-2026/a-77658667?maca=en-rss-en-bus-2091-xml-mrss",
-      "source": "Deutsche Welle (English) \u2014 Business",
-      "source_id": "dw_en_business",
-      "published_at": "2026-06-22T13:21:00Z",
-      "summary": "Alan Greenspan\u2019s reputation as head of the US Federal Reserve was legendary \u2014 not least because of his reputation for convoluted statements. However, the 2008/9 financial crisis took a toll on his standing.",
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "70a727676810326dccb6a9d3a9560cc618df121633b7e4ab7074fb41400481ce",
-      "title": "Waller, Welcoming Remarks on the International Role of the U.S. Dollar",
-      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
-      "source": "Federal Reserve - Speeches",
-      "source_id": "federalreserve_speeches",
-      "published_at": "2026-06-22T13:00:00Z",
-      "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C.",
-      "category": "economy",
-      "image": null
     }
   ]
 }

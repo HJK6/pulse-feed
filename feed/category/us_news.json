@@ -1,8 +1,19 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
+    {
+      "id": "2af0379e0dc60db5b02d0495d008c7a3300e3c9d09b1264b1c54fa89206e7b36",
+      "title": "New York leads four-state primary elections, in photos",
+      "url": "https://abcnews.com/US/wireStory/new-york-leads-state-primary-elections-photos-134154458",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-06-24T05:02:20Z",
+      "summary": "New York&rsquo;s closely watched primary elections took center stage Tuesday as congressional races tested the political influence of New York City Mayor Zohran Mamdani, while voters also cast ballots in Maryland, South Carolina and Utah.\n\n___\n\nThis is a photo gallery curated by AP photo editors.",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_7f7088412311991dd5764293e4926140_4x3_384.jpg"
+    },
     {
       "id": "0b2be4d2046726c5b022ba36eeee27de6e40baa99deb199f6d7485455e6cf6b9",
       "title": "In New York primaries, progressives make inroads on establishment, and a Kennedy scion seeks office",
@@ -649,17 +660,6 @@
       "source_id": "cbs_us",
       "published_at": "2026-04-24T21:42:00Z",
       "summary": "President Trump's renovation kick has now reached the Lincoln Memorial Reflecting Pool.",
-      "category": "us_news",
-      "image": null
-    },
-    {
-      "id": "f1d37bbdc9836aa31eb64aa2747f20e730ec90e13a45d9edbcb26f7b1c7a17ea",
-      "title": "\"Arc de Trump\" receives preliminary design approval from arts commission",
-      "url": "https://www.cbsnews.com/news/arc-de-trump-preliminary-design-approval-arts-commission/",
-      "source": "CBS News \u2014 US",
-      "source_id": "cbs_us",
-      "published_at": "2026-04-16T18:19:00Z",
-      "summary": "The plans call for the arch to be built on Columbia Island, a man-made strip of land in the Potomac River that is part of Washington, D.C.",
       "category": "us_news",
       "image": null
     }

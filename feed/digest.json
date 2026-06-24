@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "edition": "2026-06-24",
   "top_stories": [
     {
@@ -10,17 +10,6 @@
       "source_id": "ft_technology",
       "published_at": "2026-06-23T07:21:57Z",
       "summary": "Declines on Wall Street reverberate across global markets as SpaceX rally reverses",
-      "category": "technology",
-      "image": null
-    },
-    {
-      "id": "8165457aec64a92ba65c8df627e8f66a9bc571dfb82f88ca4b9ae40b58371aa9",
-      "title": "Will It Mythos?",
-      "url": "https://swelljoe.com/post/will-it-mythos/",
-      "source": "Hacker News - Top Stories",
-      "source_id": "hackernews_topstories",
-      "published_at": "2026-06-23T04:15:04Z",
-      "summary": "<p>Article URL: <a href=\"https://swelljoe.com/post/will-it-mythos/\">https://swelljoe.com/post/will-it-mythos/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48640196\">https://news.ycombinator.com/item?id=48640196</a></p>\n<p>Points: 150</p>\n<p># Comments: 90</p>",
       "category": "technology",
       "image": null
     },
@@ -69,6 +58,17 @@
       "image": null
     },
     {
+      "id": "ed8de341bff7fb364eb3975d0c498abe92ce3004bfe44a39d6311eef5653e8d5",
+      "title": "Mark Zuckerberg directed meta to create a prediction markets app",
+      "url": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T16:45:31Z",
+      "summary": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html\">https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48647928\">https://news.ycombinator.com/item?id=48647928</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "category": "technology",
+      "image": null
+    },
+    {
       "id": "b307aec192adecb6cf5f4c624202ebbcc05a280fffc615e58248cf3ef9efb073",
       "title": "Factory job cuts in June neared financial crisis and Covid levels, S&P says",
       "url": "https://www.cnbc.com/2026/06/23/factory-job-cuts-reported-around-financial-crisis-and-covid-levels-for-june-sp-says.html",
@@ -98,6 +98,17 @@
       "source_id": "npr_news",
       "published_at": "2026-06-23T10:30:00Z",
       "summary": "Denver renters are celebrating falling housing costs. But sometimes cheaper housing is a sign of economic decline. How can you tell the difference?",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "461c1088a36b4ee213738458978bf09ea6a5df520484ace67e7a44a52848def3",
+      "title": "5 major changes Trump is making in D.C. during his second term",
+      "url": "https://www.cbsnews.com/news/trump-dc-reflecting-pool-renovation-white-house-ballroom-triumphal-arch/",
+      "source": "CBS News \u2014 Latest",
+      "source_id": "cbs_main",
+      "published_at": "2026-06-23T17:03:00Z",
+      "summary": "President Trump's construction projects include restoring the Lincoln Memorial Reflecting Pool, building a 90,000-square-foot White House ballroom and a 250-foot triumphal arch.",
       "category": "real_estate",
       "image": null
     },
@@ -135,28 +146,6 @@
       "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/c8b22cbf-fc18-4890-80b7-ae22998dce8a_e305af2a.jpg?itok=gNYNE3sm&v=1782211867"
     },
     {
-      "id": "cf1f46b55e271953bfa9d8712782be3556f56b22d7de9a574409765a9902bdf0",
-      "title": "China and Philippines have a rare naval stand-off near disputed Scarborough Shoal",
-      "url": "https://www.scmp.com/news/china/military/article/3358063/china-and-philippines-have-rare-naval-stand-near-disputed-scarborough-shoal?utm_source=rss_feed",
-      "source": "South China Morning Post \u2014 China",
-      "source_id": "scmp_china",
-      "published_at": "2026-06-23T09:14:24Z",
-      "summary": "Four Chinese warships reportedly confronted a Philippine Navy vessel near the disputed Scarborough Shoal in a rare stand-off on Saturday, the same day Manila wrapped up a joint drill with the US and its allies.\nThe confrontation coincided with the end of Salaknib 2026, a nearly three-month joint military exercise involving more than 7,000 troops from the Philippines, the United States, Japan, New Zealand and Australia.\nBeijing has not commented on the incident.\n\n\nAccording to a report by 24 Oras...",
-      "category": "world_affairs",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/b6bb0248-3c9e-47b3-a886-79a48c6a544d_b0e8a5be.jpg?itok=saNDhkyf&v=1782206039"
-    },
-    {
-      "id": "3ab57b8474dd32e8d5ab26bc68170b7d5fd80a51de358d3017d716ac7c9d5088",
-      "title": "China targets US rare earth miners as Pentagon faces restocking rush",
-      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3358056/china-targets-us-rare-earth-miners-pentagon-faces-restocking-rush?utm_source=rss_feed",
-      "source": "South China Morning Post \u2014 China",
-      "source_id": "scmp_china",
-      "published_at": "2026-06-23T09:04:55Z",
-      "summary": "China put two US rare earth miners on its export control list, along with eight technology companies, in response to the US Department of Defence blacklisting Chinese businesses for their alleged ties to the People\u2019s Liberation Army.\nMP Materials and USA Rare Earth will both be banned from buying Chinese exports with dual civilian and military uses, the Ministry of Commerce said on Monday. Motor maker Aveox and drone companies Red Cat and Teal Drones were among the other companies included in...",
-      "category": "world_affairs",
-      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/719ec17d-38f4-4d38-a4bb-8e0784cf1f8b_adf6d9fd.jpg?itok=xGSwgWvW&v=1782204898"
-    },
-    {
       "id": "9846cbc35fe901b04bbee3552394b6485c80f82c2af3d97c44feef2179a4d392",
       "title": "Supreme Court sides with Michigan county in a tax foreclosure case",
       "url": "https://abcnews.com/US/wireStory/supreme-court-sides-michigan-county-tax-foreclosure-case-134133084",
@@ -168,26 +157,26 @@
       "image": "https://s.abcnews.com/images/US/wirestory_64f3e722e9f28be39db11b087bc33ff4_4x3_384.jpg"
     },
     {
-      "id": "ad530ee812c456533e239e60d4b0ab87130ae2479ac703aaf675ee2e5d548561",
-      "title": "Fiancee's Failed Attempt 4 Days Before Murder, A Snake Excuse, And A Hug",
-      "url": "https://www.ndtv.com/india-news/siya-goyal-ketan-agarwal-fiancees-failed-attempt-4-days-before-murder-a-snake-excuse-and-a-hug-11676614#publisher=newsstand",
-      "source": "NDTV \u2014 Top Stories",
-      "source_id": "ndtv_top",
-      "published_at": "2026-06-23T14:08:41Z",
-      "summary": "Ketan Agarwal was a resident of Gahunje in Pune district.",
-      "category": "real_estate",
-      "image": "https://c.ndtvimg.com/2026-06/g4llnjvg_ketan-agarwal-siya-agarwal-_625x300_23_June_26.png?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+      "id": "224b086335044c9f487c3da3b4b06ea457f6f33373c0a2df72080059e6989567",
+      "title": "Iran denies any plans for inspectors to visit nuclear sites",
+      "url": "https://www.cbsnews.com/live-updates/iran-us-war-trump-nuclear-sites-strait-of-hormuz/",
+      "source": "CBS News \u2014 World",
+      "source_id": "cbs_world",
+      "published_at": "2026-06-23T10:47:34Z",
+      "summary": "Iran downplayed Vice President JD Vance's suggestion that U.N. inspectors will return soon to the country's damaged nuclear facilities.",
+      "category": "world_affairs",
+      "image": null
     },
     {
-      "id": "e5ee9df526c1fa3d6ec122548343cd0d364ad59f2a65a4b7be9df0e69a2932fd",
-      "title": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
-      "url": "https://www.cbsnews.com/news/reflecting-pool-paint-peeling-trump-proof-vandalism-court/",
-      "source": "CBS News \u2014 US",
-      "source_id": "cbs_us",
-      "published_at": "2026-06-23T12:43:00Z",
-      "summary": "President Trump has insisted that vandals, rather than questionable craftsmanship, are responsible for the enduring problems following the Reflecting Pool's $14.7 million sealant job.",
-      "category": "us_news",
-      "image": null
+      "id": "cf1f46b55e271953bfa9d8712782be3556f56b22d7de9a574409765a9902bdf0",
+      "title": "China and Philippines have a rare naval stand-off near disputed Scarborough Shoal",
+      "url": "https://www.scmp.com/news/china/military/article/3358063/china-and-philippines-have-rare-naval-stand-near-disputed-scarborough-shoal?utm_source=rss_feed",
+      "source": "South China Morning Post \u2014 China",
+      "source_id": "scmp_china",
+      "published_at": "2026-06-23T09:14:24Z",
+      "summary": "Four Chinese warships reportedly confronted a Philippine Navy vessel near the disputed Scarborough Shoal in a rare stand-off on Saturday, the same day Manila wrapped up a joint drill with the US and its allies.\nThe confrontation coincided with the end of Salaknib 2026, a nearly three-month joint military exercise involving more than 7,000 troops from the Philippines, the United States, Japan, New Zealand and Australia.\nBeijing has not commented on the incident.\n\n\nAccording to a report by 24 Oras...",
+      "category": "world_affairs",
+      "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/23/b6bb0248-3c9e-47b3-a886-79a48c6a544d_b0e8a5be.jpg?itok=saNDhkyf&v=1782206039"
     },
     {
       "id": "60f69dfee97051b5de60d5c7afc14cbe88760ede353744ab4526b081100c629b",
@@ -197,6 +186,17 @@
       "source_id": "npr_national",
       "published_at": "2026-06-23T09:00:00Z",
       "summary": "An NPR analysis of more than a thousand Trump endorsements in House, Senate and governor races over the last decade finds the president now picks candidates earlier \u2014 and in safer races.",
+      "category": "us_news",
+      "image": null
+    },
+    {
+      "id": "e5ee9df526c1fa3d6ec122548343cd0d364ad59f2a65a4b7be9df0e69a2932fd",
+      "title": "Trump says proof that vandals cut Reflecting Pool will be provided in court",
+      "url": "https://www.cbsnews.com/news/reflecting-pool-paint-peeling-trump-proof-vandalism-court/",
+      "source": "CBS News \u2014 US",
+      "source_id": "cbs_us",
+      "published_at": "2026-06-23T12:43:00Z",
+      "summary": "President Trump has insisted that vandals, rather than questionable craftsmanship, are responsible for the enduring problems following the Reflecting Pool's $14.7 million sealant job.",
       "category": "us_news",
       "image": null
     },
@@ -212,15 +212,15 @@
       "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3SGi6qk4Knk/v3/1200x-1.png"
     },
     {
-      "id": "35f988735b4e6802f8eaa1745ebca21fb90787e5e72c52d0da840acee5796f0b",
-      "title": "Private equity bosses turn to carried interest loans as payouts stall",
-      "url": "https://www.ft.com/content/1fe784c5-f52c-48c0-a99e-4d1b83546c32",
-      "source": "Financial Times - Markets",
-      "source_id": "ft_markets",
-      "published_at": "2026-06-23T04:00:22Z",
-      "summary": "Requests to borrow against future shares of profits are multiplying, as the buyout market remains slow",
+      "id": "e3fa165ba53b13e7d1c5eab8cd4e1666212de526cbf42eaf4976e43ad0a9d699",
+      "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model\u2014And Nobody's Shutting It Down",
+      "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
+      "source": "Decrypt",
+      "source_id": "decrypt",
+      "published_at": "2026-06-23T18:59:26Z",
+      "summary": "GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offline under a Trump administration export ban.",
       "category": "stocks",
-      "image": null
+      "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg"
     }
   ],
   "categories": [
@@ -230,37 +230,37 @@
       "count": 60,
       "top": [
         {
-          "id": "20906e17a813e19608c7a0964428c7209ca250b870b2c215aed606e481fb91e5",
-          "title": "UK tribunal gives go ahead for $4B lawsuit against Apple over iCloud services",
-          "url": "https://www.msn.com/en-gb/money/technology/uk-tribunal-gives-go-ahead-for-4-billion-lawsuit-against-apple-over-icloud-services/ar-AA26lZBL",
+          "id": "6e3e0bb8c7fc0851337a9d122683237c91c47d90774b2fa81ed249dfe178f1f7",
+          "title": "Kioxia\u2019s Executive Pay Jumps After AI Boosts Demand and Stock",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/kioxia-s-executive-pay-jumps-after-ai-boosts-demand-and-stock",
+          "source": "Bloomberg \u2014 Technology",
+          "source_id": "bloomberg_tech",
+          "published_at": "2026-06-24T04:49:24Z",
+          "summary": "Executive pay at Japanese flash memory maker Kioxia Holdings Corp. surged, a reflection of runaway global demand for AI-related chips.",
+          "category": "ai",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iorBEieRu0vg/v0/1200x-1.jpg"
+        },
+        {
+          "id": "260a71164c59daafcefae831dba3573edb20fc741b6980c0a1b65fbc194bf875",
+          "title": "Ask HN: Yahoo deleted all my emails. Now what?",
+          "url": "https://news.ycombinator.com/item?id=48655248",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-24T01:56:37Z",
-          "summary": "<p>Article URL: <a href=\"https://www.msn.com/en-gb/money/technology/uk-tribunal-gives-go-ahead-for-4-billion-lawsuit-against-apple-over-icloud-services/ar-AA26lZBL\">https://www.msn.com/en-gb/money/technology/uk-tribunal-gives-go-ahead-for-4-billion-lawsuit-against-apple-over-icloud-services/ar-AA26lZBL</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654198\">https://news.ycombinator.com/item?id=48654198</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published_at": "2026-06-24T04:44:43Z",
+          "summary": "Logged into my old email after a year - it has everything setup with recent details, so I know for a fact it isn&#x27;t more than a year. To my shock, all my data is now gone. Just a simple `fuck you` email at the top of my inbox. Is there any way to recover my old emails? Unfortunately I used to use this as my main account since the early 2000s. No shady stuff, just your average joe with an average email. Here&#x27;s the only email now in my account:<p>Dear Yahoo Mail Member,<p>We\u2019re so glad to see you\u2019re back! Due to inactivity, your mailbox entered an inactive state. This means we stopped accepting your incoming emails. If your period of inactivity was long enough, we also deleted all of your emails. Now that you\u2019ve signed back in, your mailbox has been reactivated and you will start receiving new emails again shortly. For more information, please visit the Yahoo Mail policy page at: https:&#x2F;&#x2F;en-global.help.yahoo.com&#x2F;kb&#x2F;mail&#x2F;SLN2018.html<p>We\u2019ve made some upgrades to your email experience since the last time you signed in. Now Yahoo Mail has a cleaner design and upgraded features to help you keep your inbox in order.\nFind whatever you need quickly without the clutter. Search by keyword, contact, date or any combination of these.\nWith themes, you can pick your favourite colour and the level of intensity. The choice is yours.\nStay on top of everything on the go. The top-rated Yahoo Mail app makes life easy to manage with features such as Subscriptions View. See all the mailing lists you\u2019re subscribed to and easily unsubscribe with a single tap.\nYou can download it here: https:&#x2F;&#x2F;mail.onelink.me<p>We hope that you enjoy your new Yahoo Mail experience.<p>Thank you,<p>The Yahoo Mail team",
           "category": "ai",
           "image": null
         },
         {
-          "id": "6b0be5d80c5af35c702c420998e7065139f47751f9769b38e5a597a5eb766755",
-          "title": "China Minerals Threatens EU; AI Warfare Dominates Japan, WeChat",
-          "url": "https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&reauth=1",
+          "id": "733d6e1d28906834cc6d78ac365d16519e2d76523dbdd6f0f84765be3b61f0ac",
+          "title": "Instantiating UI Components with Distinguishing Variations [pdf]",
+          "url": "https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-24T01:48:29Z",
-          "summary": "<p>Article URL: <a href=\"https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1\">https://asiaai.fyi/wp-login.php?redirect_to=https%3A%2F%2Fasiaai.fyi%2Fwp-admin%2Fpost.php%3Fpost%3D197&amp;reauth=1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654155\">https://news.ycombinator.com/item?id=48654155</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published_at": "2026-06-24T04:33:25Z",
+          "summary": "<p>Article URL: <a href=\"https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf\">https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48655158\">https://news.ycombinator.com/item?id=48655158</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
           "category": "ai",
           "image": null
-        },
-        {
-          "id": "1d448b1d14e3d82b4b2ee29b94a614c1ad3dc7140a92e36105d163f0e125c8a3",
-          "title": "Whoops! Microsoft Outlook Mac Update Removes Email Conversation History",
-          "url": "https://www.cnet.com/tech/services-and-software/microsoft-outlook-new-mac-update-deletes-conversation-history/",
-          "source": "CNET \u2014 News",
-          "source_id": "cnet_news",
-          "published_at": "2026-06-24T01:30:13Z",
-          "summary": "While there's no official fix from Microsoft, there is a workaround.",
-          "category": "ai",
-          "image": "https://www.cnet.com/a/img/resize/26acd05c7be52739334e5c87d240b612490677f9/hub/2021/07/22/79fdf1d3-7c6d-4955-81b0-24e62b6a2cfc/how-to-share-your-outlook-calendar-cnet-2021-05.jpg?auto=webp&fit=crop&height=614&width=1092"
         }
       ]
     },
@@ -361,34 +361,45 @@
           "image": null
         },
         {
-          "id": "70baebccd0df3db97acfc909751f242e21cd4b7440245962a6cbb85a4a2d3673",
-          "title": "Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel",
-          "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-fall-on-smoother-flows-through-strait-of-hormuz-brent-below-77-per-barrel-11782265079363.html",
-          "source": "LiveMint \u2014 Markets",
-          "source_id": "livemint_markets",
-          "published_at": "2026-06-24T01:57:35Z",
-          "summary": "US-Iran peace talks: Global benchmark Brent crude futures for August delivery declined 0.45% to $76.73 per barrel on Wednesday after falling 1.1% in the previous session.",
+          "id": "90a1f3eb8f156a443c525a72bb6e5a8be94081e92e368a3f25704fbf1e3cd12a",
+          "title": "Hong Kong school rearranges overnight World Cup watch party after feedback",
+          "url": "https://www.scmp.com/news/hong-kong/education/article/3358154/hong-kong-school-rearranges-overnight-world-cup-watch-party-after-feedback?utm_source=rss_feed",
+          "source": "South China Morning Post \u2014 Homepage",
+          "source_id": "scmp_home",
+          "published_at": "2026-06-24T04:53:52Z",
+          "summary": "A Hong Kong primary school that earlier suggested hosting an overnight World Cup viewing event has watered down the plan and opted for a weekend morning timeslot in response to feedback from parents.\nThe school clarified that its initial circular, which slated the event for the very early hours of July 15, sought to gauge parental interest, while its shift to daytime aimed to allow for more parents and students to watch the match together.\nIn a statement on Wednesday \u2013 about a week after the...",
           "category": "real_estate",
-          "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/crude_oil_1782265650538_1782265650668_07ed25d0-2a41-4f9e-a101-93e2fbc0822c.JPG"
+          "image": "https://cdn.i-scmp.com/sites/default/files/styles/1280x720/public/d8/images/canvas/2026/06/24/025e3607-b91c-4b67-9bbc-02164525fae7_4cb7430c.jpg?itok=VdPdz8Yi&v=1782276819"
         },
         {
-          "id": "66f55feade2c75f0b49408b76661102a3f65d4b8a0e94509988d1e8587e1a239",
-          "title": "Jeffrey Epstein pitched his connections with billionaires to get close to Bill Gates",
-          "url": "https://www.businessinsider.com/bill-gates-jeffrey-epstein-congress-billionaire-connections-2026-6",
-          "source": "Business Insider - All",
-          "source_id": "businessinsider_all",
-          "published_at": "2026-06-24T01:15:14Z",
-          "summary": "Bill Gates told Congress that Jeffrey Epstein wormed his way into his life with \"veiled threats\" to disclose extramarital affairs.",
+          "id": "2169202429e6398689e914e62e9b4337fe4ec445c57d48f039312a5553caaa8a",
+          "title": "Real Estate, Reinvented: How Alexis Zaballa and One Trade S.A. Let Everyday Investors Own a Piece of a Wyndham Hotel",
+          "url": "https://www.barchart.com/story/news/2614180/real-estate-reinvented-how-alexis-zaballa-and-one-trade-s-a-let-everyday-investors-own-a-piece-of-a-wyndham-hotel",
+          "source": "Alpha Vantage - NEWS_SENTIMENT",
+          "source_id": "alphavantage_news_sentiment",
+          "published_at": "2026-06-24T04:40:33Z",
+          "summary": "One Trade S.A., founded by Alexis Zaballa, is revolutionizing real estate investment in Latin America through a \"condohotel\" model where individual investors can own a hotel room operated by Wyndham Hotels & Resorts. This model offers a fixed 8% annual return, contractually guaranteed for 15 years, without the operational burdens typically associated with property ownership. The company has already launched one hotel in Paraguay and is developing five more across Paraguay, the Dominican Republic, and Argentina, aiming to make hotel ownership accessible to everyday investors with entry points around $95,000.",
           "category": "real_estate",
-          "image": "https://i.insider.com/6a3b30faace32b985cf895fd?format=jpeg"
+          "image": null
         }
       ]
     },
     {
       "key": "nba",
       "label": "NBA",
-      "count": 25,
+      "count": 26,
       "top": [
+        {
+          "id": "ea43795de6c7cae8d59a5de0689032689739799470475ec8622dd2ddb20ff331",
+          "title": "Lopez becomes NBA's 1st Mexico-born 1st-rounder",
+          "url": "https://www.espn.com/nba/story/_/id/49161309/lopez-becomes-nba-1st-mexico-born-1st-rounder-traded-grizzlies",
+          "source": "ESPN - NBA",
+          "source_id": "espn_nba",
+          "published_at": "2026-06-24T04:28:47Z",
+          "summary": "Karim Lopez became the first player born in Mexico to be selected in the first round of the NBA draft, being selected with the No. 21 pick to the Detroit Pistons before being traded to the Memphis Grizzlies on Tuesday night.",
+          "category": "nba",
+          "image": null
+        },
         {
           "id": "0cf923a1ff559ff026a1465e0071b89e51394464259ca5f012677b9f9c4b7307",
           "title": "Follow live: AJ Dybantsa selected No. 1, Jazz take...",
@@ -408,17 +419,6 @@
           "source_id": "espn_nba",
           "published_at": "2026-06-24T03:04:31Z",
           "summary": "The Mavericks picked Michigan forward Morez Johnson Jr. with the No. 9 pick, reuniting him with Dusty May less than six hours after he was announced as their new head coach.",
-          "category": "nba",
-          "image": null
-        },
-        {
-          "id": "079c766df11ab2897a0441bf553baf9703584b898706bf5c6d20cb799834b0ea",
-          "title": "Jayhawks' Peterson lands with Jazz at No. 2 pick",
-          "url": "https://www.espn.com/nba/story/_/id/49159019/kansas-peterson-lands-jazz-no-2-pick-nba-draft",
-          "source": "ESPN - NBA",
-          "source_id": "espn_nba",
-          "published_at": "2026-06-24T03:03:55Z",
-          "summary": "Kansas guard Darryn Peterson, who had been considered a potential No. 1 pick, wound up with the Jazz as the second pick of the 2026 NBA draft.",
           "category": "nba",
           "image": null
         }
@@ -481,26 +481,26 @@
           "image": null
         },
         {
-          "id": "bfc44aab57f90853be9f584203e54e22626e092726fb2774cd0ab665b5c54652",
-          "title": "Nifty 50, Sensex prediction today: Check how Indian stock market is expected to trade on 24 June",
-          "url": "https://www.livemint.com/market/stock-market-news/nifty-50-sensex-prediction-today-check-how-indian-stock-market-is-expected-to-trade-on-24-june-11782265374822.html",
-          "source": "LiveMint \u2014 Markets",
-          "source_id": "livemint_markets",
-          "published_at": "2026-06-24T01:58:42Z",
-          "summary": "Nifty 50, Sensex prediction today: The trends on Gift Nifty also indicate a muted start for the Indian benchmark index. The Gift Nifty was trading around 23,868 level, a premium of nearly 15 points from the Nifty futures\u2019 previous close.",
-          "category": "stocks",
-          "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/2-0-85820715-Mumbai-Stock-4Cnew--0_1681743391999_1782265699447_4f273f58-f199-4958-a5fa-4bb72e73e553.jpg"
-        },
-        {
-          "id": "9cb25e6cacc18964bebb1f6e3e325eecd6237f20221e949a53648660650fae63",
-          "title": "Riskified director Shachar Erez sells $870,811 in shares By Investing.com",
-          "url": "https://m.au.investing.com/news/stock-market-news/riskified-director-shachar-erez-sells-870811-in-shares-93CH-4501110?ampMode=1",
-          "source": "Alpha Vantage - NEWS_SENTIMENT",
-          "source_id": "alphavantage_news_sentiment",
-          "published_at": "2026-06-24T01:41:08Z",
-          "summary": "Shachar Erez, a director at Riskified (NASDAQ:RSKD), recently sold Class A Ordinary Shares worth $870,811 through Qumra Capital entities. These sales, conducted on June 18 and June 22, 2026, were part of a Rule 10b5-1 trading plan and involved 176,804 shares at prices between $4.85 and $5.00. The transactions occurred while the stock was near its 52-week low, and follow other company news including a new share repurchase authorization and mixed Q1 2026 earnings.",
+          "id": "b0e6847a01bf60c3c58c990c3545e456d7acb9615f083da8770e3311dbffb85b",
+          "title": "South Korean and Japanese stocks lose momentum as tech stocks slump",
+          "url": "https://asia.nikkei.com/business/markets/south-korean-and-japanese-stocks-lose-momentum-as-tech-stocks-slump",
+          "source": "Nikkei Asia \u2014 Top",
+          "source_id": "nikkei_asia",
+          "published_at": null,
+          "summary": null,
           "category": "stocks",
           "image": null
+        },
+        {
+          "id": "4397cd21f34197abaf26cf80ffdac4f7c7f85572fa79273090793ab84edc61b6",
+          "title": "Leveraged ETFs Sold $6 Billion of Korean Chips in Tuesday Rout",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-24/leveraged-etfs-sell-6-billion-of-korean-chip-stocks-bi-says",
+          "source": "Bloomberg \u2014 Markets",
+          "source_id": "bloomberg_markets",
+          "published_at": "2026-06-24T05:00:56Z",
+          "summary": "Leveraged exchange-traded funds tracking Samsung Electronics Co. or SK Hynix Inc. were likely forced to sell a combined $6 billion of the Korean chipmakers\u2019 shares Tuesday to maintain leverage ratios, underscoring how such products can amplify market moves, according to Bloomberg Intelligence.",
+          "category": "stocks",
+          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip4sDTJuY0kw/v1/1200x-1.jpg"
         }
       ]
     },
@@ -532,15 +532,15 @@
           "image": null
         },
         {
-          "id": "c8d7213714118390424677547f9dd32d7b5a6441e22a831fe8240d4b5b86f6cd",
-          "title": "Bessent Signals Confidence in Warsh, Sees Inflation Coming Down",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/bessent-signals-confidence-in-warsh-sees-inflation-coming-down",
-          "source": "Bloomberg - Economics",
-          "source_id": "bloomberg_economics",
-          "published_at": "2026-06-24T01:26:09Z",
-          "summary": "Treasury Secretary Scott Bessent signaled confidence in newly installed Federal Reserve Chairman Kevin Warsh during remarks Tuesday, and predicted that inflation will retreat as the Iran conflict subsides.",
+          "id": "efa856aeac22be3646fc1c898fbdfc62b0e2d66c391ba8480b0e7e1873b9dd6a",
+          "title": "Australia headline inflation cools to 4.0% in May, but sticky core pressures remain",
+          "url": "https://seekingalpha.com/news/4606468-australia-headline-inflation-cools-to-40-in-may-but-sticky-core-pressures-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "source": "Seeking Alpha - Market Currents",
+          "source_id": "seekingalpha_market_currents",
+          "published_at": "2026-06-24T04:54:36Z",
+          "summary": null,
           "category": "economy",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icX0vmlRGqhc/v0/1200x-1.jpg"
+          "image": null
         }
       ]
     },
@@ -550,37 +550,37 @@
       "count": 60,
       "top": [
         {
-          "id": "31aafb99e81a4595b0d49a64bc5777c4ccb92d7345ef52f1b218494273ac4f46",
-          "title": "North Korea's Kim claims progress on nuclear-armed navy as new warship is placed into service",
-          "url": "https://abcnews.com/International/wireStory/north-koreas-kim-claims-progress-nuclear-armed-navy-134153016",
-          "source": "ABC News \u2014 International",
-          "source_id": "abc_intl",
-          "published_at": "2026-06-24T01:57:59Z",
-          "summary": "North Korea has commissioned a 5,000-ton destroyer that leader Kim Jong Un touts as a symbol of the country&rsquo;s growing naval and nuclear capabilities, state media reported Wednesday",
-          "category": "world_affairs",
-          "image": "https://s.abcnews.com/images/International/wirestory_ab1896be64bd1e3e198104477b80109e_4x3_384.jpg"
-        },
-        {
-          "id": "abd902df310416c6af8e6d735f0de8c4f5564d642b0a976069d9d419cbe9b45f",
-          "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
-          "source": "Al Jazeera English \u2014 All News",
-          "source_id": "aljazeera_en_all",
-          "published_at": "2026-06-24T01:29:51Z",
-          "summary": "US Senate votes to pause Iran war in rare rebuke to Trump",
+          "id": "cb6b586c3c33cfdae91e854ba0bfae9881ac2992ff06e17f584504c39a81cf2b",
+          "title": "South Korea says North Korean soldier in custody after crossing border: Yonhap",
+          "url": "https://www.straitstimes.com/asia/east-asia/south-korea-says-north-korean-soldier-in-custody-after-crossing-border-yonhap",
+          "source": "The Straits Times \u2014 Asia",
+          "source_id": "straitstimes_asia",
+          "published_at": "2026-06-24T04:16:00Z",
+          "summary": "<p>More than 34,000 North Koreans have escaped the isolated country to the South.</p>",
           "category": "world_affairs",
           "image": null
         },
         {
-          "id": "de6485e46181e968a469b7af97bbe511d2b6c020440b0cabbc65916d3b127797",
-          "title": "Is this teenage girl North Korea\u2019s next dictator?",
-          "url": "https://www.ft.com/content/7c1a4a27-2212-46e1-96d8-92dabe4a087c",
-          "source": "Financial Times \u2014 World (open feed)",
-          "source_id": "ft_world",
-          "published_at": "2026-06-24T00:45:46Z",
-          "summary": "Emergence of Kim Jong Un\u2019s daughter at many public events fuels speculation that she is being lined up as a leader",
+          "id": "35866b7d43611d6736c82251eb4388574e33cd33111501dda2248ad57f2e6e85",
+          "title": "Geopolitics and AI in spotlight at China\u2019s \u2018Summer Davos\u2019",
+          "url": "https://www.straitstimes.com/asia/east-asia/geopolitics-and-ai-in-spotlight-at-chinas-summer-davos",
+          "source": "The Straits Times \u2014 Asia",
+          "source_id": "straitstimes_asia",
+          "published_at": "2026-06-24T04:10:00Z",
+          "summary": "<p>Recent high-level engagement between the Chinese and US presidents is reason for optimism.</p>",
           "category": "world_affairs",
           "image": null
+        },
+        {
+          "id": "6715ef0a8360bd017984d1cd2da3c7cf2d5e86a5e8316eed9d6884f3d34d9bf8",
+          "title": "\"What About India?\" What Trump Said To JD Vance's Ukraine Peacekeeper Plan",
+          "url": "https://www.ndtv.com/world-news/russia-ukraine-war-news-jd-vance-india-peacekeeping-force-ukraine-proposal-donald-trump-11679270#publisher=newsstand",
+          "source": "NDTV \u2014 World",
+          "source_id": "ndtv_world",
+          "published_at": "2026-06-24T04:03:27Z",
+          "summary": "President Donald Trump, Prime Minister Narendra Modi (File)",
+          "category": "world_affairs",
+          "image": "https://c.ndtvimg.com/2026-02/sq3jqjs4_trump-modi_625x300_02_February_26.jpg?im=FaceCrop,algorithm=dnn,width=1280,height=720"
         }
       ]
     },
@@ -589,6 +589,17 @@
       "label": "US News",
       "count": 60,
       "top": [
+        {
+          "id": "2af0379e0dc60db5b02d0495d008c7a3300e3c9d09b1264b1c54fa89206e7b36",
+          "title": "New York leads four-state primary elections, in photos",
+          "url": "https://abcnews.com/US/wireStory/new-york-leads-state-primary-elections-photos-134154458",
+          "source": "ABC News \u2014 US Headlines",
+          "source_id": "abc_us",
+          "published_at": "2026-06-24T05:02:20Z",
+          "summary": "New York&rsquo;s closely watched primary elections took center stage Tuesday as congressional races tested the political influence of New York City Mayor Zohran Mamdani, while voters also cast ballots in Maryland, South Carolina and Utah.\n\n___\n\nThis is a photo gallery curated by AP photo editors.",
+          "category": "us_news",
+          "image": "https://s.abcnews.com/images/US/wirestory_7f7088412311991dd5764293e4926140_4x3_384.jpg"
+        },
         {
           "id": "0b2be4d2046726c5b022ba36eeee27de6e40baa99deb199f6d7485455e6cf6b9",
           "title": "In New York primaries, progressives make inroads on establishment, and a Kennedy scion seeks office",
@@ -610,17 +621,6 @@
           "summary": "A warehouse fire in Southern California has been spewing potentially toxic smoke for nearly a week near the Port of Los Angeles. Matt Gutman reports.",
           "category": "us_news",
           "image": null
-        },
-        {
-          "id": "ca987a82eacc579e614c3951130680723a4cdc3edad4ac233e10796bad58c04d",
-          "title": "Former Colorado analyst pleads guilty in DNA testing scandal",
-          "url": "https://abcnews.com/US/wireStory/former-colorado-analyst-pleads-guilty-dna-testing-scandal-134149953",
-          "source": "ABC News \u2014 US Headlines",
-          "source_id": "abc_us",
-          "published_at": "2026-06-23T23:01:26Z",
-          "summary": "A former analyst with the Colorado Bureau of Investigation who was accused of cutting corners and bucking testing protocols has pleaded guilty to four felonies stemming from a DNA testing scandal",
-          "category": "us_news",
-          "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
         }
       ]
     },
@@ -630,37 +630,37 @@
       "count": 60,
       "top": [
         {
-          "id": "9fe2814559ba96fdca989407c7fec4b4d2f562a747397a06651273ade754da6e",
-          "title": "I Read the Palantir Manifesto",
-          "url": "https://corbettreport.com/i-read-the-palantir-manifesto/",
+          "id": "a237fc02bb234f1324602ffbe3488c4a2cfc940b43916bf110ab7703451dc36d",
+          "title": "Lippmann Color Plates",
+          "url": "https://www.eastman.org/event/workshops/lippmann-color-plates",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-24T02:04:55Z",
-          "summary": "<p>Article URL: <a href=\"https://corbettreport.com/i-read-the-palantir-manifesto/\">https://corbettreport.com/i-read-the-palantir-manifesto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654232\">https://news.ycombinator.com/item?id=48654232</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published_at": "2026-06-24T05:08:24Z",
+          "summary": null,
           "category": "technology",
           "image": null
         },
         {
-          "id": "b76b3620662d00c275e6c17d29d90cc2da72321b781e6bd2ab46b4ce1a90eb3c",
-          "title": "Find FA's in your local area",
-          "url": "https://www.falists.co/",
+          "id": "ff9e92e5e348447c2468e33474941a68e35794de32210f2a0d18d4dc1a41c0ad",
+          "title": "Statement from Five Eyes agencies on cyber risk",
+          "url": "https://www.ncsc.gov.uk/news/the-ai-shift-in-cyber-risk-why-leaders-must-act-now",
           "source": "Hacker News - New Stories",
           "source_id": "hackernews_newstories",
-          "published_at": "2026-06-24T02:03:22Z",
-          "summary": "<p>Article URL: <a href=\"https://www.falists.co/\">https://www.falists.co/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654226\">https://news.ycombinator.com/item?id=48654226</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "published_at": "2026-06-24T05:08:18Z",
+          "summary": null,
           "category": "technology",
           "image": null
         },
         {
-          "id": "5ff5b64b0557b9365dfca2fc96a754c02ddc69210f49f329110754a132010315",
-          "title": "I review video games for a living, and these are the best PS5 games of 2026 so far to buy",
-          "url": "https://www.techradar.com/gaming/i-review-video-games-for-a-living-and-these-are-the-best-ps5-games-of-2026-so-far-to-buy",
-          "source": "TechRadar \u2014 All",
-          "source_id": "techradar",
-          "published_at": "2026-06-24T02:00:00Z",
-          "summary": "Looking to pick up a game or two this month? These are the best PS5 games of the year so far that are worth your money.",
+          "id": "ed951c0b397dabdd7e6e223cd2fce966c69cc2653262429a5da326d1755b32c9",
+          "title": "The Rolling Coup",
+          "url": "https://www.thenation.com/article/politics/trump-rolling-coup/",
+          "source": "Hacker News - New Stories",
+          "source_id": "hackernews_newstories",
+          "published_at": "2026-06-24T05:07:48Z",
+          "summary": null,
           "category": "technology",
-          "image": "https://cdn.mos.cms.futurecdn.net/ZQCoDD2rCqs4YviNh2Zjne-1280-80.jpg"
+          "image": null
         }
       ]
     },

@@ -1,7 +1,7 @@
 {
   "key": "science",
   "label": "Science",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
     {
       "id": "c1e8fca4fe6ff5f3f70044fd313ac5ff328f4222fca5f72f181bb21878ba844f",
@@ -92,6 +92,17 @@
       "image": null
     },
     {
+      "id": "819d400acf12481ff61cb7127d23471ec10a891905b094aeb2fab10e01bc73c1",
+      "title": "Automated camouflage pattern design based on conditional generative adversarial network and image quilting",
+      "url": "https://www.nature.com/articles/s41598-026-58666-w",
+      "source": "Scientific Reports",
+      "source_id": "scientific_reports",
+      "published_at": "2026-06-24T00:00:00Z",
+      "summary": "<p>Scientific Reports, Published online: 24 June 2026; <a href=\"https://www.nature.com/articles/s41598-026-58666-w\">doi:10.1038/s41598-026-58666-w</a></p>Automated camouflage pattern design based on conditional generative adversarial network and image quilting",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "08a31f23aff54a77f738faa85f008d8894b973032be9d435c27c5e798f623232",
       "title": "'Unequivocal evidence' of the age of Earth's oldest impact crater turns out to be off by half a billion years",
       "url": "https://www.livescience.com/planet-earth/geology/unequivocal-evidence-of-the-age-of-earths-oldest-impact-crater-turns-out-to-be-off-by-half-a-billion-years",
@@ -169,6 +180,17 @@
       "image": null
     },
     {
+      "id": "de26e9aacf0a887e7cfd708b7fc79a0996cb7a920aee52afe43eb32ec6ccb9b8",
+      "title": "New Bounds for the Last Iterate of the Stochastic subGradient Method",
+      "url": "https://arxiv.org/abs/2606.24879v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T17:55:18Z",
+      "summary": "We study the last iterate of the stochastic subgradient method for one-dimensional convex Lipschitz objectives. For a fixed horizon $n$, we consider the standard fixed stepsizes $\u03b7=\u0398(1/\\sqrt n)$. We prove that, for such stepsize policies, under additive i.i.d. subgradient noise with uniformly bounded variance, the last iterate features an optimization error of order $1/\\sqrt n$, thereby removing the extra $(\\log n)$ factor present in existing generic bounds. On the other hand, we show that without the i.i.d. assumption, the optimization error can be of order $(\\log n)/\\sqrt n$. Thus, under the uniformly bounded variance assumption alone, the last iterate of SsGM is suboptimal even in dimension one, resolving negatively an open problem posed in Koren and Segal, COLT, 2020.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "7b3fb95d44ee450156186d67ab9ee8d708fa9ddc3086691867b6c468c07e4297",
       "title": "NASA satellite captures wave of warm water hundreds of miles long that signals a devastatingly strong El Ni\u00f1o",
       "url": "https://www.livescience.com/planet-earth/nasa-satellite-captures-wave-of-warm-water-hundreds-of-miles-long-that-signals-a-devastatingly-strong-el-nino",
@@ -222,6 +244,17 @@
       "summary": "This Lego Star Wars Coruscant Guard Gunship it's less than $100 for Prime Day, the cheapest it's ever been. But as a retired set, this could be your last chance to pick it up.",
       "category": "science",
       "image": "https://cdn.mos.cms.futurecdn.net/Xps6kYPajUpTrQwN92boN-1280-80.jpg"
+    },
+    {
+      "id": "80d6b5fdb6d228064afdcca91644b87fbbc21ff8d7156e85d51c578ac65c094a",
+      "title": "Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment",
+      "url": "https://arxiv.org/abs/2606.24851v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T17:29:15Z",
+      "summary": "Fourier Neural Operators (FNO) learn solution operators of partial differential equations by parameterizing global convolutions in the complex Fourier domain. For real-valued PDE solutions, the complex FFT carries representational redundancy through conjugate symmetry. We introduce the Hartley Neural Operator (HNO), the exact real-valued mirror of FNO: it replaces the FFT with the purely real Discrete Hartley Transform and learns a single real multiplier per retained spectral mode, with no complex arithmetic. Because the real Hartley spectrum is not halved by conjugate symmetry, HNO retains twice as many frequency corners as FNO but one real weight where FNO carries a complex pair, so the two operators are iso-parametric at equal width and differ only in spectral basis. Our central thesis is that the best basis is a property of the operator. Self-adjoint elliptic operators (Poisson, biharmonic) have real, symmetric Green's functions that the real Hartley multiplier diagonalizes exactly, and HNO is favored there. Time-dependent operators carry phase, from oscillation in the wave equation to transport in advection, Burgers, and Navier-Stokes, which a real diagonal multiplier cannot represent, so FNO is favored there, and increasingly so with the operator's phase content, leaving the phaseless heat equation as the borderline case. Training both operators identically and benchmarking across PDE classes, initial-condition families, and boundary conditions, we find an elliptic-versus-time-dependent split that is monotone in operator phase content and matches the Green's-function theory we develop. Rather than a universal winner, our findings give a predictive rule: match the spectral basis to the symmetry of the solution operator.",
+      "category": "science",
+      "image": null
     },
     {
       "id": "72f5bde9b2b020d3cdd84c7ee3cb4e415370e606a51aaa6901336ad1e0bdcaa3",
@@ -477,6 +510,17 @@
       "image": null
     },
     {
+      "id": "a9257a7da1164034dd7e6b8e38c2255e33202bae613803e4df8cbc50d6d2bbe5",
+      "title": "Dirac-Frenkel dynamics with inertia for nonlinearly parametrized solutions of evolution problems",
+      "url": "https://arxiv.org/abs/2606.24769v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T16:30:42Z",
+      "summary": "Even when Dirac-Frenkel dynamics determine a well-defined evolution in function space, the corresponding parameter dynamics can be non-unique or ill-conditioned for redundant nonlinear parametrizations such as neural networks or mixture models. We propose to add inertia to the Dirac-Frenkel dynamics and show that this allows useful parameter velocity information to persist from the past trajectory in directions that are weakly informed, while well-informed parameter velocity directions continue to follow the Dirac-Frenkel dynamics. We prove that the inertial formulation yields well-posed parameter dynamics and provide a posteriori error bounds. After time discretization, the method requires the solution of the same type of regularized linear least-squares problem as standard Dirac-Frenkel dynamics, but with the previous velocity appearing as an anchor. Numerical experiments demonstrate the increased robustness obtained with inertia.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "9943488ec0d74fd5df6087411965e67a3449c76da054fef8c9560343a9f9172c",
       "title": "What telescope could cause our astrophotography expert to break their hard-and-fast rule about not traveling with a telescope? This one! Now even cheaper in this Prime Day telescope deal",
       "url": "https://www.space.com/stargazing/skywatching-kit/this-telescope-caused-our-astrophotography-expert-to-break-their-hard-and-fast-rule-about-not-traveling-with-a-telescope",
@@ -598,6 +642,17 @@
       "image": null
     },
     {
+      "id": "94be081ea406814403fec4243bcb24c7ed99437c7f1306c6d4e3da194427fed7",
+      "title": "Model selection with proper scoring rules on data sets of time series",
+      "url": "https://arxiv.org/abs/2606.24715v1",
+      "source": "arXiv API - Machine Learning",
+      "source_id": "arxiv_cs_lg",
+      "published_at": "2026-06-23T15:36:28Z",
+      "summary": "We consider the problem of model selection between probabilistic models on data sets of time series. Chosen a proper scoring rule, we denote by the term \\textit{score} the average value of the scoring rule on the test of an individual time series. For model selection, we need aggregating the values of the scores across multiple time series. Three summary statistics are commonly used for model selection: mean score, median score, and mean rank. Results in previous papers show that these statistics can yield conflicting decisions; we show how the conflicting conclusions are due to the skewness of the distribution of scores. We also show that as the test set of each time series of the data set increases, the different model selection criteria progressively converge to the same conclusion. However, for short tests sets, only the mean score identifies the true model as the best.\n  We illustrate these phenomena with an analysis on intermittent time series, including the data set of the M5 competition, where we underline the importance of having a large test set. In such experiments, we further notice that model selection based on mean ranks remains unchanged using different scaling factors.",
+      "category": "science",
+      "image": null
+    },
+    {
       "id": "060b43cfbb18325623658a8a3369ec4f23d090103aad2f9cad5065744a0a080b",
       "title": "CN-NewsTTS Bench: a target-level automatic benchmark for raw-input Chinese news TTS pronunciation",
       "url": "https://arxiv.org/abs/2606.24714v1",
@@ -605,61 +660,6 @@
       "source_id": "arxiv_cs_cl",
       "published_at": "2026-06-23T15:34:58Z",
       "summary": "Chinese news text contains dense written forms such as scores, hyphenated model names, ranges, unit symbols, percentages, English abbreviations, and mixed Chinese-Latin-digit names. These forms are frequent in real listening workflows, and a text-to-speech (TTS) system can preserve the written string while changing the spoken meaning. We introduce CN-NewsTTS Bench v0.1, an open target-level benchmark for evaluating whether Chinese news TTS products pronounce such targets correctly from raw text, without user-side rules, LLM rewriting, SSML hints, or manual edits. The release contains a 200-record development set, an 800-record public test set, 992 public auto-evaluable targets, fixed transcripts from a three-ASR ensemble, an automatic target scorer, and initial results for seven product TTS systems. We additionally report ASR-route diagnostics, ASR-subset ablations, category-level results, confidence intervals, and provider configuration metadata. The best system reaches 0.879 strict accuracy, while several systems remain below 0.60.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "7a8bc7d1ee782e82914d9dbb9526078c114a3209c05534e18d1eee8ce3f36ebb",
-      "title": "TACTFUL: Tactile-Driven Exploration For Object Localization and Identification in Confined Environments",
-      "url": "https://arxiv.org/abs/2606.24712v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-23T15:33:51Z",
-      "summary": "Humans effortlessly locate and identify objects by touch alone, even without vision. In contrast, robotic systems rely heavily on vision and struggle with autonomous tactile exploration and object identification. We present TACTFUL, a vision-free tactile exploration framework that enables a multi-fingered robot to autonomously explore confined workspaces, discover objects through contact, and identify them via tactile reconstruction. Trained entirely on real hardware without simulation, our system learns a single policy that balances global workspace exploration with local surface refinement through a dynamic reward schedule. Our results demonstrate that tactile sensing, when paired with structured learning, can serve as an effective primary modality for object-level reasoning, achieving 77% success with 0.015 m average reconstruction error and outperforming baseline approaches on real-world objects.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "85ad166bb33abb639812b761591f4af65abb16c1f1fe4f437451b6dc05b00ebc",
-      "title": "The Unistellar Odyssey Pro helped me feel in touch with the universe and it's now 15% off",
-      "url": "https://www.space.com/stargazing/skywatching-kit/the-unistellar-odyssey-pro-helped-me-feel-in-touch-with-the-universe-and-its-now-15-percent-off",
-      "source": "Space.com",
-      "source_id": "space_com",
-      "published_at": "2026-06-23T15:30:00Z",
-      "summary": "The go-to tracking and sharp autofocus afforded by the Odyssey Pro allowed me to start taking sharp images of the deep sky. It's now available from Unistellar with 15% off.",
-      "category": "science",
-      "image": "https://cdn.mos.cms.futurecdn.net/DYYSCXT28WD6ws7kMn3oa4-1280-80.jpg"
-    },
-    {
-      "id": "22398ee106aa64a234780dfc9a817aa4741572a51dff88fc53079080b438b4a6",
-      "title": "FlowPipe: LLM-Enhanced Conditional Generative Flow Networks for Data Preparation Pipeline Construction",
-      "url": "https://arxiv.org/abs/2606.24679v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-23T15:10:00Z",
-      "summary": "Data preparation pipelines improve data quality in machine learning by transforming raw tables into learning-ready data through sequential cleaning and feature transformation operators. However, automatically constructing such pipelines is computationally difficult because operator sequences are combinatorial and end-to-end evaluation is expensive. Existing state-of-the-art (SOTA) Multi-DQN methods still face three key limitations: decoupled value estimators weaken long-horizon credit assignment, dataset context is only weakly injected into the policy, and exploration is inefficient in a sparse search space with many invalid states. To address these issues, we propose FlowPipe, a unified framework that formulates pipeline synthesis as conditional probabilistic flow generation over a directed acyclic graph. FlowPipe uses Conditional Generative Flow Networks (C-GFlowNets) with a Trajectory Balance objective to connect terminal validation rewards with early pipeline decisions. It further introduces Deep Semantic Modulation through Feature-wise Linear Modulation (FiLM), allowing LLM-derived logical priors to condition the policy's internal activations according to dataset semantics. In addition, FlowPipe incorporates failure awareness into the flow objective to avoid invalid states and concentrate search on high-potential regions. Experiments on two benchmark suites with 74 real-world datasets show that FlowPipe outperforms SOTA baselines, improving accuracy by 11.96% on average and achieving 12.5x faster training convergence. Source code is available at https://github.com/KunyuNi/FlowPipe.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "f3077ee8a089bb1d126bce9a028119385fcfaaf55c62932f9c9a95029394cd26",
-      "title": "Cost-Optimal Decision Diagrams for Stochastic Boolean Function Evaluation",
-      "url": "https://arxiv.org/abs/2606.24672v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-23T15:04:51Z",
-      "summary": "In many decision-making scenarios, acquiring information incurs different costs. We consider the problem of constructing a deterministic evaluation strategy that minimizes the expected cost of evaluating a propositional formula under variable costs and a probability distribution over truth assignments. We present a branch-and-bound algorithm with variable-selection heuristics, pruning, and caching. To the best of our knowledge, it is the first practical exact algorithm for this level of generality. Experiments on random instances demonstrate scalability and quantify the efficiency-quality trade-off of a greedy beam-search variant. We additionally evaluate a structured heart-disease diagnosis instance. Finally, we prove that the problem is $\\#P$-hard and contained in $\\mathrm{PSPACE}$.",
-      "category": "science",
-      "image": null
-    },
-    {
-      "id": "bdd6970eb1820eeff8cd39d16492ff8e24b23ff3dd07f52dec3708bd5b078990",
-      "title": "LaGO: Latent Action Guidance for Online Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2606.24669v1",
-      "source": "arXiv API - Computer Science AI",
-      "source_id": "arxiv_cs_ai",
-      "published_at": "2026-06-23T15:03:31Z",
-      "summary": "Large language models (LLMs) have shown strong potential for planning and sequential decision-making, but prior work often relies on using them as direct controllers, which requires precise action generation and can be unreliable in practice. This paper proposes Latent Action Guidance for Online Reinforcement Learning (LaGO), a framework that uses a pretrained LLM as a latent action prior to softly guide online policy optimization, rather than treating the LLM as an explicit planner or controller. Experiments on both a discrete-control benchmark, CLEVR-Robot, and a continuous-control benchmark, Meta-World, demonstrate that LaGO consistently improves both reward and success rate over Vanilla PPO. In particular, LaGO increases the average success rate from 15.1% to 27.2% on CLEVR-Robot and from 2.7% to 15.2% on Meta-World. Our analysis further shows that stronger pretrained LLMs provide more effective guidance, suggesting that LLM knowledge can improve planning and online decision-making.",
       "category": "science",
       "image": null
     }

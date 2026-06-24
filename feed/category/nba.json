@@ -1,8 +1,19 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-06-24T02:16:39Z",
+  "generated_at": "2026-06-24T05:14:32Z",
   "articles": [
+    {
+      "id": "ea43795de6c7cae8d59a5de0689032689739799470475ec8622dd2ddb20ff331",
+      "title": "Lopez becomes NBA's 1st Mexico-born 1st-rounder",
+      "url": "https://www.espn.com/nba/story/_/id/49161309/lopez-becomes-nba-1st-mexico-born-1st-rounder-traded-grizzlies",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-24T04:28:47Z",
+      "summary": "Karim Lopez became the first player born in Mexico to be selected in the first round of the NBA draft, being selected with the No. 21 pick to the Detroit Pistons before being traded to the Memphis Grizzlies on Tuesday night.",
+      "category": "nba",
+      "image": null
+    },
     {
       "id": "0cf923a1ff559ff026a1465e0071b89e51394464259ca5f012677b9f9c4b7307",
       "title": "Follow live: AJ Dybantsa selected No. 1, Jazz take...",
@@ -136,17 +147,6 @@
       "image": null
     },
     {
-      "id": "e242a78cb3dd23ed6209ee4fe62710070c8cd6d4cac5da20f3fa408bbef481ef",
-      "title": "Sources: Heat land Giannis in blockbuster trade",
-      "url": "https://www.espn.com/nba/story/_/id/49149967/bucks-trading-giannis-antetokounmpo-bobby-portis-heat-tyler-herro-kelel-ware-jaime-jaquez-jr-kasparas-jakucionis-picks",
-      "source": "ESPN - NBA",
-      "source_id": "espn_nba",
-      "published_at": "2026-06-23T16:57:35Z",
-      "summary": "The Bucks are trading Giannis Antetokounmpo and Bobby Portis to the Heat for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks (including No. 13 in Tuesday's draft), one pick swap and one second-rounder, per sources.",
-      "category": "nba",
-      "image": null
-    },
-    {
       "id": "03219ae27194b10da525c3dd4a99b851154c9d52fb2623717fd6680cfdcc8360",
       "title": "Sources: Randle off to Nets as part of 3-team deal...",
       "url": "https://www.espn.com/nba/story/_/id/49149223/sources-wolves-trade-randle-nets-claxton-bulls",
@@ -253,6 +253,17 @@
       "source_id": "espn_nba",
       "published_at": "2026-06-23T13:59:05Z",
       "summary": "We have the details, including players and draft picks, for every NBA trade made this summer.",
+      "category": "nba",
+      "image": null
+    },
+    {
+      "id": "e242a78cb3dd23ed6209ee4fe62710070c8cd6d4cac5da20f3fa408bbef481ef",
+      "title": "Sources: Heat land Giannis in blockbuster trade",
+      "url": "https://www.espn.com/nba/story/_/id/49149967/bucks-trading-giannis-antetokounmpo-bobby-portis-heat-tyler-herro-kelel-ware-jaime-jaquez-jr-kasparas-jakucionis-picks",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-23T03:52:00Z",
+      "summary": "The Bucks are trading Giannis Antetokounmpo and Bobby Portis to the Heat for Tyler Herro, Kel'el Ware, Jaime Jaquez Jr., Kasparas Jakucionis, three first-round picks (including No. 13 in Tuesday's draft), one pick swap and one second-rounder, per sources.",
       "category": "nba",
       "image": null
     },
