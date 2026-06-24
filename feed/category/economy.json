@@ -1,74 +1,8 @@
 {
   "key": "economy",
   "label": "Economy",
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "articles": [
-    {
-      "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
-      "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "a2b016c399a747a6801751b3b9281adc09ab32f96ba047ae2f93293451822dd0",
-      "title": "Indonesia's social media ban sends chill through 'kidfluencers' economy",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/indonesia-s-social-media-ban-sends-chill-through-kidfluencers-economy",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "efa856aeac22be3646fc1c898fbdfc62b0e2d66c391ba8480b0e7e1873b9dd6a",
-      "title": "Australia headline inflation cools to 4.0% in May, but sticky core pressures remain",
-      "url": "https://seekingalpha.com/news/4606468-australia-headline-inflation-cools-to-40-in-may-but-sticky-core-pressures-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha - Market Currents",
-      "source_id": "seekingalpha_market_currents",
-      "published_at": "2026-06-24T04:54:36Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "01bb0ffd53bd56c445a2b494dd141a0eb1c63780ec22dc6a5b408fa11de5c5f2",
-      "title": "PBOC Adviser Sees Potential Rate Cut But Calls for Targeted Aid",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/pboc-adviser-sees-potential-rate-cut-but-calls-for-targeted-aid",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T04:42:35Z",
-      "summary": "China may still cut interest rates this year, though besides looser policy the economy requires more targeted support for technological innovation and improving people\u2019s livelihoods, according to an adviser to the central bank.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwpuBAopkP.Q/v3/1200x-1.png"
-    },
-    {
-      "id": "51b4c571b118ee5412ac27a9ed0015d2960120da402363c3115c6ede1048b136",
-      "title": "A fintech company said its employee burned through $80,000 in tokens making a 'brainrot shooter game'",
-      "url": "https://www.businessinsider.com/fintech-company-slash-employee-burned-through-thousands-in-tokens-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T04:40:45Z",
-      "summary": "Slash is encouraging people to play the game so it can write it off as a \"marketing expense.\"",
-      "category": "economy",
-      "image": "https://i.insider.com/6a3b5b62ace32b985cf896bd?format=jpeg"
-    },
-    {
-      "id": "ae5774f714181a590ab63be4887201158ed6b3c1ff57d2c72cfc1b7cf2683c83",
-      "title": "The Federal Reserve's New Leader Lays Out His Agenda",
-      "url": "https://seekingalpha.com/article/4917200-federal-reserves-new-leader-lays-out-his-agenda?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-24T04:30:00Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
     {
       "id": "9ed0a686f3c7428a4f164c6790d5957631295db35037fb3c51462420ef47071a",
       "title": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
@@ -103,17 +37,6 @@
       "image": null
     },
     {
-      "id": "9ac3025aeba406408d784d56a0acb6fb886df2cc89bc8dd7b88d3b6e557faa21",
-      "title": "China Unfazed by World\u2019s Ire on Trade as Premier Touts Openness",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/china-unfazed-by-world-s-ire-on-trade-as-premier-touts-openness",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T04:07:13Z",
-      "summary": "Beijing\u2019s No. 2 official played down worries about the disruption wrought by his country\u2019s surging exports on the global economy, championing the benefits provided to the world by China\u2019s development.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO8WfiN_BrIY/v3/1200x-1.jpg"
-    },
-    {
       "id": "245144ba00698c242769693792cc0d8fe3ebf5baa7abc844cebe19aa65ed5dc3",
       "title": "Rupee falls 16 paise to open at 94.90 against US dollar",
       "url": "https://www.livemint.com/market/rupee-falls-16-paise-to-open-at-94-90-against-us-dollar-11782272003453.html",
@@ -125,17 +48,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1782272049577_1782272049723_eb2eac46-8089-4b5a-8906-c10f871c054b.jpg"
     },
     {
-      "id": "888bd50fbdc46fd3bf45589cf3b975df2eee7f20e59a832b04f199781a2fad05",
-      "title": "Copper Holds Losses as Dollar and Hawkish Fed Pressure Metals",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/copper-holds-losses-as-dollar-and-hawkish-fed-pressure-metals",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T03:30:36Z",
-      "summary": "Copper and industrial metals largely held Tuesday\u2019s slump as a stronger dollar and the Federal Reserve\u2019s hawkish stance weighed on the demand outlook.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAglffFETiD8/v1/1200x-1.jpg"
-    },
-    {
       "id": "983c4b2bb4dc045e26feb6da2e7e67cb241f371fd64ed6e649b4bf37960bcb0d",
       "title": "The Dollar Tree Frozen Favorites range from Dollar Tree Inc. - $1.25 comfort food that fills the fre",
       "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-dollar-tree-frozen-favorites-range-from-dollar-tree-inc-1-25/69615314",
@@ -145,61 +57,6 @@
       "summary": "Dollar Tree's Frozen Favorites range offers budget-friendly frozen food items at a consistent $1.25 price point, appealing to value-oriented customers. The company curates this selection through private-label arrangements and deals with smaller national brands, focusing on convenience and affordability for everyday meals, ensuring profitability despite higher logistics costs associated with frozen goods. This strategy drives traffic and reinforces Dollar Tree's commitment to accessible pricing amidst inflationary pressures.",
       "category": "economy",
       "image": null
-    },
-    {
-      "id": "3e14f40447214456ea569a1ead9cb116c958a09f481c7ef4b1e526c32be8db55",
-      "title": "Mild Singapore Inflation Points to Policy Hold, Economists Say",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/mild-singapore-inflation-points-to-policy-hold-economists-say",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T03:22:46Z",
-      "summary": "Singapore will likely hold monetary policy at its meeting next month and consider further moves later in the year after weaker-than-expected inflation data for May, according to economists.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iH88OYaDMJys/v1/1200x-1.jpg"
-    },
-    {
-      "id": "155e7b472f4df40e1cdf710b90fe618984832d81cc00f789c4a5a2fdcff598f7",
-      "title": "Bank of Korea Says Higher Rates Needed Amid Housing, Debt Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bank-of-korea-says-higher-rates-needed-amid-housing-debt-risks",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T02:00:00Z",
-      "summary": "South Korea\u2019s central bank reinforced its hawkish shift, saying higher interest rates will be needed at an appropriate time as rising home prices, household debt and leveraged investment threaten to stoke financial imbalances.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix4Sv618XQ.k/v0/1200x-1.jpg"
-    },
-    {
-      "id": "f39fc8cc057b3a754d4f7d026a519b98d87eaf539bd682a5fdbca58b973368ba",
-      "title": "BOJ Summary Affirms Rate Hike Stance as Inflation Risks Mount",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/boj-summary-affirms-rate-hike-stance-as-inflation-risks-mount",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T01:40:44Z",
-      "summary": "The Bank of Japan signaled the need for further increases to the benchmark interest rate in a summary of opinions from a last week\u2019s board meeting, when authorities raised the policy rate to the highest since 1995.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ita.vMPXQAmg/v1/1200x-1.jpg"
-    },
-    {
-      "id": "7351898f9880973d09fdf5f1c21eba2c27c20c279577d264c1896138882fe494",
-      "title": "Australia\u2019s Core Inflation Accelerates, Keeping RBA on Alert",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/australia-s-core-inflation-accelerates-keeping-rba-on-alert",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T01:31:17Z",
-      "summary": "Australia\u2019s core inflation remained above the top of the Reserve Bank\u2019s target in May, reinforcing expectations policymakers will maintain a hawkish stance on interest rates.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipnu5uDgCGWs/v3/1200x-1.png"
-    },
-    {
-      "id": "c8d7213714118390424677547f9dd32d7b5a6441e22a831fe8240d4b5b86f6cd",
-      "title": "Bessent Signals Confidence in Warsh, Sees Inflation Coming Down",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bessent-signals-confidence-in-warsh-sees-inflation-coming-down",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T01:26:09Z",
-      "summary": "Treasury Secretary Scott Bessent signaled confidence in newly installed Federal Reserve Chairman Kevin Warsh during remarks Tuesday, and predicted that inflation will retreat as the Iran conflict subsides.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/icX0vmlRGqhc/v0/1200x-1.jpg"
     },
     {
       "id": "e182c923bd3402773ee63588cbf81a6f9433f10380a270cdbc4aa463be6d0679",
@@ -224,28 +81,6 @@
       "image": null
     },
     {
-      "id": "306c1c19485592e43b948c1544724b0137b0c02acb2e3ebf2cf7810fb5d678a7",
-      "title": "Pimco Sees China\u2019s Export Glut Boosting Emerging-Market Bonds",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/pimco-sees-china-s-export-glut-boosting-emerging-market-bonds",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T00:00:00Z",
-      "summary": "China\u2019s flood of cheap exports is bolstering the case for emerging-market bonds by helping to keep inflation under control across the developing world, according to Pacific Investment Management Co.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ivu76LB6vHLo/v3/1200x-1.png"
-    },
-    {
-      "id": "20870000bb194a36e489da4cb9e05945ed474c4f6356d1db89ddbd737f73e126",
-      "title": "Thailand Seen Holding Rate to Support Growth as Neighbors Hike",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/thailand-seen-holding-rate-to-support-growth-as-neighbors-hike",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T00:00:00Z",
-      "summary": "Thailand is expected to keep its key interest rate unchanged at a nearly four-year low to support its fragile recovery, bucking a tightening trend among some regional peers.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irVbiblZQNuE/v3/1200x-1.png"
-    },
-    {
       "id": "c8313acf33ad7dcd7571296c84169a164142f4154334d082da0f830b1dfaa888",
       "title": "Congress to pass housing help for Americans in rare act of bipartisanship",
       "url": "https://www.washingtonpost.com/business/2026/06/23/congress-pass-housing-help-americans-rare-act-bipartisanship/",
@@ -266,28 +101,6 @@
       "summary": "Alphabet will replace Verizon in the Dow Jones Industrial Average (DJIA) before market open on June 29, 2026, due to Verizon's lower share price giving it an immaterial impact on the price-weighted index. Honeywell International will remain in the DJIA following the spin-off of Honeywell Aerospace. This change aims to broaden the DJIA's exposure to dynamic areas of the U.S. economy, particularly in technology and digital services, with Alphabet's larger market capitalization and share price making it a more representative constituent.",
       "category": "economy",
       "image": null
-    },
-    {
-      "id": "69f36bc677a9e63f71fcdec236a0cb683fe665da310bc62a861b4bd7f3536e10",
-      "title": "\u3010\u4eca\u671d\u306e5\u672c\u3011\u4ed5\u4e8b\u3092\u59cb\u3081\u308b\u524d\u306b\u8aad\u3093\u3067\u304a\u304d\u305f\u3044\u53b3\u9078\u30cb\u30e5\u30fc\u30b9",
-      "url": "https://www.bloomberg.com/jp/news/newsletters/2026-06-23/TH3SBEKGIFPZ00",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T21:14:02Z",
-      "summary": "AI\u30d6\u30fc\u30e0\u904e\u71b1\u3092\u8b66\u6212\u3001\u300c\u7c73\u56fd\u304c\u7ba1\u7406\u300d\u3001\u30b4\u30fc\u30eb\u30c9\u30de\u30f3\u696d\u7e3e\u597d\u8abf\u3001\u30b9\u30da\u30fc\u30b9X\u5927\u578b\u8d77\u50b5\u3078\u3001\u4e00\u6975\u96c6\u4e2d\u306b\u8b66\u9418",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i4M4_Tp93yEE/v5/1200x-1.jpg"
-    },
-    {
-      "id": "121204524dfcc2722a3b412ba1f8a3d55e3ff6f9514d23da0edb59c623c14ef5",
-      "title": "Options Market Challenges Futures Aggressive Fed Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/options-market-challenges-futures-aggressive-fed-hike-bets",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T20:41:20Z",
-      "summary": "Options traders are building up bets that the broader market overreacted to the Federal Reserve\u2019s hawkish pivot when it priced in a series of interest-rate hikes in the US starting later this year.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iL6Vgg2MNds0/v1/1200x-1.jpg"
     },
     {
       "id": "7dc2043b0878050d0b72a31fbcc684324f109421846b09c42496906be6221740",
@@ -323,17 +136,6 @@
       "image": null
     },
     {
-      "id": "e61c8d93ce5c5cda9ffbd0457d3bd30af9fd2ce441f5aab1c162726dca685da6",
-      "title": "Argentine Economy Grew More Than Expected in First Quarter",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/argentine-economy-grew-more-than-expected-in-first-quarter",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T19:11:14Z",
-      "summary": "Economic growth in Argentina proved resilient in the first quarter, surpassing expectations even as unemployment rose and wages trailed inflation.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipdAU8blR8uE/v1/1200x-1.jpg"
-    },
-    {
       "id": "381e4025a6e7bca456cf06e372b4cfd6f202230fcc9e3bde911dc70c7f25c3b0",
       "title": "Why Uber\u2019s Business Model Gives it an Edge Against Robotaxis in the Ride-Hailing Race | Newswise",
       "url": "https://www.newswise.com/articles/why-uber-s-business-model-gives-it-an-edge-against-robotaxis-in-the-ride-hailing-race2",
@@ -356,72 +158,6 @@
       "image": null
     },
     {
-      "id": "f41c1a8b2e7837fabdab222ab05a1b535bd7d8f9f4022c21ddd26ba678834024",
-      "title": "See the list of California's 200-plus billionaires who could be hit by the proposed wealth tax if it passes",
-      "url": "https://www.businessinsider.com/california-billionaires-list-wealth-tax-2026-1",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T18:34:33Z",
-      "summary": "California has over 200 billionaires that could be hit by a proposed wealth tax. Several have moved assets out of the state.",
-      "category": "economy",
-      "image": "https://i.insider.com/6a345286c7a58f814f0d4498?format=jpeg"
-    },
-    {
-      "id": "5a74c792e3340ad955ea693cd365d4d3ed062cd7865e860722bd7948381eb10d",
-      "title": "Uber investor's suit alleges rider safety took a back seat to the gig-work model",
-      "url": "https://www.businessinsider.com/uber-lawsuit-targets-ceo-board-over-driver-assault-claims-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T18:07:26Z",
-      "summary": "Uber faces a lawsuit alleging CEO Dara Khosrowshahi and the board mishandled sexual assault claims.",
-      "category": "economy",
-      "image": "https://i.insider.com/6a3a9f1140d09c7636327c62?format=jpeg"
-    },
-    {
-      "id": "0fd97ebc6790dd075cf1972cb24c331d37c07f00471b4673cd91c840558a95b8",
-      "title": "Dollar Jumps to Highest Since November on Fed Rate Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/dollar-jumps-to-highest-since-november-on-fed-rate-hike-bets",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T17:20:12Z",
-      "summary": "The dollar touched the highest level since November on Tuesday as traders cement views on the Federal Reserve hiking interest rates this year.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/idV8JxT8FWZI/v2/1200x-1.png"
-    },
-    {
-      "id": "634812fdbbeb8434f714bf50fe31eea78027a23d7f0f5330a6602403d6a14d8d",
-      "title": "BIT: Unsustainable Distribution And Inflation Make This Fund Unattractive",
-      "url": "https://seekingalpha.com/article/4917034-bit-unsustainable-distribution-and-inflation-make-fund-unattractive?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-23T16:45:47Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "45ce36979ac0f5f82d9574f445c186e5f73c088fa309d1dce187f088c4e14cc7",
-      "title": "BIT: Unsustainable Distribution And Inflation Make This Fund Unattractive",
-      "url": "https://seekingalpha.com/article/4917034-bit-unsustainable-distribution-and-inflation-make-fund-unattractive?source=feed_tag_etf_portfolio_strategy",
-      "source": "Seeking Alpha - ETFs",
-      "source_id": "seekingalpha_etfs",
-      "published_at": "2026-06-23T16:45:47Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "a45be73c469fff5d6f1f416546225b61c90bb2283721d08bab3da69e4e312d5b",
-      "title": "Treasuries Gain Before Auctions as Traders Trim Rate Hike Bets",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/treasuries-gain-before-auctions-as-traders-trim-rate-hike-bets",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T16:26:23Z",
-      "summary": "Treasuries rose as a selloff in US stocks and further declines in oil prices curbed wagers on Federal Reserve interest-rate increases over the coming year.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iu6u8Q0SJkIE/v3/1200x-1.png"
-    },
-    {
       "id": "62e974e3a95c64fbf1f04f6c306c17edfa4b5cf06a11138b72a9f2bd5eeff69a",
       "title": "Banxico expected to hold rates at 6.50% amid inflation concerns - Reuters",
       "url": "https://www.investing.com/news/world-news/banxico-expected-to-hold-rates-at-650-amid-inflation-concerns--reuters-93CH-4756092",
@@ -431,39 +167,6 @@
       "summary": null,
       "category": "economy",
       "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
-    },
-    {
-      "id": "583a864457fcb5b86ea8b2cafc211e7847b953d51788640091f4c4c9469a4259",
-      "title": "Higher-For-Longer Interest Rates Could Disrupt The Current Market Narrative",
-      "url": "https://seekingalpha.com/article/4917002-higher-for-longer-interest-rates-could-disrupt-the-current-market-narrative?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-23T15:46:47Z",
-      "summary": null,
-      "category": "economy",
-      "image": null
-    },
-    {
-      "id": "3b07991fd61a62bcd83acf06eb2f128768d3d2f20797387035ff5c76a5125d08",
-      "title": "Porsche Looks to Reduce Complexity by Cutting Models",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/porsche-looks-to-reduce-complexity-by-cutting-models-video",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T15:44:40Z",
-      "summary": "Porsche AG confirmed its profit outlook for the year as it pushes to become leaner to revive margins battered by US tariffs and weak demand in China. David Welch has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/io.TQ73wBrn4/v3/1200x-1.jpg"
-    },
-    {
-      "id": "7a15c44e1f3983387f4212c7fe9eb00de80f528162f2711302e367321b691de8",
-      "title": "Greenspan\u2019s Legacy, From Irrational Exuberance to 2008 Crisis",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/alan-greenspan-s-life-and-legacy-video",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T15:30:35Z",
-      "summary": "Tributes to former Federal Reserve Chairman\u00a0Alan Greenspan\u00a0poured in after the news of his death early Monday, many from former colleagues and market players who had a front-row seat during his 18-year tenure atop the US central bank.\nBill Dudley, Bloomberg Opinion Columnist and former NY Federal Reserve President, discusses the passing of Greenspan and how his role has influenced the Federal Reserve beyond his time there. (Source: Bloomberg)",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQM5nlG85Anc/v3/1200x-1.jpg"
     },
     {
       "id": "4172d4a49f20e3519ddcf45f5e1310fb4d7f836f43033b7f7cbe08b9c30e3154",
@@ -499,28 +202,6 @@
       "image": null
     },
     {
-      "id": "0c62e97dae3dcdecf7703f2bcd83bd8e612851ddb64e65863ba946ac44b2baea",
-      "title": "Vintage photos of Beirut when it was known as the 'Paris of the Middle East'",
-      "url": "https://www.businessinsider.com/vintage-photos-beirut-1950s-to-1970s-paris-middle-east",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T14:56:51Z",
-      "summary": "Beirut, Lebanon's capital, was vibrant from the 1950s to the' 70s before a civil war ended what has been dubbed its \"Golden Age.\"",
-      "category": "economy",
-      "image": "https://i.insider.com/6a39b27d36d7e6f260b78383?format=jpeg"
-    },
-    {
-      "id": "cd2f4920806e99ff3618cec56e69a164ec26548fa94983cb2a7fba7924dbd0b8",
-      "title": "ECB\u2019s Vujcic Sees Inflation Remaining Higher for Longer",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/ecb-s-vujcic-sees-inflation-remaining-higher-for-longer",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T14:55:48Z",
-      "summary": "The European Central Bank\u2019s decision to raise interest rates was \u201crobust\u201d considering inflation will stay higher for longer, according to Vice President Boris Vujcic.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9aYbuZer5hk/v1/1200x-1.jpg"
-    },
-    {
       "id": "3b8a5ddb461e293596bdb93ee54a8f8ec4f35cfd1034b4392e9b46b67b834336",
       "title": "TD (TD) launches callable barrier notes paying ~9.05% contingent coupon",
       "url": "https://www.stocktitan.net/sec-filings/TD/424b2-toronto-dominion-bank-prospectus-supplement-1a97fef7bc3f.html",
@@ -543,17 +224,6 @@
       "image": null
     },
     {
-      "id": "b37cef030dd0b68a72f4ef3fc6b91d70d46b2810f27853ed2502bcb34b37580b",
-      "title": "Taylor Says BOE Must be Ready to Cut Rates in Benign Scenario",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/taylor-says-boe-must-be-ready-to-cut-rates-in-benign-scenario",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T14:05:38Z",
-      "summary": "Bank of England official Alan Taylor said policymakers need to be ready to act with interest-rate cuts should a benign scenario on inflation play out.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i_gL38t.TgJk/v1/1200x-1.jpg"
-    },
-    {
       "id": "bf94f5d2ffd614f0dd4a121b3f1b999218c89398b75f33f9d780b3433e60f7aa",
       "title": "Market could be on cusp of trend reversal; business cycle funds suitable for capturing sector opportunities, say experts",
       "url": "https://www.livemint.com/market/stock-market-news/market-could-be-on-cusp-of-trend-reversal-business-cycle-funds-suitable-for-capturing-sector-opportunities-say-experts-11782222587068.html",
@@ -565,28 +235,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/mutual_fund_5_1773132296397_1773132307307_1782222922156_98e36aab-3df5-496b-8122-4234cbf6bec1.jpg"
     },
     {
-      "id": "368f0b23cce424cec0e924abb9c1eeefe59447a13b85101fcd160961078cf441",
-      "title": "US presidents' approval ratings when they left office, ranked",
-      "url": "https://www.businessinsider.com/us-presidents-approval-ratings-when-they-left-office-ranked",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T13:09:03Z",
-      "summary": "Gallup presidential approval polls measured presidents' performance for nearly 90 years. Here's how presidents from Harry Truman to Joe Biden ranked.",
-      "category": "economy",
-      "image": "https://i.insider.com/6a398eb2d175c90a6a6fa939?format=jpeg"
-    },
-    {
-      "id": "710db10e230e475c89f3e880e2a2ca0c6e39e88f79567f8f3c334320c51464f1",
-      "title": "Two Turkey Central Bank Chief Advisers Leave Their Roles",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/two-turkey-central-bank-chief-advisers-leave-their-roles",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T12:41:54Z",
-      "summary": "Two chief advisers for the Turkish Central Bank who worked closely with Governor Fatih Karahan left the monetary authority this month, according to people familiar with the matter.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iawQMNFUx.8s/v1/1200x-1.jpg"
-    },
-    {
       "id": "52e04b6562f4cf439f5d63b0994ba3963d1e0503ac7ed1ced15ce2d4da340564",
       "title": "US stock market today: Nasdaq, S&amp;P 500 futures tumble up to 3% as tech selloff deepens; Micron slides 7%",
       "url": "https://www.livemint.com/market/stock-market-news/us-stock-market-today-nasdaq-s-p-500-futures-tumble-up-to-3-as-tech-selloff-deepens-micron-slides-7-11782213420039.html",
@@ -596,50 +244,6 @@
       "summary": "US stock futures indicated a steep decline on June 23, amid a tech sell-off led by SK Hynix's production cuts. The Nasdaq fell over 1.3%, affecting global markets. Concerns over AI spending and potential interest rate hikes further weighed on investor sentiment.",
       "category": "economy",
       "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/NYSE-TRUMP-50_1741919261406_1782213536115_0a0dcf9d-91bf-4b79-8d66-169edde4dd9d.jpg"
-    },
-    {
-      "id": "c0a140f3f8a1c205e9822baad6e64240b3ee0ad4d0006b0cdeace7948f97df59",
-      "title": "Brazil Central Bank Flags Price Woes as Rate Cuts Near Pause",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/brazil-central-bank-says-easing-hinges-on-new-data-as-risks-rise",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T12:24:33Z",
-      "summary": "Brazil\u2019s central bank said adjustments to its easing cycle will be made based on new information while also warning inflation risks are skewed to the upside, together boosting odds of a pause to interest rate cuts.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iT6QeCcQ2Yk0/v2/1200x-1.png"
-    },
-    {
-      "id": "e51f0b21fa184292efd218860c43484f5158bf1e70865155936ee0ba34eff4aa",
-      "title": "Hungary Starts Rate-Cut Cycle as Strong Forint Tames Inflation",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/hungary-cuts-key-interest-rate-after-forint-gain-slows-inflation",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T12:00:46Z",
-      "summary": "Hungary\u2019s central bank cut one of the highest key interest rates in the European Union and said it had room for further monetary easing after a currency rally significantly improved the inflation outlook.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ig7C7Fa3qC_I/v2/1200x-1.png"
-    },
-    {
-      "id": "347fb16c31825c02619df09ce2e1312663499fc439e62c2bd9cab2386c9a9d4a",
-      "title": "British Retailers Brace for Fallout From EU\u2019s New E-commerce Customs Fees",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-23/eu-and-de-minimis-exemption",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T11:00:01Z",
-      "summary": "Big economies like the US and EU are ending tariff-free exemptions for e-commerce",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i9O8ercMeA38/v11/1200x-1.jpg"
-    },
-    {
-      "id": "0c73eae3b058e738ddf37018e9f1fc26cc03ff1af972ffcab7cfc34603f8330c",
-      "title": "Greenspan Reflections, From \u2018Alan Greenstud\u2019 to a \u2018Flaw\u2019 in His Model",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-23/greenspan-reflections-from-alan-greenstud-to-a-flaw-in-his-model",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T11:00:01Z",
-      "summary": "As Kevin Warsh says AI will allow faster growth, the late Fed chair\u2019s legacy is worth revisiting.",
-      "category": "economy",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iRBxi6pUUF4I/v7/1200x-1.jpg"
     },
     {
       "id": "896a736d4316047fa220dbe8302d01aee1ccbdfb259b3feb4f4ac0e7bec10276",
@@ -662,6 +266,402 @@
       "summary": "Hindustan Zinc shares fell 5% amid declining global silver prices, reaching an intraday low of  \u20b9544. Concerns over inflation and potential rate hikes persist as investors assess the US economic outlook and upcoming PCE data.",
       "category": "economy",
       "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/HINDUSTAN-ZINC-RESULTS--0_1749628981862_1782206755189_fe58983b-5e4c-4c43-af2b-32cb17d72df8.JPG"
+    },
+    {
+      "id": "0283694c3294818c08666931ee32f83c246c936f684da2aac8e4cb23251f45c2",
+      "title": "Gold Reassesses the Post-Fed Landscape as Inflation and Growth Signals Return",
+      "url": "https://www.investing.com/analysis/gold-reassesses-the-postfed-landscape-as-inflation-and-growth-signals-return-200682598",
+      "source": "Investing.com - Commodities",
+      "source_id": "investing_commodities",
+      "published_at": "2026-06-23T06:50:00Z",
+      "summary": null,
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "d46f285803b80b2e753fcadce3ea2966a30b7e1c0ce83647af13597a0f1057e8",
+      "title": "US Senate passes housing bill with CBDC ban until 2030",
+      "url": "https://cointelegraph.com/news/senate-passes-housing-bill-that-includes-a-cbdc-ban-through-2030?utm_source=rss&utm_medium=rss&utm_campaign=rss",
+      "source": "Cointelegraph",
+      "source_id": "cointelegraph",
+      "published_at": "2026-06-23T05:58:20Z",
+      "summary": "The Senate voted 85-5 to pass a major housing affordability bill that includes a ban on the Federal Reserve making a central bank digital currency until 2030.",
+      "category": "economy",
+      "image": "https://s3-images.ctmedia.io/media/article-covers/hi-almost-year-since-hack-and-still-no-arrests-how-come2.jpg"
+    },
+    {
+      "id": "1cfd35fbe82ed7d54d6c983ee9736d6979eca31a96c0b90829b8c25c995e15bc",
+      "title": "Rupee opens 1 paise lower at 94.69 against US dollar",
+      "url": "https://www.livemint.com/market/stock-market-news/rupee-opens-1-paise-lower-at-94-69-against-us-dollar-11782185525553.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-23T03:36:30Z",
+      "summary": "The Indian rupee opened weaker at 94.69 against the US dollar, down 1 paise. Market focus has shifted from oil prices to expectations of a US Federal Reserve rate hike in September, impacting Asian currencies including the rupee.",
+      "category": "economy",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/23/1600x900/logo/8th_pay_commission_faq_money_da_salary_hikes_17523_1782185754926_1782185755093_980df10f-33eb-4a3d-b37c-4419cf2d0fe2.jpg"
+    },
+    {
+      "id": "727d7eb790d4da22388e0c1b506a7bd3602af4a6922b9abac2b255a2d4d01f9a",
+      "title": "The man who knew, but didn't say: Alan Greenspan (1926-2026)",
+      "url": "https://www.dw.com/en/the-man-who-knew-but-didn-t-say-alan-greenspan-1926-2026/a-77658667?maca=en-rss-en-bus-2091-xml-mrss",
+      "source": "Deutsche Welle (English) \u2014 Business",
+      "source_id": "dw_en_business",
+      "published_at": "2026-06-22T13:21:00Z",
+      "summary": "Alan Greenspan\u2019s reputation as head of the US Federal Reserve was legendary \u2014 not least because of his reputation for convoluted statements. However, the 2008/9 financial crisis took a toll on his standing.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "70a727676810326dccb6a9d3a9560cc618df121633b7e4ab7074fb41400481ce",
+      "title": "Waller, Welcoming Remarks on the International Role of the U.S. Dollar",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260622a.htm",
+      "source": "Federal Reserve - Speeches",
+      "source_id": "federalreserve_speeches",
+      "published_at": "2026-06-22T13:00:00Z",
+      "summary": "Speech At the Fifth Conference on the International Roles of the Dollar, Board of Governors of the Federal Reserve System, Washington, D.C.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "e54f7ffcced5a9bcb06034116385dcf720316fc29722815a93e22a0669cf6de4",
+      "title": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260622a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-22T12:45:00Z",
+      "summary": "Federal Reserve notes with deep sadness the passing of Alan Greenspan",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "423d3d58a0f4cd1734e605abd8efd1b5fdb2123bd93784e6435fcb84d6372d25",
+      "title": "Here are 3 big things to watch in the stock market this coming week",
+      "url": "https://www.cnbc.com/2026/06/21/here-are-3-big-things-to-watch-in-the-stock-market-this-coming-week.html",
+      "source": "Finnhub - Market News",
+      "source_id": "finnhub_market_news",
+      "published_at": "2026-06-21T12:36:03Z",
+      "summary": "FedEx reports earnings, and the Fed's preferred inflation gauge is due out.",
+      "category": "economy",
+      "image": "https://image.cnbcfm.com/api/v1/image/108222477-17624482222025-11-06t165353z_1998999963_rc23rhaf1vzq_rtrmadp_0_usa-shutdown-air-travel.jpeg?v=1762448237&w=1920&h=1080"
+    },
+    {
+      "id": "f97e1b4871406e7c99899e986cf62d50110579ea358742ad0d85d869de84fe27",
+      "title": "Cuba pushes through sweeping free-market reforms",
+      "url": "https://abcnews.com/Business/wireStory/cuba-pushes-sweeping-free-market-reforms-biggest-economic-134047041",
+      "source": "ABC News \u2014 Business/Money",
+      "source_id": "abc_business",
+      "published_at": "2026-06-19T23:40:35Z",
+      "summary": "Observers are calling Cuba&rsquo;s new free-market reforms the most sweeping economic overhaul on the island&rsquo;s communist economy since the Cuban revolution while the grandson of former President Ra&uacute;l Castro says in an interview that Cuba must seek to move it...",
+      "category": "economy",
+      "image": "https://s.abcnews.com/images/International/wirestory_b6b8d4319d4291dde47084baa624c795_4x3_384.jpg"
+    },
+    {
+      "id": "db13c073488dbeb07eeecaf0135ed326253325664216c0e9e17cde6c5b4fa579",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-18T19:00:00Z",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "b3c005a471516592567a1fb4fd85cf523aee51d9a00e4906fd53caee03d80c30",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-18T15:00:00Z",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "fd68fc001e256775fc9f49d7b487d8400da1be22d4dc17912a10e225fdacdb93",
+      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-18T13:00:00Z",
+      "summary": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "f4323a3a03c7d68901e93a3534cc2daceae03807d41ad0ba56e80df498570005",
+      "title": "Poll: Most Americans have the summer blues about Trump and the economy",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5861720/trump-economy-gas-prices-midterms-polling",
+      "source": "NPR \u2014 Business",
+      "source_id": "npr_business",
+      "published_at": "2026-06-18T09:00:00Z",
+      "summary": "A new NPR/PBS News/Marist poll finds a record low share of Americans approve of President Trump's job performance and his handling of the economy heading into the summer before a key midterm election.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "94826fcab8a056185eb932595a41e34df2a7e76f4feecbf2fd0f31f20ca6fdd6",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-17T18:00:00Z",
+      "summary": "Federal Reserve issues FOMC statement",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "6a35ed96da249fba1c6b7d3949911145cc323c07a6736ed526d4cce48fba1d22",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-17T18:00:00Z",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "109312a70f289d558f29684036a7940fc21bb6d646c2258dff9a847bbacdb415",
+      "title": "Federal Reserve holds interest rates steady and hints at rate hike later this year",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860084/fed-chief-warsh-first-fomc-meeting",
+      "source": "NPR \u2014 Business",
+      "source_id": "npr_business",
+      "published_at": "2026-06-17T09:00:00Z",
+      "summary": "The Federal Reserve left its benchmark interest rates unchanged Wednesday, and signaled its next move could be a rate increase. It's the first rate decision under the new Fed chairman, Kevin Warsh.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "42d094a493afd1e9962c46f4f477f21c62994a439e5e05130c0b4aa0ff9f899b",
+      "title": "Swiss to vote on whether to cap population at 10 million",
+      "url": "https://www.dw.com/en/swiss-to-vote-on-whether-to-cap-population-at-10-million/a-77492750?maca=en-rss-en-bus-2091-xml-mrss",
+      "source": "Deutsche Welle (English) \u2014 Business",
+      "source_id": "dw_en_business",
+      "published_at": "2026-06-13T05:35:00Z",
+      "summary": "On June 14, Swiss voters will be able to decide on a far-right initiative to curb future immigration. What will it mean for the economy \u2014 and the country's European neighbors \u2014 if they approve the proposal?",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "bab70b4b1299f2aed017870a84ac715d3c4d6baf7d3cefe993eb07958dbce047",
+      "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-11T15:00:00Z",
+      "summary": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "0b839a8ed13ce0ade01f7d2b0d13ea5ca3f7156fc852d1995a46c784f4d99a90",
+      "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-06-09T20:00:00Z",
+      "summary": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "ad459f5a653940ef6b54cd359225e1da92f1cfd0e7f6def858344fa0e487439b",
+      "title": "How China keeps North Korea's economy alive",
+      "url": "https://www.dw.com/en/how-china-keeps-north-korea-s-economy-alive/a-77295494?maca=en-rss-en-bus-2091-xml-mrss",
+      "source": "Deutsche Welle (English) \u2014 Business",
+      "source_id": "dw_en_business",
+      "published_at": "2026-06-01T08:38:00Z",
+      "summary": "Xi Jinping is visiting North Korea for the first time since 2019. Pyongyang relies on China for 95% of its legitimate trade; hacking, arms deals and remittances also help it stay afloat.",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "24101da6945978a98c872b279e984f36cc2586a4a5bf8c5f95f3a7bbf1c32f8a",
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260528a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-28T15:00:00Z",
+      "summary": "Federal Reserve Board issues enforcement actions with former employee of Atlantic Union Bank and former employee of Frost Bank",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "c05ebe2c691235a5affb61e17c1d58cec0e6cbb15bd2432119a61fc741e07cef",
+      "title": "Jefferson, Global Economic Developments and the U.S. Economy",
+      "url": "https://www.federalreserve.gov/newsevents/speech/jefferson20260527a.htm",
+      "source": "Federal Reserve - Speeches",
+      "source_id": "federalreserve_speeches",
+      "published_at": "2026-05-28T00:00:00Z",
+      "summary": "Speech At the 2026 Bank of Japan-Institute for Monetary and Economic Studies Conference, Tokyo, Japan",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "e55b495ef94e339d5897d22b0e31abbe38f9aa1e2907c714c69c5fc71b810e19",
+      "title": "Cook, The Opportunities and Risks AI Presents for the Economy and Financial System",
+      "url": "https://www.federalreserve.gov/newsevents/speech/cook20260527a.htm",
+      "source": "Federal Reserve - Speeches",
+      "source_id": "federalreserve_speeches",
+      "published_at": "2026-05-27T19:55:00Z",
+      "summary": "Speech At the Stanford Institute for Economic Policy Research, Stanford University, Stanford, California",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "630495d275f677c7bff3adc4f549e83d85eac410ac5c181d0e4031fb0b92d6b2",
+      "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-22T20:15:00Z",
+      "summary": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "71f8ff80b17ac21fb17f20b43853169099f230375dff8b487b84c1a3a59cdced",
+      "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-21T15:00:00Z",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "7cf5717fcb328da983059744c951a1cd8fa79d27499e4ad4bce79a99acc50d2a",
+      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-20T20:00:00Z",
+      "summary": "Federal Reserve Board requests public comment on a proposal to establish a &quot;payment account,&quot; which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "809ac88b008b7ae4c55d746591c0e9f40d756f51875f2435e2b58b5894a82f9a",
+      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-15T21:00:00Z",
+      "summary": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "f2c28a9c8e2bfb535bf23a1387d9bd91733a7b858a3009868ad9f44f8ccba997",
+      "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-15T20:30:00Z",
+      "summary": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "42fbbab065c5a0d7f41d4f8fd0f2158526e5524a0c77aba6611de831d87b6fcd",
+      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-15T20:30:00Z",
+      "summary": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "f8236406828dbab74c10dd513a6e077db78816c89096017ec992b54b4aaa4535",
+      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+      "source": "Federal Reserve - All Press Releases",
+      "source_id": "federalreserve_press_all",
+      "published_at": "2026-05-15T15:00:00Z",
+      "summary": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "cecd1028ba1481a6503bd48adfab7123a67ab1b4164c8ea6dec8d15d02b4053c",
+      "title": "Bowman, Opening Remarks",
+      "url": "https://www.federalreserve.gov/newsevents/speech/bowman20260514a.htm",
+      "source": "Federal Reserve - Speeches",
+      "source_id": "federalreserve_speeches",
+      "published_at": "2026-05-14T17:00:00Z",
+      "summary": "Speech At the Federal Reserve Bank of Kansas City 2026 Future of Banking Conference: Powering Progress, Protecting Trust, Kansas City, Missouri (via pre-recorded video)",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "3e83d0c784455f135cd2a02959c21a4746d2df08cbb6604f6481538affe617ce",
+      "title": "Waller, Update On Federal Reserve Bank Operations",
+      "url": "https://www.federalreserve.gov/newsevents/speech/waller20260508a.htm",
+      "source": "Federal Reserve - Speeches",
+      "source_id": "federalreserve_speeches",
+      "published_at": "2026-05-08T23:30:00Z",
+      "summary": "Speech At the Hoover Institution Annual Monetary Policy Conference, Stanford, California",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "cd22c1d43e70bea1bd8f3037beece7cbf60fb06006147de3fce7f102c3bc3938",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+      "source": "Federal Reserve - Monetary Policy",
+      "source_id": "federalreserve_monetary_policy",
+      "published_at": "2026-04-29T18:00:00Z",
+      "summary": "Federal Reserve issues FOMC statement",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "c58cc9fa31435f8edd97921ae28b9bbc3837cf8f037f0a15b4b1429fddef9f96",
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260422a.htm",
+      "source": "Federal Reserve - Banking and Consumer Regulatory Policy",
+      "source_id": "federalreserve_banking_regulation",
+      "published_at": "2026-04-22T15:00:00Z",
+      "summary": "Federal Reserve Board issues enforcement action with former employee of First Financial Bank",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "459ed78faf1dfd414744a5d7bc5b005f509ffc538ba87f22eaa4a475470f611f",
+      "title": "Federal Reserve issues FOMC statement",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318a.htm",
+      "source": "Federal Reserve - Monetary Policy",
+      "source_id": "federalreserve_monetary_policy",
+      "published_at": "2026-03-18T18:00:00Z",
+      "summary": "Federal Reserve issues FOMC statement",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "c541574fe5a8ffc38fb19a5037b7be2f032b0911510c8f7f1ea07844b8cdb999",
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260318b.htm",
+      "source": "Federal Reserve - Monetary Policy",
+      "source_id": "federalreserve_monetary_policy",
+      "published_at": "2026-03-18T18:00:00Z",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the March 17-18 FOMC meeting",
+      "category": "economy",
+      "image": null
+    },
+    {
+      "id": "957ad481dbade3605d9b9b804e6005c43246db1be6bf26d4a217bf0986fa4688",
+      "title": "Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260223a.htm",
+      "source": "Federal Reserve - Banking and Consumer Regulatory Policy",
+      "source_id": "federalreserve_banking_regulation",
+      "published_at": "2026-02-23T22:00:00Z",
+      "summary": "Following earlier actions to remove reputation risk from its supervision of banks, Federal Reserve Board requests comment on proposal to codify that removal",
+      "category": "economy",
+      "image": null
     }
   ]
 }

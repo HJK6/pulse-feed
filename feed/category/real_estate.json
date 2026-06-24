@@ -1,7 +1,7 @@
 {
   "key": "real_estate",
   "label": "Real Estate",
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "articles": [
     {
       "id": "90453861cf643fe91fb9b62f7567d11878d443f4584a7e1623f14d262963dbc8",
@@ -48,17 +48,6 @@
       "image": null
     },
     {
-      "id": "80b99b0f1e61cde39b75f25006e1623b2915a0281ea6d33dd3a9710fa33337a1",
-      "title": "Tan France says he writes emails so his kids can see who they were growing up",
-      "url": "https://www.businessinsider.com/tan-france-writes-emails-to-kids-childhood-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T04:30:27Z",
-      "summary": "Tan France says he got the idea from Kim Kardashian.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a3b44296891755ad48b84e9?format=jpeg"
-    },
-    {
       "id": "5f01588e87928b59cc01c7c7d4fd023ca2a8a450325c71c26f05604bf9fb2308",
       "title": "Ask HN: How do you test AI-generated code?",
       "url": "https://news.ycombinator.com/item?id=48655020",
@@ -66,28 +55,6 @@
       "source_id": "hackernews_newstories",
       "published_at": "2026-06-24T04:14:52Z",
       "summary": "When AI generates code, I first instruct the model to find, fix, and verify any issues. After that, I start the server and test whether it actually works from the user\u2019s perspective.<p>What I\u2019m looking for is a workflow where issues are received, fixed, tested, and deployed\u2014but it seems that current AI agents aren\u2019t very good at performing browser tests from the user\u2019s perspective.<p>I\u2019ve tried using the built-in browsers in Codex and Cursor, but they often only checked whether the page loaded. In the end, I had to instruct them step by step on what to do, and it turned out to be cheaper and faster for me to test it myself.<p>So I\u2019m curious to know how you\u2019ve set up test automation. Are there any services that do this (for individuals, not just enterprises)? If you\u2019re using a harness like Codex, I\u2019d like to know what instructions and skills are needed to get it to perform tests from the user\u2019s perspective.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "8fb972cd76ea9c1d9ed75e6fe632ffd27f69b43ab19c157dcb90921569feacda",
-      "title": "I missed out on a pro basketball career by one cut. At 26, I bought an Irish pub with my mom instead.",
-      "url": "https://www.businessinsider.com/professional-basketball-career-irish-pub-working-with-mom-family-restaurant-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T04:13:46Z",
-      "summary": "While Jareb Dougherty was busy chasing his basketball dreams, his mom got a bartending job at an Irish pub.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a38ff2ec7a58f814f0d4e1e?format=jpeg"
-    },
-    {
-      "id": "d84417b8077e6c042d462ed6574700ec0f7bd5fbfc19d59894738f931a89d47f",
-      "title": "Parents have shouldered VAT on school fees with a groan",
-      "url": "https://www.ft.com/content/ec261146-dd39-4b69-a78e-5636557ff861",
-      "source": "Financial Times \u2014 World (open feed)",
-      "source_id": "ft_world",
-      "published_at": "2026-06-24T04:00:29Z",
-      "summary": "The decline in privately educated pupils has not been as big as many \u2014 including me \u2014 anticipated",
       "category": "real_estate",
       "image": null
     },
@@ -202,17 +169,6 @@
       "image": null
     },
     {
-      "id": "155e7b472f4df40e1cdf710b90fe618984832d81cc00f789c4a5a2fdcff598f7",
-      "title": "Bank of Korea Says Higher Rates Needed Amid Housing, Debt Risks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bank-of-korea-says-higher-rates-needed-amid-housing-debt-risks",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T02:00:00Z",
-      "summary": "South Korea\u2019s central bank reinforced its hawkish shift, saying higher interest rates will be needed at an appropriate time as rising home prices, household debt and leveraged investment threaten to stoke financial imbalances.",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ix4Sv618XQ.k/v0/1200x-1.jpg"
-    },
-    {
       "id": "70baebccd0df3db97acfc909751f242e21cd4b7440245962a6cbb85a4a2d3673",
       "title": "Crude oil prices extend fall on smoother flows through Strait of Hormuz; Brent below $77 per barrel",
       "url": "https://www.livemint.com/market/commodities/crude-oil-prices-extend-fall-on-smoother-flows-through-strait-of-hormuz-brent-below-77-per-barrel-11782265079363.html",
@@ -222,17 +178,6 @@
       "summary": "US-Iran peace talks: Global benchmark Brent crude futures for August delivery declined 0.45% to $76.73 per barrel on Wednesday after falling 1.1% in the previous session.",
       "category": "real_estate",
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/crude_oil_1782265650538_1782265650668_07ed25d0-2a41-4f9e-a101-93e2fbc0822c.JPG"
-    },
-    {
-      "id": "66f55feade2c75f0b49408b76661102a3f65d4b8a0e94509988d1e8587e1a239",
-      "title": "Jeffrey Epstein pitched his connections with billionaires to get close to Bill Gates",
-      "url": "https://www.businessinsider.com/bill-gates-jeffrey-epstein-congress-billionaire-connections-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T01:15:14Z",
-      "summary": "Bill Gates told Congress that Jeffrey Epstein wormed his way into his life with \"veiled threats\" to disclose extramarital affairs.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a3b30faace32b985cf895fd?format=jpeg"
     },
     {
       "id": "1132a97e874e63c6a8aa2785b2ceb2c5e8e17ee74d7a89895981ef2dd87a1503",
@@ -323,17 +268,6 @@
       "image": null
     },
     {
-      "id": "64904c385ed22aacaebcabf711a10e5ea43c4f2b484a2f8efffb43c79e7f4bb0",
-      "title": "Stocks Slide as Wall Street Gets AI Wake-up Call | The Close 06/23/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/the-close-06-23-2026-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-23T23:46:34Z",
-      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are ProShares Head of Research & CIO, Active Investments Alessio de Longis, Citi Senior Equity Research Analyst Ariel Rosa, JP Morgan Asset Management Global Head of Real Estate Chad Tredway, Permanent Portfolio President & Portfolio Manager Michael Cuggino, Third Bridge Global Head of Sector Analysts Peter McNally, D.A. Davidson Technology Research Head Gil Luria, UBS Senior US Homebuilding Equity Research Analyst John Lovallo, NYC Tourism + Conventions President & CEO Julie Coker, & E11EVEN Miami Operating Partner Gino LoPinto. (Source: Bloomberg)",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inzwTXYZx_aY/v3/1200x-1.jpg"
-    },
-    {
       "id": "1c299b8a0aa7a8f8568268aeb9b2901ecf4572d3d04e8b8a78e5fc5e1e73abbb",
       "title": "Savannah Guthrie speaks out after new details revealed in Nancy's case",
       "url": "https://www.cbsnews.com/video/savannah-guthrie-speaks-out-new-details-revealed-nancys-case/",
@@ -422,17 +356,6 @@
       "image": null
     },
     {
-      "id": "3a3c15a3cefa97bbac00da98711ab8182d4894a47fd15abc9c48ce17c1d4e9a7",
-      "title": "Mark Zuckerberg says Meta's new AI glasses must balance fashion with function for people to wear them",
-      "url": "https://www.businessinsider.com/mark-zuckerberg-meta-glasses-style-comfort-tech-wearable-fashion-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-23T22:32:52Z",
-      "summary": "Mark Zuckerberg's latest obsession is fashion, which he sees as key to getting more people to wear Meta's AI glasses as more than tech gadgets.",
-      "category": "real_estate",
-      "image": "https://i.insider.com/6a3af40eace32b985cf894d1?format=jpeg"
-    },
-    {
       "id": "540d4d4394f3c63a2ee1d8b640b2d2b240826d0729eaf675c7c9e96f25814860",
       "title": "AMETEK Inc (AME) Shares Fall 3.1% -- What GF Score of 97 Tells Investors",
       "url": "https://www.gurufocus.com/news/8928650/ametek-inc-ame-shares-fall-31-what-gf-score-of-97-tells-investors",
@@ -440,17 +363,6 @@
       "source_id": "alphavantage_news_sentiment",
       "published_at": "2026-06-23T22:31:04Z",
       "summary": "AMETEK Inc (AME) shares dropped 3.1% to $234.08, which is 16.9% above its GF Value\u2122 of $200.30, indicating it is currently overvalued. The company boasts a strong GF Score\u2122 of 97/100, driven by perfect scores in Profitability and Growth (10/10) and a solid Financial Strength (8/10), yet its Valuation score is lower at 6/10. Insider selling totaling $0.1 million over three months, with no buying activity, suggests caution for potential investors.",
-      "category": "real_estate",
-      "image": null
-    },
-    {
-      "id": "d68a399334eb1e640487c7325f99fbc8cbad0135c05e253a71b33bb4ba34bc5e",
-      "title": "KB Home Q2 Review: Muted Housing Market Unlikely To Recover Soon",
-      "url": "https://seekingalpha.com/article/4917142-kb-home-q2-review-muted-housing-market-unlikely-to-recover-soon?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-23T22:24:59Z",
-      "summary": null,
       "category": "real_estate",
       "image": null
     },
@@ -486,17 +398,6 @@
       "summary": "Colgate-Palmolive Co (CL) shares rose 3.1% to $91.43, and the stock is considered slightly undervalued according to GuruFocus's GF Value\u2122 estimate, despite a GF Score\u2122 of 85/100. While its GF Value\u2122 indicates an upside, its current P/E ratio is above its historical median, and recent insider selling activity has been noted. Investors should consider both the potential undervaluation and these cautionary signals.",
       "category": "real_estate",
       "image": null
-    },
-    {
-      "id": "170431e1f56f784a3972659fd82a0db9b7ca2e60a8e5ed2d2cb064055ceca229",
-      "title": "UAE Oil Exports Surge to 85% of Pre-War Levels, IEA Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/uae-oil-exports-surge-to-85-of-pre-war-levels-iea-says",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T22:19:04Z",
-      "summary": "Oil exports from the United Arab Emirates in early June recovered to nearly 85% of the country\u2019s pre-Iran war levels &mdash; rebounding even before Washington and Tehran inked an interim peace deal as the Gulf nation drew on pipelines, storage and alternate shipping routes, according to a report from the International Energy Agency.",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iqcE7wrlQX60/v0/1200x-1.jpg"
     },
     {
       "id": "9c300f7874c68b0cea6a9a02391dcd607886c8749265cfc62973a75d345dbff5",
@@ -609,28 +510,6 @@
       "image": null
     },
     {
-      "id": "7cf223629d17548baa57a0481bd78e630eb227b09dd24571e3506a337ff0ad3a",
-      "title": "Macquarie Slashes Brent Forecast, Sees Rapid Recovery of Flows",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/macquarie-slashes-brent-forecast-sees-rapid-recovery-of-flows",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-23T20:54:45Z",
-      "summary": "Macquarie Group Ltd. slashed its projected oil prices for 2026 and 2027 in anticipation of a rapid return to normal flows of oil leaving the Middle East.",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/izad608rlkr8/v1/1200x-1.jpg"
-    },
-    {
-      "id": "353e3f1fddfe2c6714a11d062d33bde8a087c62b69bf9ea959181e6da796534a",
-      "title": "AI Benefiting SF Real Estate: JPM\u2019s Asset Mgt.\u2019s Tredway",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/ai-benefiting-sf-real-estate-jpm-s-asset-mgt-s-tredway-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-23T20:48:20Z",
-      "summary": "Chad Tredway, Global Head of Real Estate at JPMorgan Asset Management, discussed the impact of the AI cycle on the real estate sector during a live financial news segment. While not directly investing in data centers, Tredway highlighted opportunities in the surrounding infrastructure and real estate that support AI operations. He speaks with Romaine Bostick & Isabelle Lee on \"The Close.\" (Source: Bloomberg)",
-      "category": "real_estate",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iQIMTif4k_cc/v3/1200x-1.jpg"
-    },
-    {
       "id": "3d5034a0c91173658484b7b3b9da7e663c4cb1eb3c545989077045f728ce3c0b",
       "title": "Anthropic reimagines Claude in Slack as nosy, always-on agentic AI coworker",
       "url": "https://www.theregister.com/ai-and-ml/2026/06/23/anthropic-reimagines-claude-in-slack-as-nosy-always-on-agentic-ai-coworker/5260422",
@@ -662,6 +541,127 @@
       "summary": "The Senate voted 50-48 in favor of the concurrent resolution, which passed the House of Representatives early this month, reflecting growing concern even among some of Trump's Republicans about the unpopular conflict that began on February 28.",
       "category": "real_estate",
       "image": "https://i.ndtvimg.com/i/2017-06/us-senate-reuters-650_650x400_51498171179.jpg?im=FeatureCrop,algorithm=dnn,width=1280,height=720"
+    },
+    {
+      "id": "cce131d9c5cdb52bf756dee8301b8701fa0c9fc661f338c858d570e05b1bd6b0",
+      "title": "Top Stock Reports for Visa, TotalEnergies & AT&T",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-reports-visa-totalenergies-201900826.html",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:49:00Z",
+      "summary": "This article presents Zacks Research Daily's top stock reports for June 22, 2026, featuring detailed analyses of 16 major and micro-cap stocks. Key companies highlighted include Visa (V), TotalEnergies (TTE), and AT&T (T), with insights into their recent performance, financial outlooks, and challenges. The reports offer both positive and cautious views on these stocks based on current market conditions and company-specific factors.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "2780a7036978404e07091ae477d00fb1c60449d3abe65523ffae4b71f883af7f",
+      "title": "Without missiles Iran would have ended up \u2018like Gaza\u2019, says Iranian president",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president",
+      "source": "Middle East Eye \u2014 All",
+      "source_id": "middleeasteye_all",
+      "published_at": "2026-06-23T19:41:29Z",
+      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/without-missiles-iran-would-have-ended-gaza-says-iranian-president\" rel=\"bookmark\">\n<span class=\"field field-title\">Without missiles Iran would have ended up \u2018like Gaza\u2019, says Iranian president </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Iranian President Massoud Pezeshkian said on Tuesday that, if Iran did not have its missile defensives, it would have ended up \u201crazed like Gaza\u201d in the US-Israeli war.</p>\n\n<p>\u201cIf the missiles we have for our defense did not exist, Israel and the United States would have razed Iran like Gaza,\u201d Pezeshkian said, reiterating that Iran\u2019s defensive capabilities would not be negotiated \u201cunder any circumstances\u201d.</p>\n</div>\n      \n  </div>\n\n</article>",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "5aad60fef0d9390200ebef75d312b9655805b62a6959fcdd978f71f58a901152",
+      "title": "Palo Alto Networks (PANW) Stock Could Be 82.8% Overvalued After AI Security Momentum",
+      "url": "https://simplywall.st/stocks/us/software/nasdaq-panw/palo-alto-networks/news/palo-alto-networks-panw-stock-could-be-828-overvalued-after",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:36:00Z",
+      "summary": "Palo Alto Networks (PANW) stock is potentially 82.8% overvalued based on a fair value of $156.71 against a current price of $286.40, despite its strong performance and AI-focused security offerings. The company's market value is US$234.5 billion, and while it has seen significant share price appreciation, analysts question future upside. The narrative suggests the growth profile and valuation multiples are key factors in determining its true value, noting potential risks related to integration challenges of acquisitions or overly optimistic next-generation security growth.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "a3a2bcb5ef3f5b9d46e6d6dd0f5d5f67d95e67b11bbb6328caaf10ed468edb5d",
+      "title": "ONEOK clear analyst consensus, shares trade firmly on NYSE",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/oneok-clear-analyst-consensus-shares-trade-firmly-on-nyse/69613467",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:30:50Z",
+      "summary": "ONEOK (US6826801036) begins the week with a neutral Wall Street analyst consensus, reflecting its stable role as a high-yield US midstream company. Analysts estimate a 12-month price target in the mid-90-dollar range, with the stock currently trading in the high 80s per share. The company offers an estimated dividend yield just under 5 percent, and its mid-teen price-earnings ratio reflects both regulated cash flows and energy exposure.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "336a732dc37d0cbac1038b752aff25039e12afed907f4b3583b41ea0b9ac67a7",
+      "title": "Bristol Myers Squibb (BMY) Stock Could Be 13% Undervalued As Pipeline Plans Take Shape",
+      "url": "https://simplywall.st/stocks/us/pharmaceuticals-biotech/nyse-bmy/bristol-myers-squibb/news/bristol-myers-squibb-bmy-stock-could-be-13-undervalued-as-pi",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:25:16Z",
+      "summary": "Bristol Myers Squibb (BMY) is currently deemed 13% undervalued by Simply Wall St, with a fair value of $62.96 compared to its recent close of $54.70. The company recently declared a quarterly dividend of $0.63 per share, and its robust late-stage pipeline and strategic partnerships are expected to drive future growth despite upcoming patent expirations for key drugs. However, the stock faces risks from patent cliffs and pricing pressure in the U.S. market, creating mixed signals regarding its valuation.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "e33ce08da1ae06dea0922c37f36656b4ec9087f8d35483556c88e6bceb7089a6",
+      "title": "General Electric (GE) Stock After 333% Three-Year Surge Is It Too Late To Buy?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/general-electric-ge-stock-333-181630614.html",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:16:00Z",
+      "summary": "General Electric (GE) has seen a 333% surge over three years, leading investors to question its current valuation. According to a Discounted Cash Flow (DCF) analysis and P/E ratio comparison by Simply Wall St, GE appears to be overvalued, with a DCF estimate suggesting the stock is 48.9% above its intrinsic value. However, different narratives, including bull and bear cases, present a fair value range between $350 and $405, indicating varied investor perspectives on its future growth and risks.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "7ab5ab30f910400920f3890b6ed0e13eb884e39b680f963b9a84989bf665b169",
+      "title": "CenterPoint Energy shares, analysts see a Buy consensus",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/centerpoint-energy-shares-analysts-see-a-buy-consensus/69613378",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:15:33Z",
+      "summary": "CenterPoint Energy is currently experiencing a \"Buy\" consensus from 13 analysts, with an average target price of $44.38, slightly above its current trading price of $43.49. The analyst breakdown shows a positive outlook, with 23% Strong Buy, 31% Buy, and 46% Hold ratings. The company, which provides electric transmission and natural gas services in various U.S. markets, is seen as having a stable regulated business model by investors.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "c8f0c3330dac147320278e2d7906f801b38782f6e8b66391604c9e63a6c5b4be",
+      "title": "UN warns Palestinian children 'defenceless' amid Israeli crackdown on NGOs",
+      "url": "https://www.middleeasteye.net/news/un-warns-palestinian-children-defenceless-amid-crackdown-ngos",
+      "source": "Middle East Eye \u2014 All",
+      "source_id": "middleeasteye_all",
+      "published_at": "2026-06-23T19:08:35Z",
+      "summary": "<article class=\"story default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/news/un-warns-palestinian-children-defenceless-amid-crackdown-ngos\" rel=\"bookmark\">\n<span class=\"field field-title\">UN warns Palestinian children 'defenceless' amid Israeli crackdown on NGOs</span>\n</a>\n    </h2>\n    \n\n          <footer>\n      \n      <div class=\"author\">\n        Submitted by \n<span class=\"field field-uid\"><a href=\"https://www.middleeasteye.net/users/mee-staff\" lang=\"lang\" title=\"View user profile.\">MEE staff</a></span>\n on \n<span class=\"field field-created\"><time datetime=\"2026-06-23T19:42:46+01:00\" title=\"23 June 2026 19:42 BST\">Tue, 06/23/2026 - 19:42</time>\n</span>\n        \n      </div>\n    </footer>\n      \n    <div class=\"content\">\n                <div class=\"field field-field-subhead\">UN says Israeli measures have made it nearly impossible for rights groups to ensure the safety of children and families seeking critical assistance</div>\n                  <div class=\"field field-field-main-image\">    \n                  <source height=\"788\" type=\"image/webp\" width=\"1400\" />\n                  <img alt=\"alt\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/000_B7YW2VE.jpg.jpg?itok=PP8Z1zMO\" width=\"1920\" />\n\n  \n\n</div>\n                  <div class=\"field field-field-cutline\">Palestinians look at Israeli soldiers patrolling the market in the Old City of Nablus in the Israeli occupied West Bank on 23 June 2026 (Jaafar Ashtiyeh/AFP)</div>\n                  <div class=\"field field-field-wide-photo-video\">Off</div>\n                  <div class=\"field field-body clearfix\"><p><a href=\"https://www.middleeasteye.net/countries/palestine\">Palestinian</a> children are \"increasingly unprotected\", as <a href=\"https://www.middleeasteye.net/countries/israel\">Israel</a> forces human rights organisations to cease or curtail work across the occupied Palestinian territories, the United Nations Committee on the Rights of the Child <a href=\"https://www.ohchr.org/en/press-releases/2026/06/occupied-palestinian-territory-children-left-defenceless-rights-groups-are\">warned</a> on Monday.&nbsp;</p>\n\n<p>The committee condemned Israel's designation of civil society groups as \"terrorists\". Labelling NGOs as terrorist entities gives Israel legal cover to obstruct humanitarian work, including military raids, travel bans, personal financial sanctions, threats of arrest, destruction of records and, in some cases, \"threats of secondary sanctions against partners\".&nbsp;</p>\n\n<p>The committee is made up of a body of 18 independent experts that work within the UN Office of the High Commissioner for Human Rights (UN OHCHR).</p>\n\n<p>The warning doesn't name any of the organisations they are alluding to, but in 2021 Israel outlawed six major Palestinian NGOs, including Adameer, Al-Haq, Bisan Center for Research and Development, Defense for Children International - Palestine, Union of Agricultural Work Committees and the Union of Palestinian Women's Committees.&nbsp;</p>\n\n<p>In January of this year, more than 50 international NGOs operating in occupied Palestine warned that recent registration measures imposed by Israel threatened to halt operations at a time of acute humanitarian need in Gaza.&nbsp;</p><div class=\"block-adsense block-adsense-managed-ad-block\"><div>\n  <div class=\"adsense responsive\">\n    \n<!-- responsive -->\n<ins class=\"adsbygoogle mee-auto-ad-wrapper \" style=\"display: block;\"></ins>\n\n  </div>\n</div>\n</div>\n\n<p>On 30 December, 37 NGOs received an official notification that their registrations would expire the next day, triggering a two-month period after which they would be required to cease operations in Gaza, as well as the occupied West Bank and East Jerusalem.</p>\n\n<p>Israel's Ministry of Diaspora Affairs announced the ban on Tuesday, saying that organisations that had failed to meet their \"security and transparency requirements\" would have their licences suspended.&nbsp;</p>\n\n<p>The ministry said the ban would also apply to those who \"refused to submit a list of their Palestinian employees in order to rule out any links to terrorism\".</p>\n\n<p>\"Recent efforts to assess the impact of deregistering INGOs through selective metrics do not capture how humanitarian assistance is delivered in practice,\" the 53 NGOs jointly wrote at the time.</p>\n\n<div class=\"mee-readmore mee-readmore-article-story mee-readmore-type-image align-right\">\n  <a class=\"mee-readmore-img-link\" href=\"https://www.middleeasteye.net/news/how-israel-turned-gazas-crossings-interrogation-and-torture-hubs\"><img alt=\"alt\" class=\"mee-readmore-image\" height=\"250\" src=\"https://www.middleeasteye.net/sites/default/files/styles/read_more/public/images-story/kerem-shalom-israeli-soldier-afp-2025.jpg.webp?itok=dljARepk\" width=\"400\" />\n\n</a>  <div class=\"mee-readmore-description\">'They spat in my face': Palestinians describe Israeli abuse at Gaza crossings</div>\n    <a class=\"mee-readmore-link\" href=\"https://www.middleeasteye.net/news/how-israel-turned-gazas-crossings-interrogation-and-torture-hubs\">Read More \u00bb</a>\n</div>\n\n<p>Israeli measures have made it nearly impossible for these groups to ensure the safety of children and families seeking critical assistance, leaving \"children defenceless\", according to UN OHCHR.</p>\n\n<p>\"For more than three decades, these organisations have played a vital role in defending Palestinian children, including in the Israeli military courts, and in documenting grave violations against Palestinian children at the hands of Israeli forces,\" the Committee said.</p>\n\n<p>\"Without them, Palestinian children will be even less protected, and violations of their rights risk continuing with impunity,\" it continued.&nbsp;</p>\n\n<p>The UN OHCHR statement demanded Israel \"lift all restrictions and obstacles facing child rights defenders\" in the occupied Palestinian territories, and that the international community use \"all available means\" to hold Israeli authorities accountable for attacks and prioritise the rights of Palestinian children.</p>\n\n<p>\"Despite grave risks and limited resources, child rights defenders have continued to stand with Palestinian children and families in extraordinarily dangerous conditions,\" the committee said. \"They must be protected, not punished.\"</p>\n\n<p>Israel has waged a severe crackdown on humanitarian work throughout the occupied Palestinian territories since the ceasefire came into effect in Gaza on 10 October, including a move to ban Doctors Without Borders (MSF) after the organisation refused to provide a list of its Palestinian staff.</p>\n\n<p>In response to the Israeli government's targeting of the NGO, 17 international aid agencies petitioned Israel's Supreme Court in February to block the move.</p>\n\n<p>While a court injunction currently permits their temporary continuance, the Israeli government is attempting to halt their operations entirely.</p>\n</div>\n                  <div class=\"field field-field-topic\"><a href=\"https://www.middleeasteye.net/topics/inside-israel\" hreflang=\"en\">Inside Israel</a></div>\n            <div class=\"field field-field-coauthor-location\">\n              <div> </div>\n              <div> </div>\n              <div> </div>\n              <div> </div>\n          </div>\n              <div class=\"field field-field-article-location\"> </div>\n                  <div class=\"field field-field-section\"><a href=\"https://www.middleeasteye.net/news/all\" hreflang=\"en\">News</a></div>\n        <div class=\"field field-field-post-date-override\">\n    <div>Post Date Override</div>\n              <div>0</div>\n          </div>\n  <div class=\"field field-field-update-date-override\">\n    <div>Update Date</div>\n              <div><time datetime=\"2020-05-04T21:19:45+01:00\">Mon, 05/04/2020 - 21:19</time>\n</div>\n          </div>\n  <div class=\"field field-field-update-date-check\">\n    <div>Update Date Override</div>\n              <div>0</div>\n          </div>\n\n  </div>\n  \n</article>",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "622958c9093ac5080d6ac4ad363a91e708651a7c46b45f21aa43f62e7c391f47",
+      "title": "Heitman seizes downtown Oakland office building from KKR, TMG",
+      "url": "https://therealdeal.com/san-francisco/2026/06/23/kkr-tmg-partners-lose-oakland-office-tower-to-foreclosure/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:07:25Z",
+      "summary": "Heitman Capital Management has seized a 535,000-square-foot office building in downtown Oakland, previously owned by KKR and TMG Partners, after foreclosing on a $239.6 million loan. The building, anchored by Clorox, will continue to be managed by TMG Partners, who plan renovations to attract new tenants. This foreclosure is part of a trend of rising vacancies and plummeting property values in Oakland's office market since the pandemic.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "32c6592caffc54741b0c954fcb29036a14b075bd483e6d5acfdb578020421c26",
+      "title": "Occidental Petroleum consensus firms ahead of August earnings, shares trade near 52 dollars",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/occidental-petroleum-consensus-firms-ahead-of-august-earnings-shares/69613264",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T19:00:15Z",
+      "summary": "Occidental Petroleum (OXY) shares are trading around $52 on the NYSE, with its next earnings report scheduled for August 5, 2026. Analysts maintain a stable outlook, with Truist Securities reiterating a Hold rating and a price target of $57, following a stronger-than-expected first quarter. The company, primarily involved in oil and gas exploration and production, has a market capitalization of approximately $51.5 billion and has seen an 18% share performance over the past year despite a recent 11.72% decline over 30 days.",
+      "category": "real_estate",
+      "image": null
+    },
+    {
+      "id": "a43f760e0d1edc0a6e200d185462d6cdb19a8138b7845fb9eb7c5a2f3b4525e7",
+      "title": "Peachtree expands investor access",
+      "url": "https://www.asianhospitality.com/peachtree-expands-investor-access/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-23T18:56:51Z",
+      "summary": "Peachtree Group is partnering with Goldman Sachs Group, Inc. to broaden investor access to its alternative investment offerings, making its private commercial real estate strategies available on the Goldman Sachs Custody Solutions platform. This collaboration aims to meet the growing demand for alternative investments, with Peachtree's products also accessible through platforms like iCapital, SEI marketplaces, and CAIS. The company continues to expand its distribution channels, having managed over $10 billion in committed capital and acquiring significant loan volumes in recent years.",
+      "category": "real_estate",
+      "image": null
     }
   ]
 }

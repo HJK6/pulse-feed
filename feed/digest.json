@@ -1,18 +1,7 @@
 {
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "edition": "2026-06-24",
   "top_stories": [
-    {
-      "id": "64c138d50a73dc52fad9ef65d76faadc07d92cf0ff837688f6174cd1346b04c2",
-      "title": "Big Tech leads sell-off in global stocks",
-      "url": "https://www.ft.com/content/10623865-5ff4-4357-9293-3c4ec841d1c4",
-      "source": "Financial Times - Technology",
-      "source_id": "ft_technology",
-      "published_at": "2026-06-23T07:21:57Z",
-      "summary": "Declines on Wall Street reverberate across global markets as SpaceX rally reverses",
-      "category": "technology",
-      "image": null
-    },
     {
       "id": "9cafc31689e6a3f71c2442d2a5ac8618566ead52de1a17b7a7fbda063a07e379",
       "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
@@ -21,17 +10,6 @@
       "source_id": "hackernews_topstories",
       "published_at": "2026-06-23T14:24:21Z",
       "summary": "Hi all! TikZ is a widely-used LaTeX package for drawing figures in papers. It uses commands like \\draw[-&gt;] (0,0) -- (1,2); to draw lines, shapes, text, etc. Academics usually code up their figures by hand, so there is lots of twiddling around with the coordinates and recompiling until things look nice. I guess it\u2019s a bit like SVG, but it\u2019s more code than markup, for example it has loops with \\foreach.<p>I built an open-source WYSIWYG TikZ editor (available for web and desktop) that allows you to edit your TikZ source code visually by dragging and resizing elements. It simultaneously shows the source code and the rendered figure, and lets you edit either one while the two views stay in sync. I\u2019m not aware of any other editors that are simultaneously source editors and WYSIWYG (even for editing SVG or HTML), and I\u2019m quite pleased with how well the combination works.<p>The way the app is implemented is by parsing the TikZ code, and at all times keeping track of the exact source location of each object. Thereby, when a user drags an element to a new position, the app can override just the numbers in the coordinate without changing anything else in the code (such as line breaks or indentation).<p>This approach essentially required reimplementing a large fraction of TikZ, which is the kind of task that no human would ever want to do. I think building software that doesn\u2019t exist yet because it would be impossibly tedious to code up is one of the great new possibilities thanks to coding agents, and it\u2019s worth brainstorming for other examples. (This app was built almost entirely by Codex.)<p>Implementing the app came with lots of fun side quests, including building converters from SVG &#x2F; pptx &#x2F; ipe to TikZ, re-implementing the LaTeX hyphenation and line-breaking algorithm to support multi-line nodes, and making a color picker that uses the red!20!black color mixing notation used in LaTeX papers.",
-      "category": "ai",
-      "image": null
-    },
-    {
-      "id": "91e6f6c0974510935d21a7c4fd8d575ef1d0bd9abe9b85ccb13fc7de8a05d6a7",
-      "title": "The Low-Tech AI Of Elden Ring",
-      "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-      "source": "Lobsters - RSS",
-      "source_id": "lobsters_rss",
-      "published_at": "2026-06-23T05:25:04Z",
-      "summary": "<p><a href=\"https://lobste.rs/s/fzz7pf/low_tech_ai_elden_ring\">Comments</a></p>",
       "category": "ai",
       "image": null
     },
@@ -58,6 +36,17 @@
       "image": null
     },
     {
+      "id": "11b86268bb2d567afb586fa6f8feb81292c550e00cabaee3fc0e17a2856da355",
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "url": "https://github.com/baidu/Unlimited-OCR",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-23T11:35:05Z",
+      "summary": "<p>Article URL: <a href=\"https://github.com/baidu/Unlimited-OCR\">https://github.com/baidu/Unlimited-OCR</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48643426\">https://news.ycombinator.com/item?id=48643426</a></p>\n<p>Points: 278</p>\n<p># Comments: 76</p>",
+      "category": "ai",
+      "image": null
+    },
+    {
       "id": "ed8de341bff7fb364eb3975d0c498abe92ce3004bfe44a39d6311eef5653e8d5",
       "title": "Mark Zuckerberg directed meta to create a prediction markets app",
       "url": "https://www.nytimes.com/2026/06/23/technology/meta-prediction-markets-app.html",
@@ -76,6 +65,17 @@
       "source_id": "hackernews_newstories",
       "published_at": "2026-06-23T14:49:04Z",
       "summary": "Though the firm's manufacturing index ran better than expected for June, it came largely from an inventory rebuild and despite sharp job cuts.",
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "6c1e3b182ba5cf32ffa1b9e6017761049bf5b960075c19de066fcd8f93e59851",
+      "title": "Spying on kids to save kids from spying is stupid",
+      "url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-23T14:04:43Z",
+      "summary": "<p>Article URL: <a href=\"https://pluralistic.net/2026/06/23/destroy-the-village/\">https://pluralistic.net/2026/06/23/destroy-the-village/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48645173\">https://news.ycombinator.com/item?id=48645173</a></p>\n<p>Points: 248</p>\n<p># Comments: 161</p>",
       "category": "technology",
       "image": null
     },
@@ -201,17 +201,6 @@
       "image": null
     },
     {
-      "id": "fc9ff9bc2700def6c0b2365fa4e25a800fab576531d31d87c3507c3055f94b4e",
-      "title": "Strongest Dollar This Year Pressures EM Currencies and Stocks",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/emerging-market-stocks-fall-on-korea-selloff-currencies-weaken",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-23T11:20:58Z",
-      "summary": "Most developing-world currencies weakened against the dollar on Tuesday as the greenback climbed to its strongest level of the year, amid a risk-off mood triggered by a steep selloff in South Korea\u2019s technology giants.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i3SGi6qk4Knk/v3/1200x-1.png"
-    },
-    {
       "id": "e3fa165ba53b13e7d1c5eab8cd4e1666212de526cbf42eaf4976e43ad0a9d699",
       "title": "OpenAI's GPT-5.5 Cyber AI Beats Anthropic's Banned Mythos Model\u2014And Nobody's Shutting It Down",
       "url": "https://decrypt.co/371900/openai-gpt-5-5-cyber-ai-beats-anthropic-banned-claude-mythos",
@@ -221,6 +210,17 @@
       "summary": "GPT-5.5-Cyber tops the CyberGym leaderboard as Anthropic's best models sit offline under a Trump administration export ban.",
       "category": "stocks",
       "image": "https://cdn.decrypt.co/wp-content/uploads/2025/10/openai-decrypt-style-02-gID_7.jpg"
+    },
+    {
+      "id": "0065d979ed9e619baade2b98dd1484daa9f4889ee232fac73caf75dcf08e2817",
+      "title": "Latest NBA buzz: Everything we're hearing ahead of...",
+      "url": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-23T17:04:33Z",
+      "summary": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Giannis Antetokounmpo front.",
+      "category": "nba",
+      "image": null
     }
   ],
   "categories": [
@@ -229,17 +229,6 @@
       "label": "AI",
       "count": 60,
       "top": [
-        {
-          "id": "6e3e0bb8c7fc0851337a9d122683237c91c47d90774b2fa81ed249dfe178f1f7",
-          "title": "Kioxia\u2019s Executive Pay Jumps After AI Boosts Demand and Stock",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/kioxia-s-executive-pay-jumps-after-ai-boosts-demand-and-stock",
-          "source": "Bloomberg \u2014 Technology",
-          "source_id": "bloomberg_tech",
-          "published_at": "2026-06-24T04:49:24Z",
-          "summary": "Executive pay at Japanese flash memory maker Kioxia Holdings Corp. surged, a reflection of runaway global demand for AI-related chips.",
-          "category": "ai",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iorBEieRu0vg/v0/1200x-1.jpg"
-        },
         {
           "id": "260a71164c59daafcefae831dba3573edb20fc741b6980c0a1b65fbc194bf875",
           "title": "Ask HN: Yahoo deleted all my emails. Now what?",
@@ -259,6 +248,17 @@
           "source_id": "hackernews_newstories",
           "published_at": "2026-06-24T04:33:25Z",
           "summary": "<p>Article URL: <a href=\"https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf\">https://static.barik.net/barik/publications/chi2026/vaithilingam_celestial_chi26.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48655158\">https://news.ycombinator.com/item?id=48655158</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+          "category": "ai",
+          "image": null
+        },
+        {
+          "id": "84aa95ec09cd428f085370048586c2fe139a2dc97a1ac3eefe39f60b06409a7c",
+          "title": "New AI tools in darktable 5.6",
+          "url": "https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/",
+          "source": "Hacker News - New Stories",
+          "source_id": "hackernews_newstories",
+          "published_at": "2026-06-24T04:32:20Z",
+          "summary": "<p>Article URL: <a href=\"https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/\">https://www.darktable.org/2026/06/meet-darktable-5.6-ai-tools/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48655147\">https://news.ycombinator.com/item?id=48655147</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
           "category": "ai",
           "image": null
         }
@@ -470,37 +470,37 @@
       "count": 60,
       "top": [
         {
-          "id": "7a0989c00cf7815ddb95c3122fd5967953802e2aa8fec1c7bf86bfb8022c2d18",
-          "title": "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival",
-          "url": "https://asia.nikkei.com/business/materials/nippon-steel-shares-slump-as-debt-outweighs-fruits-of-u.s.-steel-revival",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
-          "summary": null,
+          "id": "db043ac87c073f6113127acbb8ba9a657215a2b2d2c4a9fccd257f0c41b8b333",
+          "title": "Diksha Polymers share price hits 5% upper circuit after decent listing on BSE SME",
+          "url": "https://www.livemint.com/market/stock-market-news/diksha-polymers-share-price-hits-5-upper-circuit-after-decent-listing-on-bse-sme-11782276327900.html",
+          "source": "LiveMint \u2014 Markets",
+          "source_id": "livemint_markets",
+          "published_at": "2026-06-24T04:52:11Z",
+          "summary": "Diksha Polymers shares were listed at  \u20b9114.50 apiece on the BSE SME, a premium of 2.23% to the issue price of  \u20b9112.00 per share. The SME stock touched a high of  \u20b9120.20 apiece, rising 5% from listing price and 7.32% from its issue price.",
+          "category": "stocks",
+          "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/g69a97b0a64ab44e2a_1782276487826_1782276487993_093361e8-67cd-4ce2-b955-b9fb84c7cdbb.jpg"
+        },
+        {
+          "id": "088727083b53125fd654e115c89d55d589b89a3daea4366d77461e33f6f3874b",
+          "title": "Amplify Energy (AMPY) officer adds 25,000 shares in open-market purchase",
+          "url": "https://www.stocktitan.net/sec-filings/AMPY/form-4-amplify-energy-corp-insider-trading-activity-cd2a49f8222b.html",
+          "source": "Alpha Vantage - NEWS_SENTIMENT",
+          "source_id": "alphavantage_news_sentiment",
+          "published_at": "2026-06-24T04:40:11Z",
+          "summary": "Amplify Energy Corp. officer James Frew purchased 25,000 shares of company common stock in an open-market transaction at $3.95 per share. Following this acquisition, Frew directly owns 216,859 shares of Amplify Energy common stock. This insider purchase is viewed with a positive sentiment, indicating confidence from the officer.",
           "category": "stocks",
           "image": null
         },
         {
-          "id": "b0e6847a01bf60c3c58c990c3545e456d7acb9615f083da8770e3311dbffb85b",
-          "title": "South Korean and Japanese stocks lose momentum as tech stocks slump",
-          "url": "https://asia.nikkei.com/business/markets/south-korean-and-japanese-stocks-lose-momentum-as-tech-stocks-slump",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
-          "summary": null,
+          "id": "4e729cf2f3ccb2832819af187f7dd2d9000ff3708ebf707a62a5ac67076e76ed",
+          "title": "22nd Century Group (XXII) seeks reverse split and up to $30M in new equity",
+          "url": "https://www.stocktitan.net/sec-filings/XXII/def-14a-22nd-century-group-inc-definitive-proxy-statement-07d8a5782476.html",
+          "source": "Alpha Vantage - NEWS_SENTIMENT",
+          "source_id": "alphavantage_news_sentiment",
+          "published_at": "2026-06-24T04:40:02Z",
+          "summary": "22nd Century Group (XXII) is requesting stockholder approval for a reverse stock split at a ratio between 1-for-2 and 1-for-200 to maintain Nasdaq listing compliance. The company also seeks approval for 3,019,586 Inducement Warrants and two potential future financings: up to $20 million in convertible preferred stock with warrants and up to $10 million in common stock with warrants. These actions could significantly dilute existing shareholders but are presented as critical for accessing capital and supporting continued Nasdaq listing.",
           "category": "stocks",
           "image": null
-        },
-        {
-          "id": "4397cd21f34197abaf26cf80ffdac4f7c7f85572fa79273090793ab84edc61b6",
-          "title": "Leveraged ETFs Sold $6 Billion of Korean Chips in Tuesday Rout",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-24/leveraged-etfs-sell-6-billion-of-korean-chip-stocks-bi-says",
-          "source": "Bloomberg \u2014 Markets",
-          "source_id": "bloomberg_markets",
-          "published_at": "2026-06-24T05:00:56Z",
-          "summary": "Leveraged exchange-traded funds tracking Samsung Electronics Co. or SK Hynix Inc. were likely forced to sell a combined $6 billion of the Korean chipmakers\u2019 shares Tuesday to maintain leverage ratios, underscoring how such products can amplify market moves, according to Bloomberg Intelligence.",
-          "category": "stocks",
-          "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip4sDTJuY0kw/v1/1200x-1.jpg"
         }
       ]
     },
@@ -510,35 +510,35 @@
       "count": 60,
       "top": [
         {
-          "id": "562d226b16288f452b3a37ca7c8af4493a88df0daf5de18fd301a129a5a00815",
-          "title": "Private bank LGT sees AI and inflation as Japan tailwinds",
-          "url": "https://asia.nikkei.com/editor-s-picks/interview/private-bank-lgt-sees-ai-and-inflation-as-japan-tailwinds",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
+          "id": "9ed0a686f3c7428a4f164c6790d5957631295db35037fb3c51462420ef47071a",
+          "title": "Trump tests Rust Belt pitch in Pennsylvania amid Iran, inflation pressures",
+          "url": "https://www.investing.com/news/stock-market-news/trump-to-pay-visit-to-closely-divided-pennsylvania-in-return-to-campaigning-4754911",
+          "source": "Investing.com - News",
+          "source_id": "investing_news",
+          "published_at": "2026-06-24T04:24:30Z",
           "summary": null,
+          "category": "economy",
+          "image": "https://i-invdn-com.investing.com/trkd-images/LYNXMPEM5M0LW_L.jpg"
+        },
+        {
+          "id": "de23d5a04d8c3efff475324568b16188c0a1cf31530a8ea14b680db19945cf23",
+          "title": "Webster Financial clear analyst picture, shares trade steady on NYSE",
+          "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/webster-financial-clear-analyst-picture-shares-trade-steady-on-nyse/69613756",
+          "source": "Alpha Vantage - NEWS_SENTIMENT",
+          "source_id": "alphavantage_news_sentiment",
+          "published_at": "2026-06-24T04:10:30Z",
+          "summary": "Webster Financial (WBS) shares are trading steadily on the NYSE as analysts evaluate the bank's earnings and deposit franchise amid assumptions of higher interest rates. The stock closed around $76 on June 22, with analysts expecting stable mid-single-digit earnings growth. The bank recently beat EPS estimates, demonstrating its ability to manage net interest income and credit costs effectively.",
           "category": "economy",
           "image": null
         },
         {
-          "id": "a2b016c399a747a6801751b3b9281adc09ab32f96ba047ae2f93293451822dd0",
-          "title": "Indonesia's social media ban sends chill through 'kidfluencers' economy",
-          "url": "https://asia.nikkei.com/spotlight/asean-money/indonesia-s-social-media-ban-sends-chill-through-kidfluencers-economy",
-          "source": "Nikkei Asia \u2014 Top",
-          "source_id": "nikkei_asia",
-          "published_at": null,
-          "summary": null,
-          "category": "economy",
-          "image": null
-        },
-        {
-          "id": "efa856aeac22be3646fc1c898fbdfc62b0e2d66c391ba8480b0e7e1873b9dd6a",
-          "title": "Australia headline inflation cools to 4.0% in May, but sticky core pressures remain",
-          "url": "https://seekingalpha.com/news/4606468-australia-headline-inflation-cools-to-40-in-may-but-sticky-core-pressures-remain?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-          "source": "Seeking Alpha - Market Currents",
-          "source_id": "seekingalpha_market_currents",
-          "published_at": "2026-06-24T04:54:36Z",
-          "summary": null,
+          "id": "bcfbcb5329ec71c63f8219d484acf0acd199d8bea5cff920505ebf49a586cec4",
+          "title": "Urban Outfitters (URBN) up 3.6% since last earnings report: Can it continue? | FXStreet",
+          "url": "https://twaslnews1.twaslnews.com/2613656/",
+          "source": "Alpha Vantage - NEWS_SENTIMENT",
+          "source_id": "alphavantage_news_sentiment",
+          "published_at": "2026-06-24T04:09:38Z",
+          "summary": "Urban Outfitters (URBN) has seen a 3.6% increase in its stock price since its last earnings report, outperforming the S&P 500. The company reported strong Q1 fiscal 2027 results with earnings and revenues surpassing estimates, driven by momentum across Retail, Subscription, and Wholesale segments. Looking ahead, URBN anticipates continued sales growth for Q2 and fiscal year 2027, despite potential gross margin pressures from tariffs and fuel surcharges.",
           "category": "economy",
           "image": null
         }

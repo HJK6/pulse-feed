@@ -1,52 +1,8 @@
 {
   "key": "stocks",
   "label": "Stocks",
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "articles": [
-    {
-      "id": "7a0989c00cf7815ddb95c3122fd5967953802e2aa8fec1c7bf86bfb8022c2d18",
-      "title": "Nippon Steel shares slump as debt outweighs fruits of U.S. Steel revival",
-      "url": "https://asia.nikkei.com/business/materials/nippon-steel-shares-slump-as-debt-outweighs-fruits-of-u.s.-steel-revival",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
-      "category": "stocks",
-      "image": null
-    },
-    {
-      "id": "b0e6847a01bf60c3c58c990c3545e456d7acb9615f083da8770e3311dbffb85b",
-      "title": "South Korean and Japanese stocks lose momentum as tech stocks slump",
-      "url": "https://asia.nikkei.com/business/markets/south-korean-and-japanese-stocks-lose-momentum-as-tech-stocks-slump",
-      "source": "Nikkei Asia \u2014 Top",
-      "source_id": "nikkei_asia",
-      "published_at": null,
-      "summary": null,
-      "category": "stocks",
-      "image": null
-    },
-    {
-      "id": "4397cd21f34197abaf26cf80ffdac4f7c7f85572fa79273090793ab84edc61b6",
-      "title": "Leveraged ETFs Sold $6 Billion of Korean Chips in Tuesday Rout",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/leveraged-etfs-sell-6-billion-of-korean-chip-stocks-bi-says",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T05:00:56Z",
-      "summary": "Leveraged exchange-traded funds tracking Samsung Electronics Co. or SK Hynix Inc. were likely forced to sell a combined $6 billion of the Korean chipmakers\u2019 shares Tuesday to maintain leverage ratios, underscoring how such products can amplify market moves, according to Bloomberg Intelligence.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ip4sDTJuY0kw/v1/1200x-1.jpg"
-    },
-    {
-      "id": "3d73206da0a5b9a17a186521399e93c01a1e94ddc937d4f7584b18026a29bf22",
-      "title": "Is the AI Bubble Bursting? Not Yet, Says Dan Farley",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-24/is-the-ai-bubble-bursting-not-yet-says-dan-farley-video",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T04:59:37Z",
-      "summary": "A tentative rebound in Asian equities following Tuesday\u2019s global tech-led rout failed to hold as a fresh bout of selling hit the sector. State Street Investment Management's Dan Farley discusses whether the AI rally still has room to go. (Source: Bloomberg)",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iuz_sWFjkoY0/v3/1200x-1.jpg"
-    },
     {
       "id": "db043ac87c073f6113127acbb8ba9a657215a2b2d2c4a9fccd257f0c41b8b333",
       "title": "Diksha Polymers share price hits 5% upper circuit after decent listing on BSE SME",
@@ -57,28 +13,6 @@
       "summary": "Diksha Polymers shares were listed at  \u20b9114.50 apiece on the BSE SME, a premium of 2.23% to the issue price of  \u20b9112.00 per share. The SME stock touched a high of  \u20b9120.20 apiece, rising 5% from listing price and 7.32% from its issue price.",
       "category": "stocks",
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/g69a97b0a64ab44e2a_1782276487826_1782276487993_093361e8-67cd-4ce2-b955-b9fb84c7cdbb.jpg"
-    },
-    {
-      "id": "9518d8ba2f2e07b164f267c30eaf7d523c80e51da8fda7e378de9001f42bee9b",
-      "title": "S&P indexes reshuffle: Honeywell Aerospace replaces Conagra in S&P 500",
-      "url": "https://seekingalpha.com/news/4606465-sp-indexes-reshuffle-honeywell-aerospace-replaces-conagra-in-sp-500?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
-      "source": "Seeking Alpha - Market Currents",
-      "source_id": "seekingalpha_market_currents",
-      "published_at": "2026-06-24T04:40:55Z",
-      "summary": null,
-      "category": "stocks",
-      "image": null
-    },
-    {
-      "id": "51b4c571b118ee5412ac27a9ed0015d2960120da402363c3115c6ede1048b136",
-      "title": "A fintech company said its employee burned through $80,000 in tokens making a 'brainrot shooter game'",
-      "url": "https://www.businessinsider.com/fintech-company-slash-employee-burned-through-thousands-in-tokens-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T04:40:45Z",
-      "summary": "Slash is encouraging people to play the game so it can write it off as a \"marketing expense.\"",
-      "category": "stocks",
-      "image": "https://i.insider.com/6a3b5b62ace32b985cf896bd?format=jpeg"
     },
     {
       "id": "088727083b53125fd654e115c89d55d589b89a3daea4366d77461e33f6f3874b",
@@ -147,17 +81,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/pexels-photo-6801647_1759976624214_1759976636647_1782275224215_8371f937-4601-48c1-b77c-85b187e900ac.jpeg"
     },
     {
-      "id": "80b99b0f1e61cde39b75f25006e1623b2915a0281ea6d33dd3a9710fa33337a1",
-      "title": "Tan France says he writes emails so his kids can see who they were growing up",
-      "url": "https://www.businessinsider.com/tan-france-writes-emails-to-kids-childhood-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T04:30:27Z",
-      "summary": "Tan France says he got the idea from Kim Kardashian.",
-      "category": "stocks",
-      "image": "https://i.insider.com/6a3b44296891755ad48b84e9?format=jpeg"
-    },
-    {
       "id": "98ab2ee5fd8186e8e413fa16d88f2480503aa5ee809f78ee989d03205e91d4b9",
       "title": "Vedanta Aluminium share price gains as brokerages remain bullish; CLSA sees 18% upside",
       "url": "https://www.livemint.com/market/stock-market-news/vedanta-aluminium-share-price-gains-as-brokerages-remain-bullish-clsa-sees-18-upside-11782274350953.html",
@@ -178,17 +101,6 @@
       "summary": "Knack Packaging's IPO ranges from  \u20b9161 to  \u20b9170, open for subscription from July 1-3. The lot size is 88 shares, with a distribution among QIBs, NIIs, and retail investors. Listing on BSE and NSE anticipated on July 8.",
       "category": "stocks",
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/Knack_Packaging_IPO_1782274570695_1782274575070_7ebc1161-f927-49b9-a54d-0727044cbdeb.png"
-    },
-    {
-      "id": "8fb972cd76ea9c1d9ed75e6fe632ffd27f69b43ab19c157dcb90921569feacda",
-      "title": "I missed out on a pro basketball career by one cut. At 26, I bought an Irish pub with my mom instead.",
-      "url": "https://www.businessinsider.com/professional-basketball-career-irish-pub-working-with-mom-family-restaurant-2026-6",
-      "source": "Business Insider - All",
-      "source_id": "businessinsider_all",
-      "published_at": "2026-06-24T04:13:46Z",
-      "summary": "While Jareb Dougherty was busy chasing his basketball dreams, his mom got a bartending job at an Irish pub.",
-      "category": "stocks",
-      "image": "https://i.insider.com/6a38ff2ec7a58f814f0d4e1e?format=jpeg"
     },
     {
       "id": "653e0819a1edcab810b406a971a2f84ef4a665ab0ada584076a61e7edf5d0ebd",
@@ -244,28 +156,6 @@
       "summary": "Urban Outfitters (URBN) has seen a 3.6% increase in its stock price since its last earnings report, outperforming the S&P 500. The company reported strong Q1 fiscal 2027 results with earnings and revenues surpassing estimates, driven by momentum across Retail, Subscription, and Wholesale segments. Looking ahead, URBN anticipates continued sales growth for Q2 and fiscal year 2027, despite potential gross margin pressures from tariffs and fuel surcharges.",
       "category": "stocks",
       "image": null
-    },
-    {
-      "id": "9ac3025aeba406408d784d56a0acb6fb886df2cc89bc8dd7b88d3b6e557faa21",
-      "title": "China Unfazed by World\u2019s Ire on Trade as Premier Touts Openness",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/china-unfazed-by-world-s-ire-on-trade-as-premier-touts-openness",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T04:07:13Z",
-      "summary": "Beijing\u2019s No. 2 official played down worries about the disruption wrought by his country\u2019s surging exports on the global economy, championing the benefits provided to the world by China\u2019s development.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iO8WfiN_BrIY/v3/1200x-1.jpg"
-    },
-    {
-      "id": "831eae1ce7933b48ad403475982c6d9b7507e60b9226bd242e35c85818b6238b",
-      "title": "Indian Tech\u2019s Nifty Share Shrinks to Record Low on AI Worries",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/indian-tech-s-nifty-share-shrinks-to-record-low-on-ai-worries",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T04:04:09Z",
-      "summary": "India\u2019s software exporters are steadily losing their sway on the country\u2019s stock market as concerns over artificial intelligence-led disruption trigger a prolonged selloff in the sector.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iyoYBSlx4fwM/v3/1200x-1.png"
     },
     {
       "id": "21e649ab515b84079446145bf88ab76f156727a111d20c0a78b4159b36b18c7b",
@@ -444,17 +334,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/6a1d510065b9e1780306176_1782270722824_1782270727911_29a7825a-b037-49e0-9c39-60ece31271b5.jpg"
     },
     {
-      "id": "3cf1df34f84c20c91e53f7b308decff1689576be14b22e535ea75cdaf6c5cf6e",
-      "title": "Chinese Zinc Traders Eye Export Window to Clear Domestic Glut",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/chinese-zinc-traders-eye-export-window-to-clear-domestic-glut",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T03:12:21Z",
-      "summary": "Chinese zinc producers are eagerly waiting for exports to become more profitable to help clear a glut of the metal at home.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/it8b8AmqwSTE/v3/1200x-1.png"
-    },
-    {
       "id": "d050dd9a60467ef2dabe961cb862cc32c5c3cb94667ea8075ec065c624111348",
       "title": "Tutor Perini (NYSE: TPC) EVP exercises 26,203 RSUs and withholds 14,057 shares for taxes",
       "url": "https://www.stocktitan.net/sec-filings/TPC/form-4-tutor-perini-corp-insider-trading-activity-5f09dbae5b2a.html",
@@ -484,39 +363,6 @@
       "source_id": "alphavantage_news_sentiment",
       "published_at": "2026-06-24T03:02:15Z",
       "summary": "Bank of New York Mellon (NYSE:BNY) has officially eliminated its Series H Noncumulative Perpetual Preferred Stock from its Restated Certificate of Incorporation. This action follows the successful redemption of all outstanding shares of the Series H Preferred Stock on Saturday. The company's common stock and other preferred securities remain listed on the New York Stock Exchange.",
-      "category": "stocks",
-      "image": null
-    },
-    {
-      "id": "f0d30efdecdbeefc985f0a7730214dad10c05b601ff5d94b5cefd2bc99c18799",
-      "title": "KB Home (KBH) Q2 2026 Earnings Call Transcript",
-      "url": "https://seekingalpha.com/article/4917169-kb-home-kbh-q2-2026-earnings-call-transcript?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-24T03:02:09Z",
-      "summary": null,
-      "category": "stocks",
-      "image": null
-    },
-    {
-      "id": "6eae6fe859c1adc8f3d7f1664fb247e16a7a71d3e8a8486145e1da3c1c20a473",
-      "title": "KB Home (KBH) Q2 2026 Earnings Call Transcript",
-      "url": "https://seekingalpha.com/article/4917169-kb-home-kbh-q2-2026-earnings-call-transcript?source=feed_sector_transcripts",
-      "source": "Seeking Alpha - Transcripts",
-      "source_id": "seekingalpha_transcripts",
-      "published_at": "2026-06-24T03:02:09Z",
-      "summary": null,
-      "category": "stocks",
-      "image": null
-    },
-    {
-      "id": "e4a21d9ff142cda6faf0640d6b9f161594baaf5a39f1d47c4af2ff6de4c19a68",
-      "title": "KB Home 2026 Q2 - Results - Earnings Call Presentation",
-      "url": "https://seekingalpha.com/article/4917185-kb-home-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
-      "source": "Seeking Alpha - Latest Articles",
-      "source_id": "seekingalpha_all",
-      "published_at": "2026-06-24T03:00:55Z",
-      "summary": null,
       "category": "stocks",
       "image": null
     },
@@ -563,17 +409,6 @@
       "summary": "This article analyzes the significant valuation gap between Bio-Rad Laboratories (BIO) and Charles River Laboratories (CRL), two life sciences tools companies. While BIO trades at nearly twice the forward earnings multiple of CRL, the author argues that CRL appears to be the better investment due to its positive earnings trajectory and ongoing restructuring efforts, in contrast to BIO's headwinds and less impressive underlying earnings quality. The article concludes that given the 2x valuation discrepancy, Charles River is likely the mispriced and more favorable bet.",
       "category": "stocks",
       "image": null
-    },
-    {
-      "id": "1326500fa4d9c450658a80507fd87d5332d57a46bef5311fc3da40c2d245ab91",
-      "title": "India Lets NRIs Leverage Deposits to Draw Dollars",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-24/rbi-lets-nris-leverage-deposits-to-draw-dollars",
-      "source": "Bloomberg \u2014 Markets",
-      "source_id": "bloomberg_markets",
-      "published_at": "2026-06-24T02:46:11Z",
-      "summary": "RBI swap covers only principal, not interest.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.YvOVILSELs/v12/1200x-1.jpg"
     },
     {
       "id": "0d87c5a79a0199bae14ed55ec2cf2abaae0d0de0230f2c90667d15895ae67127",
@@ -642,17 +477,6 @@
       "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/2-0-85820715-Mumbai-Stock-4Cnew--0_1681743391999_1782265699447_4f273f58-f199-4958-a5fa-4bb72e73e553.jpg"
     },
     {
-      "id": "297f0e71dd09de0877ef51267d19e8663081acb5d8d1a23ba4d6ce7ae61cf81d",
-      "title": "Malaysia Central Bank Pledges Stronger Measures to Boost Inflows",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/myr-usd-malaysia-central-bank-pledges-stronger-measures-to-boost-inflows",
-      "source": "Bloomberg - Economics",
-      "source_id": "bloomberg_economics",
-      "published_at": "2026-06-24T01:50:35Z",
-      "summary": "Malaysia will intensify measures to encourage foreign-exchange inflows, including efforts to boost the repatriation and conversion of companies\u2019 overseas earnings, the central bank said.",
-      "category": "stocks",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irnlqNq.hZeY/v0/1200x-1.jpg"
-    },
-    {
       "id": "9cb25e6cacc18964bebb1f6e3e325eecd6237f20221e949a53648660650fae63",
       "title": "Riskified director Shachar Erez sells $870,811 in shares By Investing.com",
       "url": "https://m.au.investing.com/news/stock-market-news/riskified-director-shachar-erez-sells-870811-in-shares-93CH-4501110?ampMode=1",
@@ -660,6 +484,182 @@
       "source_id": "alphavantage_news_sentiment",
       "published_at": "2026-06-24T01:41:08Z",
       "summary": "Shachar Erez, a director at Riskified (NASDAQ:RSKD), recently sold Class A Ordinary Shares worth $870,811 through Qumra Capital entities. These sales, conducted on June 18 and June 22, 2026, were part of a Rule 10b5-1 trading plan and involved 176,804 shares at prices between $4.85 and $5.00. The transactions occurred while the stock was near its 52-week low, and follow other company news including a new share repurchase authorization and mixed Q1 2026 earnings.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "7e33244cf347e4c0257cd838614669f488320f1521a43e28c9ff945e1f35968c",
+      "title": "QURE Stock Soars As FDA Backs Accelerated Huntington\u2019s Therapy Path",
+      "url": "https://www.timothysykes.com/news/uniqure-nv-qure-news-2026_06_23/",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:39:47Z",
+      "summary": "uniQure N.V. (QURE) stock has seen a significant surge after the FDA indicated that three-year Phase I/II data for its AMT-130 gene therapy could support an accelerated approval pathway for Huntington\u2019s disease. This regulatory clarity has led to a re-rating of the stock, with major banks raising price targets and upgrading their recommendations. Despite high financial risk metrics typical of biotech, QURE's balance sheet provides runway, making it a high-momentum regulatory play for traders.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "8e23972b4c4b125847dbbb783a8baf6fd3115685b07b2d911a8aa79ad292b5b3",
+      "title": "June 29, 2026 Deadline: Join Class Action Lawsuit Against POET Technologies Inc. (POET) - Contact Levi & Korsinsky",
+      "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/june-29-2026-deadline-join-class-action-lawsuit-against-poet-tec-1180912",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:39:42Z",
+      "summary": "Levi & Korsinsky, LLP has filed a securities class action lawsuit against POET Technologies Inc. (NASDAQ:POET) on behalf of investors who suffered losses between April 1, 2026, and April 27, 2026. The lawsuit alleges that POET Technologies made false statements concerning its tax status as a potential passive foreign investment company and a violation of a non-disclosure agreement by a defendant. Investors are encouraged to contact Levi & Korsinsky by the June 29, 2026 deadline to explore potential recovery.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "d34490b203807fd6a700bbde558e1fbda781cb89b337d0294c0b7393ab97f06f",
+      "title": "Form 4 Liveramp Holdings Inc For: 23 June By Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/form-4-liveramp-holdings-inc-for-23-june-93CH-4704161",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:39:35Z",
+      "summary": "This article is a brief financial update indicating the filing of a Form 4 for Liveramp Holdings Inc on June 23. It includes a trading symbol for Liveramp Holdings (RAMP) and briefly highlights its stock performance (-0.03%). The content is very short and serves primarily as a notification.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "7873c1f86de1f4070605bf94ecd5b4a99d17d9d0296dcc23653bb3ba12b9b3dc",
+      "title": "From Gift Nifty, Nasdaq selloff, US dollar to oil prices: 10 key things that changed for Indian stock market overnight",
+      "url": "https://www.livemint.com/market/stock-market-news/from-gift-nifty-nasdaq-selloff-us-dollar-to-oil-prices-10-key-things-that-changed-for-indian-stock-market-overnight-11782263263946.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-24T01:38:22Z",
+      "summary": "Gift Nifty was trading around 23,874 level, a premium of nearly 21 points from the Nifty futures\u2019 previous close, indicating a muted start for the Indian stock market indices.",
+      "category": "stocks",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/JAPAN-YEN-CARRY-0_1723959173866_1782264912084_75f80e69-e99b-4f34-92ee-f2efe71d94f3.JPG"
+    },
+    {
+      "id": "72f6e3018d2526805645337233e78fef187f590ea1e60e6844670d3697ceacd8",
+      "title": "Crescent Biopharma CFO Scalzo sells $20,004 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/crescent-biopharma-cfo-scalzo-sells-20004-in-shares-93CH-4757212",
+      "source": "Investing.com - News",
+      "source_id": "investing_news",
+      "published_at": "2026-06-24T01:36:09Z",
+      "summary": null,
+      "category": "stocks",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "e9916fa9aad4e409e4a62fbc9a09685ce672ba3a85ebf60d1b2e2a686d88dfaa",
+      "title": "Crescent Biopharma general counsel sells $21,911 in shares",
+      "url": "https://www.investing.com/news/insider-trading-news/crescent-biopharma-general-counsel-sells-21911-in-shares-93CH-4757211",
+      "source": "Investing.com - News",
+      "source_id": "investing_news",
+      "published_at": "2026-06-24T01:36:02Z",
+      "summary": null,
+      "category": "stocks",
+      "image": "https://i-invdn-com.investing.com/news/world_news_2_108x81.jpg"
+    },
+    {
+      "id": "312bec456e2ecff26f70a39419e69a2c7d3436af3ab413fa1dba3e7dddd6a4db",
+      "title": "Asian stocks today: Kospi rebounds 3% after crash, Nikkei falls amid global tech stocks sell-off",
+      "url": "https://www.livemint.com/market/stock-market-news/asian-stocks-today-kospi-rebounds-3-after-crash-nikkei-falls-amid-global-tech-stocks-selloff-11782263606965.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-24T01:35:22Z",
+      "summary": "Asian stocks today: The MSCI Asia Pacific Index rose 0.8% after tumbling 3.6% on Tuesday, marking its steepest decline since early March.",
+      "category": "stocks",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/kospi_1782264680634_1782264680800_01da1102-9496-4f27-879b-f8888aba3c10.jpg"
+    },
+    {
+      "id": "f8b21849a4dbe68e323110094667629c58a70978e948c0d3c700ac5038e011a5",
+      "title": "Samsung shares rebound on report of massive buyback plan",
+      "url": "https://www.investing.com/news/stock-market-news/samsung-shares-rebound-on-report-of-massive-buyback-plan-4757209",
+      "source": "Investing.com - News",
+      "source_id": "investing_news",
+      "published_at": "2026-06-24T01:34:43Z",
+      "summary": null,
+      "category": "stocks",
+      "image": "https://i-invdn-com.investing.com/news/LYNXNPEC0R0DJ_M.jpg"
+    },
+    {
+      "id": "7b1775c8cd00f58f91899b075d0de65a685d740463ceff9f5cb57f02337d5a6d",
+      "title": "Stock recommendations for 24 June from MarketSmith India",
+      "url": "https://www.livemint.com/market/stock-recommendations-for-24-june-from-marketsmith-india-11782263513898.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-24T01:30:14Z",
+      "summary": "MarketSmith India reveals its top stock recommendations for today, 24 June. Get expert insights into the best-performing stocks to guide your investment decisions.",
+      "category": "stocks",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/MS_1755086064930_1755086071214_1782263688343_d97dd153-6ff3-4d0c-8949-986261e12c9c.png"
+    },
+    {
+      "id": "d0263ff99e756b31e755c60a16c2dfb1ccd177a266ff362f0ec76706885518de",
+      "title": "Japan Post Holdings sells $3.25m Aflac (NYSE:AFL) stock By Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/japan-post-holdings-sells-325m-aflac-nyseafl-stock-93CH-4704511",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:24:58Z",
+      "summary": "Japan Post Holdings, a 10% owner of Aflac Inc., sold approximately $3.25 million worth of Aflac common stock on June 22, 2026. The sales involved two separate transactions at weighted average prices of $116.57 and $117.46 per share, respectively. Following these sales, Japan Post Holdings indirectly retains beneficial ownership of over 50 million Aflac shares.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "5b246062b1781c589509dad190223dfe4233f2f4ba18f1047f8958bb2027cd1d",
+      "title": "uniQure prices $225M public offering at $45.50 per share By Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/uniqure-prices-225m-public-offering-at-4550-per-share-93CH-4704508",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:24:47Z",
+      "summary": "uniQure N.V. (NASDAQ:QURE) announced it priced an underwritten public offering of 4,945,055 ordinary shares at $45.50 per share, aiming to generate approximately $225 million in gross proceeds. The gene therapy company also granted underwriters a 30-day option to purchase additional shares and expects the offering to close around June 25, 2026. Despite a 245% stock surge and a market cap of $3.09 billion, InvestingPro analysis suggests the company is overvalued and remains unprofitable with an EPS of -$3.49.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "313c586425954e7ca7c81b8e0035865b68004ac9611a054090c766d568ea48f1",
+      "title": "The Summerwood at Harmony from PulteGroup Inc. - flexible floorplan with home office and covered lan",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/the-summerwood-at-harmony-from-pultegroup-inc-flexible-floorplan-with/69614843",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:22:34Z",
+      "summary": "PulteGroup Inc. is offering \"The Summerwood at Harmony,\" a single-story home model in St. Cloud, Florida, targeting growing families, downsizers, and buyers seeking flexible living spaces. This model, part of PulteGroup's Sunbelt master-planned communities strategy, features an open-concept layout, a flex room that can serve as a home office or third bedroom, and a covered lanai. Priced in the low-to-mid $400,000s, it aims to balance compact living with modern amenities within the Harmony community.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "a4b50d9edac658a4e8289bbabd08a9d24f832a2dc5b893e70d83f1260c9e141a",
+      "title": "uniQure locks in $225M from a new share sale",
+      "url": "https://www.stocktitan.net/news/QURE/uni-qure-announces-pricing-of-upsized-225-million-public-8p5hbldmy9i0.html",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:16:47Z",
+      "summary": "uniQure (Nasdaq: QURE) has announced the pricing of an upsized underwritten public offering of 4,945,055 ordinary shares at $45.50 per share, aiming to raise approximately $225 million in gross proceeds. The offering grants underwriters a 30-day option to purchase up to an additional 741,758 shares, with closing expected around June 25, 2026. This move, while providing capital, may lead to dilution for existing shareholders.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "1a14928d64d884e67968c1b24b9d3e0dbcc95edee0fbc043fc48ab0a33681847",
+      "title": "Shareholders support PRA Group (NASDAQ: PRAA) equity plan, pay and auditor",
+      "url": "https://www.stocktitan.net/sec-filings/PRAA/8-k-pra-group-inc-reports-material-event-f070f44a0ad7.html",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:09:39Z",
+      "summary": "PRA Group, Inc. (NASDAQ: PRAA) shareholders approved several key proposals at their 2026 Annual Meeting. They voted to increase the share limit of the 2022 Omnibus Incentive Plan by 3,500,000 shares, elected all nominated directors, ratified Ernst & Young LLP as the independent auditor for 2026, and approved executive compensation in an advisory vote. These results indicate strong stockholder confidence in the company's governance and compensation strategies.",
+      "category": "stocks",
+      "image": null
+    },
+    {
+      "id": "056db72d10c9dae8a0d5532f646be9d211cf1dc2463c2c102c449f55854751bb",
+      "title": "Breakout stocks to buy or sell: Sumeet Bagadia recommends five shares to buy today - 24 June 2026",
+      "url": "https://www.livemint.com/market/stock-market-news/breakout-stocks-to-buy-or-sell-sumeet-bagadia-recommends-five-shares-to-buy-today-24-june-2026-11782262066869.html",
+      "source": "LiveMint \u2014 Markets",
+      "source_id": "livemint_markets",
+      "published_at": "2026-06-24T01:07:51Z",
+      "summary": "The Indian stock market ended Tuesday's session on a lower note. Sumeet Bagadia of Choice Broking recommends five breakout stocks to buy today.",
+      "category": "stocks",
+      "image": "https://www.livemint.com/lm-img/img/2026/06/24/1600x900/logo/Buy_or_sell_stocks_Sumeet_Bagadia_1681456126399_1782262993887_59d4a131-24c2-496b-9a44-096814160c88.jpg"
+    },
+    {
+      "id": "7832ab7fcc3ced93976b686372ebad35f712c4df39988316becdab8a57803880",
+      "title": "Form 8K Vaxcyte Inc For: 23 June By Investing.com",
+      "url": "https://ca.investing.com/news/stock-market-news/form-8k-vaxcyteinc-for-23-june-93CH-4703968",
+      "source": "Alpha Vantage - NEWS_SENTIMENT",
+      "source_id": "alphavantage_news_sentiment",
+      "published_at": "2026-06-24T01:04:00Z",
+      "summary": "This article announces that Vaxcyte Inc. filed a Form 8K on June 23. The filing is brief and primarily focuses on the company's regulatory disclosure without providing specific details about the content of the 8K itself. The stock symbol PCVX is mentioned with a slight decrease in price.",
       "category": "stocks",
       "image": null
     }

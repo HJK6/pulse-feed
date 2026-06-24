@@ -1,7 +1,7 @@
 {
   "key": "world_affairs",
   "label": "World Affairs",
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "articles": [
     {
       "id": "cb6b586c3c33cfdae91e854ba0bfae9881ac2992ff06e17f584504c39a81cf2b",
@@ -44,17 +44,6 @@
       "source_id": "aljazeera_en_all",
       "published_at": "2026-06-24T04:01:42Z",
       "summary": "China\u2019s LineShine overtakes US-based El Capitan as most powerful supercomputer, according to the TOP500 list.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "a6860d147a612c313bf85537f4c4d825313c4073a3ab734a35fbb26df3b205a5",
-      "title": "Struggling European carmakers have options, none of them good",
-      "url": "https://www.ft.com/content/d6af558d-c6ff-4f1e-a92d-91b46084f405",
-      "source": "Financial Times \u2014 World (open feed)",
-      "source_id": "ft_world",
-      "published_at": "2026-06-24T04:00:29Z",
-      "summary": "Forging alliances with China would help the struggling sector offload some of its bloated costs. It may be the pick of a bad bunch",
       "category": "world_affairs",
       "image": null
     },
@@ -143,17 +132,6 @@
       "source_id": "aljazeera_en_all",
       "published_at": "2026-06-24T01:29:51Z",
       "summary": "US Senate votes to pause Iran war in rare rebuke to Trump",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "de6485e46181e968a469b7af97bbe511d2b6c020440b0cabbc65916d3b127797",
-      "title": "Is this teenage girl North Korea\u2019s next dictator?",
-      "url": "https://www.ft.com/content/7c1a4a27-2212-46e1-96d8-92dabe4a087c",
-      "source": "Financial Times \u2014 World (open feed)",
-      "source_id": "ft_world",
-      "published_at": "2026-06-24T00:45:46Z",
-      "summary": "Emergence of Kim Jong Un\u2019s daughter at many public events fuels speculation that she is being lined up as a leader",
       "category": "world_affairs",
       "image": null
     },
@@ -275,17 +253,6 @@
       "source_id": "aljazeera_en_all",
       "published_at": "2026-06-23T21:38:23Z",
       "summary": "Israel deliberately targeted Palestinian children in Gaza, resulting in genocide.",
-      "category": "world_affairs",
-      "image": null
-    },
-    {
-      "id": "4a74b97876ec93e8ab03240bfe6f54e34e078492701f976a9f846dba5f9edc8a",
-      "title": "FirstFT: Alibaba sues US defence department over inclusion on Chinese military blacklist",
-      "url": "https://www.ft.com/content/f1f74404-2663-486b-a0bb-1351d67d8c17",
-      "source": "Financial Times \u2014 World (open feed)",
-      "source_id": "ft_world",
-      "published_at": "2026-06-23T21:24:44Z",
-      "summary": "Also in today\u2019s newsletter, Takaichi shuns Japan\u2019s business elites, and China\u2019s biggest IPO in four years",
       "category": "world_affairs",
       "image": null
     },
@@ -662,6 +629,39 @@
       "summary": "The U.S. government has slapped additional sanctions on Cuban companies that are expected to spook foreign investors and deepen a severe economic crisis",
       "category": "world_affairs",
       "image": "https://s.abcnews.com/images/US/wirestory_831adf749af121c0d2627b0501980ee8_4x3_384.jpg"
+    },
+    {
+      "id": "0aff40ff82c2c93c7734b9de5e5f61c3286596307f11c962926367405591b5ee",
+      "title": "Lebanon-Israel talks overshadowed by new US-Iran diplomatic track",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track",
+      "source": "Middle East Eye \u2014 All",
+      "source_id": "middleeasteye_all",
+      "published_at": "2026-06-23T17:08:48Z",
+      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\" rel=\"bookmark\">\n<span class=\"field field-title\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p>Lebanon&nbsp;and&nbsp;Israel&nbsp;began a fifth round of direct negotiations in Washington on Tuesday, with Beirut seeking to revive proposals for an Israeli withdrawal from southern Lebanon even as a new&nbsp;US-Iran&nbsp;diplomatic channel threatens to overshadow the talks.</p>\n\n<p>The three-day negotiations come after four previous rounds failed to produce a lasting ceasefire or bridge the wide gap between the two sides.</p>\n\n<p>Lebanon is expected to press for a timetable for an Israeli withdrawal, the return of hundreds of thousands of displaced people, the release of Lebanese prisoners and the beginning of reconstruction.</p>\n\n<p>Israel, meanwhile, has tied any withdrawal to the disarmament of Hezbollah and has insisted that its forces retain control of a large amount of land inside southern Lebanon until it is satisfied that the Lebanese army would prevent Hezbollah from rebuilding its military presence.</p>\n\n<p>But the negotiations are taking place in a markedly different diplomatic environment from the previous round earlier this month.</p>\n\n<h3>Read more:&nbsp;<a href=\"https://www.middleeasteye.net/news/lebanon-israel-talks-overshadowed-new-us-iran-diplomatic-track\">Lebanon-Israel talks overshadowed by new US-Iran diplomatic track</a></h3>\n\n<figure class=\"image\"><img alt=\"Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)\" src=\"https://www.middleeasteye.net/sites/default/files/styles/max_2600x2600/public/images-story/hezbollah-funeral-lebanon-23-june-2026-afp.jpg.jpg?itok=498um05f\" />\n<figcaption>Mourners carry the casket of a slain Hezbollah fighter during his funeral in Nabatieh in southern Lebanon on 23 June 2026 (Abbas Fakih/AFP)</figcaption>\n</figure>\n</div>\n      \n  </div>\n\n</article>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "71ee6a536392f43db4b0d5ec5f29873d1d132c84d7d21f11dcb97e8d943d709f",
+      "title": "Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says",
+      "source": "Middle East Eye \u2014 All",
+      "source_id": "middleeasteye_all",
+      "published_at": "2026-06-23T17:04:57Z",
+      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/israel-lebanon-ceasefire-talks-train-wreck-israeli-ambassador-us-says\" rel=\"bookmark\">\n<span class=\"field field-title\">Israel-Lebanon ceasefire talks a \u2018train wreck\u2019, Israeli ambassador to US says </span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Israel's ambassador to the US, Yechiel Leiter, described the fifth round of US-mediated ceasefire negotiations with Lebanon as a \u201ctrain wreck\u201d in a statement on Tuesday.</p>\n\n<p>\u201cI fear that the concept of \u2018deconfliction\u2019 is misplaced. The only issue is Hezbollah. Hezbollah must be defeated and removed from the equation,\u201d Leiter stated, adding that, instead, the Lebanese armed group \u201cfeels stronger and bolder\u201d.</p>\n\n<p>The ambassador also questioned whether unfrozen funds made available to Iran could be used to support Hezbollah.</p>\n\n<p>This comes after Hezbollah chief Naim Qassem on Tuesday called for a full, scheduled withdrawal of Israeli troops from Lebanon to allow for the Lebanese army to secure the area in the south of the country.</p>\n\n  <figure class=\"media-block\">\n  <div class=\"group-inner\">\n    <div alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" class=\"embedded-entity\">  <img alt=\"US Yechiel Leiter speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington, DC, on June 3, 2026. Oliver Contreras / AFP\" height=\"1080\" src=\"https://www.middleeasteye.net/sites/default/files/000_B4XF4DP.jpg\" width=\"1920\" />\n\n</div>\n\n    <figcaption>Israel's ambassador to the US, Yechiel Leiter, speaks during a meeting between Israeli and Lebanese delegations hosted by the United States at the State Department in Washington DC, on 3 June 2026 (Oliver Contreras/AFP)</figcaption>\n  </div>\n</figure>\n\n\n<p><span><img height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n\n<p><span><img alt=\"alt\" height=\"15\" src=\"data:image/gif;base64,R0lGODlhAQABAPABAP///wAAACH5BAEKAAAALAAAAAABAAEAAAICRAEAOw==\" title=\"Click and drag to move\" width=\"15\" /></span></p>\n</div>\n      \n  </div>\n\n</article>",
+      "category": "world_affairs",
+      "image": null
+    },
+    {
+      "id": "31ca8421ed0a4660582e9ac186186d60880f964a332dd5e420dc6f0f07f4d88e",
+      "title": "Sharif warns of \u2018spoilers\u2019 attempting to sabotage US-Iran deal",
+      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal",
+      "source": "Middle East Eye \u2014 All",
+      "source_id": "middleeasteye_all",
+      "published_at": "2026-06-23T16:55:36Z",
+      "summary": "<article class=\"live-blog-update default clearfix\">\n\n  \n      <h2>\n      <a href=\"https://www.middleeasteye.net/live-blog/live-blog-update/sharif-warns-spoilers-attempting-sabotage-us-iran-deal\" rel=\"bookmark\">\n<span class=\"field field-title\">Sharif warns of \u2018spoilers\u2019 attempting to sabotage US-Iran deal</span>\n</a>\n    </h2>\n    \n\n        \n    <div class=\"content\">\n                <div class=\"field field-field-text\"><p style=\"line-height: 1.38;\">Pakistani Prime Minister Shehbaz Sharif warned that some actors are trying to derail the process towards achieving a ceasefire deal between the US and Iran.</p>\n\n<p>\u201cThere are spoilers all over the world who want to scuttle this peace deal,\u201d Sharif said, without mentioning any specific countries or parties involved.</p>\n\n<p>\u201cThey don\u2019t want the Iranian nation, a great nation, to come out of the ashes of war and touch the zenith of glory,\u201d he added.</p>\n</div>\n      \n  </div>\n\n</article>",
+      "category": "world_affairs",
+      "image": null
     }
   ]
 }

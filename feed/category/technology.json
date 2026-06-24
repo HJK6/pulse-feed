@@ -1,7 +1,7 @@
 {
   "key": "technology",
   "label": "Technology",
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "articles": [
     {
       "id": "a237fc02bb234f1324602ffbe3488c4a2cfc940b43916bf110ab7703451dc36d",
@@ -90,17 +90,6 @@
       "summary": "<p>Article URL: <a href=\"https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets\">https://www.noahpinion.blog/p/pizza-wheels-are-bad-japanese-toilets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48655353\">https://news.ycombinator.com/item?id=48655353</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "category": "technology",
       "image": null
-    },
-    {
-      "id": "6e3e0bb8c7fc0851337a9d122683237c91c47d90774b2fa81ed249dfe178f1f7",
-      "title": "Kioxia\u2019s Executive Pay Jumps After AI Boosts Demand and Stock",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/kioxia-s-executive-pay-jumps-after-ai-boosts-demand-and-stock",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:49:24Z",
-      "summary": "Executive pay at Japanese flash memory maker Kioxia Holdings Corp. surged, a reflection of runaway global demand for AI-related chips.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iorBEieRu0vg/v0/1200x-1.jpg"
     },
     {
       "id": "2fa83c9ec635483935f2adbcd942fc0c3ed711bdae9556efd06893589d7929e5",
@@ -224,39 +213,6 @@
       "image": null
     },
     {
-      "id": "c406c9ab5b33a61b42f8c8a98e29bcc03df30c2efa2d27b9abf1ea7ae400cd8a",
-      "title": "Tencent Tests DeepSeek-Powered AI Agent for WeChat Corporate App",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/tencent-tests-deepseek-powered-ai-agent-for-wechat-corporate-app",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:29:06Z",
-      "summary": "Tencent Holdings Ltd. is preparing to launch an AI agent for its Slack-like enterprise communication app, intensifying a high-stakes battle among Chinese tech giants to lock users into their ecosystems in the post-ChatGPT era.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5sBTjrX3qlA/v0/1200x-1.jpg"
-    },
-    {
-      "id": "73407ac98b901b8be0b1ba2ae8b4bc22c5a1d72c49ddf70c1597f0ac85a83e93",
-      "title": "ByteDance Seeks $20 Billion in Its Largest-Ever Offshore Loan",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bytedance-seeks-20-billion-in-its-largest-ever-offshore-loan",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:27:44Z",
-      "summary": "ByteDance Ltd., the developer of TikTok, is in preliminary talks with banks for a borrowing of about $20 billion, people familiar with the matter said, in what would be the firm\u2019s largest offshore loan yet at a time when it\u2019s boosting investments in artificial intelligence.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUpeB6_Z4SAI/v0/1200x-1.jpg"
-    },
-    {
-      "id": "c4dcdbb60191a6d53afdb2e0213c61e60108d8a62abbdd28315c372fd850be15",
-      "title": "BlackRock-Backed AIP, KKR Said to Court Stack Asia Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/blackrock-backed-aip-said-to-be-interested-in-stack-data-centers",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:27:35Z",
-      "summary": "The Artificial Intelligence Infrastructure Partnership and Brookfield Asset Management Ltd. are among possible bidders for Stack Infrastructure Inc.\u2019s data centers in the Asia-Pacific region, according to people familiar with the matter.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFxP40WgA2KY/v0/1200x-1.jpg"
-    },
-    {
       "id": "0cfd92c49933e602ad97677cf2fe6e170e011bdb74bcaec6628253ad13d0c524",
       "title": "Age of Agents",
       "url": "https://github.com/agentsmill/age-of-agents",
@@ -312,17 +268,6 @@
       "image": null
     },
     {
-      "id": "50b6c5dcc758f4d879da6610bcdf9e010054d4208c43d26da4d1c2d2ad413d1e",
-      "title": "Bain Capital's Zhu on Investing in China",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-24/bain-capital-s-zhu-on-investing-in-china-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:12:35Z",
-      "summary": "Jonathan Zhu, Greater China Chairman at Bain Capital, discusses his outlook and strategies for investing in the Chinese market.\nHe speaks with Stephen Engle on the sidelines of the World Economic Forum in Dalian on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy3pc8jRtad4/v3/1200x-1.jpg"
-    },
-    {
       "id": "64faced0f779e3d30a3b77ebfeb94679ee5d8f651f69b5602b012a895133f541",
       "title": "The Untold Story of an Acid Medium",
       "url": "https://mitpress.mit.edu/9780262048507/blotter/",
@@ -332,17 +277,6 @@
       "summary": null,
       "category": "technology",
       "image": null
-    },
-    {
-      "id": "c0f910710d1e0efdc5ccb4d431003281111c17aeafc2a170ce70818f31bce00d",
-      "title": "Philippines Bans GoreBox After Three Killed in School Shooting",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/philippines-bans-gorebox-as-police-finds-school-shooter-played-online-game",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:08:30Z",
-      "summary": "The Philippine cybercrime agency has temporarily banned online game GoreBox after initial police investigations showed that one of the two students allegedly involved in this week\u2019s school shooting was an avid player.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ipadiPXATlO8/v0/1200x-1.jpg"
     },
     {
       "id": "8ba4da2a89353131dea5278190af12142e725efa185d5e91eda0f0edc9b51330",
@@ -385,17 +319,6 @@
       "source_id": "hackernews_newstories",
       "published_at": "2026-06-24T04:04:05Z",
       "summary": null,
-      "category": "technology",
-      "image": null
-    },
-    {
-      "id": "eaa91baaa88f5f09bedff6f649f7d835d8e9db3e9e4c2f7118cd2cb3160f80cd",
-      "title": "Coming soon: Rewiring sport",
-      "url": "https://www.ft.com/content/8a6298f7-9998-4d23-99aa-5e7631671cb2",
-      "source": "Financial Times - Technology",
-      "source_id": "ft_technology",
-      "published_at": "2026-06-24T04:00:00Z",
-      "summary": "Is technology fundamentally changing the nature of sport?",
       "category": "technology",
       "image": null
     },
@@ -475,28 +398,6 @@
       "summary": null,
       "category": "technology",
       "image": null
-    },
-    {
-      "id": "a1c6e7de0cfa8c61e490a0a019392d1dd565741aa2756d293aa8a09403b0b77b",
-      "title": "Zhipu Said to Weigh Multibillion-Dollar Share Sale in Hong Kong After 2,000% Gain",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T03:43:08Z",
-      "summary": "Chinese artificial-intelligence model maker Zhipu is considering a share sale to raise several billion US dollars in Hong Kong, people familiar with the matter said, after soaring 2,000% since its listing in January.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwhQALSADgHc/v2/1200x-1.png"
-    },
-    {
-      "id": "568bcdf0df2a2994fb07e56d303160f01c387dd9d8730750076a820b3e73b4d4",
-      "title": "Philippine Tycoon Boosts PhilWeb Investment in Online Gaming Push",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/philippine-tycoon-boosts-philweb-investment-in-online-gaming-push",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T03:42:20Z",
-      "summary": "Philippine billionaire Lance Gokongwei is taking a 15% stake in online gaming technology firm PhilWeb Corp., boosting the company\u2019s foray into artificial intelligence and the tycoon\u2019s exposure to the gaming industry.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLZkHGyb49iA/v0/1200x-1.jpg"
     },
     {
       "id": "c4dda2e2129d3f350bd5a31efadd3206529952bec2a252fbe02648c863512115",
@@ -598,17 +499,6 @@
       "image": null
     },
     {
-      "id": "bfe6488b04606cc19a91c1c1faf6f570ec956d17272ab95809581946582e4a57",
-      "title": "SoftBank\u2019s Masayoshi Son Scraps Plan to Retire in His Sixties",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/softbank-s-masayoshi-son-scraps-plan-to-retire-in-his-sixties",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T03:05:15Z",
-      "summary": "SoftBank Group Corp.\u2019s Masayoshi Son said he plans to hold onto the top spot at the technology group he founded for another decade or more, shredding his long-held plan to hand over the reins in his sixties.",
-      "category": "technology",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA4W_t4.JQwo/v1/1200x-1.jpg"
-    },
-    {
       "id": "a146308433ccf43da531498223eeff5e916dca841aa1e8fb28fa3114578efe9a",
       "title": "Today's NYT Mini Crossword Answers for Wednesday, June 24",
       "url": "https://www.cnet.com/tech/gaming/todays-nyt-mini-crossword-answers-for-wednesday-june-24/",
@@ -660,6 +550,116 @@
       "source_id": "hackernews_newstories",
       "published_at": "2026-06-24T02:56:03Z",
       "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "7a6ce3b0f34ab9d722a4970599febbad67df25443d5034ccafac2621a65b6d0e",
+      "title": "2026: The year of the node based editor",
+      "url": "https://medium.com/@fadimantium/2026-the-year-of-the-node-based-editor-941f0f15d467",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T02:42:09Z",
+      "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "652718eaa0cbf2998d3253109b6a739b142ca383af4b11b47d86c6c0a43a2bee",
+      "title": "\"Fix\" MacBook Neo Cursor Lag: Record 1 Pixel of the Screen Every 10 Seconds",
+      "url": "https://gist.github.com/retroplasma/ec21767d0a8380c7ea9c2fbee1c7d6bf",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T02:38:47Z",
+      "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "cb69039fce9a9606d1888df9950b1bf1de910e8195ded61fdc4e89dd502981f0",
+      "title": "InSight: Self-Guided Skill Acquisition via Steerable VLAs",
+      "url": "https://insight-vla.github.io/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T02:37:20Z",
+      "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "4ebdfff441dfce4211817abaf3430a703423ce8c033eb74180d7bca1fd11c3aa",
+      "title": "Kevin Warsh's Press Conference Collides into 30 Years of Michael Woodford",
+      "url": "https://newsletter.mikekonczal.com/p/kevin-warshs-press-conference-collides",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T02:31:49Z",
+      "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "88cba2df063e3af7dfbd2a6b5c72b0bf904216d4067ef0500dfe515a07f08b6b",
+      "title": "The Teensy Executable Revisited",
+      "url": "https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-24T02:30:13Z",
+      "summary": "<p>Article URL: <a href=\"https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html\">https://www.muppetlabs.com/~breadbox/software/tiny/revisit.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654411\">https://news.ycombinator.com/item?id=48654411</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "1fb6f02a0b607ed0518275fd910ca6b0493a4ec9ebfd55de80db9cd33eb6ea92",
+      "title": "How Quake Ruined Id Software",
+      "url": "https://twitter.com/SandyofCthulhu/status/2069592209645785294",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-24T02:30:09Z",
+      "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "37c42e9a4e39424779ce8decafebbc5c92d71d100bca769cf08e576166582812",
+      "title": "Bash Line Editor: a command line editor written in pure Bash",
+      "url": "https://github.com/akinomyoga/ble.sh",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T02:27:34Z",
+      "summary": null,
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "3540c97022eba340e0d026e3bb8f55245ea88a74b45e81c236714d47d902a238",
+      "title": "The war on terror primed America for autocracy",
+      "url": "https://www.economist.com/by-invitation/2026/06/02/how-the-war-on-terror-primed-america-for-autocracy",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-24T02:23:39Z",
+      "summary": "<a href=\"https:&#x2F;&#x2F;archive.is&#x2F;CBCZM\" rel=\"nofollow\">https:&#x2F;&#x2F;archive.is&#x2F;CBCZM</a>",
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "fb8b9da0f69a5001a083f9462228a5f0a51f6c58c89bf6adbe9020a01327d57e",
+      "title": "Show HN: Procman, a TUI for run Procfile based app locally",
+      "url": "https://github.com/a-chacon/procman",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-24T02:22:58Z",
+      "summary": "Hello, I wanted to share this small cli tool I made for run Procfile apps (Rails apps in my case). This is an alternative to Foreman or overmind but in TUI version. Take a look, any feedback is welcome. Thanks.",
+      "category": "technology",
+      "image": null
+    },
+    {
+      "id": "2398d83e6c53fea82e7960ee4e4709fb781bb75663f0bbb8591b67763d752f89",
+      "title": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://arxiv.org/abs/2606.24597",
+      "source": "Hacker News - Top Stories",
+      "source_id": "hackernews_topstories",
+      "published_at": "2026-06-24T02:21:47Z",
+      "summary": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.24597\">https://arxiv.org/abs/2606.24597</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48654351\">https://news.ycombinator.com/item?id=48654351</a></p>\n<p>Points: 23</p>\n<p># Comments: 3</p>",
       "category": "technology",
       "image": null
     }

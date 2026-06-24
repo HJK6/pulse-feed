@@ -1,19 +1,8 @@
 {
   "key": "ai",
   "label": "AI",
-  "generated_at": "2026-06-24T05:14:32Z",
+  "generated_at": "2026-06-24T07:03:32Z",
   "articles": [
-    {
-      "id": "6e3e0bb8c7fc0851337a9d122683237c91c47d90774b2fa81ed249dfe178f1f7",
-      "title": "Kioxia\u2019s Executive Pay Jumps After AI Boosts Demand and Stock",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/kioxia-s-executive-pay-jumps-after-ai-boosts-demand-and-stock",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:49:24Z",
-      "summary": "Executive pay at Japanese flash memory maker Kioxia Holdings Corp. surged, a reflection of runaway global demand for AI-related chips.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iorBEieRu0vg/v0/1200x-1.jpg"
-    },
     {
       "id": "260a71164c59daafcefae831dba3573edb20fc741b6980c0a1b65fbc194bf875",
       "title": "Ask HN: Yahoo deleted all my emails. Now what?",
@@ -59,39 +48,6 @@
       "image": null
     },
     {
-      "id": "c406c9ab5b33a61b42f8c8a98e29bcc03df30c2efa2d27b9abf1ea7ae400cd8a",
-      "title": "Tencent Tests DeepSeek-Powered AI Agent for WeChat Corporate App",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/tencent-tests-deepseek-powered-ai-agent-for-wechat-corporate-app",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:29:06Z",
-      "summary": "Tencent Holdings Ltd. is preparing to launch an AI agent for its Slack-like enterprise communication app, intensifying a high-stakes battle among Chinese tech giants to lock users into their ecosystems in the post-ChatGPT era.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i5sBTjrX3qlA/v0/1200x-1.jpg"
-    },
-    {
-      "id": "73407ac98b901b8be0b1ba2ae8b4bc22c5a1d72c49ddf70c1597f0ac85a83e93",
-      "title": "ByteDance Seeks $20 Billion in Its Largest-Ever Offshore Loan",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/bytedance-seeks-20-billion-in-its-largest-ever-offshore-loan",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:27:44Z",
-      "summary": "ByteDance Ltd., the developer of TikTok, is in preliminary talks with banks for a borrowing of about $20 billion, people familiar with the matter said, in what would be the firm\u2019s largest offshore loan yet at a time when it\u2019s boosting investments in artificial intelligence.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUpeB6_Z4SAI/v0/1200x-1.jpg"
-    },
-    {
-      "id": "c4dcdbb60191a6d53afdb2e0213c61e60108d8a62abbdd28315c372fd850be15",
-      "title": "BlackRock-Backed AIP, KKR Said to Court Stack Asia Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/blackrock-backed-aip-said-to-be-interested-in-stack-data-centers",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:27:35Z",
-      "summary": "The Artificial Intelligence Infrastructure Partnership and Brookfield Asset Management Ltd. are among possible bidders for Stack Infrastructure Inc.\u2019s data centers in the Asia-Pacific region, according to people familiar with the matter.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iFxP40WgA2KY/v0/1200x-1.jpg"
-    },
-    {
       "id": "433f6a96bcd598a0e08e7cd2a583177f352a44d2abf36ddaf839386b1f472cd1",
       "title": "The Filings, magnetic field lines you can stir like black sand",
       "url": "https://sand-morph.up.railway.app/the-filings",
@@ -123,17 +79,6 @@
       "summary": "When AI generates code, I first instruct the model to find, fix, and verify any issues. After that, I start the server and test whether it actually works from the user\u2019s perspective.<p>What I\u2019m looking for is a workflow where issues are received, fixed, tested, and deployed\u2014but it seems that current AI agents aren\u2019t very good at performing browser tests from the user\u2019s perspective.<p>I\u2019ve tried using the built-in browsers in Codex and Cursor, but they often only checked whether the page loaded. In the end, I had to instruct them step by step on what to do, and it turned out to be cheaper and faster for me to test it myself.<p>So I\u2019m curious to know how you\u2019ve set up test automation. Are there any services that do this (for individuals, not just enterprises)? If you\u2019re using a harness like Codex, I\u2019d like to know what instructions and skills are needed to get it to perform tests from the user\u2019s perspective.",
       "category": "ai",
       "image": null
-    },
-    {
-      "id": "50b6c5dcc758f4d879da6610bcdf9e010054d4208c43d26da4d1c2d2ad413d1e",
-      "title": "Bain Capital's Zhu on Investing in China",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-24/bain-capital-s-zhu-on-investing-in-china-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T04:12:35Z",
-      "summary": "Jonathan Zhu, Greater China Chairman at Bain Capital, discusses his outlook and strategies for investing in the Chinese market.\nHe speaks with Stephen Engle on the sidelines of the World Economic Forum in Dalian on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iy3pc8jRtad4/v3/1200x-1.jpg"
     },
     {
       "id": "25764ed5c03fca05bb51b90bb73fdb3c4f5a2695a89fe62e66865e2dcd5f6738",
@@ -180,28 +125,6 @@
       "image": null
     },
     {
-      "id": "a1c6e7de0cfa8c61e490a0a019392d1dd565741aa2756d293aa8a09403b0b77b",
-      "title": "Zhipu Said to Weigh Multibillion-Dollar Share Sale in Hong Kong After 2,000% Gain",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/zhipu-considers-multibillion-dollar-share-sale-in-hong-kong-after-2-000-gain",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T03:43:08Z",
-      "summary": "Chinese artificial-intelligence model maker Zhipu is considering a share sale to raise several billion US dollars in Hong Kong, people familiar with the matter said, after soaring 2,000% since its listing in January.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iwhQALSADgHc/v2/1200x-1.png"
-    },
-    {
-      "id": "568bcdf0df2a2994fb07e56d303160f01c387dd9d8730750076a820b3e73b4d4",
-      "title": "Philippine Tycoon Boosts PhilWeb Investment in Online Gaming Push",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/philippine-tycoon-boosts-philweb-investment-in-online-gaming-push",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T03:42:20Z",
-      "summary": "Philippine billionaire Lance Gokongwei is taking a 15% stake in online gaming technology firm PhilWeb Corp., boosting the company\u2019s foray into artificial intelligence and the tycoon\u2019s exposure to the gaming industry.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iLZkHGyb49iA/v0/1200x-1.jpg"
-    },
-    {
       "id": "5c99d40163bce1ec6996346cdae72c36956bfcadc7c8d5b7bad671a567f1d386",
       "title": "Chinese supercomputer using local processors heads TOP500 list",
       "url": "https://www.theregister.com/hpc/2026/06/24/chinese-supercomputer-using-local-processors-heads-top500-list/5260532",
@@ -244,17 +167,6 @@
       "summary": null,
       "category": "ai",
       "image": null
-    },
-    {
-      "id": "bfe6488b04606cc19a91c1c1faf6f570ec956d17272ab95809581946582e4a57",
-      "title": "SoftBank\u2019s Masayoshi Son Scraps Plan to Retire in His Sixties",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-24/softbank-s-masayoshi-son-scraps-plan-to-retire-in-his-sixties",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T03:05:15Z",
-      "summary": "SoftBank Group Corp.\u2019s Masayoshi Son said he plans to hold onto the top spot at the technology group he founded for another decade or more, shredding his long-held plan to hand over the reins in his sixties.",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iA4W_t4.JQwo/v1/1200x-1.jpg"
     },
     {
       "id": "fb8b9da0f69a5001a083f9462228a5f0a51f6c58c89bf6adbe9020a01327d57e",
@@ -389,17 +301,6 @@
       "image": null
     },
     {
-      "id": "0dec2e7328de74e67ad74cc82785cb2828ad53325463e9a57686cfa3baa2cfc2",
-      "title": "JD.com's Shen on China Economic outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-24/jd-com-s-shen-on-china-economic-outlook-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T00:49:40Z",
-      "summary": "Shen Jianguang, VP and Chief Economist at JD.Com, shares his outlook on China\u2019s economy as the nation accelerates into an AI\u2011driven era marked by surging demand.\nHe speaks with Bloomberg's Minmin Low on the sidelines of the World Economic Forum in Dalian, China on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ik.bTREtjzFQ/v3/1200x-1.jpg"
-    },
-    {
       "id": "eddbf63f9e19503a1e0051e6a0d7919aefc21271c9f4d34c7f1a84e6b52eac88",
       "title": "Show HN: Daily ETF holdings for 2,200+ ETFs as one API",
       "url": "https://developer.stockfit.io/blog/daily-etf-holdings",
@@ -420,17 +321,6 @@
       "summary": null,
       "category": "ai",
       "image": null
-    },
-    {
-      "id": "e942d361b278e298832ca651a3bc4ede9fb7d08891435ba16fecdd2ba6a400c1",
-      "title": "WEF Co-chair on Global Economic Outlook",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-24/wef-co-chair-on-global-economic-outlook-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-24T00:41:49Z",
-      "summary": "Andr\u00e9 Hoffmann, Co-Chair of the World Economic Forum, discusses his outlook for global growth and China's economy amid ongoing conflict in the Middle East and market volatility.\nHe speaks with Bloomberg's Stephen Engle on the sidelines of the World Economic Forum in Dalian, China on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/isfZ3l_1zYI8/v3/1200x-1.jpg"
     },
     {
       "id": "42ec8407e608b0b0abe38401190eebdcf2e181505b113678313a0ea84f244cd2",
@@ -495,17 +385,6 @@
       "source_id": "hackernews_newstories",
       "published_at": "2026-06-24T00:15:35Z",
       "summary": null,
-      "category": "ai",
-      "image": null
-    },
-    {
-      "id": "26bbcfc230d01d8a0e351517a0e6f049f90a0e694d9fb159744a046e4dfc2019",
-      "title": "Nvidia\u2019s banned AI chips double in price on China\u2019s black market",
-      "url": "https://www.ft.com/content/57fcd3ce-464f-4dc2-8ea2-5712d4972c69",
-      "source": "Financial Times - Technology",
-      "source_id": "ft_technology",
-      "published_at": "2026-06-24T00:15:04Z",
-      "summary": "US crackdown on illicit exports has made it riskier, harder and more expensive to buy tech giant\u2019s processors",
       "category": "ai",
       "image": null
     },
@@ -642,17 +521,6 @@
       "image": null
     },
     {
-      "id": "64904c385ed22aacaebcabf711a10e5ea43c4f2b484a2f8efffb43c79e7f4bb0",
-      "title": "Stocks Slide as Wall Street Gets AI Wake-up Call | The Close 06/23/2026",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-23/the-close-06-23-2026-video",
-      "source": "Bloomberg \u2014 Technology",
-      "source_id": "bloomberg_tech",
-      "published_at": "2026-06-23T23:46:34Z",
-      "summary": "Bloomberg Television brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are ProShares Head of Research & CIO, Active Investments Alessio de Longis, Citi Senior Equity Research Analyst Ariel Rosa, JP Morgan Asset Management Global Head of Real Estate Chad Tredway, Permanent Portfolio President & Portfolio Manager Michael Cuggino, Third Bridge Global Head of Sector Analysts Peter McNally, D.A. Davidson Technology Research Head Gil Luria, UBS Senior US Homebuilding Equity Research Analyst John Lovallo, NYC Tourism + Conventions President & CEO Julie Coker, & E11EVEN Miami Operating Partner Gino LoPinto. (Source: Bloomberg)",
-      "category": "ai",
-      "image": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/inzwTXYZx_aY/v3/1200x-1.jpg"
-    },
-    {
       "id": "64d0de6d9a0296730c9f3bca0eb1b8ef0870a7c2c58ad65e056468fa73aa47fc",
       "title": "FAA awards software and AI contract as part of air traffic control modernization",
       "url": "https://www.nextgov.com/acquisition/2026/06/faa-awards-software-and-ai-contract-part-air-traffic-control-modernization/414354/",
@@ -660,6 +528,138 @@
       "source_id": "hackernews_newstories",
       "published_at": "2026-06-23T23:38:46Z",
       "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "8af6ce64f7b6ba8982cf2034bec4c191367fbb02602be0cb1f01bf9ddb788ce2",
+      "title": "FDA drops enforcement against Whoop after it tweaks blood pressure feature",
+      "url": "https://www.statnews.com/2026/06/23/fda-drops-enforcement-against-wearable-maker-whoop/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:36:09Z",
+      "summary": "The FDA told wearable maker Whoop last week that it would not take further enforcement action over the company's blood pressure feature.",
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "741984b7fc487b604f2022dd58362ab1f66727a09f4e5e79c47ff20670af2ad9",
+      "title": "AI systems out-persuade expert humans",
+      "url": "https://arxiv.org/abs/2606.16475",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:36:05Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "7cb72518484861407d6c13f0de7835b59136fc31cc3a4e3685b88a85195c03ce",
+      "title": "ClaudeMeter \u2013 macOS menu bar app to track Claude usage and limits",
+      "url": "https://github.com/yotake/claude-meter",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:28:59Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "43d40b8a5e0ec06a65260f6127a85ce30fbbaefd86ecf0379452aeb30e6de0ce",
+      "title": "AI stock slump raises the question are investors taking profits or very nervous",
+      "url": "https://apnews.com/article/tech-stocks-ai-investments-8a0ff4c95d5cae6f65c6e2ba03047058",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:27:44Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "9edf0930b8ed53ae6086794001ac82eb790c1ab484de07f7fed677106fe5adbb",
+      "title": "Building a Western gallium supply chain beyond China's reach",
+      "url": "https://wpintelligence.washingtonpost.com/topics/energy-climate/2026/06/17/gallium-gamble-building-western-supply-chain-beyond-chinas-reach/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:21:58Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "fb1db1c6690da3269fe90256f8ba5fc1f6df9c8aa128c2c0b53cc19a8ea88c52",
+      "title": "Advanced Nintendo Entertainment System (ANES) \u2013 NES Modded to Use 2 PPUs",
+      "url": "https://github.com/decrazyo/anes",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:21:35Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "8b4dbfd1de1b819de86fea438d44848ae7a993512659cc94e356011b4111b336",
+      "title": "LLM-CTF benchmark \u2013 2,639 real data points from NeurIPS and original runs",
+      "url": "https://www.kaggle.com/datasets/manitejamaram/can-ai-hack-llm-ctf-benchmark",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:04:57Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "1a6682ceac7302a7b5dcb2a8d2f60fc805e251ef53aff1a5eb3fa8b06eac45d9",
+      "title": "Why Companies Are Dumping OpenAI and Anthropic [video]",
+      "url": "https://www.youtube.com/watch?v=V46Fw9LPNXI",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:04:57Z",
+      "summary": null,
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "8423103e2edf008d264f0ff3876b52443a8a94dc855071cf4b2f1e9c14253a3c",
+      "title": "Show HN: Budget Control in Claude Code Harness with Codex Handoff",
+      "url": "https://blog.rduffy.uk/posts/the-speedometer-i-made-up/",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:03:44Z",
+      "summary": "<p>Article URL: <a href=\"https://blog.rduffy.uk/posts/the-speedometer-i-made-up/\">https://blog.rduffy.uk/posts/the-speedometer-i-made-up/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652767\">https://news.ycombinator.com/item?id=48652767</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "45818979111fff171c7c8c7c91e7309168c59704a43a82b35e6fb39c92109aa8",
+      "title": "Experience: I feel other people's pain (2011)",
+      "url": "https://www.theguardian.com/lifeandstyle/2011/mar/19/i-feel-other-peoples-pain",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T23:00:15Z",
+      "summary": "<p>Article URL: <a href=\"https://www.theguardian.com/lifeandstyle/2011/mar/19/i-feel-other-peoples-pain\">https://www.theguardian.com/lifeandstyle/2011/mar/19/i-feel-other-peoples-pain</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652730\">https://news.ycombinator.com/item?id=48652730</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "c1a4ad5f7f9a0389a348ff3d0e4d01486570b612a21381f22374ac7c560264e5",
+      "title": "CryptoLogin: Show HN \u2013 No email, no password. Just a master secret",
+      "url": "https://github.com/erabytse/CryptoLogin",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T22:54:09Z",
+      "summary": "<p>Article URL: <a href=\"https://github.com/erabytse/CryptoLogin\">https://github.com/erabytse/CryptoLogin</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652660\">https://news.ycombinator.com/item?id=48652660</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
+      "category": "ai",
+      "image": null
+    },
+    {
+      "id": "37844384923aac84c541afe6b799b451d5c9d8d63b4c9117e249259a4bcea4d8",
+      "title": "The Galactic Empire Was Always Gonna Fail",
+      "url": "https://jimmyalfonsolicon.substack.com/p/the-galactic-empire-was-always-gonna",
+      "source": "Hacker News - New Stories",
+      "source_id": "hackernews_newstories",
+      "published_at": "2026-06-23T22:49:39Z",
+      "summary": "<p>Article URL: <a href=\"https://jimmyalfonsolicon.substack.com/p/the-galactic-empire-was-always-gonna\">https://jimmyalfonsolicon.substack.com/p/the-galactic-empire-was-always-gonna</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=48652605\">https://news.ycombinator.com/item?id=48652605</a></p>\n<p>Points: 1</p>\n<p># Comments: 0</p>",
       "category": "ai",
       "image": null
     }
