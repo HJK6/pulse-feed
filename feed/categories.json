@@ -4,84 +4,84 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 60,
-      "updated_at": "2026-06-24T04:44:43Z"
+      "count": 17,
+      "updated_at": "2026-06-24T05:08:18Z"
     },
     {
       "key": "space",
       "label": "Space",
       "description": "Spaceflight, astronomy, satellites, and orbital debris.",
-      "count": 60,
-      "updated_at": "2026-06-23T21:00:00Z"
+      "count": 20,
+      "updated_at": "2026-06-23T21:10:00Z"
     },
     {
       "key": "crypto",
       "label": "Crypto",
       "description": "Digital assets, blockchains, markets, and regulation.",
-      "count": 60,
+      "count": 18,
       "updated_at": "2026-08-06T00:00:00Z"
     },
     {
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 60,
-      "updated_at": "2026-07-01T00:00:00Z"
+      "count": 18,
+      "updated_at": "2026-07-06T00:00:00Z"
     },
     {
       "key": "nba",
       "label": "NBA",
       "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
-      "count": 26,
+      "count": 19,
       "updated_at": "2026-06-24T04:28:47Z"
     },
     {
       "key": "climate",
       "label": "Climate",
       "description": "Climate change, emissions, energy transition, and extreme weather.",
-      "count": 29,
+      "count": 8,
       "updated_at": "2026-06-23T00:00:00Z"
     },
     {
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 60,
+      "count": 18,
       "updated_at": "2026-06-24T04:52:11Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
-      "count": 60,
+      "count": 16,
       "updated_at": "2026-06-24T04:24:30Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 60,
+      "count": 15,
       "updated_at": "2026-06-24T04:16:00Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 60,
+      "count": 13,
       "updated_at": "2026-06-24T05:02:20Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 60,
+      "count": 14,
       "updated_at": "2026-06-24T05:08:24Z"
     },
     {
       "key": "science",
       "label": "Science",
       "description": "Science research, discoveries, and institutions.",
-      "count": 60,
+      "count": 20,
       "updated_at": "2026-08-06T00:00:00Z"
     }
   ]
