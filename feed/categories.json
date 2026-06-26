@@ -4,8 +4,8 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 15,
-      "updated_at": "2026-06-26T05:07:17Z"
+      "count": 14,
+      "updated_at": "2026-06-26T08:06:28Z"
     },
     {
       "key": "space",
@@ -18,14 +18,14 @@
       "key": "crypto",
       "label": "Crypto",
       "description": "Digital assets, blockchains, markets, and regulation.",
-      "count": 12,
+      "count": 11,
       "updated_at": "2026-08-06T00:00:00Z"
     },
     {
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 14,
+      "count": 16,
       "updated_at": "2026-07-06T00:00:00Z"
     },
     {
@@ -46,42 +46,42 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 13,
-      "updated_at": "2026-06-26T04:43:00Z"
+      "count": 10,
+      "updated_at": "2026-06-26T08:06:48Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
       "count": 16,
-      "updated_at": "2026-06-26T02:00:09Z"
+      "updated_at": "2026-06-26T07:03:06Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 18,
-      "updated_at": "2026-06-26T04:58:21Z"
+      "count": 19,
+      "updated_at": "2026-06-26T08:13:08Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 12,
-      "updated_at": "2026-06-26T04:47:18Z"
+      "count": 13,
+      "updated_at": "2026-06-26T06:21:33Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 16,
-      "updated_at": "2026-06-26T05:07:58Z"
+      "count": 14,
+      "updated_at": "2026-06-26T08:06:28Z"
     },
     {
       "key": "science",
       "label": "Science",
       "description": "Science research, discoveries, and institutions.",
-      "count": 18,
+      "count": 16,
       "updated_at": "2026-08-06T00:00:00Z"
     }
   ]
