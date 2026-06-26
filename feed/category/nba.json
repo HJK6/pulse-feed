@@ -1,8 +1,19 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-06-26T19:58:37Z",
+  "generated_at": "2026-06-26T23:27:12Z",
   "articles": [
+    {
+      "id": "e172d9e6e4968231ada7dce3ed00d2e0a77079094eba13a35f7630e803a0f7a9",
+      "title": "Sources: Alvarado back to Knicks with new deal",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-06-26T23:24:10Z",
+      "summary": "Jose Alvarado is declining his $4.5 million player option and intends to sign a new three-year, $14-plus million deal to return to the Knicks, sources told ESPN's Shams Charania.",
+      "content": "<p>Jose Alvarado is declining his $4.5 million player option and intends to sign a new three-year, $14-plus million deal to return to the New York Knicks, sources told ESPN's Shams Charania.</p> <p>The guard was acquired from New Orleans during the season and had a player option for $4.5 million for next season.</p> <p>\"I'm Home,\" Alvarado wrote on X, ending his post with a series of orange and blue hearts.</p> <blockquote><p>I'm Home \ud83e\udde1\ud83d\udc99\ud83e\udde1\ud83d\udc99\ud83e\udde1</p>\u2014 Jose Alvarado (@AlvaradoJose15) June 26, 2026</blockquote> <p>Alvarado indeed came home on Feb. 5 when the Knicks acquired the Brooklyn native who attended Christ the King High School.</p> <p>He was primarily a backup behind Jalen Brunson but was on the floor with the All-Star for most of the fourth quarter of the Knicks' 107-106 victory over San Antonio in Game 4 of the NBA Finals, when they made a record comeback from a 29-point deficit. Alvarado had eight points and three assists in the period.</p> <p>The Associated Press contributed to this report.</p>",
+      "category": "nba",
+      "image": null
+    },
     {
       "id": "549aff3be8a3156821ed2749e81f24a8f769919f3d3293b9537608777f777571",
       "title": "Summer league features Wiz-Jazz, Heat-Bucks",
