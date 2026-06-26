@@ -4,15 +4,15 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 15,
-      "updated_at": "2026-06-26T12:35:00Z"
+      "count": 18,
+      "updated_at": "2026-06-26T16:16:17Z"
     },
     {
       "key": "space",
       "label": "Space",
       "description": "Spaceflight, astronomy, satellites, and orbital debris.",
       "count": 20,
-      "updated_at": "2026-06-26T12:00:00Z"
+      "updated_at": "2026-06-26T16:15:42Z"
     },
     {
       "key": "crypto",
@@ -25,7 +25,7 @@
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 14,
+      "count": 16,
       "updated_at": "2026-07-06T00:00:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "label": "NBA",
       "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
       "count": 19,
-      "updated_at": "2026-06-26T01:21:56Z"
+      "updated_at": "2026-06-26T17:11:10Z"
     },
     {
       "key": "climate",
@@ -46,42 +46,42 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 16,
-      "updated_at": "2026-06-26T12:27:11Z"
+      "count": 9,
+      "updated_at": "2026-06-26T16:03:25Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
       "count": 18,
-      "updated_at": "2026-06-26T12:11:07Z"
+      "updated_at": "2026-06-26T15:15:18Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
       "count": 20,
-      "updated_at": "2026-06-26T12:33:51Z"
+      "updated_at": "2026-06-26T16:07:47Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 11,
-      "updated_at": "2026-06-26T08:45:00Z"
+      "count": 10,
+      "updated_at": "2026-06-26T16:00:55Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 16,
-      "updated_at": "2026-06-26T12:41:31Z"
+      "count": 17,
+      "updated_at": "2026-06-26T16:17:26Z"
     },
     {
       "key": "science",
       "label": "Science",
       "description": "Science research, discoveries, and institutions.",
-      "count": 18,
+      "count": 20,
       "updated_at": "2026-08-06T00:00:00Z"
     }
   ]
