@@ -4,28 +4,28 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 15,
-      "updated_at": "2026-06-27T13:00:00Z"
+      "count": 18,
+      "updated_at": "2026-06-27T16:15:11Z"
     },
     {
       "key": "space",
       "label": "Space",
       "description": "Spaceflight, astronomy, satellites, and orbital debris.",
       "count": 20,
-      "updated_at": "2026-06-27T13:00:00Z"
+      "updated_at": "2026-06-27T15:10:46Z"
     },
     {
       "key": "crypto",
       "label": "Crypto",
       "description": "Digital assets, blockchains, markets, and regulation.",
-      "count": 13,
+      "count": 17,
       "updated_at": "2026-08-06T00:00:00Z"
     },
     {
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 16,
+      "count": 14,
       "updated_at": "2026-07-06T00:00:00Z"
     },
     {
@@ -46,22 +46,22 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 14,
-      "updated_at": "2026-06-27T12:35:21Z"
+      "count": 13,
+      "updated_at": "2026-06-27T16:09:00Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
       "count": 18,
-      "updated_at": "2026-06-27T12:39:35Z"
+      "updated_at": "2026-06-27T15:37:10Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 15,
-      "updated_at": "2026-06-27T13:08:17Z"
+      "count": 13,
+      "updated_at": "2026-06-27T16:16:49Z"
     },
     {
       "key": "us_news",
@@ -74,8 +74,8 @@
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 16,
-      "updated_at": "2026-06-27T13:06:30Z"
+      "count": 18,
+      "updated_at": "2026-06-27T16:30:56Z"
     },
     {
       "key": "science",
