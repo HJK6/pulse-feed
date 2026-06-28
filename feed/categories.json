@@ -5,14 +5,14 @@
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
       "count": 16,
-      "updated_at": "2026-06-28T10:30:00Z"
+      "updated_at": "2026-06-28T14:21:48Z"
     },
     {
       "key": "space",
       "label": "Space",
       "description": "Spaceflight, astronomy, satellites, and orbital debris.",
       "count": 20,
-      "updated_at": "2026-06-28T10:00:00Z"
+      "updated_at": "2026-06-28T14:00:00Z"
     },
     {
       "key": "crypto",
@@ -32,8 +32,8 @@
       "key": "nba",
       "label": "NBA",
       "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
-      "count": 20,
-      "updated_at": "2026-06-27T13:27:04Z"
+      "count": 19,
+      "updated_at": "2026-06-28T14:11:08Z"
     },
     {
       "key": "climate",
@@ -46,42 +46,42 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 20,
-      "updated_at": "2026-06-28T09:37:49Z"
+      "count": 14,
+      "updated_at": "2026-06-28T13:39:29Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
       "count": 17,
-      "updated_at": "2026-06-28T06:02:07Z"
+      "updated_at": "2026-06-28T13:21:18Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 18,
-      "updated_at": "2026-06-28T10:20:17Z"
+      "count": 10,
+      "updated_at": "2026-06-28T14:04:35Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 8,
-      "updated_at": "2026-06-28T10:00:01Z"
+      "count": 9,
+      "updated_at": "2026-06-28T13:22:11Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 16,
-      "updated_at": "2026-06-28T10:30:30Z"
+      "count": 15,
+      "updated_at": "2026-06-28T14:21:48Z"
     },
     {
       "key": "science",
       "label": "Science",
       "description": "Science research, discoveries, and institutions.",
-      "count": 19,
+      "count": 20,
       "updated_at": "2026-08-06T00:00:00Z"
     }
   ]
