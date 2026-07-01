@@ -1,8 +1,19 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-07-01T02:42:52Z",
+  "generated_at": "2026-07-01T06:13:38Z",
   "articles": [
+    {
+      "id": "ecec5a93d6b077fc32d1f57a2c94a61940acbdcc25b6613cec9267e48117838d",
+      "title": "Adults arrested after 16 children found in 'deplorable' conditions",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-07-01T03:19:02Z",
+      "summary": "Authorities have arrested four adults on felony child endangerment charges after discovering 16 children in need of medical treatment in a rural Ohio home",
+      "content": "<h2>Adults arrested after 16 children found in 'deplorable' conditions</h2> <p>Authorities have arrested four adults on felony child endangerment charges after discovering 16 children in need of medical treatment in a rural Ohio home</p> <p>Authorities arrested four adults on felony child endangerment charges after discovering 16 children in dire need of medical treatment Tuesday in a rural southern Ohio home.</p> <p>The Ohio Bureau of Investigation and local sheriff's department searched a home in the small village of Hamden, where they found the kids in what officials called \u201cdeplorable\" conditions.\"</p> <p>\u201cConditions you cannot even imagine people being in, let alone children being in,\u201d Ohio Attorney General Andy Wilson said at a news conference.</p> <p>Law enforcement arrested Gary Siders Jr., Gary Siders Sr., Christina Siders and Elizabeth Siders. They have not yet been arraigned and assigned public defenders.</p> <p>Vinton County prosecuting attorney William Archer said they were being charged with second-degree felony child endangering because it involves \u201cserious physical harm.\u201d</p> <p>Officials did not confirm if the children were related but said it was not a human trafficking situation. They said the adults were not locals and appeared to have been traveling.</p> <p>Hamden has a population of less than 1,000 people and is about 60 miles (97 kilometers) southeast of Columbus.</p> <p>The children ranged from ages 1.5 to 18 and included both boys and girls, officials said. Several were in serious conditions when found, and two had to be flown to level one trauma centers because of their injuries.</p> <p>Wilson said it was the worst scene he had ever encountered in his entire career, describing what he saw as \u201cpure evil.\u201d</p> <p>Law enforcement were also executing a secondary search warrant at the home Tuesday, and the investigation is ongoing. The four adults will appear in court Wednesday morning.</p> <p>\u201cJustice will be served for these children,\u201d Wilson said.</p>",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_8d26cd1cf247c8cdcdaf664ac36bc2dd_4x3_384.jpg"
+    },
     {
       "id": "6635dd531416a10a4412bf0f8ae7e893ba5b19cb81d3f32519ed7c88f1916633",
       "title": "Book that Tupac Shakur murder suspect wrote is clear for use in trial, judge rules",
