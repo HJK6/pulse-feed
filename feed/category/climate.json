@@ -1,8 +1,19 @@
 {
   "key": "climate",
   "label": "Climate",
-  "generated_at": "2026-07-01T16:43:38Z",
+  "generated_at": "2026-07-01T20:13:51Z",
   "articles": [
+    {
+      "id": "18d29c6b1defafbcae19897de180222c2264fe7e900bbbdc63afd37df12de4cd",
+      "title": "Publisher Correction: Multi-centennial response of marine carbon pumps to global warming",
+      "source": "Nature Climate Change",
+      "source_id": "nature_climate_change",
+      "published_at": "2026-07-01T00:00:00Z",
+      "summary": "Nature Climate Change, Published online: 01 July 2026; doi:10.1038/s41558-026-02719-5 Publisher Correction: Multi-centennial response of marine carbon pumps to global warming",
+      "content": "<p>Correction to: Nature Climate Change https://doi.org/10.1038/s41558-026-02686-x, published online 25 June 2026.</p> <p>In the version of the article initially published, in the Fig. 3c key, the dashed pink line was listed as \u201cCsat,phy\u201d but should have been \u201cCsat,bio\u201d. The figure has now been corrected in the HTML and PDF versions of the article.</p> <h2>Author information</h2> <h3>Authors and Affiliations</h3> <h3>Corresponding author</h3> <h2>About this article</h2> <h3>Cite this article</h3> <p>Khatiwala, S., Strachan, O. &amp; Schmittner, A. Publisher Correction: Multi-centennial response of marine carbon pumps to global warming. Nat. Clim. Chang. (2026). https://doi.org/10.1038/s41558-026-02719-5</p> <ul> <li> <p>Published:</p> </li> <li> <p>Version of record:</p> </li> <li> <p>DOI: https://doi.org/10.1038/s41558-026-02719-5</p> </li> </ul>",
+      "category": "climate",
+      "image": null
+    },
     {
       "id": "738e44274194d361299b4a5f2af516f29934a7241981849e4618b85dc4d68f46",
       "title": "Warming dominates over circulation slowdown in reducing marine carbon storage under high-mitigation scenarios",
@@ -187,17 +198,6 @@
       "published_at": "2026-06-17T00:00:00Z",
       "summary": "Nature Climate Change, Published online: 17 June 2026; doi:10.1038/s41558-026-02693-y Author Correction: Priority science can accelerate agroforestry as a natural climate solution",
       "content": "<p>Correction to: Nature Climate Change https://doi.org/10.1038/s41558-023-01810-5, published online 28 September 2023.</p> <p>In the version of the article initially published, in Fig. 5a, values represented by the transparent boxes were overestimated owing to an incorrect conversion from carbon dioxide to carbon. In Fig. 5b, the numerical labels in the legend were incorrectly inflated owing to errors in the calculation of orders of magnitude. Figure 5 has been corrected and the original, uncorrected figure is available for comparison as Supplementary information accompanying this amendment. In addition, in the second paragraph of the section \u2018Potential and implications of agroforestry expansion\u2019, the text \u201cFurthermore, woody carbon density is significantly higher in countries that mention agroforestry in their NDCs (n = 81) than in those that do not (n = 81; Welch\u2019s t-test, P = 1.92 \u00d7 10\u22125), yet potential additional density shows no such difference (P = 0.397; nNDC = 80, nnon-NDC = 77)\u201d should have read: \u201cFurthermore, woody carbon density is significantly higher in countries that mention agroforestry in their NDCs (n = 80) than in those that do not (n = 78; Welch\u2019s t-test, P = 1.98 \u00d7 10\u22125), yet potential additional density shows no such difference (P = 0.412; nNDC = 81, nnon-NDC = 82).\u201d These errors have been corrected in the HTML and PDF versions of the article, and the sample sizes have also been corrected in the Supplementary information.</p> <h2>Author information</h2> <h3>Authors and Affiliations</h3> <h3>Corresponding author</h3> <h2>About this article</h2> <h3>Cite this article</h3> <p>Terasaki Hart, D.E., Yeo, S., Almaraz, M. et al. Author Correction: Priority science can accelerate agroforestry as a natural climate solution. Nat. Clim. Chang. (2026). https://doi.org/10.1038/s41558-026-02693-y</p> <ul> <li> <p>Published:</p> </li> <li> <p>Version of record:</p> </li> <li> <p>DOI: https://doi.org/10.1038/s41558-026-02693-y</p> </li> </ul>",
-      "category": "climate",
-      "image": null
-    },
-    {
-      "id": "c0e9424a0950f188833369ebb98b3009d4146713a210ffa8ca733565b79ef3a0",
-      "title": "Attributing carbon to capital owners",
-      "source": "Nature Climate Change",
-      "source_id": "nature_climate_change",
-      "published_at": "2026-06-17T00:00:00Z",
-      "summary": "Nature Climate Change, Published online: 17 June 2026; doi:10.1038/s41558-026-02654-5 Greenhouse gas emissions are typically attributed to where they are produced or consumed. A recent analysis traces them to capital owners, revealing a stronger concentration and offering new...",
-      "content": "<p>Greenhouse gas emissions are typically attributed to where they are produced or consumed. A recent analysis traces them to capital owners, revealing a stronger concentration and offering new perspectives on how they are distributed \u2014 and why it matters.</p> <h2>Access options</h2> <p>Access Nature and 54 other Nature Portfolio journals</p> <p>Get Nature+, our best-value online-access subscription</p> <p>$32.99 / 30 days</p> <p>cancel any time</p> <p>Subscribe to this journal</p> <p>Receive 12 print issues and online access</p> <p>$259.00 per year</p> <p>only $21.58 per issue</p> <p>Rent or buy this article</p> <p>Prices vary by article type</p> <p>from$1.95</p> <p>to$39.95</p> <p>Prices may be subject to local taxes which are calculated during checkout</p> <h2>References</h2> <ul> <li> <p>Chancel, L. Nat. Sustain. 5, 931\u2013938 (2022).</p> </li> <li> <p>Chancel, L. &amp; Rehm, Y. Nat. Clim. Change https://doi.org/10.1038/s41558-026-02662-5 (2026).</p> </li> <li> <p>Davis, S. J. &amp; Caldeira, K. Proc. Natl Acad. Sci. USA 107, 5687\u20135692 (2010).</p> </li> <li> <p>Ivanova, D. &amp; Wood, R. Glob. Sustain. 3, e18 (2020).</p> </li> <li> <p>Bruckner, B. et al. Nat. Sustain. 5, 311\u2013320 (2022).</p> </li> <li> <p>Wood, R. et al. Clim. Policy 20, S14\u2013S27 (2020).</p> </li> <li> <p>Dechezlepr\u00eatre, A. et al. Am. Econ. Rev. 115, 1258\u20131300 (2025).</p> </li> <li> <p>Palagi, E. et al. Proc. Natl Acad. Sci. USA 119, e2203595119 (2022).</p> </li> <li> <p>Burke, M. et al. Nature 651, 959\u2013966 (2026).</p> </li> <li> <p>Callahan, C. W. &amp; Mankin, J. S. Nature 640, 893\u2013901 (2025).</p> </li> </ul> <h2>Author information</h2> <h3>Authors and Affiliations</h3> <h3>Corresponding author</h3> <h2>Ethics declarations</h2> <h3>Competing interests</h3> <p>The author declares no competing interests.</p> <h2>About this article</h2> <h3>Cite this article</h3> <p>Coronese, M. Attributing carbon to capital owners. Nat. Clim. Chang. (2026). https://doi.org/10.1038/s41558-026-02654-5</p> <ul> <li> <p>Published:</p> </li> <li> <p>Version of record:</p> </li> <li> <p>DOI: https://doi.org/10.1038/s41558-026-02654-5</p> </li> </ul>",
       "category": "climate",
       "image": null
     }
