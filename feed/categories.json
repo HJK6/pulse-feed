@@ -4,8 +4,8 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 16,
-      "updated_at": "2026-06-30T23:00:00Z"
+      "count": 7,
+      "updated_at": "2026-07-01T01:31:37Z"
     },
     {
       "key": "space",
@@ -25,7 +25,7 @@
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 11,
+      "count": 15,
       "updated_at": "2026-07-06T00:00:00Z"
     },
     {
@@ -33,7 +33,7 @@
       "label": "NBA",
       "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
       "count": 17,
-      "updated_at": "2026-06-30T23:52:20Z"
+      "updated_at": "2026-07-01T03:25:15Z"
     },
     {
       "key": "climate",
@@ -46,8 +46,8 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 10,
-      "updated_at": "2026-06-30T22:16:52Z"
+      "count": 13,
+      "updated_at": "2026-07-01T01:55:31Z"
     },
     {
       "key": "economy",
@@ -60,22 +60,22 @@
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 18,
-      "updated_at": "2026-06-30T22:48:19Z"
+      "count": 17,
+      "updated_at": "2026-07-01T01:52:53Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 9,
-      "updated_at": "2026-06-30T21:34:00Z"
+      "count": 6,
+      "updated_at": "2026-06-30T23:52:36Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 13,
-      "updated_at": "2026-06-30T23:00:00Z"
+      "count": 9,
+      "updated_at": "2026-07-01T01:41:29Z"
     },
     {
       "key": "science",
