@@ -5,7 +5,7 @@
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
       "count": 16,
-      "updated_at": "2026-07-02T03:03:32Z"
+      "updated_at": "2026-07-02T06:44:04Z"
     },
     {
       "key": "space",
@@ -25,7 +25,7 @@
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 17,
+      "count": 14,
       "updated_at": "2026-07-06T00:00:00Z"
     },
     {
@@ -46,42 +46,42 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 12,
-      "updated_at": "2026-07-02T02:50:19Z"
+      "count": 14,
+      "updated_at": "2026-07-02T06:23:10Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
-      "count": 18,
-      "updated_at": "2026-07-02T01:01:17Z"
+      "count": 19,
+      "updated_at": "2026-07-02T04:58:48Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 18,
-      "updated_at": "2026-07-02T02:45:09Z"
+      "count": 19,
+      "updated_at": "2026-07-02T06:18:03Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 18,
-      "updated_at": "2026-07-01T23:59:28Z"
+      "count": 16,
+      "updated_at": "2026-07-02T06:18:03Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
       "count": 14,
-      "updated_at": "2026-07-02T03:03:32Z"
+      "updated_at": "2026-07-02T06:44:04Z"
     },
     {
       "key": "science",
       "label": "Science",
       "description": "Science research, discoveries, and institutions.",
-      "count": 19,
+      "count": 14,
       "updated_at": "2026-08-06T00:00:00Z"
     }
   ]
