@@ -1,8 +1,19 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-07-03T11:54:13Z",
+  "generated_at": "2026-07-03T15:27:52Z",
   "articles": [
+    {
+      "id": "51404d28a810a67e5dd60de9e5cadc9a5ea31e8fdff5a8b4a702ec8de31c9609",
+      "title": "C's pick up Queta's option, add $56M extension",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-07-03T14:56:33Z",
+      "summary": "The Celtics are picking up their option on center Neemias Queta for next season and are adding a four-year, $56 million extension, his agent Bill Duffy of WME Basketball tells ESPN's Shams Charania..",
+      "content": "<p>The Boston Celtics are signing center Neemias Queta to a fully guaranteed four-year, $56 million extension, his agent Bill Duffy of WME Basketball tells ESPN's Shams Charania.</p> <p>The Celtics picked up Queta's option for next season earlier this week before agreeing to the new extension with the 7-footer that keeps him under contract through the 2030-31 season.</p> <p>Queta, who turns 27 on July 13, had a breakout season for Boston, playing a vital role in the Celtics frontcourt while averaging 10.2 points and 8.4 rebounds and shooting over 65% from the field and blocking 1.3 shots per game in the first full-time starting role of his career.</p> <p>Queta manned the starting center role admirably for the Celtics after the departures of veteran big men Luke Kornet, Al Horford and Kristaps Porzingis. He started 75 of the 76 games he appeared in last season, averaging just over 25 minutes per game. He finished fourth in the NBA's Most Improved Player voting and received a handful of All-Defense votes, as well.</p> <p>Queta appeared in a total of 20 games for the Sacramento Kings over the first two seasons of his career, before signing a three-year deal with the Celtics that has now blossomed into his guaranteed deal.</p>",
+      "category": "nba",
+      "image": null
+    },
     {
       "id": "459b593dfb6cf33387244447addebdd449d6f78ee7d378394c5b2d00634f28ce",
       "title": "Sources: 76ers, with Brown on board, eye LeBron",
@@ -187,17 +198,6 @@
       "published_at": "2026-07-01T16:47:31Z",
       "summary": "Free agent guard Mike Conley Jr. has agreed to a one-year deal to sign with the Boston Celtics, sources told ESPN, with Conley becoming the 14th player to reach 20 NBA seasons.",
       "content": "<p>Free agent guard Mike Conley has agreed to a one-year deal to sign with the Boston Celtics, sources told ESPN.</p> <p>Conley becomes only the 14th player in NBA history to reach 20 seasons.</p> <p>Conley, 38, just finished his 19th NBA season. He is one of four players from the 2007 draft (Kevin Durant, Al Horford and Jeff Green) who are still active.</p> <p>Conley and his agents sifted through a handful of offers before informing Celtics brass of their decision Wednesday morning.</p> <p>Conley's production has steadily dipped in recent years. He averaged a career-low 4.5 points in a career-low 18.4 minutes in 54 games for the Timberwolves this past season but remained a valued leader in the locker room and a trusted break-in-case-of-emergency option in the playoffs.</p> <p>Minnesota actually traded Conley at the deadline to Chicago, shedding his full salary for tax purposes. The Bulls then repackaged him in a deal with Coby White to Charlotte. The Hornets cut him, freeing Conley up to re-sign with the Timberwolves for the remainder of the season.</p> <p>Conley was initially out of the rotation to open the playoffs but emerged as a needed piece after the injuries to Donte DiVincenzo and Anthony Edwards. Conley started five games and even had a critical 12-point, six-assist performance in a Game 1 road win in San Antonio.</p>",
-      "category": "nba",
-      "image": null
-    },
-    {
-      "id": "54f2248a652669f951ed460c3eecb72b8e01517f078f2c9cb9b4cc2c03e645dd",
-      "title": "Sources: Bids top $1B for clubs in NBA Europe",
-      "source": "ESPN - NBA",
-      "source_id": "espn_nba",
-      "published_at": "2026-07-01T03:25:15Z",
-      "summary": "The NBA has received finalized bids from more than 20 groups vying to participate in NBA Europe, a European basketball league it plans to launch in Oct. 2027, sources familiar with the negotiations told ESPN.",
-      "content": "<p>The NBA has received finalized bids from more than 20 groups vying to participate in NBA Europe, a European basketball league it plans to launch in October 2027, sources familiar with the negotiations told ESPN.</p> <p>The bidding process to become one of NBA Europe's 12 permanent franchises opened in February for prospective teams in major markets, including London, Manchester, Paris, Madrid, Barcelona, Berlin, Munich, Milan, Lyon, Rome, Athens and Istanbul. Viable groups submitted bids in all 12 target cities, sources said, with multiple bids topping $1 billion in select markets.</p> <p>NBA Europe, which the NBA is managing in conjunction with FIBA, basketball's global governing body, will challenge the existing EuroLeague as a high-level platform for teams across Europe. NBA Europe plans to launch with 16 teams -- 12 permanent clubs and four open spots that the NBA envisions filling via a promotion system. European teams could earn the right to compete in NBA Europe by winning a tournament composed of domestic league champions or by winning FIBA's Basketball Champions League.</p> <p>The 16 teams will compete in a round-robin regular season and a multi-round playoff format, which will culminate with a Finals.</p> <p>\"We're extremely encouraged by the final bids we received for permanent franchises in a new NBA and FIBA-backed league in Europe, which reflect the tremendous interest and momentum around this project,\" NBA deputy commissioner Mark Tatum said in a statement Tuesday. \"This will be the biggest influx of capital European basketball has ever seen, and we have clear frontrunners in each of our 12 target cities.\"</p> <p>The NBA's Board of Governors and FIBA will soon begin the process of selecting the winning bids, with franchises expected to be announced on a rolling basis. Several existing EuroLeague teams placed bids in hopes of joining the NBA's proposed European league in its first season, sources said.</p> <p>Sources familiar with the NBA's financial model and business plan said that NBA Europe's initial franchises could \"break even\" by their third season. The NBA's forecasts also anticipate a cumulative distribution of more than $10 billion across the European basketball ecosystem in its first decade via future franchise sales, outside investments, media rights agreements, ticket sales and merchandise.</p>",
       "category": "nba",
       "image": null
     }
