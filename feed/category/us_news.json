@@ -1,8 +1,19 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-07-04T02:07:37Z",
+  "generated_at": "2026-07-04T05:39:09Z",
   "articles": [
+    {
+      "id": "fd36c7f4cbba500d56319289eb61c080d487edbd8172f170bd9480c52ba0fadf",
+      "title": "3 dead and others rescued after boat capsizes on Wisconsin lake amid storms",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-07-04T03:54:03Z",
+      "summary": "Three people died and seven others were rescued after a boat capsized on a Wisconsin lake during a strong storm",
+      "content": "<h2>3 dead and others rescued after boat capsizes on Wisconsin lake amid storms</h2> <p>Three people died and seven others were rescued after a boat capsized on a Wisconsin lake during a strong storm</p> <p>LAKE GENEVA, Wis. -- Three people died and seven others were rescued Friday after a boat capsized in Geneva Lake as a strong storm passed through southern Wisconsin, an official said.</p> <p>Many injuries were reported in Wisconsin\u2019s Walworth County after the storm toppled trees, knocked down power lines and damaged buildings, said Tom Hausner, undersheriff for the Walworth County Sheriff\u2019s department.</p> <p>Hausner said he did not know any other information about the people who died and those rescued.</p> <p>Police in the city of Lake Geneva are investigating, Hausner said. Officials there didn\u2019t immediately respond to an email and voice message from The Associated Press seeking more information.</p> <p>Lake Geneva Mayor Todd Krause declared an emergency and said that one person had minor injuries after being struck by a falling tree. Several areas of the city were experiencing power outages, he said in a statement.</p> <p>Hausner said county authorities received multiple 911 calls reporting damage and people trapped in buildings and seeking help. He said deputies responded immediately but were delayed by downed power lines and trees blocking streets.</p> <p>\u201cPower lines are all over the place. We are urging people to stay away,\u201d he said.</p> <p>Hausner said his agency asked for help from law enforcement in nearby counties and the Wisconsin Department of Natural Resources.</p> <p>Geneva Lake, in southern Wisconsin, attracts tourists from the Chicago area and other parts. The population in Walworth County, where the lake is located, nearly doubles during holiday weekends, Hausner said.</p> <p>The storms that rolled through the Midwest on Friday afternoon and evening prompted multiple cities to cancel holiday festivals and reschedule fireworks displays.</p> <p>The National Weather Service issued a severe thunderstorm watch for Lake Geneva, Wisconsin, saying the forecast showed heavy rain Friday with lingering showers into Independence Day and a continued chance of showers and thunderstorms throughout the weekend.</p>",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
+    },
     {
       "id": "71813bcec1d884d7281719382f5619605eab01e153a7934e39d344502f7d5bcc",
       "title": "The co-owner of lumber mill has died of injuries from the mill fire and explosion",
@@ -134,17 +145,6 @@
       "content": "<h2>Man with a Tibetan flag dies after setting himself on fire in front of UN HQ</h2> <p>Officials say a man holding a Tibetan flag in front of the United Nations headquarters in New York set himself on fire and died</p> <p>NEW YORK -- A man holding a Tibetan flag in front of the United Nations headquarters in New York set himself on fire and died Thursday, according to officials.</p> <p>Law enforcement responded to a 911 call at about 6:30 p.m. and found a 52-year-old man with severe burns throughout his body, the New York Police Department said.</p> <p>The man was taken to the hospital and later pronounced dead, according to police.</p> <p>Authorities were investigating. Officials were not able to comment on what prompted the man to set himself on fire.</p> <p>___</p> <p>EDITOR\u2019S NOTE: This story includes discussion of suicide. If you or someone you know needs help, the national suicide and crisis lifeline in the U.S. is available by calling or texting 988.</p> <p>___</p> <p>The man's name has not been released because his family hasn\u2019t been notified yet.</p> <p>A U.N. spokesperson said the incident happened after all scheduled meetings were finished for the day and no U.N. business was affected.</p> <p>China says Tibet has been part of its territory for more than seven centuries, and its Communist Party has governed the Himalayan region since 1951. But many Tibetans say they were essentially independent for most of their history and have protested what they regard as Beijing's heavy-handed rule.</p> <p>There have been more than 150 self-immolations by Tibetans between 2009 and 2022, according to the International Campaign for Tibet.</p> <p>China does not recognize Tibet\u2019s government-in-exile, the Central Tibetan Administration, and it has not held dialogue with the Dalai Lama\u2019s representatives since 2010.</p>",
       "category": "us_news",
       "image": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_4x3t_384.jpg"
-    },
-    {
-      "id": "a8e29d4ce85c9d0b2d3f22bd6d2efdc4d8f12422b65ca86d7a4651ab6edf6f3b",
-      "title": "McConnell still hospitalized after EMS responded to his home last month",
-      "source": "CBS News \u2014 US",
-      "source_id": "cbs_us",
-      "published_at": "2026-07-02T22:00:03Z",
-      "summary": "A spokesperson said the Kentucky Republican \"continues to improve.\"",
-      "content": "<p>Washington \u2014 Sen. Mitch McConnell remains in the hospital and \"continues to improve,\" a spokesperson for the Kentucky Republican said in a statement Thursday, just over two weeks after he was initially hospitalized.</p> <p>McConnell was on June 14. On the same day, emergency medical personnel went to his home to respond to an unconscious person, according to reviewed by CBS News this week.</p> <p>During the call, a dispatcher called in a \"cardiac arrest\" and a medic said there was \"CPR in progress\" at McConnell's address. The dispatcher also said somebody was \"unconscious.\" The senator's name is not mentioned during the EMS call, and CBS News has not confirmed the identity of the unconscious person.</p> <p>McConnell's team has not confirmed that the dispatch call was about the senator or provided more information about why he was admitted to the hospital.</p> <p>\"Senator McConnell appreciates the outpouring of support he's receiving while he continues his recovery in the hospital,\" the spokesperson said in a statement Thursday. \"The Senator continues to improve, and is working closely with his staff on Kentucky and Senate matters while the Senate is out of session.\"</p> <p>McConnell, a childhood polio survivor, has faced several health scares in recent years. In a May 19 committee hearing, the 84-year-old was seen with a bandage around his hand. In February, McConnell in the hospital after he checked himself in for \"flu-like symptoms.\"</p> <p>In 2023, he was after a fall and later in two separate instances. He suffered in 2024 after another fall.</p>",
-      "category": "us_news",
-      "image": null
     }
   ]
 }
