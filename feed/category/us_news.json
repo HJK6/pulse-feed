@@ -1,8 +1,19 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-07-05T14:13:23Z",
+  "generated_at": "2026-07-05T17:47:58Z",
   "articles": [
+    {
+      "id": "d5a1b9dc8c827413ae99b659c770bddc0f5da4c18d8b829d66c214701265228d",
+      "title": "Fire up the grill for a yearly ritual: Communing over BBQ skills (or lack thereof)",
+      "source": "CBS News \u2014 US",
+      "source_id": "cbs_us",
+      "published_at": "2026-07-05T14:10:40Z",
+      "summary": "Do you have the \"right stuff\" when it comes to barbecuing? Lots of people believe they do, and they're more than happy to share their wisdom with you, even if unsolicited. Luke Burbank is not one of those people.",
+      "content": "<p>Well, it's summertime again, a chance for adults to kick back, kids to run through the sprinkler, and me to suffer my greatest yearly humiliation ritual: pretending I have any ability at all to operate the barbecue.</p> <p>Look, I'm a pretty lousy cook as it is, but most of the year you wouldn't know it, because I don't invite people over to stand around the stove and watch me boil pasta.</p> <p>Meanwhile, the barbecue \u2013 especially as a guy \u2013 has somehow been designated the entertainment for the afternoon.</p> <p>First, there's the analyzing of the meat. What has it been marinating in? And for how long? And let me guess, Gary, you've got an entirely different system that you use, that's worked out pretty well? You don't say!</p> <p>Then there's the grill itself. What kind of fuel are we using? Heaven forbid it's propane! Oh, how interesting, Dave, you like to burn tiny chips of hickory only found on the north slopes of the Canadian Rockies, because of the flavor it infuses?</p> <p>Well, we are going to go with charcoal! And the flavor of too much lighter fluid, since I don't really know how much to use.</p> <p>Then, there's the main event: the meat sitting over the flame. Are we getting a good sear? How long has it been on? When is it time to flip things? Oh, you would have flipped it much earlier, Bryce? But you're also good with me doing it my way, even though it's probably going to end up drying things out too much? Thank you for that.</p> <p>Look, if I wanted to cook performatively, I'd try out for \"Top Chef,\" or get a job at Benihana. I'm just a regular guy, at his house, trying to enjoy one to eight beers while not singeing off his eyebrows with an open fire pit I only operate a few times a year.</p> <p>You know, now that I think about it, why don't you guys take it from here? You seem to have a lot of \"opinions\" on the process.</p> <p>I'm going to grab beer #9 and see if that sprinkler is still going.</p> <p> <br>Story produced by Young Kim. Editor: Ed Givnish.</p> <p>Some more \"opinions\" for barbecuing:</p>",
+      "category": "us_news",
+      "image": null
+    },
     {
       "id": "d40bacd85f83767de30d4a98dd81eff3f923aba6fcd4570daab50bf4080f5631",
       "title": "Memorial service to honor firefighters killed on Colorado-Utah border",
