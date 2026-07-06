@@ -1,8 +1,30 @@
 {
   "key": "us_news",
   "label": "US News",
-  "generated_at": "2026-07-06T16:29:41Z",
+  "generated_at": "2026-07-06T20:06:47Z",
   "articles": [
+    {
+      "id": "cc6363b0ab0c0f0b9283f23fe5d351966b8883b542bf8bbf2d333bfea4f5f73a",
+      "title": "Supreme Court won't block state from enforcing age verification law for app downloads",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-07-06T19:59:29Z",
+      "summary": "The U.S. Supreme Court has declined to block Texas from enforcing a state law that requires age verification and parental consent for users seeking to download apps or make in-app purchases on mobile phones",
+      "content": "<h2>Supreme Court won't block state from enforcing age verification law for app downloads</h2> <p>The U.S. Supreme Court has declined to block Texas from enforcing a state law that requires age verification and parental consent for users seeking to download apps or make in-app purchases on mobile phones</p> <p>WASHINGTON -- The U.S. Supreme Court on Monday declined to block Texas from enforcing a state law that requires apps stores to verify users' ages and obtain parental consent for minors seeking to download apps or make in-app purchases on mobile phones.</p> <p>Justice Samuel Alito, in a pair of one-sentence orders, denied petitions by plaintiffs who claim that the Texas App Store Accountability Act violates users' constitutional rights to free speech.</p> <p>Last month, a three-judge panel from the 5th U.S. Circuit Court of Appeals ruled that the law can take effect. The panel suspended a district court's ruling last December that the law is unconstitutional.</p> <p>The plaintiffs suing to block the law include the Computer &amp; Communications Industry Association and Students Engaged in Advancing Texas. Texas Attorney General Ken Paxton is a defendant in both cases.</p> <p>Plaintiffs' lawyers argued that the law impermissibly seeks to limit access to content protected by the First Amendment, including news and educational material.</p> <p>\u201cEquity and the public interest support relief because protecting First Amendment rights \u2014 and parents\u2019 rights to supervise their children as they see fit, not as the government tells them they should \u2014 is always in the public interest,\u201d wrote attorneys for Students Engaged in Advancing Texas.</p> <p>Attorneys from Paxton's office argued that the law protects children from \u201cdangerous modern products.\u201d</p> <p>\u201cA child with access to an app store and a mobile device (such as a tablet or smartphone) can potentially download any number of software applications, potentially agreeing to invasions of the child\u2019s privacy and sale of the child\u2019s data and be exposed to any conceivable content without parental consent or even parental knowledge,\u201d they wrote.</p>",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_362137cccb26fc5f5dfbb71fb2b2f3db_4x3_384.jpg"
+    },
+    {
+      "id": "1337667d0ceb0a4035f5bc61ca66117a058e5920ebb3fe9e18fd4c9dbcbf11fb",
+      "title": "Former college basketball player Kerr Kriisa accused of fraud in $2.2M scheme",
+      "source": "ABC News \u2014 US Headlines",
+      "source_id": "abc_us",
+      "published_at": "2026-07-06T19:13:17Z",
+      "summary": "Former college basketball player Kerr Kriisa has been accused of fraudulently obtaining nearly $2.2 million from two victims",
+      "content": "<h2>Former college basketball player Kerr Kriisa accused of fraud in $2.2M scheme</h2> <p>Former college basketball player Kerr Kriisa has been accused of fraudulently obtaining nearly $2.2 million from two victims</p> <p>CLARKSBURG, W.Va. -- Former college basketball player Kerr Kriisa lied and posed as other people as part of a scheme through which he fraudulently obtained nearly $2.2 million from two victims, according to a federal indictment.</p> <p>A federal grand jury in West Virginia indicted Kriisa last month, and the case was unsealed Monday following his arrest by federal agents on Saturday in Kentucky. A 6-foot-3 guard from Estonia, Kriisa began his college career in 2020 at Arizona, where he became a fan favorite for his feistiness and long-range shooting.</p> <p>Kriisa, 25, is expected to appear in federal court in West Virginia this week on five counts of wire fraud, U.S. Attorney Matthew Harvey said.</p> <p>\u201cFinancial fraud schemes erode trust and cause real harm to victims who believed they were helping someone in need,\u201d Harvey said in a news release.</p> <p>Kriisa led the Pac-12 in assists during his two full seasons at Arizona before transferring to West Virginia. Kriisa was suspended the first nine games of his lone season at West Virginia after admitting he received impermissible benefits while at Arizona.</p> <p>Kriisa transferred to Kentucky in 2024, but was limited to nine games due to a foot injury. He transferred to Cincinnati for his final year of eligibility and started 12 games before suffering a separated shoulder in February.</p> <p>From 2022 through June 2 of this year, he posed as other people, including his own mother, and falsely claimed that he and his family urgently needed money to deal with an emergency, the indictment says.</p> <p>The indictment alleges that, in August 2022, Kriisa falsely told one victim that he had gotten a loan to repay her and then a few months falsely told her he planned to sell his organs to get money to repay her. Between 2022 and 2024, he contacted the same victim, posing as his own mother, and asked for money to pay for cancer treatments for his mother and to save the family's farm, the indictment says.</p> <p>In April 2025, he signed a written agreement falsely promising to repay that victim $100,000 by February 2026.</p> <p>From November 2025 through early February of this year, Kriisa repeatedly asked a second victim for money, sometimes posing as a made-up person named \u201cIrene.\u201d</p>",
+      "category": "us_news",
+      "image": "https://s.abcnews.com/images/US/wirestory_760a45fb5f193dda072c4080bf03d3f9_4x3_384.jpg"
+    },
     {
       "id": "ddbe6ba7d12acaa3c7cfd0abc07bcc8316c9703c82d8e574b7ec7b80d3a20929",
       "title": "Rebounds for AI stocks lift US indexes",
