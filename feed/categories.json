@@ -4,8 +4,8 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 19,
-      "updated_at": "2026-07-07T03:00:17Z"
+      "count": 14,
+      "updated_at": "2026-07-07T06:45:50Z"
     },
     {
       "key": "space",
@@ -18,7 +18,7 @@
       "key": "crypto",
       "label": "Crypto",
       "description": "Digital assets, blockchains, markets, and regulation.",
-      "count": 20,
+      "count": 19,
       "updated_at": "2026-08-06T00:00:00Z"
     },
     {
@@ -26,7 +26,7 @@
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
       "count": 16,
-      "updated_at": "2026-07-07T02:49:36Z"
+      "updated_at": "2026-07-07T06:33:34Z"
     },
     {
       "key": "nba",
@@ -46,22 +46,22 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 17,
-      "updated_at": "2026-07-07T02:50:50Z"
+      "count": 13,
+      "updated_at": "2026-07-07T06:27:23Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
-      "count": 18,
-      "updated_at": "2026-07-06T20:20:18Z"
+      "count": 19,
+      "updated_at": "2026-07-07T06:03:04Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
-      "count": 14,
-      "updated_at": "2026-07-07T02:51:48Z"
+      "count": 16,
+      "updated_at": "2026-07-07T06:27:56Z"
     },
     {
       "key": "us_news",
@@ -74,8 +74,8 @@
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 19,
-      "updated_at": "2026-07-07T03:09:59Z"
+      "count": 10,
+      "updated_at": "2026-07-07T06:47:07Z"
     },
     {
       "key": "science",
