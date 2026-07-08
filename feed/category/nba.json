@@ -1,8 +1,19 @@
 {
   "key": "nba",
   "label": "NBA",
-  "generated_at": "2026-07-08T12:19:05Z",
+  "generated_at": "2026-07-08T16:05:16Z",
   "articles": [
+    {
+      "id": "de8a290fe31e9275ca9a7ed21cf21b985ddc7da3b2c61f8ede3edd1b458d71ed",
+      "title": "Ex-ESPN writer Bontemps joins Hawks front office",
+      "source": "ESPN - NBA",
+      "source_id": "espn_nba",
+      "published_at": "2026-07-08T14:08:56Z",
+      "summary": "Former ESPN senior NBA writer Tim Bontemps has been hired for a front office role with the Atlanta Hawks.",
+      "content": "<p>Former ESPN senior NBA writer Tim Bontemps has been hired for a front office role with the Atlanta Hawks.</p> <p>Bontemps will be a strategic adviser for the Hawks. He will report to Atlanta president of basketball operations Onsi Saleh.</p> <p>Bontemps, 41, has covered the NBA since 2012, including the last eight seasons for ESPN.</p> <p>In recent years, Bontemps' coverage at ESPN focused on team strategy, player movement and league trends. In addition to contributing to ESPN's digital and television coverage, Bontemps was a co-host of \"The Hoop Collective\" podcast, where he became known for delivering insight in blunt fashion.</p> <p>Bontemps joined ESPN in 2018 after a three-year stint as the national NBA writer for The Washington Post. Bontemps' coverage focused on the Eastern Conference for his first several years at ESPN.</p> <p>After graduating from St. Bonaventure in 2007, Bontemps began his journalism career in an entry-level position at the New York Post. He earned a promotion in 2012 to be the Brooklyn Nets beat writer, a position he held for three years before leaving for The Washington Post.</p> <p>The Hawks went 46-36 and lost in the first round of the playoffs to the eventual champion New York Knicks last season, which was Saleh's first as the franchise's lead basketball executive. Saleh made several trades to reshape Atlanta's roster, most notably a midseason deal that sent four-time All-Star point guard Trae Young to the Washington Wizards for C.J. McCollum and Corey Kispert.</p>",
+      "category": "nba",
+      "image": null
+    },
     {
       "id": "dbd7dfe6fcf10fffa8caf7797ed7b0d3921849ba04b5621aee068c3027b512e3",
       "title": "2026 NBA summer league: Players to watch on all 30 teams",
@@ -209,17 +220,6 @@
       "published_at": "2026-07-03T18:54:18Z",
       "summary": "The Lakers are trading center Deandre Ayton to the Wizards for guard Jaden Hardy and a pair of future second-round picks, sources told ESPN's Shams Charania.",
       "content": "<p>The Los Angeles Lakers are trading center Deandre Ayton to the Washington Wizards for guard Jaden Hardy and two second-round picks in 2031 and 2032, sources told ESPN's Shams Charania on Friday.</p> <p>L.A., which agreed to a sign-and-trade with the Utah Jazz for center Walker Kessler earlier this week, will search for a backup big man on the market. Andre Drummond, Jonas Valanciunas and Kevon Looney are among those being considered, sources told Charania.</p> <p>The two second-round picks will help replenish the Lakers' long-term draft assets after the team parted with two future first-round picks and two future pick swaps in the Kessler deal.</p> <p>Washington will add Ayton to a big-man rotation featuring Alex Sarr, who was the No. 2 pick in the 2024 draft, and Anthony Davis, a 10-time All-Star. Sarr had surgery to repair a fracture in his right foot last month, and Ayton's presence will provide insurance for Washington's front line while Sarr recovers.</p> <p>Ayton joined L.A. after securing a buyout with the Portland Trail Blazers last summer. He played 72 games, starting all of them, and averaged 12.5 points on 67.1% shooting and 8.0 rebounds. He had a major impact on the Lakers' first-round postseason victory over the Houston Rockets, averaging 11.8 points on 60.4% shooting, 10.8 rebounds and 1.0 blocks in six games, but he was less effective in the second round when L.A. was swept by the Oklahoma City Thunder (7.3 points on 45.2% shooting, 7.8 rebounds).</p> <p>Washington could acquire Ayton into its $13.4 million Kelly Olynyk trade exception, which expires July 9, according to ESPN NBA front office insider Bobby Marks. If the Wizards do that, they will create a new $6 million exception.</p> <p>Hardy, 23, a former teammate of Luka Doncic's in Dallas, averaged 12.6 points on 44.3% shooting (42% from 3), 1.7 rebounds and 1.3 assists in 23 games after being traded to Washington last season. He has two years and $12 million remaining on his contract, with a team option for 2027-28.</p>",
-      "category": "nba",
-      "image": null
-    },
-    {
-      "id": "51404d28a810a67e5dd60de9e5cadc9a5ea31e8fdff5a8b4a702ec8de31c9609",
-      "title": "C's pick up Queta's option, add $56M extension",
-      "source": "ESPN - NBA",
-      "source_id": "espn_nba",
-      "published_at": "2026-07-03T14:56:33Z",
-      "summary": "The Celtics are picking up their option on center Neemias Queta for next season and are adding a four-year, $56 million extension, his agent Bill Duffy of WME Basketball tells ESPN's Shams Charania..",
-      "content": "<p>The Boston Celtics are signing center Neemias Queta to a fully guaranteed four-year, $56 million extension, his agent Bill Duffy of WME Basketball tells ESPN's Shams Charania.</p> <p>The Celtics picked up Queta's option for next season earlier this week before agreeing to the new extension with the 7-footer that keeps him under contract through the 2030-31 season.</p> <p>Queta, who turns 27 on July 13, had a breakout season for Boston, playing a vital role in the Celtics frontcourt while averaging 10.2 points and 8.4 rebounds and shooting over 65% from the field and blocking 1.3 shots per game in the first full-time starting role of his career.</p> <p>Queta manned the starting center role admirably for the Celtics after the departures of veteran big men Luke Kornet, Al Horford and Kristaps Porzingis. He started 75 of the 76 games he appeared in last season, averaging just over 25 minutes per game. He finished fourth in the NBA's Most Improved Player voting and received a handful of All-Defense votes, as well.</p> <p>Queta appeared in a total of 20 games for the Sacramento Kings over the first two seasons of his career, before signing a three-year deal with the Celtics that has now blossomed into his guaranteed deal.</p>",
       "category": "nba",
       "image": null
     }
