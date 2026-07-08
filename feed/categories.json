@@ -4,8 +4,8 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 15,
-      "updated_at": "2026-07-08T01:00:00Z"
+      "count": 13,
+      "updated_at": "2026-07-08T04:42:13Z"
     },
     {
       "key": "space",
@@ -18,22 +18,22 @@
       "key": "crypto",
       "label": "Crypto",
       "description": "Digital assets, blockchains, markets, and regulation.",
-      "count": 19,
+      "count": 18,
       "updated_at": "2026-08-06T00:00:00Z"
     },
     {
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 13,
-      "updated_at": "2026-07-08T00:56:31Z"
+      "count": 17,
+      "updated_at": "2026-07-08T04:33:48Z"
     },
     {
       "key": "nba",
       "label": "NBA",
       "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
       "count": 20,
-      "updated_at": "2026-07-07T21:39:08Z"
+      "updated_at": "2026-07-08T04:56:24Z"
     },
     {
       "key": "climate",
@@ -46,22 +46,22 @@
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 9,
-      "updated_at": "2026-07-08T00:44:59Z"
+      "count": 14,
+      "updated_at": "2026-07-08T04:22:56Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
-      "count": 18,
-      "updated_at": "2026-07-07T22:44:00Z"
+      "count": 19,
+      "updated_at": "2026-07-08T03:41:09Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
       "count": 16,
-      "updated_at": "2026-07-08T00:29:46Z"
+      "updated_at": "2026-07-08T04:26:16Z"
     },
     {
       "key": "us_news",
@@ -74,8 +74,8 @@
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 14,
-      "updated_at": "2026-07-08T01:00:00Z"
+      "count": 15,
+      "updated_at": "2026-07-08T04:43:23Z"
     },
     {
       "key": "science",
