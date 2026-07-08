@@ -4,78 +4,78 @@
       "key": "ai",
       "label": "AI",
       "description": "Artificial intelligence, machine learning, and model labs.",
-      "count": 17,
-      "updated_at": "2026-07-08T08:17:01Z"
+      "count": 14,
+      "updated_at": "2026-07-08T12:04:19Z"
     },
     {
       "key": "space",
       "label": "Space",
       "description": "Spaceflight, astronomy, satellites, and orbital debris.",
       "count": 20,
-      "updated_at": "2026-07-07T21:00:00Z"
+      "updated_at": "2026-07-08T12:00:00Z"
     },
     {
       "key": "crypto",
       "label": "Crypto",
       "description": "Digital assets, blockchains, markets, and regulation.",
-      "count": 18,
+      "count": 13,
       "updated_at": "2026-08-06T00:00:00Z"
     },
     {
       "key": "real_estate",
       "label": "Real Estate",
       "description": "Housing, mortgages, rent, REITs, and property markets.",
-      "count": 16,
-      "updated_at": "2026-07-08T08:15:50Z"
+      "count": 13,
+      "updated_at": "2026-07-08T12:00:00Z"
     },
     {
       "key": "nba",
       "label": "NBA",
       "description": "NBA news, teams, stars, playoffs, and Finals coverage.",
       "count": 20,
-      "updated_at": "2026-07-08T04:56:24Z"
+      "updated_at": "2026-07-08T11:49:15Z"
     },
     {
       "key": "climate",
       "label": "Climate",
       "description": "Climate change, emissions, energy transition, and extreme weather.",
-      "count": 20,
-      "updated_at": "2026-07-07T00:00:00Z"
+      "count": 19,
+      "updated_at": "2026-07-08T00:00:00Z"
     },
     {
       "key": "stocks",
       "label": "Stocks",
       "description": "Equities, indexes, IPOs, earnings, and market moves.",
-      "count": 15,
-      "updated_at": "2026-07-08T08:00:19Z"
+      "count": 11,
+      "updated_at": "2026-07-08T11:49:52Z"
     },
     {
       "key": "economy",
       "label": "Economy",
       "description": "Macroeconomics, rates, jobs, inflation, and policy.",
-      "count": 20,
-      "updated_at": "2026-07-08T05:56:00Z"
+      "count": 19,
+      "updated_at": "2026-07-08T11:34:58Z"
     },
     {
       "key": "world_affairs",
       "label": "World Affairs",
       "description": "Geopolitics, diplomacy, conflict, and sanctions.",
       "count": 15,
-      "updated_at": "2026-07-08T08:07:54Z"
+      "updated_at": "2026-07-08T11:30:04Z"
     },
     {
       "key": "us_news",
       "label": "US News",
       "description": "United States national and regional news.",
-      "count": 9,
-      "updated_at": "2026-07-08T07:30:34Z"
+      "count": 7,
+      "updated_at": "2026-07-08T11:30:00Z"
     },
     {
       "key": "technology",
       "label": "Technology",
       "description": "Broad technology industry news.",
-      "count": 17,
-      "updated_at": "2026-07-08T08:27:27Z"
+      "count": 15,
+      "updated_at": "2026-07-08T12:04:19Z"
     },
     {
       "key": "science",
